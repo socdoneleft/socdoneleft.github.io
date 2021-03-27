@@ -1,0 +1,223 @@
+/* root */
+:root {
+	--transparent: rgba(0, 0, 0, 0.0);
+	--gray_lightlight: rgba(240, 240, 240, 1);
+	--gray_lightlight: rgba(240, 240, 240, 1);
+	--gray_light: rgba(208, 208, 208, 1);
+	--gray_dark: rgba(144, 144, 144, 1);
+	--gray_darkdark: rgba(112, 112, 112, 1);
+	--gray_darkdarkdark: rgba(96, 96, 96, 1);
+	
+	--sans: "Open Sans";
+	--monospace: "Roboto Mono";
+	
+	--sidebar_left_size: 0%;
+	--sidebar_left_size_inv: calc(100% - var(--sidebar_left_size));
+	
+	--main_width_base: 80%;
+	--main_width: calc(var(--main_width_base) - var(--padding_default)*2);
+	--main_margin: calc((100% - var(--main_width_base)) / 2);
+	--main_width_responsive: calc(var(--main_width) - var(--sidebar_left_size));
+	--main_margin_left_responsive: calc(var(--main_margin) - var(--sidebar_left_size));
+	--main_margin_right_responsive: calc(var(--main_margin) + var(--sidebar_left_size));
+	
+	--fontsize_1: 28px;
+	--fontsize_2: 24px;
+	--fontsize_3: 20px;
+	--fontsize_4: 16px;
+	
+	--padding_default: 16px;
+	--padding_threehalf: calc(var(--padding_default) * 1.5);
+	--padding_half: calc(var(--padding_default) / 2);
+	
+	--image_width: 45%;
+	--sidebar_collapse_button_size: 36px;
+}
+
+/* elements */
+html {
+	overflow-wrap: break-word;
+	background-color: var(--gray_light);
+	font-family: var(--sans);
+}
+/* html * {
+	transition: all 0.2s ease-in;
+} */
+div, body, p, h1, h2, h3, h4, h5, img, blockquote, button, ul {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+h1, h2, h3, h4 {
+	padding: 0 0 var(--padding_default) 0;
+}
+div + h1, div + h2, div + h3, div + h4 {
+	padding: var(--padding_default) 0 var(--padding_default) 0;
+}
+h1 {
+	font-size: var(--fontsize_1);
+}
+h2 {
+	font-size: var(--fontsize_2);
+}
+h3 {
+	font-size: var(--fontsize_3);
+}
+h4 {
+	font-size: var(--fontsize_4);
+}
+p, button {
+	font-size: var(--fontsize_4);
+}
+ul {
+	padding: 0 0 var(--padding_default) var(--padding_threehalf);
+}
+ul:only-child {
+	padding: 0 0 0 var(--padding_default);
+}
+button {
+	border: none;
+	outline: none;
+}
+a, button {
+	cursor: pointer;
+}
+
+/* main */
+.main {
+	padding: var(--padding_default);
+	overflow-x: hidden;
+}
+
+/* sidebars */
+.fixed {
+	position: fixed;
+	top: 0%;
+	bottom: 0%;
+	left: 0%;
+	right: 0%;
+}
+.sidebar.main {
+	background-color: var(--gray_lightlight);
+	overflow-y: scroll;
+}
+.sidebar.main.active {
+	padding: 0%;
+	overflow-y: none;
+}
+.sidebar.collapse.holder {
+	background-color: var(--transparent);
+	pointer-events: none;
+	z-index: 2;
+}
+.sidebar.collapse.button {
+	position: relative;
+	top: 50%;
+	height: var(--sidebar_collapse_button_size);
+	width: var(--sidebar_collapse_button_size);
+	border-radius: 50%;
+	border: solid 1px var(--gray_lightlight);
+	background-color: var(--gray_dark);
+	color: white;
+	font-family: var(--monospace);
+	text-align: center;
+	pointer-events: auto;
+}
+.sidebar.option.button {
+	background-color: var(--gray_dark);
+	color: white;
+	padding: var(--padding_half);
+}
+
+/* sidebar left */
+.sidebar.left.main {
+	right: var(--sidebar_left_size_inv);
+}
+.sidebar.left.collapse.holder {
+	left: var(--sidebar_left_size);
+	right: calc(var(--sidebar_left_size_inv) - var(--sidebar_collapse_button_size));
+}
+.sidebar.left.collapse.holder.active {
+	left: calc(var(--sidebar_left_size) - var(--sidebar_collapse_button_size));
+	right: var(--sidebar_left_size_inv);
+}
+
+/* center */
+.center.main {
+	width: var(--main_width);
+	margin: 0 var(--main_margin) 0 var(--main_margin);
+	padding: var(--padding_default);
+	background-color: var(--gray_lightlight);
+}
+.center.main.responsive {
+	width: var(--main_width_responsive);
+	margin: 0 var(--main_margin_left_responsive) 0 var(--main_margin_right_responsive);
+}
+
+/* collapsibles */
+.collapsible {
+	background-color: var(--gray_dark);
+	color: white;
+	width: 100%;
+	font-family: var(--sans);
+	font-size: var(--fontsize_4);
+	padding: var(--padding_default);
+}
+.collapsible:after,
+.collapsible.active:after {
+	font-family: var(--monospace);
+	float: right;
+}
+.collapsible:after {
+	content: '+';
+}
+.collapsible.active:after {
+	content: "-";
+}
+.collapsible-content {
+	overflow: hidden;
+}
+
+/* descriptions */
+.description_text {
+	margin: 0 0 var(--padding_default) 0;
+	padding: var(--padding_default) var(--padding_default) 0 var(--padding_default);
+}
+.description_quote {
+	margin: var(--padding_default);
+	padding: var(--padding_default);
+	background-color: var(--gray_light);
+}
+.description_gallery {
+	text-align: center;
+	vertical-align: text-top;
+}
+.description_image {
+	max-width: var(--image_width);
+	padding: 0 var(--padding_default) var(--padding_default) 0;
+}
+
+/* button formatting -- not sure why must include so many cases??? */
+button:hover,
+.sidebar.button:hover,
+button.active,
+.sidebar.button.active {
+	background-color: var(--gray_darkdark);
+}
+.button.active:hover {
+	background-color: var(--gray_darkdarkdark);
+}
+.buttonrow + .buttonrow {
+	padding: var(--padding_default) 0 0 0;
+}
+
+/* links */
+.plainlink {
+	text-decoration: none;
+	color: black;
+}
+
+/* hide elements */
+.invisible {
+	display: none;
+}
