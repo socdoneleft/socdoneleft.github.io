@@ -1443,7 +1443,7 @@ PISA results 2015: <https://read.oecd-ilibrary.org/education/pisa-2015-results-v
 
 # spending: total
 the US does not spend more on primary and secondary education expected by GDP per capita: <https://nces.ed.gov/programs/coe/indicator_cmd.asp> https://cdn.discordapp.com/attachments/418850379518705675/730198142863016046/unknown.png
-the US does not spend more on primary and secondary education expected by GDP per capita: <https://nces.ed.gov/programs/coe/indicator_cmd.asp> https://cdn.discordapp.com/attachments/418850379518705675/730198129823056003/unknown.png
+the US does spend more on postsecondary education expected by GDP per capita: <https://nces.ed.gov/programs/coe/indicator_cmd.asp> https://cdn.discordapp.com/attachments/418850379518705675/730198129823056003/unknown.png
 
 # spending: progressive
 accounting for all funding streams, 47 of 50 US states have net progressive education spending: <http://apps.urban.org/features/school-funding-do-poor-kids-get-fair-share/> https://cdn.discordapp.com/attachments/418850379518705675/563588856864309268/unknown.png
