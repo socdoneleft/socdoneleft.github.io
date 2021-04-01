@@ -4329,6 +4329,12 @@ index page: <https://www.spp.gov.cn/spp/gzbg/index.shtml> <https://archive.vn/OG
 2018: 1056616 criminal arrests, 1692846 criminal indictments: <https://www.spp.gov.cn/spp/gzbg/201903/t20190319_412293.shtml> <https://archive.vn/m3Fxu> """年来，全国检察机关忠实履行宪法法律赋予的法律监督职责，共批准逮捕各类犯罪嫌疑人1056616人，提起公诉1692846人，同比分别下降2.3%和0.8%[。]""""""In the past year, procuratorial organs across the country have faithfully performed their legal supervision duties under the Constitution and laws, approving the arrest of 1,056,616 suspects of various types and prosecuting 1,692,846 people, a year-on-year decrease of 2.3% and 0.8% respectively[.]"""
 ^ the above implies the following results for 2017: criminal arrests 1081490 = 1056616 / 0.977; criminal indictments 1706497 = 1692846 / 0.992
 2019: 935432 criminal arrests, 1413742 criminal indictments: <https://www.spp.gov.cn/spp/gzbg/202006/t20200601_463798.shtml> <https://archive.vn/yPFJt> """其中，审查逮捕案件935432件，审查起诉案件1413742件[。]""""""Among them, 935,432 arrest cases were reviewed, 1413742 were reviewed and prosecuted."""
+
+# state publications: tibet
+index page: <http://www.xz.jcy.gov.cn/jwgk/gzbg/>
+2019: <http://www.xz.jcy.gov.cn/jwgk/gzbg/202002/t20200211_2771192.shtml>
+2018: <http://www.xz.jcy.gov.cn/jwgk/gzbg/201903/t20190301_2501903.shtml>
+2013-2017: <http://www.xz.jcy.gov.cn/jwgk/gzbg/201806/t20180625_2243807.shtml> 
 #####c
 #####c
 
