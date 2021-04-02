@@ -4298,7 +4298,7 @@ CHRD 2018: despite making up just ~1.6% of the Chinese population, fifth of all 
 Grayzone 2018: CHRD is headquartered in Washington, DC and funded by the National Endowment for Democracy: <https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/> "CHRD’s 2015 form 990 discloses that $819,553 of its $820,023 revenue that year (99.94 percent) came from government grants. A measly $395 came from investments, with another $75 from other sources."
 
 # census data
-2010 census: Xinjiang made up 1.63% of China's population in 2010 and 1.52% in 2000: <https://web.archive.org/web/20131114021725/http:/www.stats.gov.cn/english/newsandcomingevents/t20110429_402722516.htm> https://cdn.discordapp.com/attachments/742557921849901077/813925407707365386/unknown.png
+2010 census: Xinjiang made up 1.63% of China's population in 2010 and 1.52% in 2000; Tibet 0.21% in 2000 and 0.22% in 2010; Inner Mongolia 1.88% and 1.84%: <https://web.archive.org/web/20131114021725/http:/www.stats.gov.cn/english/newsandcomingevents/t20110429_402722516.htm> https://cdn.discordapp.com/attachments/742557921849901077/813925407707365386/unknown.png
 
 # state publications: xinjiang
 index page: <http://www.xj.jcy.gov.cn/jwgk/gzbg/>
@@ -4332,9 +4332,10 @@ index page: <https://www.spp.gov.cn/spp/gzbg/index.shtml> <https://archive.vn/OG
 
 # state publications: tibet
 index page: <http://www.xz.jcy.gov.cn/jwgk/gzbg/>
-2019: <http://www.xz.jcy.gov.cn/jwgk/gzbg/202002/t20200211_2771192.shtml>
-2018: <http://www.xz.jcy.gov.cn/jwgk/gzbg/201903/t20190301_2501903.shtml>
-2013-2017: <http://www.xz.jcy.gov.cn/jwgk/gzbg/201806/t20180625_2243807.shtml> 
+2019: 1635 criminal arrests and 2616 criminal indictments: <http://www.xz.jcy.gov.cn/jwgk/gzbg/202002/t20200211_2771192.shtml> """共批准（决定）逮捕各类涉嫌犯罪1150 件1635人，提起公诉1818件2616人，同比分别上升40.8%和52.2%。""""""A total of 1635 people were arrested for 1150 suspected crimes, and 2616 persons were prosecuted for 1818 suspected crimes, representing a year-on-year increase of 40.8% and 52.2% respectively."""
+2018: 1414 criminal arrests and 1752 criminal indictments: <http://www.xz.jcy.gov.cn/jwgk/gzbg/201903/t20190301_2501903.shtml> """共批捕各类刑事犯罪1414人，起诉1752人[。]""""""A total of 1414 people were arrested for various criminal offences and 1752 people were prosecuted[.]"""
+2013-2017: 6966 criminal arrests, 8364 criminal prosecutions: <http://www.xz.jcy.gov.cn/jwgk/gzbg/201806/t20180625_2243807.shtml> """五年共批准逮捕刑事犯罪嫌疑人6966人、起诉8364人。""""""In five years, a total of 6966 criminal suspects were arrested and 8364 were prosecuted."""
+http://news.ts.cn
 #####c
 #####c
 
