@@ -7645,7 +7645,7 @@ fox news edited out booing at two trump events: <https://www.businessinsider.com
 #####o
 
 #####
-# military recruitment not biased towards poor, nonwhites / poverty draft
+# military recruitment not biased towards poor, nonwhite people / poverty draft
 #####o
 # recruitment: supply-side
 military recruitment head notes student debt key to beating recruitment goals: <https://www.vice.com/en_us/article/ne833d/the-army-beat-its-recruitment-goals-this-year-by-targeting-students-in-debt> https://cdn.discordapp.com/attachments/418850379518705675/703963565345996880/1_recruitment_debt.png
@@ -7658,7 +7658,7 @@ the most common reasons 16-21 year-olds cite for considering joining the US mili
 #####c
 
 #####
-# military representation not biased towards poor, nonwhites / poverty draft
+# military representation not biased towards poor, nonwhite people / poverty draft
 #####o
 # representation: income
 Yung Neocon: https://twitter.com/yungneocon/status/1254313640930533379
@@ -7681,7 +7681,7 @@ military standards: high school education, no major medical conditions, no drug 
 #####c
 
 #####
-# military fatalities not biased towards poor, nonwhites
+# military fatalities not biased towards poor, nonwhite people
 #####o
 # fatalities: perspective
 only .5% of the population has served active duty: <https://www.pewresearch.org/fact-tank/2012/02/02/large-military-civilian-gap-among-young-americans/> https://cdn.discordapp.com/attachments/418850379518705675/709072461500776478/3_pew.png
@@ -7850,8 +7850,8 @@ the public consistently believes that crime is going up even when it's not: <htt
 # generation z
 #####o
 # racism declining
-2019 HarrisX poll: 62% of white respondents believe that whites are discriminated against in America to "any extent"; just 31% of Gen Z believe this: <https://thehill.com/hilltv/what-americas-thinking/433270-poll-republicans-and-democrats-differ-strongly-on-whether-white> https://cdn.discordapp.com/attachments/418850379518705675/573676285100818432/unknown.png
-younger Republicans are much more likely (2x) to say that "blacks aren't treated fairly": 2018 Pew Poll: <http://www.people-press.org/2018/03/01/the-generation-gap-in-american-politics/> https://cdn.discordapp.com/attachments/418850379518705675/640927629251313674/PSDT_1.png
+2019 HarrisX poll: 62% of white respondents believe that "whites are discriminated against in America to any extent"; just 31% of Gen Z believe this: <https://thehill.com/hilltv/what-americas-thinking/433270-poll-republicans-and-democrats-differ-strongly-on-whether-white> https://cdn.discordapp.com/attachments/418850379518705675/573676285100818432/unknown.png
+2018 Pew Poll: younger Republicans are much more likely (2x) to say that "blacks are treated less fairly than whites": <http://www.people-press.org/2018/03/01/the-generation-gap-in-american-politics/> https://cdn.discordapp.com/attachments/418850379518705675/640927629251313674/PSDT_1.png
 2017 PPRI poll: <https://www.prri.org/research/mtv-culture-and-religion/> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Survey-Report-FINAL.pdf> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Topline-FINAL.pdf> favorable views of Trump: 35% white young people, 46% white people; white people experience discrimination as serious as discrimination against other groups: 36% white young people, 55% white people
 
 # good polls
