@@ -36,6 +36,7 @@ function sidebarCollapse(MouseEvent, side) {
 	target.html(["-", "+"][active]);
 	$(":root").css("--sidebar_" + side + "_size", ["min(100%, 500px)", "0%"][active]);
 	$(".sidebar." + side + ".main,.sidebar." + side + ".collapse.holder").toggleClass("active");
+	$(".sidebar." + side + ".main").toggleClass("invisible");
 }
 $(".sidebar.left.collapse.button").on("click", (MouseEvent) => sidebarCollapse(MouseEvent, "left"));
 
@@ -58,21 +59,3 @@ $("#100width").on("click", (MouseEvent) => changeMainWidth(MouseEvent, "100%"));
 $("#80width").on("click", (MouseEvent) => changeMainWidth(MouseEvent, "80%"));
 $("#60width").on("click", (MouseEvent) => changeMainWidth(MouseEvent, "60%"));
 $("#40width").on("click", (MouseEvent) => changeMainWidth(MouseEvent, "40%"));
-
-/* change main width type */
-function changeMainWidthType(MouseEvent, type) {
-	target = $(MouseEvent.target);
-	active = target.hasClass("active") + 0;
-	if (!(active)) {
-		$(".center.main").toggleClass("responsive");
-		$("#fixwidth,#reswidth").each(function(index){
-			if (this === target.get(0)) {
-				$(this).addClass("active");
-			} else {
-				$(this).removeClass("active");
-			}
-		});
-	}
-}
-$("#fixwidth").on("click", (MouseEvent) => changeMainWidthType(MouseEvent, "fixed"));
-$("#reswidth").on("click", (MouseEvent) => changeMainWidthType(MouseEvent, "responsive"));
