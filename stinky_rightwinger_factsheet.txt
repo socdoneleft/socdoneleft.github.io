@@ -3362,6 +3362,7 @@ Chen 2019: Racial Disparities in Voting Wait Times: Evidence from Smartphone Dat
 #####
 # racial discrimination and social determinants of health
 #####o
+Kioumourtzoglou et al 2016: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748718/> <https://journals.lww.com/epidem/Fulltext/2016/03000/PM2_5_and_Mortality_in_207_US_Cities__Modification.9.aspx> <https://sci-hub.se/10.1097/EDE.0000000000000422> <https://cdn.discordapp.com/attachments/742557921849901077/982327963645247488/kioumourtzoglou2015.pdf>
 Qian et al 2017: <https://www.nejm.org/doi/full/10.1056/nejmoa1702747> 
 #####c
 
