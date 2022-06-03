@@ -8,46 +8,39 @@
 #####o
 
 #####
-# instructions
+# read me
 #####o
-* The SRF is a sheet of facts that you can throw at stinky right-wingers (and other stinky ideologies)
-* Click the "+" button on the left to open the sidebar, which has a Table of Contents and options
+* The SRF is a sheet of facts that you can throw at stinky right-wingers and other stinky ideologies
+* On the left border: Click the (+) button to open the sidebar, which has options and a Table of Contents (TOC)
+* In sections below: Click the gray title bar to expand a given study
 * Images only load after opening a collapsible, so "Open all" may take a while!
-* If you appreciate this sheet, check "Shameless Plugs"
-* {{count}}
-* shortcut URL: <https://socdoneleft.github.io/srf>
-* HTML format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.html>
-* text format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.txt>
+* If you appreciate this sheet, please support me on Patreon <https://patreon.com/socdoneleft> or follow me elsewhere https://allmylinks.com/socdoneleft
 #####c
 
 #####
-# shameless plugs
+# other worthwhile factsheets
 #####o
-* give me money: <https://patreon.com/socdoneleft>
-* sub my youtube: <https://youtube.com/c/SocialismDoneLeft>
-* join my discord: <https://discord.gg/rwPnKEbJx7>
-* follow my twitter: <https://twitter.com/socdoneleft>
-* follow my twitch: <https://twitch.tv/socdoneleft>
-#####c
-
-#####
-# other factsheets
-#####o
-# other high-quality factsheets
-* Left-Libertarian Mega Document: <https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit>>
+# lists of factsheets
 * Fact Sheet List by SoopaKhell: <https://www.factsheetlist.xyz/>
-* Research Outline by Riley Grace Roshong: <https://drive.google.com/file/d/1BRV3U0HHE40XlgFoM2wlzeb6vqjTgYms/view>
-* Lefty Fact Sheet by Naturea: <https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit>
-* Source Library by NB419: <https://tinyurl.com/thesourcelibrary>
+
+# broad-category factsheets (like this one)
 * Ultimate Research Document by Vaush: <https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit>
+* Source Library by NB419: <https://tinyurl.com/thesourcelibrary>
+
+# socialist and socdem economics factsheets
+* Left-Libertarian Mega Document: <https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit>>
+* Lefty Fact Sheet by Naturea: <https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit>
+* #1 Economic Fact Sheet™ by sock dem: <https://docs.google.com/document/d/1stqf0RzJgB0X0boOWg8PoXAvm2edATdsJhttQ6AxIyM/edit>
+
+# social issue factsheets
+* Research Outline by Riley Grace Roshong: <https://drive.google.com/file/d/1BRV3U0HHE40XlgFoM2wlzeb6vqjTgYms/view>
 * TERF Rebuttals SuperDoc by Jangles Sciencelad: <https://docs.google.com/document/d/1Cx2skhMH-WhVi0VmoW-TQfZ-hbOBupAnsREmZfSAAoI/edit>
 * Systemic Racism Factsheet by Rose Wrist and Left Ty: <https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec/edit>
-* #1 Economic Fact Sheet™ by sock dem: <https://docs.google.com/document/d/1stqf0RzJgB0X0boOWg8PoXAvm2edATdsJhttQ6AxIyM/edit>
 * Research Document To End All Research Documents by Liberal Sanity Project: <https://docs.google.com/document/d/13gzCsOG3Fr-HGkSlB1wreI1qdn3ccnrddyxmRKnm9eg/edit
 #####c
 
 #####
-# other resources to aid research
+# resources to empower your research
 #####o
 # access scientific articles
 * Google Scholar: <https://scholar.google.com/> (legal; click "all versions" and try each)
@@ -77,15 +70,12 @@
 * Copy All URLs: <https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk> (don't lose tabs; copy and paste multiple URLs)
 * Multiple Tab Search: <https://chrome.google.com/webstore/detail/multiple-tabs-search/mhbpfljoihafefdodgklimejeacejnde> (search many terms at once, around 20 you'll hit captcha)
 * Simple Mass Downloader: <https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed> (downloads many tabs at once)
-* VietOCR: <https://sourceforge.net/projects/vietocr/> (convert image to text with optical character recognition in many languages, great for Google Books)
-#####c
+* VietOCR: <https://sourceforge.net/projects/vietocr/> (quickly copy-paste convert image to text with optical character recognition in many languages, great for Google Books)
 
-#####
-# instructions for notepad++
-#####o
-# collapsible sections
-* Setup: [1] language > define your language [2] folding in comment style: open "#####o" close "#####c" [3] save as X [4] language > select X
-* Use: [1] Click +/- symbols [2] View > Fold all
+# useful URLs for this factsheet
+* shortcut URL: <https://socdoneleft.github.io/srf>
+* HTML format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.html>
+* text format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.txt>
 #####c
 
 #####
@@ -141,41 +131,38 @@ Spufford 2012: Red Plenty: fictionally reviews the failure of the USSR to adopt 
 #####c
 
 #####
-# youtuber recommendations
+# youtuber / podcaster recommendations
 #####o
-# good for new leftists
-Innuendo Studios: socialist, mostly cultural analysis: <https://www.youtube.com/channel/UC5fdssPqmmGhkhsJi4VcckA>
-Three Arrows: socialist, mostly historical analysis: <https://www.youtube.com/channel/UCCT8a7d6S6RJUivBgNRsiYg>
-Shaun: socialist, wide variety of videos: <https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ>
-Riley Grace Roshong: socdem, mostly social-left issues: <https://www.youtube.com/channel/UC72V_10TPhNUkJMdy5HMAEg>
-hbomberguy: socialist, mostly cultural analysis: <https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ>
+# socialists: current affairs
+Innuendo Studios: socialist, mostly current affairs: <https://www.youtube.com/channel/UC5fdssPqmmGhkhsJi4VcckA>
 
+# socialists: historical discussions
+Three Arrows: socialist, mostly historical discussions: <https://www.youtube.com/channel/UCCT8a7d6S6RJUivBgNRsiYg>
+donoteat01: socialist, mostly historical discussions: <https://www.youtube.com/channel/UCFdazs-6CNzSVv1J0a-qy4A>
+
+# socialists: theoretical discussions
+Srsly Wrong: socialist, wide theoretical analysis: <https://www.youtube.com/channel/UCam_6nCM4Yd-zmAOz6IYLNg>
+Halim Alrah: socialist, mostly theoretical analysis: <https://www.youtube.com/channel/UCGog4JPn5-W3_XIKccENysg
+Cuck Philosophy: socialist, mostly theoretical analysis: <https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg>
+Paul Cockshott: socialist, mostly theoretical analysis: <https://www.youtube.com/channel/UCVBfIU1_zO-P_R9keEGdDHQ>
+
+# socialists: cultural discussions
+hbomberguy: socialist, mostly cultural discussions: <https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ>
+José: socialist, mostly cultural discussions: <https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w>
+The Moa: socialist, mostly cultural discussions: <https://www.youtube.com/channel/UCSQHoO6ByppH6Ldr0pdytFA>
+Contrapoints: socialist, mostly cultural discussions: <https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA>
+PhilosophyTube: socialist, mostly cultural discussions: <https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ>
+Folding Ideas: socialist, mostly cultural discussions: <https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ>
+
+# social democrats (socdems)
 LastWeekTonight: socdem, mostly current affairs: <https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ>
-Paul Cockshott: socialist, mostly theoretical issues: <https://www.youtube.com/channel/UCVBfIU1_zO-P_R9keEGdDHQ>
-Knowing Better: socdem, wide variety of videos: <https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA>
-José: socialist, mostly cultural analysis: <https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w>
-Internet Comment Etiquette: lefty, mostly memes: <https://www.youtube.com/channel/UCyWDmyZRjrGHeKF-ofFsT5Q>
-Alexander Tersakian: socdem, mostly current affairs: <https://www.youtube.com/channel/UC-wwX_sQLi2c5QZ6-xE2VKw>
-Cuck Philosophy: socialist, mostly theoretical issues: <https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg>
-C0nc0rdance: progressive, "skeptic" style channel: <https://www.youtube.com/channel/UCPFnHiJx1P9UY05_F9sOu1g>
-donoteat01: socialist, mostly urban planning: <https://www.youtube.com/channel/UCFdazs-6CNzSVv1J0a-qy4A>
-
-The Moa: socialist, mostly cultural analysis: <https://www.youtube.com/channel/UCSQHoO6ByppH6Ldr0pdytFA>
-Contrapoints: socialist, mostly cultural analysis: <https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA>
-PhilosophyTube: socialist, mostly cultural analysis: <https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ>
-Folding Ideas: socialist, mostly cultural analysis: <https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ>
-Srsly Wrong: socialist, wide variety of videos: <https://www.youtube.com/channel/UCam_6nCM4Yd-zmAOz6IYLNg>
 Robert Reich: socdem, mostly current affairs: <https://www.youtube.com/channel/UCuDv5p8E-evaRSh542hDV5g>
-Halim Alrah: socialist, mostly summaries of theory: <https://www.youtube.com/channel/UCGog4JPn5-W3_XIKccENysg
-#####c
+Knowing Better: socdem, mostly historical analysis: <https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA>
+Internet Comment Etiquette: socdem, mostly current affairs: <https://www.youtube.com/channel/UCyWDmyZRjrGHeKF-ofFsT5Q>
 
-#####
-# format
-#####o
-# all srf evidence is (or should be) formatted as follows
-lastname year: {"tag": short description of study}: <source_url1> <source_url2> <...> image_url {"details": additional details necessary to quickly understand study, such as sample size, methodology, limitations}
-# example
-Killingsworth 2021: increased income correlates with increased happiness with diminishing returns (each doubling of income only increases happiness linearly; example: happiness gain from $30k/yr to $60k/yr is same as from $240k/yr to $480k/yr) and with no inflection point (there is no point at which happiness gains drop off): <https://www.pnas.org/content/118/4/e2016976118> <http://sci-hub.se/10.1073/pnas.2016976118> <https://cdn.discordapp.com/attachments/742557921849901077/801686919540375582/killingsworth2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/801687076960731166/F1.png
+# progressive liberals (proglibs)
+C0nc0rdance: ProgLib, mostly current affairs: <https://www.youtube.com/channel/UCPFnHiJx1P9UY05_F9sOu1g>
+Riley Grace Roshong: ProgLib, mostly social-left issues: <https://www.youtube.com/channel/UC72V_10TPhNUkJMdy5HMAEg>
 #####c
 #####c
 
@@ -194,26 +181,28 @@ Killingsworth 2021: increased income correlates with increased happiness with di
 #####o
 
 #####
-# empirics of democracy
+# scope of democracy
 #####o
 # over time
-polity iv: democracy has greatly increased over time: <https://ourworldindata.org/democracy> https://cdn.discordapp.com/attachments/418850379518705675/619647632515530774/unknown.png
+V-DEM metric: democracy (a complex and large number of metrics, broadly encompassing access to power, competition for power, and democratic-liberal freedoms) has greatly increased over time: <https://ourworldindata.org/grapher/share-democracies-row?country=~OWID_WRL> https://cdn.discordapp.com/attachments/742557921849901077/982131305028386857/unknown.png
+POLITY-4: metric: democracy (defined as open political competition for the executive & legislative & judicial power in a country) has greatly increased over time: <https://ourworldindata.org/democracy> https://cdn.discordapp.com/attachments/418850379518705675/619647632515530774/unknown.png
 
 # over space
+V-DEM metric: democracy (see above) is concentrated among high- and middle-income countries, especially in the Americas, Europe, Southern Africa, East Asia, and Oceania: <https://ourworldindata.org/grapher/political-regime> https://cdn.discordapp.com/attachments/742557921849901077/982131634738442310/unknown.png
 economist democracy index (flawed metric) by country: <https://en.wikipedia.org/wiki/Democracy_Index> https://cdn.discordapp.com/attachments/418850379518705675/573652776664432690/unknown.png
 #####c
 
 #####
 # effects of democracy
 #####o
-# democracy reduces civilian killings and democide
-strong democracies and strong civil rights result in many, many fewer killings by the government: <http://journals.sagepub.com/doi/abs/10.1177/0022002795039001001> <http://sci-hub.se/10.1177/0022002795039001001> <https://cdn.discordapp.com/attachments/418850379518705675/758088118711615499/rummel1995.pdf> https://cdn.discordapp.com/attachments/418850379518705675/457375618007302144/unknown.png
+# civil rights: democracy reduces civilian killings and democide
+Rummel 1995: using a bad metric of democracy, strong democracies and strong civil rights correlate with many times fewer killings by the government: <http://journals.sagepub.com/doi/abs/10.1177/0022002795039001001> <http://sci-hub.se/10.1177/0022002795039001001> <https://cdn.discordapp.com/attachments/418850379518705675/758088118711615499/rummel1995.pdf> https://cdn.discordapp.com/attachments/418850379518705675/457375618007302144/unknown.png
 
-# democracy increases economic growth
-democracy increases economic growth: countries that transition to democracy see substantially higher growth afterward: <http://www.nber.org/papers/w20004.pdf> <https://www.journals.uchicago.edu/doi/full/10.1086/700936> <https://cdn.discordapp.com/attachments/418850379518705675/758088115549241444/acemoglu2018.pdf> https://cdn.discordapp.com/attachments/418850379518705675/488749449565306892/unknown.png """Our index of democracy combines information from several datasets, including Freedom House and Polity IV, and only codes a country as democratic when several sources agree. The full construction of our measure is explained in detail in the Appendix, and we just provide an overview here. We code our dichotomous measure of democracy in country c at time t, Dct, as follows. First, we code a country as democratic during a given year if: Freedom House codes it as “Free”, or “Partially Free” and it receives a positive Polity IV score."""
+# economics: democracy increases economic growth
+Acemoglu 2018: democracy increases economic growth: countries that transition to democracy see substantially higher growth afterward: <http://www.nber.org/papers/w20004.pdf> <https://www.journals.uchicago.edu/doi/full/10.1086/700936> <https://cdn.discordapp.com/attachments/418850379518705675/758088115549241444/acemoglu2018.pdf> https://cdn.discordapp.com/attachments/418850379518705675/488749449565306892/unknown.png """Our index of democracy combines information from several datasets, including Freedom House and Polity IV, and only codes a country as democratic when several sources agree. The full construction of our measure is explained in detail in the Appendix, and we just provide an overview here. We code our dichotomous measure of democracy in country c at time t, Dct, as follows. First, we code a country as democratic during a given year if: Freedom House codes it as “Free”, or “Partially Free” and it receives a positive Polity IV score."""
 
-# democracy is stable
-consistent democracies and consistent autocracies are about equally stable; mixed systems are much less stable: <http://www.systemicpeace.org/polity/PTfig03.htm> https://cdn.discordapp.com/attachments/418850379518705675/703242488252727338/P4InstabOnset2006x.png
+# stability: both autocracy and democracy are stable government forms
+POLITY-5: consistent democracies and consistent autocracies are about equally stable; mixed systems are much less stable: <http://www.systemicpeace.org/polity/PTfig03.htm> <https://archive.ph/xnbRJ> https://cdn.discordapp.com/attachments/418850379518705675/703242488252727338/P4InstabOnset2006x.png
 #####c
 
 #####
