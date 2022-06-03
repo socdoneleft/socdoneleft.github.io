@@ -5473,9 +5473,55 @@ Sabol 2020: xxx: <https://online.ucpress.edu/fsr/article-abstract/32/3/153/10932
 #####c
 
 #####
+# donald trump
+#####o
+# bad economics: overall
+there's no evidence that trump has affected the economy positively or negatively: <https://voxeu.org/article/stable-genius-estimating-trump-effect-us-economy> https://cdn.discordapp.com/attachments/418850379518705675/640985796018700288/shularick18jlyfig1.png
+
+# bad economics: debt
+^ context: before Trump, most US debt came from the Bush tax cuts and Bush wars: <https://www.cbpp.org/blog/tax-cuts-and-wars-will-continue-to-fuel-debt-through-the-decade> https://cdn.discordapp.com/attachments/418850379518705675/641996852409008168/3-1-13bud.png
+
+# bad economics: tax bill / tax cut
+83% of the benefits of the Trump tax bill will go to the top 1%: <https://www.taxpolicycenter.org/publications/distributional-analysis-conference-agreement-tax-cuts-and-jobs-act> https://cdn.discordapp.com/attachments/418850379518705675/542388160156401674/tpc1.png
+
+# bad economics: bad trade policy
+each of trump's tariffs increased import prices by between 5% and 25%: <https://www.princeton.edu/~reddings/papers/CEPR-DP13564.pdf> https://cdn.discordapp.com/attachments/418850379518705675/571381550395031571/unknown.png Overall, using standard economic methods, we find that the full incidence of the tariff falls on domestic consumers, with a reduction in U.S. real income of $1.4 billion per month by the end of 2018. We also see similar patterns for foreign countries who have retaliated against the U.S., which indicates that the trade war also reduced real income for other countries.
+
+# bad leadersihp: high cabinet turnover
+trump's turnover is higher than previous administrations: <https://www.brookings.edu/research/tracking-turnover-in-the-trump-administration/> https://cdn.discordapp.com/attachments/418850379518705675/729056681824354304/unknown.png
+
+# corruption
+about $16 million from the Trump campaign, other Republican campaigns, and the federal government have been spent on Trump properties: <https://projects.propublica.org/paying-the-president/> https://cdn.discordapp.com/attachments/418850379518705675/634208378817609748/unknown.png
+about $16 million from the Trump campaign, other Republican campaigns, and the federal government have been spent on Trump properties: <https://www.axios.com/donald-trump-properties-taxpayer-campaigns-presidency-91e3755d-23cd-42d1-897d-c0c81ac509dd.html> https://cdn.discordapp.com/attachments/418850379518705675/634207497414246411/unknown.png
+
+# lies
+**Trump claimed 'little Dem support' for opioid bill all Dems voted for:** Trump quote: "And I'll soon sign into the law the largest legislative effort in history to address the opioid crisis where just this year we got $6 billion from Congress -- thanks to Rob Portman and a lot of others -- thank you, Rob -- but Rob and so many others helped. Very little Democrat support." https://www.youtube.com/watch?v=BjT1fB0N_CY&feature=youtu.be&t=2493 <https://factba.se/transcript/donald-trump-speech-maga-rally-lebanon-oh-october-12-2018> House vote: <http://clerk.house.gov/evs/2018/roll415.xml> https://cdn.discordapp.com/attachments/418850379518705675/509368336665149440/unknown.png Senate vote: <https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=2&vote=00221> https://cdn.discordapp.com/attachments/418850379518705675/509368239688515596/unknown.png
+**Trump claims he signed first military pay raise in 10 years; military pay has been raised every year since 1983: **: Trump quote: "We just approved $700 billion for our military. So we’re going to be — (applause) — we’re going to be having the best equipment ever known. And next year, $716 billion. So I wanted to let you know. (Applause.) And, by the way, I know you don’t care about this, but that also includes raises for our military. (Applause.) First time in 10 years." https://youtu.be/Zqa54Nd8kBk?t=303 <https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-military-mothers-spouses-event/> There has been a pay raise every year since 1984: <https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/FY19_Green_Book.pdf> <https://www.politifact.com/truth-o-meter/statements/2018/may/10/donald-trump/did-donald-trump-sign-first-military-pay-raise-10-/> https://cdn.discordapp.com/attachments/418850379518705675/509371702413623336/unknown.png Graph: <https://www.politifact.com/truth-o-meter/statements/2018/may/10/donald-trump/did-donald-trump-sign-first-military-pay-raise-10-/> https://cdn.discordapp.com/attachments/418850379518705675/509372037026807819/unknown.png
+**Trump claims last Rep to win Wisconsin was Eisenhower:** Trump quote: "When we won Wisconsin, it hadn't been won by a Republican since Dwight D. Eisenhower in 1952. Did you know that? And I won Wisconsin. And I like Wisconsin a lot but we won Wisconsin. And Ronald Reagan, remember, Wisconsin was the state that Ronald Reagan did not win. And that was in 1952. And I've gotten to know the people here, and they're incredible." https://twitter.com/atrupar/status/1012401634750746624 <https://www.c-span.org/video/?447876-1/president-trump-delivers-remarks-rally-great-falls-montana&start=3173> In reality, post-WW2 Republicans won Wisconsin in 1956 (Eisenhower), 1960 (Nixon), 1968 (Nixon), 1972 (Nixon), 1980 (Reagan), 1984 (Ronald Reagan), and 2016 (Trump): <https://en.wikipedia.org/wiki/United_States_presidential_elections_in_Wisconsin>
+another lie: <https://www.politifact.com/california/statements/2018/mar/13/donald-trump/no-mr-president-california-not-begging-wall/>
+another lie: <https://www.politifact.com/truth-o-meter/statements/2018/jan/29/donald-trump/trump-gets-polar-ice-trend-backwards/>
+
+# LGBT rights
+trump loves the gays btw: http://thehill.com/regulation/administration/399482-sessions-announces-religious-liberty-task-force
+trump rolled back trans policies: https://www.usatoday.com/story/news/2017/02/21/trump-administration-change-transgender-student-bathroom-rules/98221368/
+
+# the wall
+a majority oppose the border wall and have done so since the 90's: <https://news.gallup.com/poll/246455/solid-majority-opposes-new-construction-border-wall.aspx> https://cdn.discordapp.com/attachments/418850379518705675/542349239133667338/unknown.png Gallup first asked about it in 1993, when 71% said they opposed "erecting a wall along the border with Mexico." Opposition eased slightly in 1995, when 62% were against erecting a wall. In 2006, opposition to "building a wall along the border with Mexico" was 56%.
+
+# foreign policy
+trump is no pacifist: https://foreignpolicy.com/2017/08/09/donald-trump-is-dropping-bombs-at-unprecedented-levels/ Judging from Trump’s embrace of the use of air power [...] he is the most hawkish president in modern history. Under Trump, the United States has dropped about 20,650 bombs through July 31, or 80 percent the number dropped under Obama for the entirety of 2016. At this rate, Trump will exceed Obama’s last-year total by Labor Day. In Iraq and Syria, data shows that the United States is dropping bombs at unprecedented levels. In July, the coalition to defeat the Islamic State (read: the United States) dropped 4,313 bombs, 77 percent more than it dropped last July. In June, the number was 4,848 — 1,600 more bombs than were dropped in any one month under President Barack Obama since the anti-ISIS campaign started three years ago. In Afghanistan, the number of weapons released has also shot up since Trump took office. April saw more bombs dropped in the country since the height of Obama’s troop surge in 2012. That was also the month that the United States bombed Afghanistan’s Mamand Valley with the largest non-nuclear bomb ever dropped in combat.
+Vox on Trump in Aghanistan (2017): <https://www.vox.com/world/2017/11/21/16684628/trump-afghanistan-bomb-troops>
+
+# self made
+Trump underperformed the real estate market: <https://www.marketwatch.com/story/how-donald-trump-left-13-billion-on-table-2016-03-01> """Starting with Trump’s professed net worth of “more than $200 million” in an interview published by The New York Times in November 1976, Griffin says the FTSE NAREIT All Equity REITS Index-compounded return would have returned $23.2 billon at the end of 2015, “considerably above Mr. Trump’s recent self-reported net worth of approximately $10 billion.”"""
+trump was not self-made -- he inherited about $413 million: <https://www.apnews.com/0452d29cd2564eaf97605ab90acc3a67/NY-Times:-Trump-got-$413M-from-his-dad,-much-from-tax-dodges>
+about half of Americans acknowledge that Trump was born wealthy: <https://www.politico.com/magazine/story/2019/01/17/many-voters-think-trumps-a-self-made-man-what-happens-when-you-tell-them-otherwise-224019> <https://link.springer.com/article/10.1007%2Fs11109-019-09527-y> <http://sci-hub.se/10.1007/s11109-019-09527-y> https://cdn.discordapp.com/attachments/418850379518705675/729380616168276028/unknown.png
+#####c
+
+#####
 # 2016 primary
 #####o
-# alleged media anti-bernie bias: evidence against? (review for strengths)
+# alleged media anti-bernie bias: evidence against? (weak evidence IMO for strengths)
 Shorenstein analysis: in the pre-primary (Jan 2015-Dec 2015), Sanders received more-positive coverage than Clinton most of the time: <https://shorensteincenter.org/pre-primary-news-coverage-2016-trump-clinton-sanders/> https://cdn.discordapp.com/attachments/418850379518705675/630737747254181888/unknown.png
 Shorenstein analysis: in the primary (Jan 2016-June 2016), Sanders received more-positive coverage than Clinton 1/2 of the time and less-positive 1/2 of the time: <https://shorensteincenter.org/news-coverage-2016-presidential-primaries/> https://cdn.discordapp.com/attachments/418850379518705675/630743789107150848/unknown.png
 opinion polling: Sanders polled around 5% until May 2015 and rose to ~40% by April 2016: <https://www.realclearpolitics.com/epolls/2016/president/us/2016_democratic_presidential_nomination-3824.html> https://cdn.discordapp.com/attachments/418850379518705675/630741958675136512/unknown.png
@@ -5516,35 +5562,19 @@ Lührmann Medzihorsky Lindberg 2021: anti-pluralist rhetoric and policy position
 in 2015, the Supreme Court ruled 5-4 to uphold that an independent districting comission was constitutional: <https://en.wikipedia.org/wiki/Arizona_State_Legislature_v._Arizona_Independent_Redistricting_Commission>
 in 2014, the Supreme Court ruled 5-4 to eliminate key provisions of the Voting Rights Act: <https://en.wikipedia.org/wiki/Shelby_County_v._Holder>
 
-# opposing referenda
+# republicans use voter id to disenfranchise their opponents
+voter ID laws suppress Democratic and liberal votes: <https://www.journals.uchicago.edu/doi/pdfplus/10.1086/688343> https://cdn.discordapp.com/attachments/418850379518705675/509257600198639626/unknown.png
+north carolina: <https://www.nytimes.com/2017/05/15/us/politics/voter-id-laws-supreme-court-north-carolina.html> <http://electionlawblog.org/wp-content/uploads/nc-4th.pdf>
+
+# republicans refuse to implement referenda
 republicans have overturned referenda: <http://www.msnbc.com/rachel-maddow-show/defying-election-results-republicans-balk-voter-approved-state-laws>
 pre-emptively overturning ballot referendum in michigan: <https://www.youtube.com/watch?v=27JL-cduuvA>
 overturning medicaid expansion in utah: <https://www.cnn.com/2019/02/03/politics/utah-medicaid-expansion-limit/index.html?no-st=1549376086>
 
-# reducing incoming Dem governor's powers
+# republicans attempt to reduce incoming Dem governor's powers
 republicans grabbed power in Michigan: <https://www.theatlantic.com/politics/archive/2018/12/gop-power-grab-wisconsin-and-michigan/577246/>
 republicans grabbed power in Wisconsin: <https://www.vox.com/policy-and-politics/2018/12/6/18127332/wisconsin-state-republican-power-grab-democracy>
 republicans have grabbed power all over: <https://www.huffpost.com/entry/the-gop-keeps-changing-the-rules-after-it-loses-elections_n_5c6f0cede4b0f40774cd7232>
-#####c
-
-#####
-# economics
-#####o
-there's no evidence that trump has affected the economy positively or negatively: <https://voxeu.org/article/stable-genius-estimating-trump-effect-us-economy> https://cdn.discordapp.com/attachments/418850379518705675/640985796018700288/shularick18jlyfig1.png
-
-# debt
-most US debt comes from Bush tax cuts and Bush wars: <https://www.cbpp.org/blog/tax-cuts-and-wars-will-continue-to-fuel-debt-through-the-decade> https://cdn.discordapp.com/attachments/418850379518705675/641996852409008168/3-1-13bud.png
-
-# tax bill / tax cut
-83% of the benefits of the Trump tax bill will go to the top 1%: <https://www.taxpolicycenter.org/publications/distributional-analysis-conference-agreement-tax-cuts-and-jobs-act> https://cdn.discordapp.com/attachments/418850379518705675/542388160156401674/tpc1.png
-#####c
-
-#####
-# voter id
-#####o
-voter ID laws suppress Democratic and liberal votes: <https://www.journals.uchicago.edu/doi/pdfplus/10.1086/688343> https://cdn.discordapp.com/attachments/418850379518705675/509257600198639626/unknown.png
-
-north carolina: <https://www.nytimes.com/2017/05/15/us/politics/voter-id-laws-supreme-court-north-carolina.html> <http://electionlawblog.org/wp-content/uploads/nc-4th.pdf>
 #####c
 
 #####
@@ -5635,46 +5665,6 @@ Ziobrowski 2011: US representatives see returns of 6%/yr higher than the overall
 
 # eggers study: returns close to normal, only a few high results
 Eggers 2013: the trading portfolios of US legislators were insignificantly better or worse than the market for most models of portfolio performance over 2004-2008: <https://www.journals.uchicago.edu/doi/10.1017/S0022381613000194> <https://sci-hub.se/10.1017/S0022381613000194> <https://cdn.discordapp.com/attachments/742557921849901077/890373583862390824/eggers2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/890374304003407932/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/890374491589476412/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/890374731960827924/unknown.png
-#####c
-
-#####
-# donald trump
-#####o
-# wasting time
-trump's schedule is full of wasted time: <https://www.axios.com/donald-trump-private-schedules-leak-executive-time-34e67fbb-3af6-48df-aefb-52e02c334255.html>
-
-# turnover
-trump's turnover is higher than previous administrations: <https://www.brookings.edu/research/tracking-turnover-in-the-trump-administration/> https://cdn.discordapp.com/attachments/418850379518705675/729056681824354304/unknown.png
-
-# corruption
-about $16 million from the Trump campaign, other Republican campaigns, and the federal government have been spent on Trump properties: <https://projects.propublica.org/paying-the-president/> https://cdn.discordapp.com/attachments/418850379518705675/634208378817609748/unknown.png
-about $16 million from the Trump campaign, other Republican campaigns, and the federal government have been spent on Trump properties: <https://www.axios.com/donald-trump-properties-taxpayer-campaigns-presidency-91e3755d-23cd-42d1-897d-c0c81ac509dd.html> https://cdn.discordapp.com/attachments/418850379518705675/634207497414246411/unknown.png
-
-# trade policy
-each of trump's tariffs increased import prices by between 5% and 25%: <https://www.princeton.edu/~reddings/papers/CEPR-DP13564.pdf> https://cdn.discordapp.com/attachments/418850379518705675/571381550395031571/unknown.png Overall, using standard economic methods, we find that the full incidence of the tariff falls on domestic consumers, with a reduction in U.S. real income of $1.4 billion per month by the end of 2018. We also see similar patterns for foreign countries who have retaliated against the U.S., which indicates that the trade war also reduced real income for other countries.
-
-# lies
-**Trump claimed 'little Dem support' for opioid bill all Dems voted for:** Trump quote: "And I'll soon sign into the law the largest legislative effort in history to address the opioid crisis where just this year we got $6 billion from Congress -- thanks to Rob Portman and a lot of others -- thank you, Rob -- but Rob and so many others helped. Very little Democrat support." https://www.youtube.com/watch?v=BjT1fB0N_CY&feature=youtu.be&t=2493 <https://factba.se/transcript/donald-trump-speech-maga-rally-lebanon-oh-october-12-2018> House vote: <http://clerk.house.gov/evs/2018/roll415.xml> https://cdn.discordapp.com/attachments/418850379518705675/509368336665149440/unknown.png Senate vote: <https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=2&vote=00221> https://cdn.discordapp.com/attachments/418850379518705675/509368239688515596/unknown.png
-**Trump claims he signed first military pay raise in 10 years; military pay has been raised every year since 1983: **: Trump quote: "We just approved $700 billion for our military. So we’re going to be — (applause) — we’re going to be having the best equipment ever known. And next year, $716 billion. So I wanted to let you know. (Applause.) And, by the way, I know you don’t care about this, but that also includes raises for our military. (Applause.) First time in 10 years." https://youtu.be/Zqa54Nd8kBk?t=303 <https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-military-mothers-spouses-event/> There has been a pay raise every year since 1984: <https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/FY19_Green_Book.pdf> <https://www.politifact.com/truth-o-meter/statements/2018/may/10/donald-trump/did-donald-trump-sign-first-military-pay-raise-10-/> https://cdn.discordapp.com/attachments/418850379518705675/509371702413623336/unknown.png Graph: <https://www.politifact.com/truth-o-meter/statements/2018/may/10/donald-trump/did-donald-trump-sign-first-military-pay-raise-10-/> https://cdn.discordapp.com/attachments/418850379518705675/509372037026807819/unknown.png
-**Trump claims last Rep to win Wisconsin was Eisenhower:** Trump quote: "When we won Wisconsin, it hadn't been won by a Republican since Dwight D. Eisenhower in 1952. Did you know that? And I won Wisconsin. And I like Wisconsin a lot but we won Wisconsin. And Ronald Reagan, remember, Wisconsin was the state that Ronald Reagan did not win. And that was in 1952. And I've gotten to know the people here, and they're incredible." https://twitter.com/atrupar/status/1012401634750746624 <https://www.c-span.org/video/?447876-1/president-trump-delivers-remarks-rally-great-falls-montana&start=3173> In reality, post-WW2 Republicans won Wisconsin in 1956 (Eisenhower), 1960 (Nixon), 1968 (Nixon), 1972 (Nixon), 1980 (Reagan), 1984 (Ronald Reagan), and 2016 (Trump): <https://en.wikipedia.org/wiki/United_States_presidential_elections_in_Wisconsin>
-another lie: <https://www.politifact.com/california/statements/2018/mar/13/donald-trump/no-mr-president-california-not-begging-wall/>
-another lie: <https://www.politifact.com/truth-o-meter/statements/2018/jan/29/donald-trump/trump-gets-polar-ice-trend-backwards/>
-
-# LGBT rights
-trump loves the gays btw: http://thehill.com/regulation/administration/399482-sessions-announces-religious-liberty-task-force
-trump rolled back trans policies: https://www.usatoday.com/story/news/2017/02/21/trump-administration-change-transgender-student-bathroom-rules/98221368/
-
-# the wall
-a majority oppose the border wall and have done so since the 90's: <https://news.gallup.com/poll/246455/solid-majority-opposes-new-construction-border-wall.aspx> https://cdn.discordapp.com/attachments/418850379518705675/542349239133667338/unknown.png Gallup first asked about it in 1993, when 71% said they opposed "erecting a wall along the border with Mexico." Opposition eased slightly in 1995, when 62% were against erecting a wall. In 2006, opposition to "building a wall along the border with Mexico" was 56%.
-
-# foreign policy
-trump is no pacifist: https://foreignpolicy.com/2017/08/09/donald-trump-is-dropping-bombs-at-unprecedented-levels/ Judging from Trump’s embrace of the use of air power [...] he is the most hawkish president in modern history. Under Trump, the United States has dropped about 20,650 bombs through July 31, or 80 percent the number dropped under Obama for the entirety of 2016. At this rate, Trump will exceed Obama’s last-year total by Labor Day. In Iraq and Syria, data shows that the United States is dropping bombs at unprecedented levels. In July, the coalition to defeat the Islamic State (read: the United States) dropped 4,313 bombs, 77 percent more than it dropped last July. In June, the number was 4,848 — 1,600 more bombs than were dropped in any one month under President Barack Obama since the anti-ISIS campaign started three years ago. In Afghanistan, the number of weapons released has also shot up since Trump took office. April saw more bombs dropped in the country since the height of Obama’s troop surge in 2012. That was also the month that the United States bombed Afghanistan’s Mamand Valley with the largest non-nuclear bomb ever dropped in combat.
-Vox on Trump in Aghanistan (2017): <https://www.vox.com/world/2017/11/21/16684628/trump-afghanistan-bomb-troops>
-
-# self made
-Trump underperformed the real estate market: <https://www.marketwatch.com/story/how-donald-trump-left-13-billion-on-table-2016-03-01> """Starting with Trump’s professed net worth of “more than $200 million” in an interview published by The New York Times in November 1976, Griffin says the FTSE NAREIT All Equity REITS Index-compounded return would have returned $23.2 billon at the end of 2015, “considerably above Mr. Trump’s recent self-reported net worth of approximately $10 billion.”"""
-trump was not self-made -- he inherited about $413 million: <https://www.apnews.com/0452d29cd2564eaf97605ab90acc3a67/NY-Times:-Trump-got-$413M-from-his-dad,-much-from-tax-dodges>
-about half of Americans acknowledge that Trump was born wealthy: <https://www.politico.com/magazine/story/2019/01/17/many-voters-think-trumps-a-self-made-man-what-happens-when-you-tell-them-otherwise-224019> <https://link.springer.com/article/10.1007%2Fs11109-019-09527-y> <http://sci-hub.se/10.1007/s11109-019-09527-y> https://cdn.discordapp.com/attachments/418850379518705675/729380616168276028/unknown.png
 #####c
 
 #####
@@ -9862,7 +9852,7 @@ even for conservatives, publicly funded media (NPR, PBS) has higher trust: <http
 # public-funded sources reduce right-wing extremism
 Chandel 2016: <https://www.theguardian.com/media/2016/aug/08/public-service-media-rightwing-extremism-ebu-psbs> <https://www.ebu.ch/news/2016/08/ebu-research-shows-strong-public-service-media-contributes-to-a-healthy-democracy> <https://web.archive.org/web/20160910131332/http://www.ebu.ch/files/live/sites/ebu/files/Publications/EBU-MIS%20-%20PSM%20Correlations%20-%20Public.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/968235641827643442/Chandel2016.pdf> 
 
-# todo
+# todo xxx reread
 https://www.ebu.ch/video-talks/membersonly/2021/09/no-democracy-without-media-a-research-perspective
 https://journals.sagepub.com/doi/10.1177/0267323121991334
 https://cadmus.eui.eu/handle/1814/70218
@@ -9883,12 +9873,13 @@ https://www.documentarytelevision.com/documentary-budget/sundance-and-the-single
 #####
 # echo-chambers / echo chambers: very real
 #####o
+# right-wing online echo-chamber
 right-wing users exist within a right-wing media echochamber where the furthest-right news is rewarded and center-right news is shunned: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536269210389577740/unknown.png The particular prominence of the right-most column in Figure 2.7 reflects the overwhelming prominence of Breitbart, as also reflected in the network maps. [...] On Twitter, the center-right is the least represented. On Facebook, both the center and center-right garnered relatively little attention. This pattern suggests that social media sharing in general is more partisan than hyperlinking, and sharing on Facebook is more partisan than on Twitter.
 right-wing users exist within a right-wing media echochamber where Breitbart and Fox dominate: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536272411893563423/unknown.png While the prominence of individual media sources in the right-wing sphere varies when assessed by shares on Facebook and Twitter, the content and core structure, with Breitbart at the center, is stable across platforms. Even in the highly charged pre-election months, everyone outside the Breitbart-centered universe formed a tightly interconnected attention network, with major traditional mass-media and professional sources at the core. The right, by contrast, formed its own insular sphere centered on Breitbart. [....] Outside the rightwing ecosystem, we did not see a leftward polarization but its opposite—an increase in the authority of, and attention paid to, the traditional professional media that occupy the center and center-left, at the expense of the left. On the right, the most important shift was that Fox News reasserted its authority as the central node of the online right-wing media ecosystem. This revival came at the expense of Breitbart, which declined to second place online (leaving aside Fox dominance of conservative television throughout the election and post-election periods). However, Fox News’s resurgence did not increase connections between the right and the rest of the network. During the election, Fox online received 40 percent of its inlinks from the right quintile. In the year after the election, Fox received 51 percent of its links from the right quintile. This shift reflected a decline in linking to Fox across-the-board, not only from the left. Indeed, links from the center-right and the center to Fox declined proportionately more than did links from the center-left and left.8
 #####c
 
 #####
-# fake news
+# fake news: electoral effects
 #####o
 # effects: 2016 election
 in 2016, belief in 1 or more of 3 fake news stories (Pope Francis endorsed Trump, Clinton sold weapons to ISIS, Clinton had very serious illness) is correlated with vote switching from Obama to Trump: <https://www.documentcloud.org/documents/4429952-Fake-News-May-Have-Contributed-to-Trump-s-2016.html> <https://www.washingtonpost.com/news/the-fix/wp/2018/04/03/a-new-study-suggests-fake-news-might-have-won-donald-trump-the-2016-election/> https://cdn.discordapp.com/attachments/418850379518705675/641985676136415252/ISLAR3RGQM52ZOEVYXX6LHM7VA.png
@@ -9902,18 +9893,7 @@ a significant portion of the population -- about 10% -- believes that InfoWars i
 
 # fake news: general
 fake news spreads faster than true news: <http://science.sciencemag.org/content/sci/359/6380/1146.full.pdf> <https://www.theguardian.com/technology/2018/mar/08/scientists-truth-fiction-twitter-bots> https://cdn.discordapp.com/attachments/418850379518705675/471490435877961730/unknown.png
-ad hominem attacks against science reduce the credibility of science: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192025> <https://www.psypost.org/2018/02/study-suggests-attacking-motives-scientists-just-effective-attacking-science-50746> http://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0192025.g001
-
-# right-wing sharing of fake news
-old people, Republicans, and conservatives are more likely to share fake news: <https://www.theguardian.com/technology/2019/jan/10/older-people-more-likely-to-share-fake-news-on-facebook> <http://advances.sciencemag.org/content/5/1/eaau4586.full> <https://sci-hub.se/10.1126/sciadv.aau4586> https://cdn.discordapp.com/attachments/418850379518705675/540948735836815360/F2.png
-fake news is disproportionately consumed by the right: <https://www.dartmouth.edu/~nyhan/fake-news-2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640984562385551390/unknown.png
-^ source of fake news: <https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.211> <https://sci-hub.se/10.1257/jep.31.2.211> https://cdn.discordapp.com/attachments/418850379518705675/498268400158507008/unknown.png
-fake news is disproportionately consumed by the right: <http://www.ox.ac.uk/news/2018-02-06-trump-supporters-and-extreme-right-share-widest-range-junk-news> <http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews.pdf> <http://comprop.oii.ox.ac.uk/research/polarization-partisanship-and-junk-news/> https://cdn.discordapp.com/attachments/418850379518705675/471489238831988736/unknown.png On Twitter, a network of Trump supporters consumes the largest volume of junk news, and junk news is the largest proportion of news links they share.
-
-# right-wing belief in fake news
-young people are better able to identify opinion from fact: <http://www.pewresearch.org/fact-tank/2018/10/23/younger-americans-are-better-than-older-americans-at-telling-factual-news-statements-from-opinions/> https://cdn.discordapp.com/attachments/418850379518705675/640984815109144606/FT_18.png
-of American conservatives, only a minority trust sources other than Fox News and talk radio: <http://www.journalism.org/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/> https://cdn.discordapp.com/attachments/418850379518705675/640984870629277717/PJ_14.png
-republicans are more likely than democrats to believe fake news and less likely to believe true news: <https://web.stanford.edu/~gentzkow/research/fakenews.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471462924171477002/unknown.png
+ad hominem attacks against science reduce the credibility of science: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192025> <https://www.psypost.org/2018/02/study-suggests-attacking-motives-scientists-just-effective-attacking-science-50746> https://cdn.discordapp.com/attachments/742557921849901077/982150871934726174/unknown.png
 
 # psychology: fake news
 people with weaker cognitive ability have a harder time judging fake news objectively: <https://www.sciencedirect.com/science/article/pii/S0160289617301617> <https://www.scientificamerican.com/article/cognitive-ability-and-vulnerability-to-fake-news/> https://cdn.discordapp.com/attachments/418850379518705675/641996458249289750/1-s2.png
@@ -9924,6 +9904,21 @@ most people (and most young people) have a hard time sifting fact from fiction: 
 # solution: education
 Craft 2017: people with better understandings of news is produced are significantly less likely to believe in conspiracy theories (1 additional answer on the News Media Knowledge Scale correlated with a -0.3 of 4 [7.5% if Likert is linear] reduction in conspiracy theory endorsement): <https://www.sciencedaily.com/releases/2017/11/171130150424.htm> <http://journals.sagepub.com/doi/full/10.1177/2057047317725539> <https://sci-hub.se/10.1177/2057047317725539> <https://cdn.discordapp.com/attachments/742557921849901077/824668168479440926/craft2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/824669198533001237/unknown.png
 education can reduce belief in fake news: <https://www.irex.org/project/learn-discern-l2d-media-literacy-training> <https://www.irex.org/sites/default/files/node/resource/impact-study-media-literacy-ukraine.pdf> Compared to the control group, L2D participants were: 28% more likely to demonstrate sophisticated knowledge of the news media industry[.] 25% more likely to self-report checking multiple news sources[.] 13% more likely to correctly identify and critically analyze a fake news story[.] 4% more likely to express a sense of agency over what news sources they can access[.]
+#####c
+
+#####
+# fake news: higher prominence among the right
+#####o
+# right-wing sharing of fake news
+old people, Republicans, and conservatives are more likely to share fake news: <https://www.theguardian.com/technology/2019/jan/10/older-people-more-likely-to-share-fake-news-on-facebook> <http://advances.sciencemag.org/content/5/1/eaau4586.full> <https://sci-hub.se/10.1126/sciadv.aau4586> https://cdn.discordapp.com/attachments/418850379518705675/540948735836815360/F2.png
+fake news is disproportionately consumed by the right: <https://www.dartmouth.edu/~nyhan/fake-news-2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640984562385551390/unknown.png
+^ source of fake news: <https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.211> <https://sci-hub.se/10.1257/jep.31.2.211> https://cdn.discordapp.com/attachments/418850379518705675/498268400158507008/unknown.png
+fake news is disproportionately consumed by the right: <http://www.ox.ac.uk/news/2018-02-06-trump-supporters-and-extreme-right-share-widest-range-junk-news> <http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews.pdf> <http://comprop.oii.ox.ac.uk/research/polarization-partisanship-and-junk-news/> https://cdn.discordapp.com/attachments/418850379518705675/471489238831988736/unknown.png On Twitter, a network of Trump supporters consumes the largest volume of junk news, and junk news is the largest proportion of news links they share.
+
+# right-wing belief in fake news
+young people are better able to identify opinion from fact: <http://www.pewresearch.org/fact-tank/2018/10/23/younger-americans-are-better-than-older-americans-at-telling-factual-news-statements-from-opinions/> https://cdn.discordapp.com/attachments/418850379518705675/640984815109144606/FT_18.png
+of American conservatives, only a minority trust sources other than Fox News and talk radio: <http://www.journalism.org/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/> https://cdn.discordapp.com/attachments/418850379518705675/640984870629277717/PJ_14.png
+republicans are more likely than democrats to believe fake news and less likely to believe true news: <https://web.stanford.edu/~gentzkow/research/fakenews.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471462924171477002/unknown.png
 
 # project veritas lies: anecdotes
 Project Veritas uses cuts to maliciously misrepresent people. compare PV's cut-down video https://www.youtube.com/watch?v=cWptWsSzSh4 (2:52) versus this: https://www.washingtonpost.com/video/national/james-okeefe-and-post-reporter-exchange-what-really-happened/2017/11/27/668d558e-d3c5-11e7-9ad9-ca0619edfa05_video.html (4:44)
