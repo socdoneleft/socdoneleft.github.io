@@ -298,16 +298,16 @@ Engelen 2007: compulsory voting is a very small imposition; if you would not all
 #####c
 
 #####
-# money in politics bad (but its effects are probably weak) TODO
+# money in politics bad (but its effects are probably weak) TODO REREAD
 #####o
-# citizens united effects on political outcomes
+# causal: citizens united effects on political outcomes
 Klumpp 2016: states which were affected by the Citizens United ruling were 4-5pp more likely to elect Republican candidates than before CU: <https://www.washingtonpost.com/opinions/yes-citizens-united-gives-republicans-an-electoral-edge-heres-proof/2016/04/07/c9fe3fa4-fb5c-11e5-886f-a037dba38301_story.html> <https://journals.uchicago.edu/doi/full/10.1086/685691> <https://cdn.discordapp.com/attachments/742557921849901077/925862197731684473/klumpp2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/925863865886056468/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/925863945242308668/unknown.png
 
-# campaign contributions may bias judges business: 2010-2012 data (weak: not significant for most election types)
+# correlational: campaign contributions may bias judges business: 2010-2012 data (weak: not significant for most election types)
 justices received higher campaign funds and proportionately more funds from businesses in retention elections (3%), nonpartisan elections (17%), and partisan elections (25%): <https://www.acslaw.org/wp-content/uploads/old-uploads/originals/documents/JusticeAtRisk_Nov2013.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/727630557478912090/justice_at_risk.pdf> https://cdn.discordapp.com/attachments/418850379518705675/727717545863544882/unknown.png
 relative to appointed judges, a higher proportion of business contributions correlated with a higher likelihood with siding with a business; however, this correlation was only significant in nonpartisan elections (not retention elections or partisan elections): <https://www.acslaw.org/wp-content/uploads/old-uploads/originals/documents/JusticeAtRisk_Nov2013.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/727630557478912090/justice_at_risk.pdf> https://cdn.discordapp.com/attachments/418850379518705675/727720906700357653/unknown.png
 
-# campaign contributions may bias judges business: 1995-1998 data (weak: doesn't compare to appointed judges)
+# correlational: campaign contributions may bias judges business: 1995-1998 data (weak: doesn't compare to appointed judges)
 in partisan elections, campaign contributions from pro-business groups correlate with voting for businesses, labor groups with voting against employers, insurance companies with businesses and defendants in liability and tort cases; some, but not all, of these correlations are present in nonpartisan elections: (note: this study is weaker b/c it tests each type of contribution separately) <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1910787> <https://cdn.discordapp.com/attachments/418850379518705675/728329768772304956/shepherd2009a.pdf> https://cdn.discordapp.com/attachments/418850379518705675/728361622686400542/unknown.png n1=>28,000 cases, n2=470 judges; Control variables: judge ideology score, tenure, industrial sector of litigant, type of issue under litigation, proportion of years since 1960 that Republicans have controlled state legislature, whether a lower apellate court exists, whether all supreme court justices vote on all cases (en banc), whether court has discretionary review
 
 # money [UNFORMATTED, UNREAD]
