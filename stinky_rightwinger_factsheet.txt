@@ -298,6 +298,96 @@ Engelen 2007: compulsory voting is a very small imposition; if you would not all
 #####c
 
 #####
+# democracy and plutocracy in the usa: reviewing the median voter theorem, gilens and page, and biased majoritarianism
+#####o
+# meta-methodology replication: >70% of definitions support gilens, remainder don't reject
+Bowman 2020: averaging across 22 definitions of policy disagreement, high-income (90%ile) support (opposition) increases (decreases) likelihood of policy adoption but middle-income (50%ile) opinions do not affect likelihood; see that affluent prefer clusters around ~+15% while middle prefer clusters near ~0%: <https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12791> <https://sci-hub.se/10.1111/ssqu.12791> <https://cdn.discordapp.com/attachments/742557921849901077/947877299615846430/bowman2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/947879257919586314/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/947879603878383636/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/947879663043215412/unknown.png
+
+# original study: 
+Gilens and Page 2014: the opinions of middle-income people (50%ile) did not predict policy change when controlling for the opinions of high-income people (90%ile) and corporate interest groups: <https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B> <https://sci-hub.se/10.1017/S1537592714001595> <https://cdn.discordapp.com/attachments/742557921849901077/947930483877101568/gilens2014.pdf> https://cdn.discordapp.com/attachments/418850379518705675/646869020884336640/gilens_result1.png
+Gilens and Page 2014: this suggests that the US is closer to the models of Biased Pluralism (economic elites have more power, average citizens have some power, poor have little power) or Economic Elite Domination (economic elites have all power): <https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B> <https://sci-hub.se/10.1017/S1537592714001595> <https://cdn.discordapp.com/attachments/742557921849901077/947930483877101568/gilens2014.pdf> 
+
+# replication in the netherlands
+Schakel 2019: todo xxx reread: <https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwz018/5475880> <https://sci-hub.se/10.1093/ser/mwz018> https://cdn.discordapp.com/attachments/418850379518705675/647950889113354240/mwz018f3.png
+
+# replication in sweden
+Persson 2021: todo xxx reread: <https://www.sciencedirect.com/science/article/pii/S0261379421001256>
+
+# suggestive evidence: legislative staffers have rich-biased perception of constituencies
+Hertel-Fernandez et al 2018: todo xxx: <https://www.cambridge.org/core/journals/american-political-science-review/article/abs/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66>
+
+# mechanism: lobbying vs structural power
+Woll 2016: todo xxx reread: <https://journals.sagepub.com/doi/full/10.1177/0032329216655318> <https://sci-hub.se/10.1177/0032329216655318> <https://cdn.discordapp.com/attachments/742557921849901077/947946504553902182/woll2016.pdf>
+
+# biased pluralism article: poor have less power but some power using better metrics
+Schakel 2020: todo xxx: <https://journals.sagepub.com/doi/full/10.1177/0032329219897984> <https://sci-hub.se/10.1177/0032329219897984> <https://cdn.discordapp.com/attachments/742557921849901077/947947067597266975/schakel2020.pdf>
+
+# examining the top 0.01%
+Bonica 2013: todo xxx reread: <https://www.aeaweb.org/articles?id=10.1257/jep.27.3.103>
+
+# grossman critique: methods: splitting policies by issue + win rates
+Grossman and Isaac 2016 preprint: economic policy, middle class (50th income percentile) public opinion + party support are the only significant predictors of policy adoption: <http://matthewg.org/Gilens-Parties4.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/949101183778299935/grossman2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/716684600469880922/unknown.png
+
+# hersh critique: business leaders do not care and voters both do and don't want them involved
+Hersh 2021: todo xxx reread: <https://www.eitanhersh.com/uploads/7/9/7/5/7975685/hersh_business_leaders_03082021.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947943742692790293/hersh_business_leaders_fall2021.pdf> <https://www.eitanhersh.com/uploads/7/9/7/5/7975685/hersh_business_leaders_fall2021.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947943749567250492/hersh_business_leaders_03082021.pdf>
+
+# response to bashir
+Gilens 2016: Bashir's simulation subsets the simulation dataset in such a way that it would be impossible to test Gilens and Page 2014's predictions; when the full dataset is used, it supports Gilens and Page 2014's results as being extremely unlikely to result from chance: <https://journals.sagepub.com/doi/full/10.1177/2053168016654720> <http://sci-hub.se/10.1177/2053168016654720> <https://cdn.discordapp.com/attachments/742557921849901077/947883854721581116/gilens2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/947883793145036810/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/947884092580573224/unknown.png
+
+# what do megadonors believe?
+Republican megadonors are more economic-right and globalization-left than Republican voters; Democratic megadonors are more economic-left, social-left, and globalization-left than Democratic voters: <https://www.gsb.stanford.edu/insights/what-elite-donors-want> <https://academic.oup.com/poq/article-abstract/84/1/104/5822054> <https://sci-hub.se/10.1093/poq/nfaa001> <https://cdn.discordapp.com/attachments/742557921849901077/971423163126796288/broockman2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971419861500719124/unknown.png
+Republican megadonors (especially the Koch network) now exert more financial power than the Republican financial apparatus proper: <https://www.vox.com/2016/4/14/11348780/gop-megadonors-koch-brothers> <https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/koch-network-and-republican-party-extremism/035F3D872B0CE930AF02D7706DF46EEE> <https://sci-hub.se/10.1017/S1537592716001122> <https://cdn.discordapp.com/attachments/742557921849901077/971423163126796288/broockman2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971419223949733908/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/971419234146058291/unknown.png
+
+# what do donors believe? 
+Raja and Schaffner 2015: donors as a whole are generally more partisan than general voters: <https://www.vox.com/policy-and-politics/2019/12/23/21035165/donors-political-views-wine-cave> <https://www.worldcat.org/oclc/952489516> <https://u1lib.org/book/5489646/89d6d1>
+McElwee Schaffner Rhodes 2016: larger political donations correlate with more right-wing beliefs on economic politics: <https://www.vox.com/policy-and-politics/2016/12/9/13875096/us-political-donors> <https://www.demos.org/research/whose-voice-whose-choice-distorting-influence-political-donor-class-our-big-money> <https://cdn.discordapp.com/attachments/742557921849901077/971929948036153374/mcelwee.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971936110349533194/unknown.png
+McElwee Schaffner Rhodes 2016: Democratic donors who gave above $1000 are to the left of Democratic voters on economic politics: <https://www.vox.com/policy-and-politics/2016/12/26/14042118/donors-democrats-bernie-sanders> <https://www.vox.com/policy-and-politics/2016/12/9/13875096/us-political-donors> <https://www.demos.org/research/whose-voice-whose-choice-distorting-influence-political-donor-class-our-big-money> <https://cdn.discordapp.com/attachments/742557921849901077/971929948036153374/mcelwee.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971929478630621214/unknown.png
+
+# results by party
+Lax et al 2019: Democrats in the Senate voted in line with the opinions of the poor ~60% of the time and Republicans ~20% of the time : <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> <https://cdn.discordapp.com/attachments/742557921849901077/949101681466044477/lax2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/965489479546699816/unknown.png
+Lax et al 2019: Democrats tend to align with the poor more than the rich; with rich partisans more than poor partisans: <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> <https://cdn.discordapp.com/attachments/742557921849901077/949101681466044477/lax2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/965489536073359411/unknown.png
+Rhodes and Schaffner 2017: the DW-NOMINATE ideology score of Democratic Representatives correlate more strongly with the ideology of poor voters in their district than rich voters; the opposite is true for Republicans, who correlate more strongly with the rich: <https://www.nowpublishers.com/article/Details/QJPS-16077> <https://sci-hub.se/10.1561/100.00016077> <https://cdn.discordapp.com/attachments/742557921849901077/949101682099376158/rhodes2017.pdf> https://cdn.discordapp.com/attachments/418850379518705675/456898615336632320/unknown.png 
+Rhodes and Schaffner 2017: CCES 2012 data shows that Democratic Representatives were equally likely to vote for bills their constituents support regardless of income, while Republicans were more likely to vote for bills their high-income constituents support: <https://www.nowpublishers.com/article/Details/QJPS-16077> <https://sci-hub.se/10.1561/100.00016077> <https://cdn.discordapp.com/attachments/742557921849901077/949101682099376158/rhodes2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/949102235281924166/unknown.png """Individuals with Democratic representatives encounter a mode of representation best described as “populist,” in which the relationship between income and representation is flat (if not negative). However, individuals with Republican representatives experience an “oligarchic” mode of representation, in which wealthy individuals receive much more representation than those lower on the economic ladder."""
+Grossman and Isaac 2016 preprint: Democrats in Congress represent the middle class more than the rich while Republicans do the reverse: <http://matthewg.org/Gilens-Parties4.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/949101183778299935/grossman2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/456900147348242452/unknown.png
+
+# impacts on policy
+Bartels 2015 preprint: todo xxx: <http://piketty.pse.ens.fr/files/Bartels2015.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947941682018648104/Bartels2015.pdf>
+Bartels 2017 preprint: todo xxx: <https://www.vanderbilt.edu/csdi/includes/Working_Paper_5_2017.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947941690143031357/Bartels2017.pdf>
+#####c
+
+#####
+# democracy and plutocracy: manufacturing consent or market-driven journalism
+#####o
+# suggestive evidence: media ownership by the ultra-rich
+Grossman et al 2022 preprint: todo xxx: <https://www.journals.uchicago.edu/doi/10.1086/719415> <https://cdn.discordapp.com/attachments/742557921849901077/947946361070968882/Grossman2022.pdf>
+Martin and Yurukoglu 2017: people tend to watch news media that affirms their own views: <https://www.vox.com/policy-and-politics/2017/9/8/16263710/fox-news-presidential-vote-study> <https://www.aeaweb.org/articles?id=10.1257%2Faer.20160812> <http://sci-hub.se/10.1257/aer.20160812> <https://cdn.discordapp.com/attachments/418850379518705675/786317526560276520/martin2017.pdf>
+http://web.stanford.edu/~gentzkow/research/biasmeas.pdf
+
+# todo xxx reread
+https://www.researchgate.net/profile/Chikezie-Uzuegbunam/publication/304140282_Sensationalism_in_the_media_the_right_to_sell_or_the_right_to_tell/links/5838467908ae3a74b49cd484/Sensationalism-in-the-media-the-right-to-sell-or-the-right-to-tell.pdf
+https://archive.org/details/marketdrivenjour0000mcma/page/n5/mode/2up
+https://www.cambridge.org/core/books/abs/mediated-politics/reporting-and-the-push-for-marketoriented-journalism-media-organizations-as-businesses/542622970C3BE19D03CD91160EDDF7BC
+https://link.springer.com/chapter/10.1007/978-3-319-18236-0_24
+https://journals.sagepub.com/doi/full/10.1177/14648849211036285?casa_token=4xsH4cPAICIAAAAA%3AE0LgmYYPqvGXhFYhdWmmLfCCWBCxjY9lBMXJgkaZ1z_GZUeCqV7qnWcMD01lfWf7g9m43wFnbfMP
+https://journals.sagepub.com/doi/full/10.1177/1748048512459143?casa_token=sjC3yJsrYgMAAAAA%3A7P8rPzi9b_FoyfsaFmDDxw0Z5HtgO7aOA3QXrKdt3qb-_jAuLArlEFRM4A1gBY3EQ0RgxOYkgxmu
+https://sci-hub.se/10.1177/1748048512459143
+#####c
+
+#####
+# democracy and plutocracy in the united states: congressional stock returns
+#####o
+# summary
+If congresspeople have higher-than-reasonable stock investment returns, it may suggest that they are using their position for financial benefit. However, the research on this question is mixed.
+
+# ziobrowski studies: returns higher than normal
+Ziobrowski 2004: US senators see returns of 8%/yr higher than the overall market: <https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/abnormal-returns-from-the-common-stock-investments-of-the-us-senate/A39406479940758D59E09FDCB8EE9BEC> <https://sci-hub.se/10.1017/S0022109000003161> <https://cdn.discordapp.com/attachments/742557921849901077/890372793101877338/ziobrowski2004.pdf>
+Ziobrowski 2011: US representatives see returns of 6%/yr higher than the overall market: <https://www.cambridge.org/core/journals/business-and-politics/article/abs/abnormal-returns-from-the-common-stock-investments-of-members-of-the-us-house-of-representatives/BC6C6A524BBE96738BB94D37EF0FD1A5> <https://sci-hub.se/10.2202/1469-3569.1308> <https://cdn.discordapp.com/attachments/742557921849901077/890372807584784424/ziobrowski2011.pdf>
+
+# eggers study: returns close to normal, only a few high results
+Eggers 2013: the trading portfolios of US legislators were insignificantly better or worse than the market for most models of portfolio performance over 2004-2008: <https://www.journals.uchicago.edu/doi/10.1017/S0022381613000194> <https://sci-hub.se/10.1017/S0022381613000194> <https://cdn.discordapp.com/attachments/742557921849901077/890373583862390824/eggers2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/890374304003407932/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/890374491589476412/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/890374731960827924/unknown.png
+#####c
+
+#####
 # money in politics is bad, though its effects are weaker than you might expect [TODO REREAD]
 #####o
 # causal: citizens united effects on political outcomes
@@ -313,6 +403,9 @@ Shepherd 2013: relative to appointed judges, a higher proportion of business con
 # correlational: campaign contributions may bias judges business: 1995-1998 data (weak: doesn't compare to appointed judges)
 Shepherd 2009: in partisan elections, campaign contributions from pro-business groups correlate with voting for businesses, labor groups with voting against employers, insurance companies with businesses and defendants in liability and tort cases; some, but not all, of these correlations are present in nonpartisan elections: (note: this study is weaker b/c it tests each type of contribution separately) <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1910787> <https://cdn.discordapp.com/attachments/418850379518705675/728329768772304956/shepherd2009a.pdf> https://cdn.discordapp.com/attachments/418850379518705675/728361622686400542/unknown.png n1=>28,000 cases, n2=470 judges; Control variables: judge ideology score, tenure, industrial sector of litigant, type of issue under litigation, proportion of years since 1960 that Republicans have controlled state legislature, whether a lower apellate court exists, whether all supreme court justices vote on all cases (en banc), whether court has discretionary review
 
+# industry control of state legislatures: model bills
+O'Dell 2019: over the previous eight years, 10163 "model" bills were introduced across US states, disproportionately from industry think-tanks (42.3%) and conservative bill factories (39.5%), and about 40% of them are passed into law: <https://mobile.twitter.com/robodellaz/status/1113868879338434560> <https://www.azcentral.com/pages/interactives/asbestos-sharia-law-model-bills-lobbyists-special-interests-influence-state-laws/> <https://archive.ph/lpWqt> https://cdn.discordapp.com/attachments/418850379518705675/640218327679107103/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982158607812550696/unknown.png
+
 # money [UNFORMATTED, UNREAD]
 But decades of research suggest that money probably isn’t the deciding factor in who wins a general election, and especially not for incumbents. <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605401>
 Most of the research on this was done in the last century, Bonica told me, and it generally found that spending didn’t affect wins for incumbents and that the impact for challengers was unclear. <http://journals.sagepub.com/doi/10.1177/0002764203260415> 
@@ -323,13 +416,10 @@ Most of the research on this was done in the last century, Bonica told me, and i
 And, beginning around the mid-2000s, they began making serious progress on understanding how ads actually affect whether people vote and who they vote for. The picture that’s emerged is … well … let’s just say it’s probably rather disappointing to the campaigns that spend a great deal of time and effort raising all that money to begin with. <https://fivethirtyeight.com/features/money-and-elections-a-complicated-love-story/> <https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.7.012003.104820> 
 And, beginning around the mid-2000s, they began making serious progress on understanding how ads actually affect whether people vote and who they vote for. The picture that’s emerged is … well … let’s just say it’s probably rather disappointing to the campaigns that spend a great deal of time and effort raising all that money to begin with. <https://fivethirtyeight.com/features/money-and-elections-a-complicated-love-story/> <http://fas-polisci.rutgers.edu/lau/articles/Lau-Rovner_NegativeCampaigning.pdf>
 And, beginning around the mid-2000s, they began making serious progress on understanding how ads actually affect whether people vote and who they vote for. The picture that’s emerged is … well … let’s just say it’s probably rather disappointing to the campaigns that spend a great deal of time and effort raising all that money to begin with. <https://fivethirtyeight.com/features/money-and-elections-a-complicated-love-story/> <https://www.cambridge.org/core/journals/american-political-science-review/article/minimal-persuasive-effects-of-campaign-contact-in-general-elections-evidence-from-49-field-experiments/753665A313C4AB433DBF7110299B7433>
-Take, for example, the study that is probably the nation’s only truly real-world political advertising field experiment. During Rick Perry’s 2006 re-election campaign for Texas governor, a team of researchers convinced Perry’s campaign to run ads in randomly assigned markets and then tracked the effect of those ads over time using surveys. Advertising did produce a pro-Perry response in the markets that received the treatment. But that bump fizzled fast. Within a week after ads stopped running, it was like no one had ever seen them. <https://fivethirtyeight.com/features/money-and-elections-a-complicated-love-story/> <https://www.jstor.org/stable/41480831>
+Take, for example, the study that is probably the nation’s only truly real-world political advertising field experiment. During Rick Perry’s 2006 re-election campaign for Texas governor, a team of researchers convinced Perry’s campaign to run ads in randomly assigned markets and then tracked the effect of those ads over time using surveys. Advertising did produce a pro-Perry response in the markets that received the treatment. But that bump fizzled fast. Within a week after ads stopped running, it was like no one had ever seen them. <https://www.jstor.org/stable/41480831> <https://www.cambridge.org/core/journals/american-political-science-review/article/abs/DA29FE8A5581C772006A1DEBB21CFC4C> <https://sci-hub.se/10.1017/S000305541000047X>
 
 # participation [UNFORMATTED, UNREAD]
 Ongoing research from Alexander Fouirnaies, professor of public policy at the University of Chicago, suggests that, as it becomes normal for campaigns to spend higher and higher amounts, fewer people run and more of those who do are independently wealthy. In other words, the arms race of unnecessary campaign spending could help to enshrine power among the well-known and privileged. <https://www.dropbox.com/s/t96hcfls5a1g3ss/SpendingLimits.pdf>
-
-# model bills
-about 10,000 "model" bills are passed per year in the united states: <https://mobile.twitter.com/robodellaz/status/1113868879338434560> <https://www.azcentral.com/pages/interactives/asbestos-sharia-law-model-bills-lobbyists-special-interests-influence-state-laws/> https://cdn.discordapp.com/attachments/418850379518705675/640218327679107103/unknown.png
 #####c
 #####c
 
@@ -5578,96 +5668,6 @@ republicans have grabbed power all over: <https://www.huffpost.com/entry/the-gop
 #####c
 
 #####
-# democracy and plutocracy in the usa: median voter theorem, gilens and page, biased majoritarianism
-#####o
-# meta-methodology replication: >70% of definitions support gilens, remainder don't reject
-Bowman 2020: averaging across 22 definitions of policy disagreement, high-income (90%ile) support (opposition) increases (decreases) likelihood of policy adoption but middle-income (50%ile) opinions do not affect likelihood; see that affluent prefer clusters around ~+15% while middle prefer clusters near ~0%: <https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12791> <https://sci-hub.se/10.1111/ssqu.12791> <https://cdn.discordapp.com/attachments/742557921849901077/947877299615846430/bowman2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/947879257919586314/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/947879603878383636/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/947879663043215412/unknown.png
-
-# original study: 
-Gilens and Page 2014: the opinions of middle-income people (50%ile) did not predict policy change when controlling for the opinions of high-income people (90%ile) and corporate interest groups: <https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B> <https://sci-hub.se/10.1017/S1537592714001595> <https://cdn.discordapp.com/attachments/742557921849901077/947930483877101568/gilens2014.pdf> https://cdn.discordapp.com/attachments/418850379518705675/646869020884336640/gilens_result1.png
-Gilens and Page 2014: this suggests that the US is closer to the models of Biased Pluralism (economic elites have more power, average citizens have some power, poor have little power) or Economic Elite Domination (economic elites have all power): <https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B> <https://sci-hub.se/10.1017/S1537592714001595> <https://cdn.discordapp.com/attachments/742557921849901077/947930483877101568/gilens2014.pdf> 
-
-# replication in the netherlands
-Schakel 2019: todo xxx: <https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwz018/5475880> <https://sci-hub.se/10.1093/ser/mwz018> https://cdn.discordapp.com/attachments/418850379518705675/647950889113354240/mwz018f3.png
-
-# replication in sweden
-Persson 2021: todo xxx: <https://www.sciencedirect.com/science/article/pii/S0261379421001256>
-
-# suggestive evidence: legislative staffers have rich-biased perception of constituencies
-Hertel-Fernandez et al 2018: todo xxx: <https://www.cambridge.org/core/journals/american-political-science-review/article/abs/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66>
-
-# mechanism: lobbying vs structural power
-Woll 2016: todo xxx: <https://journals.sagepub.com/doi/full/10.1177/0032329216655318> <https://sci-hub.se/10.1177/0032329216655318> <https://cdn.discordapp.com/attachments/742557921849901077/947946504553902182/woll2016.pdf>
-
-# biased pluralism article: poor have less power but some power using better metrics
-Schakel 2020: todo xxx: <https://journals.sagepub.com/doi/full/10.1177/0032329219897984> <https://sci-hub.se/10.1177/0032329219897984> <https://cdn.discordapp.com/attachments/742557921849901077/947947067597266975/schakel2020.pdf>
-
-# examining the top 0.01%
-Bonica 2013: <https://www.aeaweb.org/articles?id=10.1257/jep.27.3.103>
-
-# grossman critique: methods: splitting policies by issue + win rates
-Grossman and Isaac 2016 preprint: economic policy, middle class (50th income percentile) public opinion + party support are the only significant predictors of policy adoption: <http://matthewg.org/Gilens-Parties4.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/949101183778299935/grossman2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/716684600469880922/unknown.png
-
-# hersh critique: business leaders do not care and voters both do and don't want them involved
-Hersh 2021: <https://www.eitanhersh.com/uploads/7/9/7/5/7975685/hersh_business_leaders_03082021.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947943742692790293/hersh_business_leaders_fall2021.pdf> <https://www.eitanhersh.com/uploads/7/9/7/5/7975685/hersh_business_leaders_fall2021.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947943749567250492/hersh_business_leaders_03082021.pdf>
-
-# response to bashir
-Gilens 2016: Bashir's simulation subsets the simulation dataset in such a way that it would be impossible to test Gilens and Page 2014's predictions; when the full dataset is used, it supports Gilens and Page 2014's results as being extremely unlikely to result from chance: <https://journals.sagepub.com/doi/full/10.1177/2053168016654720> <http://sci-hub.se/10.1177/2053168016654720> <https://cdn.discordapp.com/attachments/742557921849901077/947883854721581116/gilens2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/947883793145036810/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/947884092580573224/unknown.png
-
-# what do megadonors believe?
-Republican megadonors are more economic-right and globalization-left than Republican voters; Democratic megadonors are more economic-left, social-left, and globalization-left than Democratic voters: <https://www.gsb.stanford.edu/insights/what-elite-donors-want> <https://academic.oup.com/poq/article-abstract/84/1/104/5822054> <https://sci-hub.se/10.1093/poq/nfaa001> <https://cdn.discordapp.com/attachments/742557921849901077/971423163126796288/broockman2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971419861500719124/unknown.png
-Republican megadonors (especially the Koch network) now exert more financial power than the Republican financial apparatus proper: <https://www.vox.com/2016/4/14/11348780/gop-megadonors-koch-brothers> <https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/koch-network-and-republican-party-extremism/035F3D872B0CE930AF02D7706DF46EEE> <https://sci-hub.se/10.1017/S1537592716001122> <https://cdn.discordapp.com/attachments/742557921849901077/971423163126796288/broockman2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971419223949733908/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/971419234146058291/unknown.png
-
-# what do donors believe? 
-Raja and Schaffner 2015: donors as a whole are generally more partisan than general voters: <https://www.vox.com/policy-and-politics/2019/12/23/21035165/donors-political-views-wine-cave> <https://www.worldcat.org/oclc/952489516> <https://u1lib.org/book/5489646/89d6d1>
-McElwee Schaffner Rhodes 2016: larger political donations correlate with more right-wing beliefs on economic politics: <https://www.vox.com/policy-and-politics/2016/12/9/13875096/us-political-donors> <https://www.demos.org/research/whose-voice-whose-choice-distorting-influence-political-donor-class-our-big-money> <https://cdn.discordapp.com/attachments/742557921849901077/971929948036153374/mcelwee.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971936110349533194/unknown.png
-McElwee Schaffner Rhodes 2016: Democratic donors who gave above $1000 are to the left of Democratic voters on economic politics: <https://www.vox.com/policy-and-politics/2016/12/26/14042118/donors-democrats-bernie-sanders> <https://www.vox.com/policy-and-politics/2016/12/9/13875096/us-political-donors> <https://www.demos.org/research/whose-voice-whose-choice-distorting-influence-political-donor-class-our-big-money> <https://cdn.discordapp.com/attachments/742557921849901077/971929948036153374/mcelwee.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971929478630621214/unknown.png
-
-# results by party
-Lax et al 2019: Democrats in the Senate voted in line with the opinions of the poor ~60% of the time and Republicans ~20% of the time : <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> <https://cdn.discordapp.com/attachments/742557921849901077/949101681466044477/lax2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/965489479546699816/unknown.png
-Lax et al 2019: Democrats tend to align with the poor more than the rich; with rich partisans more than poor partisans: <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> <https://cdn.discordapp.com/attachments/742557921849901077/949101681466044477/lax2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/965489536073359411/unknown.png
-Rhodes and Schaffner 2017: the DW-NOMINATE ideology score of Democratic Representatives correlate more strongly with the ideology of poor voters in their district than rich voters; the opposite is true for Republicans, who correlate more strongly with the rich: <https://www.nowpublishers.com/article/Details/QJPS-16077> <https://sci-hub.se/10.1561/100.00016077> <https://cdn.discordapp.com/attachments/742557921849901077/949101682099376158/rhodes2017.pdf> https://cdn.discordapp.com/attachments/418850379518705675/456898615336632320/unknown.png 
-Rhodes and Schaffner 2017: CCES 2012 data shows that Democratic Representatives were equally likely to vote for bills their constituents support regardless of income, while Republicans were more likely to vote for bills their high-income constituents support: <https://www.nowpublishers.com/article/Details/QJPS-16077> <https://sci-hub.se/10.1561/100.00016077> <https://cdn.discordapp.com/attachments/742557921849901077/949101682099376158/rhodes2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/949102235281924166/unknown.png """Individuals with Democratic representatives encounter a mode of representation best described as “populist,” in which the relationship between income and representation is flat (if not negative). However, individuals with Republican representatives experience an “oligarchic” mode of representation, in which wealthy individuals receive much more representation than those lower on the economic ladder."""
-Grossman and Isaac 2016 preprint: Democrats in Congress represent the middle class more than the rich while Republicans do the reverse: <http://matthewg.org/Gilens-Parties4.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/949101183778299935/grossman2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/456900147348242452/unknown.png
-
-# impacts on policy
-Bartels 2015 preprint: todo xxx: <http://piketty.pse.ens.fr/files/Bartels2015.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947941682018648104/Bartels2015.pdf>
-Bartels 2017 preprint: todo xxx: <https://www.vanderbilt.edu/csdi/includes/Working_Paper_5_2017.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/947941690143031357/Bartels2017.pdf>
-#####c
-
-#####
-# democracy and plutocracy: manufacturing consent or market-driven journalism
-#####o
-# suggestive evidence: media ownership by the ultra-rich
-Grossman et al 2022 preprint: todo xxx: <https://www.journals.uchicago.edu/doi/10.1086/719415> <https://cdn.discordapp.com/attachments/742557921849901077/947946361070968882/Grossman2022.pdf>
-Martin and Yurukoglu 2017: people tend to watch news media that affirms their own views: <https://www.vox.com/policy-and-politics/2017/9/8/16263710/fox-news-presidential-vote-study> <https://www.aeaweb.org/articles?id=10.1257%2Faer.20160812> <http://sci-hub.se/10.1257/aer.20160812> <https://cdn.discordapp.com/attachments/418850379518705675/786317526560276520/martin2017.pdf>
-http://web.stanford.edu/~gentzkow/research/biasmeas.pdf
-
-# todo
-https://www.researchgate.net/profile/Chikezie-Uzuegbunam/publication/304140282_Sensationalism_in_the_media_the_right_to_sell_or_the_right_to_tell/links/5838467908ae3a74b49cd484/Sensationalism-in-the-media-the-right-to-sell-or-the-right-to-tell.pdf
-https://archive.org/details/marketdrivenjour0000mcma/page/n5/mode/2up
-https://www.cambridge.org/core/books/abs/mediated-politics/reporting-and-the-push-for-marketoriented-journalism-media-organizations-as-businesses/542622970C3BE19D03CD91160EDDF7BC
-https://link.springer.com/chapter/10.1007/978-3-319-18236-0_24
-https://journals.sagepub.com/doi/full/10.1177/14648849211036285?casa_token=4xsH4cPAICIAAAAA%3AE0LgmYYPqvGXhFYhdWmmLfCCWBCxjY9lBMXJgkaZ1z_GZUeCqV7qnWcMD01lfWf7g9m43wFnbfMP
-https://journals.sagepub.com/doi/full/10.1177/1748048512459143?casa_token=sjC3yJsrYgMAAAAA%3A7P8rPzi9b_FoyfsaFmDDxw0Z5HtgO7aOA3QXrKdt3qb-_jAuLArlEFRM4A1gBY3EQ0RgxOYkgxmu
-https://sci-hub.se/10.1177/1748048512459143
-#####c
-
-#####
-# democracy and plutocracy in the united states: congressional stock returns
-#####o
-# summary
-If congresspeople have higher-than-reasonable stock investment returns, it may suggest that they are using their position for financial benefit. However, the research on this question is mixed.
-
-# ziobrowski studies: returns higher than normal
-Ziobrowski 2004: US senators see returns of 8%/yr higher than the overall market: <https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/abnormal-returns-from-the-common-stock-investments-of-the-us-senate/A39406479940758D59E09FDCB8EE9BEC> <https://sci-hub.se/10.1017/S0022109000003161> <https://cdn.discordapp.com/attachments/742557921849901077/890372793101877338/ziobrowski2004.pdf>
-Ziobrowski 2011: US representatives see returns of 6%/yr higher than the overall market: <https://www.cambridge.org/core/journals/business-and-politics/article/abs/abnormal-returns-from-the-common-stock-investments-of-members-of-the-us-house-of-representatives/BC6C6A524BBE96738BB94D37EF0FD1A5> <https://sci-hub.se/10.2202/1469-3569.1308> <https://cdn.discordapp.com/attachments/742557921849901077/890372807584784424/ziobrowski2011.pdf>
-
-# eggers study: returns close to normal, only a few high results
-Eggers 2013: the trading portfolios of US legislators were insignificantly better or worse than the market for most models of portfolio performance over 2004-2008: <https://www.journals.uchicago.edu/doi/10.1017/S0022381613000194> <https://sci-hub.se/10.1017/S0022381613000194> <https://cdn.discordapp.com/attachments/742557921849901077/890373583862390824/eggers2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/890374304003407932/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/890374491589476412/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/890374731960827924/unknown.png
-#####c
-
-#####
 # capitol hill riots
 #####o
 # support in polls
@@ -10677,7 +10677,6 @@ Hersh 2020: <https://www.worldcat.org/oclc/1140364591> <https://u1lib.org/book/5
 Hersh 2020: <https://www.worldcat.org/oclc/1140364591> <https://u1lib.org/book/5409346/01788b> <https://cdn.discordapp.com/attachments/742557921849901077/966535310794182706/Hersh2016.pdf> In Pittsburgh, people her age were organizing in activist groups that were, at the time, largely focused on protests. She joined them a few times, but she had mixed feelings about it. It was good to see people who cared and were excited to be involved. But the focus on protests reminded her too much of what hadn’t worked in Wisconsin. “Constantly calling or standing outside your congressman’s office or the Women’s March, is that long-lasting? They have funny signs, but so what? I saw that in Wisconsin. That stuff doesn’t work.” 2
 Hersh 2020: <https://www.worldcat.org/oclc/1140364591> <https://u1lib.org/book/5409346/01788b> <https://cdn.discordapp.com/attachments/742557921849901077/966535310794182706/Hersh2016.pdf> Just as VOW was getting off the ground, an opportunity dropped in their laps. The local congressman, Republican Tim Murphy, who had been in office since 2003, was caught having an affair. 3 Text messages revealed that this antiabortion legislator had asked his extramarital partner to have an abortion. He resigned from office in the fall of 2017. A special election was called. VOW got volunteers to knock on doors in their ultraconservative area on behalf of the Democratic candidate. That candidate, Conor Lamb, won by 755 votes in February 2018.
 Hersh 2020: <https://www.worldcat.org/oclc/1140364591> <https://u1lib.org/book/5409346/01788b> <https://cdn.discordapp.com/attachments/742557921849901077/966535310794182706/Hersh2016.pdf> The most active volunteers became a community. For the retirees, VOW became a primary social scene. For young families, too. They call the kids running around the meetings the VOW cousins. Community begets good deeds. VOW doesn’t talk about this part, would never brag about it. They take care of their growing community of friends and neighbors. Angela has driven undocumented immigrants in her VOW community to doctors’ appointments. Some are too afraid of being deported if they get pulled over that they won’t drive at all, even to the doctor’s. One woman in the community was about to be evicted from her home, and the group quickly came to her assistance. When the federal government shut down in 2019, the group chipped in for gas cards and diapers to help those not making ends meet. All quietly and behind the scenes. “This is the most powerful thing I’ve ever done,” Angela says about creating VOW. “It’s the thing I feel called to do.”
-
 
 # failure of the arab spring
 Hersh 2020: <https://www.worldcat.org/oclc/1140364591> <https://u1lib.org/book/5409346/01788b> <https://cdn.discordapp.com/attachments/742557921849901077/966535310794182706/Hersh2016.pdf> """The Arab Spring failed nearly everywhere. The aftermath has been called the Arab Winter, a wake of death, destruction, and capsized rickety boats that carried nowdrowned refugee children. The Arab Spring was atragedy. The movement failed, according to several scholars, because it lacked durable party organizations. In Egypt, for instance, protests in Cairo’s Tahrir Square spurred elections, which was a major victory—after a mere eighteen days of protest, the country’s leader of almost thirty years stepped down. But the secular movement in Tahrir Square had no leaders, no ability to organize, and no capacity to mobilize voters. The liberal energy that spurred change lost the elections to an organized party, the right-wing Muslim Brotherhood, which was eventually forced out of power by a military coup. Activists with an Internet connection could crumble a government but could not build one in its place. 9 To do that, you need a hierarchy of leaders from low-level people willing to knock on thirty-five doors to middle-level organizers to higher-level leaders with a plan. In short, you need an organization. In Egypt, the protesters never had that."""

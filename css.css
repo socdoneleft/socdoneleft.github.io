@@ -21,10 +21,11 @@
 	--main_margin_left_responsive: calc(var(--main_margin) - var(--sidebar_left_size));
 	--main_margin_right_responsive: calc(var(--main_margin) + var(--sidebar_left_size));
 	
-	--fontsize_1: 28px;
-	--fontsize_2: 24px;
-	--fontsize_3: 20px;
-	--fontsize_4: 16px;
+	--fontsize_1: 44px;
+	--fontsize_2: 36px;
+	--fontsize_3: 28px;
+	--fontsize_4: 20px;
+	--fontsize_5: 16px;
 	
 	--padding_default: 16px;
 	--padding_threehalf: calc(var(--padding_default) * 1.5);
@@ -50,6 +51,7 @@ div, body, p, h1, h2, h3, h4, h5, img, blockquote, button, ul {
 }
 h1, h2, h3, h4 {
 	padding: 0 0 var(--padding_default) 0;
+	text-decoration: underline;
 }
 div + h1, div + h2, div + h3, div + h4 {
 	padding: var(--padding_default) 0 var(--padding_default) 0;
@@ -67,7 +69,7 @@ h4 {
 	font-size: var(--fontsize_4);
 }
 p, button {
-	font-size: var(--fontsize_4);
+	font-size: var(--fontsize_5);
 }
 ul {
 	padding: 0 0 var(--padding_default) var(--padding_threehalf);
@@ -160,7 +162,7 @@ a, button {
 	color: white;
 	width: 100%;
 	font-family: var(--sans);
-	font-size: var(--fontsize_4);
+	font-size: var(--fontsize_5);
 	padding: var(--padding_default);
 }
 .collapsible:after,

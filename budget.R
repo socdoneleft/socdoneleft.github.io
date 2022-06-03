@@ -5,7 +5,7 @@
 rm(list=ls(all=TRUE))
 
 # set working directory
-data_wd = "C:/Users/desk/google_drive/socdoneleft.github.io/"
+data_wd = "C:/Users/desk/_srf_updates_backups/socdoneleft.github.io/"
 setwd(data_wd)
 
 # load packages
