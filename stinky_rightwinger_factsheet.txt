@@ -3288,17 +3288,24 @@ Harris et al 2008: among 1463 adolescents in the Adolescent Treatment Models pro
 #####o
 
 #####
-# solutions
-#####o
-# desegregation
-court-mandated desegregation increases black intergenerational mobility up to 25% without decreasing white mobility: <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887514165313547/unknown.png
-
 # trends over time
-black intergenerational mobility very substantially advanced between 1945 and 1950, and has trended upwards ever since: <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887079228571648/unknown.png
-black families have much less upward mobility than white families, but more now than ever before: <https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/> https://cdn.discordapp.com/attachments/418850379518705675/749047011742974054/brookings_mobility.mp4
+#####o
+# summary
+Many conservatives claim that "black people had it better under segregation", "before civil rights", "before LBJ", or "before the welfare state". The evidence for this is weak and the evidence against it is strong.
 
-# "black people had it better under segregation" / "black people had it better before civil rights" / "the welfare state hurts black people" / "LBJ hurt black people"
+# intergenerational mobility: upward trend
+Reeves and Rodrigue: at each decline of income, black families have much less upward mobility than white families, but mobility is higher now than ever before: <https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/> <https://archive.ph/wip/GAENC> https://cdn.discordapp.com/attachments/742557921849901077/982376932937191494/unknown.png
+https://cdn.discordapp.com/attachments/742557921849901077/982379757427654674/unknown.png
+black intergenerational mobility very substantially increased between 1945 and 1950, and has trended upwards ever since: <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887079228571648/unknown.png
+todo: <https://www.brookings.edu/blog/social-mobility-memos/2015/01/15/five-bleak-facts-on-black-opportunity/>
+todo: <https://www.nber.org/system/files/working_papers/w23395/w23395.pdf>
+
+# intergenerational mobility: explaining the recent flatline of mobility
+
+# unemployment
 the unemployment rate of black people has always been about 2x that of white people: <http://www.pewsocialtrends.org/2016/06/27/1-demographic-trends-and-economic-well-being/> https://cdn.discordapp.com/attachments/418850379518705675/640931798376775683/ST_2016.png
+
+# single motherhood and extra-marital birth
 single motherhood has always been higher for black people: <http://www.pewsocialtrends.org/2016/06/27/1-demographic-trends-and-economic-well-being/> https://cdn.discordapp.com/attachments/418850379518705675/640931855100674078/ST_2016.png
 extramarital births have always been higher for black people: <http://www.pewsocialtrends.org/2016/06/27/1-demographic-trends-and-economic-well-being/ https://cdn.discordapp.com/attachments/418850379518705675/640931941713051670/ST_2016.png
 #####c
@@ -3315,6 +3322,17 @@ black people are targeted for high-risk, high-cost mortgages: <https://www.theat
 
 # marriage
 black women have a harder time marrying due to the mass incarceration and homicide of black men: <https://familyinequality.wordpress.com/2018/04/18/unequal-marriage-markets-for-black-and-white-women/> <https://osf.io/preprints/socarxiv/exvcm/> https://cdn.discordapp.com/attachments/418850379518705675/640931725912047616/mmpif2.png
+#####c
+
+#####
+# causes: ethnic segregation
+#####o
+# causal evidence: desegregation
+court-mandated desegregation increases black intergenerational mobility up to 25% without decreasing white mobility: <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887514165313547/unknown.png
+
+# correlational evidence: against positive enclave effects
+Xie and Gough 2011: among 814 Asian respondents to the 2003 New Immigrant Survey, residential enclaves (have same ethnicity) correlated with no significant effect on wages but workplace enclaves (speak same language) correlated with an 18% decrease of wages: <https://read.dukeupress.edu/demography/article/48/4/1293/169732/Ethnic-Enclaves-and-the-Earnings-of-Immigrants> <https://sci-hub.se/10.1007/s13524-011-0058-8> <https://cdn.discordapp.com/attachments/742557921849901077/982375162055905360/xie2011.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982377774985662585/unknown.png """We observe that the enclave variable is statistically significant in explaining earnings under only one operationalization—the workplace measure—and this estimate points in a direction that contradicts the enclave thesis, thus refuting Hypothesis 1. Instead of being positive, the estimate is negative: –0.176. This estimate indicates that Asian immigrants working in settings where non-English languages are spoken earn about 18% less, on average, than other Asian workers. As an example, for the average male Chinese worker, this negative effect translates into a $3.49/hour penalty on earnings.9"""
+Xie and Gough 2011: among 941 Hispanic respondents to the 2003 New Immigrant Survey, residential enclaves (have same ethnicity) correlated with no significant effect on wages but workplace enclaves (speak same language) correlated with an 11% decrease of wages: <https://read.dukeupress.edu/demography/article/48/4/1293/169732/Ethnic-Enclaves-and-the-Earnings-of-Immigrants> <https://sci-hub.se/10.1007/s13524-011-0058-8> <https://cdn.discordapp.com/attachments/742557921849901077/982375162055905360/xie2011.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982377876160647168/unknown.png
 #####c
 
 #####
@@ -3378,24 +3396,8 @@ Bullard et al 2007: race shows a higher correlation (higher ratios) than socioec
 Nardone et al 2020: historically redlined areas saw significantly higher emergency room visits for asthma, which suggests that redlined areas have worse air pollution or other environmental determinants of respiratory health: <https://pubmed.ncbi.nlm.nih.gov/31999951/> <https://www.sciencedirect.com/science/article/pii/S2542519619302414> <https://sci-hub.se/10.1016/S2542-5196(19)30241-4> <https://cdn.discordapp.com/attachments/742557921849901077/982331002103935036/nardone2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982331232950030367/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982331377452216340/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982331449359347813/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982331781716008990/unknown.png
 Bravo et al 2016: higher segregation among racial minority groups is significantly associated with higher exposure to particulate matter, but not ozone, especially for non-Hispanic black people: <https://www.sciencedirect.com/science/article/pii/S0160412016301386> <https://sci-hub.se/10.1016/j.envint.2016.04.008> <https://cdn.discordapp.com/attachments/742557921849901077/982345447538561064/bravo2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982345746365972540/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982346395883290665/unknown.png racial isolation (RI), a measure of the extent to which minority racial/ethnic group members are exposed to only one another
 
-
-Other studies have assessed how modern forms of redlining are associated with health outcomes. In these studies, neighbourhoods redlined by these modern forms currently have higher rates of mortgage and insurance coverage denial, yet also have improved mental and physical health.29,30
-29 Gee GC. A multilevel analysis of the relationship between
-institutional and individual racial discrimination and health status.
-Am J Public Health 2008; 98 (suppl 9): S48–56.
-30 Beyer KM, Zhou Y, Matthews K, Bemanian A, Laud PW,
-Nattinger AB. New spatially continuous indices of redlining and
-racial bias in mortgage lending: links to survival after breast cancer
-diagnosis and implications for health disparities research.
-Health Place 2016; 40: 34–43.
-31 Xie Y, Gough M. Ethnic enclaves and the earnings of immigrants.
-Demography 2011; 48: 1293–315.
-
-Additionally,
-we found that poverty rates were 3·3 times higher in
-historically redlined census tracts than in grade A tracts,
-a relationship similar to that identified by Mitchell and
-colleagues across 115 cities in the USA.11
+# reported racial discrimination is not just neighborhood effects
+Gee 2008: among 1503 Chinese people in Los Angeles, reported racial discrimination correlated signifcantly with worse reported health, even after controlling for several neighborhood and individual variables, including mortgage discrimination against Asian people (modern redlining): <https://ajph.aphapublications.org/doi/full/10.2105/AJPH.98.Supplement_1.S48> <https://sci-hub.se/10.2105/AJPH.98.Supplement_1.S48> <https://cdn.discordapp.com/attachments/742557921849901077/982368292972945478/gee2008.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982369200909742150/unknown.png
 #####c
 
 #####
