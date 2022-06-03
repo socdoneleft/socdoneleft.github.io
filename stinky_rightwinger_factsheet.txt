@@ -3360,14 +3360,43 @@ Chen 2019: Racial Disparities in Voting Wait Times: Evidence from Smartphone Dat
 #####o
 
 #####
-# racial discrimination and social determinants of health
+# racial discrimination worsens environmental determinants of health
 #####o
+# air pollution exposure
 Kioumourtzoglou et al 2016: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748718/> <https://journals.lww.com/epidem/Fulltext/2016/03000/PM2_5_and_Mortality_in_207_US_Cities__Modification.9.aspx> <https://sci-hub.se/10.1097/EDE.0000000000000422> <https://cdn.discordapp.com/attachments/742557921849901077/982327963645247488/kioumourtzoglou2015.pdf>
-Qian et al 2017: <https://www.nejm.org/doi/full/10.1056/nejmoa1702747> 
+Bravo et al 2016: <https://www.sciencedirect.com/science/article/pii/S0160412016301386> <https://sci-hub.se/10.1016/j.envint.2016.04.008> 
+
+# air pollution mortality
+Qian et al 2017: <https://pubmed.ncbi.nlm.nih.gov/28657878/> <https://www.nejm.org/doi/full/10.1056/nejmoa1702747>
+
+# toxic waste sites
+Bullard et al 2007: black people, Hispanic people, and Asian people are much more likely to live near toxic waste sites: <https://www.ucc.org/what-we-do/justice-local-church-ministries/justice/faithful-action-ministries/environmental-justice/environmental-ministries_toxic-waste-20/> <https://www.ucc.org/wp-content/uploads/2021/03/toxic-wastes-and-race-at-twenty-1987-2007.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982334813111480340/bullard2007.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982333797242658856/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982333827894624266/unknown.png
+Bullard et al 2007: race shows a higher correlation (higher ratios) than socioeconomic conditions with living in a toxic waste site host neighborhood, suggesting that racial discrimination/segregation plays a larger role than economic discrimination/segregation: <https://www.ucc.org/what-we-do/justice-local-church-ministries/justice/faithful-action-ministries/environmental-justice/environmental-ministries_toxic-waste-20/> <https://www.ucc.org/wp-content/uploads/2021/03/toxic-wastes-and-race-at-twenty-1987-2007.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982334813111480340/bullard2007.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982334727778369546/unknown.png
+
+# causes of worse environmental health
+Nardone et al 2020: historically redlined areas saw significantly higher emergency room visits for asthma, which suggests that redlined areas have worse air pollution or other environmental determinants of respiratory health: <https://pubmed.ncbi.nlm.nih.gov/31999951/> <https://www.sciencedirect.com/science/article/pii/S2542519619302414> <https://sci-hub.se/10.1016/S2542-5196(19)30241-4> <https://cdn.discordapp.com/attachments/742557921849901077/982331002103935036/nardone2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982331232950030367/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982331377452216340/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982331449359347813/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/982331781716008990/unknown.png
+
+Other studies have assessed how modern forms of redlining are associated with health outcomes. In these studies, neighbourhoods redlined by these modern forms currently have higher rates of mortgage and insurance coverage denial, yet also have improved mental and physical health.29,30
+29 Gee GC. A multilevel analysis of the relationship between
+institutional and individual racial discrimination and health status.
+Am J Public Health 2008; 98 (suppl 9): S48–56.
+30 Beyer KM, Zhou Y, Matthews K, Bemanian A, Laud PW,
+Nattinger AB. New spatially continuous indices of redlining and
+racial bias in mortgage lending: links to survival after breast cancer
+diagnosis and implications for health disparities research.
+Health Place 2016; 40: 34–43.
+31 Xie Y, Gough M. Ethnic enclaves and the earnings of immigrants.
+Demography 2011; 48: 1293–315.
+
+Additionally,
+we found that poverty rates were 3·3 times higher in
+historically redlined census tracts than in grade A tracts,
+a relationship similar to that identified by Mitchell and
+colleagues across 115 cities in the USA.11
 #####c
 
 #####
-# experienced racial discrimination and health behavior
+# experienced racial discrimination worsens health behaviors
 #####o
 # racial discrimination predicts greater cigarette smoking
 Parker et al 2016: experienced racism positively correlates with cigarette smoking among black people as a coping behavior: <https://www.tandfonline.com/doi/abs/10.1080/10826084.2016.1228678> <https://sci-hub.se/10.1080/10826084.2016.1228678> <https://cdn.discordapp.com/attachments/742557921849901077/975939991404433438/parker2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/496853044210827264/33826158.png After adjusting for having an emotional response to discrimination, health care and workplace discrimination, age, education, household income, and being married, males who had a physical response to discrimination (e.g., upset stomach or headache) had higher odds of cigarette use (odds ratio (OR): 1.95, 95% confidence interval (CI): 1.15-3.30) than men who did not have a physical response to discrimination.
