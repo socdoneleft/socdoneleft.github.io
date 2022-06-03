@@ -3294,13 +3294,17 @@ Harris et al 2008: among 1463 adolescents in the Adolescent Treatment Models pro
 Many conservatives claim that "black people had it better under segregation", "before civil rights", "before LBJ", or "before the welfare state". The evidence for this is weak and the evidence against it is strong.
 
 # intergenerational mobility: upward trend
-Reeves and Rodrigue: at each decline of income, black families have much less upward mobility than white families, but mobility is higher now than ever before: <https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/> <https://archive.ph/wip/GAENC> https://cdn.discordapp.com/attachments/742557921849901077/982376932937191494/unknown.png
-https://cdn.discordapp.com/attachments/742557921849901077/982379757427654674/unknown.png
-black intergenerational mobility very substantially increased between 1945 and 1950, and has trended upwards ever since: <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887079228571648/unknown.png
-todo: <https://www.brookings.edu/blog/social-mobility-memos/2015/01/15/five-bleak-facts-on-black-opportunity/>
-todo: <https://www.nber.org/system/files/working_papers/w23395/w23395.pdf>
+Reeves and Rodrigue 2017: at each decline of income, black men have much less upward mobility than white men, but mobility is higher now than ever before: <https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/> <https://archive.ph/wip/GAENC> https://cdn.discordapp.com/attachments/742557921849901077/982376932937191494/unknown.png
+Reeves and Rodrigue 2017: based on a counterfactual simulation where black men had the same income mobility as white men, the average income of black men would have been 35 percent of the average income of white men by 1900; we have not yet reached this benchmark: <https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/> <https://archive.ph/wip/GAENC> https://cdn.discordapp.com/attachments/742557921849901077/982379757427654674/unknown.png
 
-# intergenerational mobility: explaining the recent flatline of mobility
+# todo review reread xxx
+Collins and Wanamaker: <https://www.nber.org/system/files/working_papers/w23395/w23395.pdf>
+Johnson 2016: the upward mobility of black children born into the national bottom 50%, as compared to white children born into the national bottom 50%, has substantially increased since 1945: <https://inequality.stanford.edu/news-events/center-news/can-schools-level-playing-field> <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982381966093607043/johnson2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887079228571648/unknown.png tau represents the percentile increase required to be classified as "upwardly mobile"; tau=0 means "higher percentile than parents", tau=0.2 means "20% higher than parents"
+bottom half of this https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/
+todo: <https://www.brookings.edu/blog/social-mobility-memos/2015/01/15/five-bleak-facts-on-black-opportunity/>
+
+# intergenerational mobility: explaining the recent flatline of mobility: society got less equal!
+Manduca 2018: from 1965 to 2015, the median black family's income rose from the 25th percentile to the 35th %ile; these relative gains were nearly exactly negated by overall increasing income inequality: incomes at the 35th %ile dropped from 70% to 50% of the mean: <https://sociologicalscience.com/articles-v5-8-182/> <https://sociologicalscience.com/download/vol-5/march/SocSci_v5_182to205.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/851703489842380810/manduca2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/872287791793463336/E76F9JhXIAElsRL.png
 
 # unemployment
 the unemployment rate of black people has always been about 2x that of white people: <http://www.pewsocialtrends.org/2016/06/27/1-demographic-trends-and-economic-well-being/> https://cdn.discordapp.com/attachments/418850379518705675/640931798376775683/ST_2016.png
