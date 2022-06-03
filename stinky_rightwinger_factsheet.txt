@@ -5515,8 +5515,13 @@ in 2018 in Wisconsin, Democratic candidates for the US House received 53% of the
 #####c
 
 #####
-# republican opposition to democracy: other tactics
+# republican opposition to democracy: other metrics
 #####o
+# rising illiberal rhetoric
+Lührmann Medzihorsky Lindberg 2021: the Republican Party has adopted increasingly illiberal (anti-pluralist) rhetoric and policy positions; it is closer to the illiberal parties of Orban's Fidesz, Modi's BJP, Erdogan's AKP, or Bolsonaro's PSL: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3813132> <https://v-dem.net/media/publications/working_paper_116_final.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982108076524048435/luhrman2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982108258363908136/unknown.png
+Lührmann Medzihorsky Lindberg 2021: this results from the fact that the Republican Party's rhetoric and policy positions have shown increasingly lack of commitment to democracy, disrespect of minority rights, demonization of opponents, and encouragement of violence:: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3813132> <https://v-dem.net/media/publications/working_paper_116_final.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982108076524048435/luhrman2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982109180485845005/unknown.png
+Lührmann Medzihorsky Lindberg 2021: anti-pluralist rhetoric and policy positions strongly correlate with anti-democratic actions; anti-pluralist party rule correlates with a 4.8x higher risk (6% vs 29%) of reduced V-DEM democracy score: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3813132> <https://v-dem.net/media/publications/working_paper_116_final.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982108076524048435/luhrman2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982108490128580649/unknown.png
+
 # relevant scotus cases
 in 2015, the Supreme Court ruled 5-4 to uphold that an independent districting comission was constitutional: <https://en.wikipedia.org/wiki/Arizona_State_Legislature_v._Arizona_Independent_Redistricting_Commission>
 in 2014, the Supreme Court ruled 5-4 to eliminate key provisions of the Voting Rights Act: <https://en.wikipedia.org/wiki/Shelby_County_v._Holder>
