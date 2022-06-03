@@ -23,7 +23,7 @@
 # lists of factsheets
 * Fact Sheet List by SoopaKhell: <https://www.factsheetlist.xyz/>
 
-# broad-category factsheets (like this one)
+# multi-category factsheets like this one
 * Ultimate Research Document by Vaush: <https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit>
 * Source Library by NB419: <https://tinyurl.com/thesourcelibrary>
 
