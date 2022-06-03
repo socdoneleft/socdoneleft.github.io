@@ -20,6 +20,11 @@
 #####
 # other worthwhile factsheets
 #####o
+# useful URLs for this factsheet
+* short URL: <https://socdoneleft.github.io/srf>
+* HTML format (better for casual browsing): <https://socdoneleft.github.io/stinky_rightwinger_factsheet.html>
+* text format (better for searching): <https://socdoneleft.github.io/stinky_rightwinger_factsheet.txt>
+
 # lists of factsheets
 * Fact Sheet List by SoopaKhell: <https://www.factsheetlist.xyz/>
 
@@ -158,11 +163,6 @@ Riley Grace Roshong: ProgLib, mostly social-left issues: <https://www.youtube.co
 * Multiple Tab Search: <https://chrome.google.com/webstore/detail/multiple-tabs-search/mhbpfljoihafefdodgklimejeacejnde> (search many terms at once, around 20 you'll hit captcha)
 * Simple Mass Downloader: <https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed> (downloads many tabs at once)
 * VietOCR: <https://sourceforge.net/projects/vietocr/> (quickly copy-paste convert image to text with optical character recognition in many languages, great for Google Books)
-
-# useful URLs for this factsheet
-* shortcut URL: <https://socdoneleft.github.io/srf>
-* HTML format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.html>
-* text format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.txt>
 #####c
 #####c
 
