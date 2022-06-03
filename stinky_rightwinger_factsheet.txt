@@ -323,7 +323,7 @@ And, beginning around the mid-2000s, they began making serious progress on under
 Take, for example, the study that is probably the nation’s only truly real-world political advertising field experiment. During Rick Perry’s 2006 re-election campaign for Texas governor, a team of researchers convinced Perry’s campaign to run ads in randomly assigned markets and then tracked the effect of those ads over time using surveys. Advertising did produce a pro-Perry response in the markets that received the treatment. But that bump fizzled fast. Within a week after ads stopped running, it was like no one had ever seen them. <https://fivethirtyeight.com/features/money-and-elections-a-complicated-love-story/> <https://www.jstor.org/stable/41480831>
 
 # primary spending
-in 2017, Bonica published a study that found, unlike in the general election, early fundraising strongly predicted who would win primary races. <https://www.liebertpub.com/doi/10.1089/elj.2016.0413>
+Bonica 2017: early fundraising strongly correlates with winning primary races, but not general elections: <https://www.liebertpub.com/doi/10.1089/elj.2016.0413> <https://sci-hub.se/10.1089/elj.2016.0413>
 
 # participation [UNFORMATTED, UNREAD]
 Ongoing research from Alexander Fouirnaies, professor of public policy at the University of Chicago, suggests that, as it becomes normal for campaigns to spend higher and higher amounts, fewer people run and more of those who do are independently wealthy. In other words, the arms race of unnecessary campaign spending could help to enshrine power among the well-known and privileged. <https://www.dropbox.com/s/t96hcfls5a1g3ss/SpendingLimits.pdf>
