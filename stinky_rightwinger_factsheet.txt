@@ -298,7 +298,7 @@ Engelen 2007: compulsory voting is a very small imposition; if you would not all
 #####c
 
 #####
-# money in politics bad (but its effects are probably weak) TODO REREAD
+# money in politics is bad, though its effects are weaker than you might expect [TODO REREAD]
 #####o
 # causal: citizens united effects on political outcomes
 Klumpp 2016: states which were affected by the Citizens United ruling were 4-5pp more likely to elect Republican candidates than before CU: <https://www.washingtonpost.com/opinions/yes-citizens-united-gives-republicans-an-electoral-edge-heres-proof/2016/04/07/c9fe3fa4-fb5c-11e5-886f-a037dba38301_story.html> <https://journals.uchicago.edu/doi/full/10.1086/685691> <https://cdn.discordapp.com/attachments/742557921849901077/925862197731684473/klumpp2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/925863865886056468/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/925863945242308668/unknown.png
