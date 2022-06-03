@@ -169,7 +169,7 @@ Riley Grace Roshong: ProgLib, mostly social-left issues: <https://www.youtube.co
 #####
 #
 #
-# axis one: democracy, voting, civil rights
+# democracy, voting, civil rights [axis one]
 #
 #
 #####o
@@ -659,7 +659,7 @@ Ginsberg's argument hinges on the idea that people follow the judiciary's ruling
 #####
 #
 #
-# axis one: criminal justice system
+# criminal justice system [axis one]
 #
 #
 #####o
@@ -945,7 +945,7 @@ police officers and military are about 3x more likely to abuse their spouses: <h
 #####
 #
 #
-# axis two: economics
+# economics [axis two]
 #
 #
 #####o
@@ -2429,17 +2429,17 @@ the elephant graph thesis -- of declining income inequality -- holds only if inc
 #####
 #
 #
-# axis three: tolerance: racialism
+# race, racialism, scientific racism, and scientific anti-racism [axis three]
 #
 #
 #####o
-summary: Racialism, "scientific racism", and "race realism" describe the position that some human population groups have large and socially relevant genetic and phenotypic divergence
+summary: Racialism, "scientific racism", and "race realism" describe the belief that human population groups have large, socially-important differences in phenotypes caused by differences in frequencies of genes. Scientific consensus and scientific evidence support scientific anti-racism, the position that genetic differences cause few socially-important differences between human populations.
 
-note: genetics, education-intelligence, and violence-criminology are complicated topics. How To Argue With A Racist is an excellent long-form introduction for laypeople: <https://u1lib.org/book/5406846/1a86f7> 
+note: genetics, intelligence, and violence are complicated topics. for an excellent long-form introduction for laypeople, see Rutherford 2020: How To Argue With A Racist, in which a geneticist reviews the arguments for scientific anti-racism: <https://www.worldcat.org/oclc/1228315214> <https://u1lib.org/book/5406846/1a86f7> <https://cdn.discordapp.com/attachments/418850379518705675/736771760371793940/rutherford2020.pdf>
 
 #####
 #
-# scientific consensus on racialism
+# scientific consensus against racialism
 #
 #####o
 
@@ -2447,10 +2447,10 @@ note: genetics, education-intelligence, and violence-criminology are complicated
 # consensus in genetics about racialism: against
 #####o
 # positions of major institutions
-the American Society of Human Genetics opposes racialism: <http://sitn.hms.harvard.edu/flash/2017/science-genetics-reshaping-race-debate-21st-century/> <https://www.cell.com/ajhg/fulltext/S0002-9297(18)30363-X> Genetics demonstrates that humans cannot be divided into biologically distinct subcategories. Although there are clear observable correlations between variation in the human genome and how individuals identify by race, the study of human genetics challenges the traditional concept of different races of humans as biologically separate and distinct. This is validated by many decades of research, including recent examples. Most human genetic variation is distributed as a gradient, so distinct boundaries between population groups cannot be accurately assigned. There is considerable genetic overlap among members of different populations. Such patterns of genome variation are explained by patterns of migration and mixing of different populations throughout human history. In this way, genetics exposes the concept of “racial purity” as scientifically meaningless.
+ASGH 2018: the American Society of Human Genetics opposes racialism: <http://sitn.hms.harvard.edu/flash/2017/science-genetics-reshaping-race-debate-21st-century/> <https://www.cell.com/ajhg/fulltext/S0002-9297(18)30363-X> https://cdn.discordapp.com/attachments/742557921849901077/982324959365984316/unknown.png Genetics demonstrates that humans cannot be divided into biologically distinct subcategories. Although there are clear observable correlations between variation in the human genome and how individuals identify by race, the study of human genetics challenges the traditional concept of different races of humans as biologically separate and distinct. This is validated by many decades of research, including recent examples. Most human genetic variation is distributed as a gradient, so distinct boundaries between population groups cannot be accurately assigned. There is considerable genetic overlap among members of different populations. Such patterns of genome variation are explained by patterns of migration and mixing of different populations throughout human history. In this way, genetics exposes the concept of “racial purity” as scientifically meaningless.
 
 # lack of censorship
-it is not taboo to study race: <https://blogs.scientificamerican.com/voices/racial-differences-in-addiction-and-other-disorders-arent-mostly-genetic/> In the most recent NIH Biennial Report to Congress, for example, the words “genomic,” “genome,” and “genetic” are used a total of 556 times. In comparison, other words such as “social determinants of health,” “discrimination,” “poverty,” “socioeconomic status,” “racism,” and “sexism” appeared a total of 15 times in the entirety of the report’s 441 pages. In the decade between 1994 and 2005, the NIH funded 22,000 studies investigating genomics, 1,300 of which discussed race, genes and disease. The number of grants awarded to research the connection between health, racism and racial discrimination? Only 44.
+it is not taboo to study race and genetics; for example, the NIH extensively funds research examining the link between race, genetics, and health: <https://blogs.scientificamerican.com/voices/racial-differences-in-addiction-and-other-disorders-arent-mostly-genetic/> https://cdn.discordapp.com/attachments/742557921849901077/982325399210045600/unknown.png In the most recent NIH Biennial Report to Congress, for example, the words “genomic,” “genome,” and “genetic” are used a total of 556 times. In comparison, other words such as “social determinants of health,” “discrimination,” “poverty,” “socioeconomic status,” “racism,” and “sexism” appeared a total of 15 times in the entirety of the report’s 441 pages. In the decade between 1994 and 2005, the NIH funded 22,000 studies investigating genomics, 1,300 of which discussed race, genes and disease. The number of grants awarded to research the connection between health, racism and racial discrimination? Only 44.
 #####c
 
 #####
@@ -2659,7 +2659,7 @@ abut 260 million children are not and will not be in school (and it would cost j
 
 #####
 #
-# crime and racialism
+# crime, violence, and racialism
 #
 #####o
 see also the sections on racial bias against black people in the criminal justice system
@@ -2924,7 +2924,7 @@ racism causes poor white people to oppose leftism: https://academic.oup.com/sf/a
 #####
 #
 #
-# axis three: tolerance: public opinion on race
+# public opinion on race [axis three]
 #
 #
 #####o
@@ -3196,7 +3196,7 @@ https://fivethirtyeight.com/features/what-americans-think-about-reparations-and-
 #####
 #
 #
-# axis three: tolerance: benefits of diversity
+# benefits of diversity [axis three]
 #
 #
 #####o
@@ -3235,7 +3235,7 @@ race-diverse retail stores are more successful than race-homogenous: <http://jou
 #####
 #
 #
-# axis three: tolerance: racial biases and their outcomes
+# tolerance: racial biases and their outcomes [axis three]
 #
 #
 #####o
@@ -3360,9 +3360,15 @@ Chen 2019: Racial Disparities in Voting Wait Times: Evidence from Smartphone Dat
 #####o
 
 #####
-# cigarette smoking
+# racial discrimination and social determinants of health
 #####o
-# effects: health
+
+#####c
+
+#####
+# experienced racial discrimination and health behavior
+#####o
+# racial discrimination predicts greater cigarette smoking
 Parker et al 2016: experienced racism positively correlates with cigarette smoking among black people as a coping behavior: <https://www.tandfonline.com/doi/abs/10.1080/10826084.2016.1228678> <https://sci-hub.se/10.1080/10826084.2016.1228678> <https://cdn.discordapp.com/attachments/742557921849901077/975939991404433438/parker2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/496853044210827264/33826158.png After adjusting for having an emotional response to discrimination, health care and workplace discrimination, age, education, household income, and being married, males who had a physical response to discrimination (e.g., upset stomach or headache) had higher odds of cigarette use (odds ratio (OR): 1.95, 95% confidence interval (CI): 1.15-3.30) than men who did not have a physical response to discrimination.
 #####c
 #####c
@@ -3371,7 +3377,7 @@ Parker et al 2016: experienced racism positively correlates with cigarette smoki
 #####
 #
 #
-# axis three: tolerance: sex, sexuality, and gender
+# tolerance: sex, sexuality, and gender [axis three]
 #
 #
 #####o

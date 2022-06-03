@@ -15,6 +15,16 @@ function collapsibleToggle (collapsible, direction = null) {
 				img.removeAttr("data-src");
 			}
 		});
+
+        images = content.find("video");
+        images.each(function(index) {
+            img = $(this);
+            /* load video if not yet loaded */
+            if (img[0].hasAttribute("data-src")) {
+                img.attr("src", img.attr("data-src"));
+                img.removeAttr("data-src");
+            }
+        });
 	}
 }
 $(".collapsible").on('click', (MouseEvent) => collapsibleToggle(MouseEvent.target));
