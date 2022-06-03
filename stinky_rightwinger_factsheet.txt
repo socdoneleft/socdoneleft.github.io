@@ -18,42 +18,25 @@
 #####c
 
 #####
-# resources to empower your research
+# other worthwhile factsheets
 #####o
-# access scientific articles
-* Google Scholar: <https://scholar.google.com/> (legal; click "all versions" and try each)
-* Google: <https://www.google.com/> (legal; see if a PDF exists on Researchgate, Academia.edu, etc.)
-* Sci-Hub: <http://sci-hub.se/> (probably illegal)
-* Google Scholar Button: <https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn> (look up sources faster)
+# lists of factsheets
+* Fact Sheet List by SoopaKhell: <https://www.factsheetlist.xyz/>
 
-# access books
-* Google Books: <https://books.google.com> (legal; reload or change browser if you hit pagelimit; sometimes multiple copies exist with different page restrictions)
-* Internet Archive: <https://archive.org/search.php> (legal; many books available for temporary check out)
-* ZLibrary: <https://u1lib.org/> (probably illegal)
-* Library Genesis: <http://gen.lib.rus.ec> (probably illegal)
+# broad-category factsheets (like this one)
+* Ultimate Research Document by Vaush: <https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit>
+* Source Library by NB419: <https://tinyurl.com/thesourcelibrary>
 
-# access old webpages / current newspapers
-* Internet Archive Wayback Machine: <http://web.archive.org/> (more complete, slower; can sometimes use to get ad-free, paywall-free newspaper articles)
-* archive.today: <http://archive.is/> (less complete, faster; can often use to get ad-free, paywall-free newspaper articles)
-* Outline: <https://outline.com/> (can often use to get an ad-free, paywall-free version of newspaper articles)
+# socialist and socdem economics factsheets
+* Left-Libertarian Mega Document: <https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit>>
+* Lefty Fact Sheet by Naturea: <https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit>
+* #1 Economic Fact Sheet™ by sock dem: <https://docs.google.com/document/d/1stqf0RzJgB0X0boOWg8PoXAvm2edATdsJhttQ6AxIyM/edit>
 
-# access old newspapers
-* Library of Congress: <https://chroniclingamerica.loc.gov/> (1789-1963, high-quality)
-* Elephind: <https://elephind.com/> (medium-quality)
-* Google News Archive: https://news.google.com/newspapers
-
-# miscellaneous
-* Video Speed Controller: <https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk> (has hotkeys, goes up to 16x)
-* Reddit Check: <https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj> (lists Reddit posts with current URL, often has quick debunks)
-* Copy All URLs: <https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk> (don't lose tabs; copy and paste multiple URLs)
-* Multiple Tab Search: <https://chrome.google.com/webstore/detail/multiple-tabs-search/mhbpfljoihafefdodgklimejeacejnde> (search many terms at once, around 20 you'll hit captcha)
-* Simple Mass Downloader: <https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed> (downloads many tabs at once)
-* VietOCR: <https://sourceforge.net/projects/vietocr/> (quickly copy-paste convert image to text with optical character recognition in many languages, great for Google Books)
-
-# useful URLs for this factsheet
-* shortcut URL: <https://socdoneleft.github.io/srf>
-* HTML format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.html>
-* text format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.txt>
+# social issue factsheets
+* Research Outline by Riley Grace Roshong: <https://drive.google.com/file/d/1BRV3U0HHE40XlgFoM2wlzeb6vqjTgYms/view>
+* TERF Rebuttals SuperDoc by Jangles Sciencelad: <https://docs.google.com/document/d/1Cx2skhMH-WhVi0VmoW-TQfZ-hbOBupAnsREmZfSAAoI/edit>
+* Systemic Racism Factsheet by Rose Wrist and Left Ty: <https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec/edit>
+* Research Document To End All Research Documents by Liberal Sanity Project: <https://docs.google.com/document/d/13gzCsOG3Fr-HGkSlB1wreI1qdn3ccnrddyxmRKnm9eg/edit
 #####c
 
 #####
@@ -144,25 +127,42 @@ Riley Grace Roshong: ProgLib, mostly social-left issues: <https://www.youtube.co
 #####c
 
 #####
-# other worthwhile factsheets
+# resources to empower your research
 #####o
-# lists of factsheets
-* Fact Sheet List by SoopaKhell: <https://www.factsheetlist.xyz/>
+# access scientific articles
+* Google Scholar: <https://scholar.google.com/> (legal; click "all versions" and try each)
+* Google: <https://www.google.com/> (legal; see if a PDF exists on Researchgate, Academia.edu, etc.)
+* Sci-Hub: <http://sci-hub.se/> (probably illegal)
+* Google Scholar Button: <https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn> (look up sources faster)
 
-# broad-category factsheets (like this one)
-* Ultimate Research Document by Vaush: <https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit>
-* Source Library by NB419: <https://tinyurl.com/thesourcelibrary>
+# access books
+* Google Books: <https://books.google.com> (legal; reload or change browser if you hit pagelimit; sometimes multiple copies exist with different page restrictions)
+* Internet Archive: <https://archive.org/search.php> (legal; many books available for temporary check out)
+* ZLibrary: <https://u1lib.org/> (probably illegal)
+* Library Genesis: <http://gen.lib.rus.ec> (probably illegal)
 
-# socialist and socdem economics factsheets
-* Left-Libertarian Mega Document: <https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit>>
-* Lefty Fact Sheet by Naturea: <https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit>
-* #1 Economic Fact Sheet™ by sock dem: <https://docs.google.com/document/d/1stqf0RzJgB0X0boOWg8PoXAvm2edATdsJhttQ6AxIyM/edit>
+# access old webpages / current newspapers
+* Internet Archive Wayback Machine: <http://web.archive.org/> (more complete, slower; can sometimes use to get ad-free, paywall-free newspaper articles)
+* archive.today: <http://archive.is/> (less complete, faster; can often use to get ad-free, paywall-free newspaper articles)
+* Outline: <https://outline.com/> (can often use to get an ad-free, paywall-free version of newspaper articles)
 
-# social issue factsheets
-* Research Outline by Riley Grace Roshong: <https://drive.google.com/file/d/1BRV3U0HHE40XlgFoM2wlzeb6vqjTgYms/view>
-* TERF Rebuttals SuperDoc by Jangles Sciencelad: <https://docs.google.com/document/d/1Cx2skhMH-WhVi0VmoW-TQfZ-hbOBupAnsREmZfSAAoI/edit>
-* Systemic Racism Factsheet by Rose Wrist and Left Ty: <https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec/edit>
-* Research Document To End All Research Documents by Liberal Sanity Project: <https://docs.google.com/document/d/13gzCsOG3Fr-HGkSlB1wreI1qdn3ccnrddyxmRKnm9eg/edit
+# access old newspapers
+* Library of Congress: <https://chroniclingamerica.loc.gov/> (1789-1963, high-quality)
+* Elephind: <https://elephind.com/> (medium-quality)
+* Google News Archive: https://news.google.com/newspapers
+
+# miscellaneous
+* Video Speed Controller: <https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk> (has hotkeys, goes up to 16x)
+* Reddit Check: <https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj> (lists Reddit posts with current URL, often has quick debunks)
+* Copy All URLs: <https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk> (don't lose tabs; copy and paste multiple URLs)
+* Multiple Tab Search: <https://chrome.google.com/webstore/detail/multiple-tabs-search/mhbpfljoihafefdodgklimejeacejnde> (search many terms at once, around 20 you'll hit captcha)
+* Simple Mass Downloader: <https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed> (downloads many tabs at once)
+* VietOCR: <https://sourceforge.net/projects/vietocr/> (quickly copy-paste convert image to text with optical character recognition in many languages, great for Google Books)
+
+# useful URLs for this factsheet
+* shortcut URL: <https://socdoneleft.github.io/srf>
+* HTML format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.html>
+* text format: <https://socdoneleft.github.io/stinky_rightwinger_factsheet.txt>
 #####c
 #####c
 
