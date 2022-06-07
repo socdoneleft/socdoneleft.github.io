@@ -16,6 +16,7 @@
 * Images only load after opening a collapsible, so "Open all" may take a while!
 * {{count}}
 * If you appreciate this factsheet, please support me on Patreon <https://patreon.com/socdoneleft> or follow me elsewhere https://allmylinks.com/socdoneleft
+* If you dislike a part of this factsheet, direct message me on Twitter or Discord!
 #####c
 
 #####
@@ -2396,20 +2397,6 @@ the IEF includes 12 sub-indices: Market Openness: <https://www.heritage.org/inde
 #####c
 
 #####
-# blue states vs red states
-#####o
-# federal money: blue states are not welfare queens
-Republican states get more federal dollars per tax dollar paid than Democratic states and federal monies represent less of the budget in blue states: <https://www.motherjones.com/kevin-drum/2017/11/please-cut-the-crap-about-red-states-subsidizing-blue-states/> https://cdn.discordapp.com/attachments/418850379518705675/640746467002155051/blog_federal_aid_share_state_budget.png
-red states take more from the federal government than they give: <https://www.theatlantic.com/business/archive/2014/05/which-states-are-givers-and-which-are-takers/361668/> https://cdn.discordapp.com/attachments/418850379518705675/469767203248668672/unknown.png
-
-# productivity: blue states not slackers
-Muro and Liu 2016: Clinton-voting counties made up 64% of the US GDP; Trump-voting counties were just 36%: <https://www.brookings.edu/blog/the-avenue/2016/11/29/another-clinton-trump-divide-high-output-america-vs-low-output-america/> https://cdn.discordapp.com/attachments/418850379518705675/488749782354100235/unknown.png
-
-# poverty: blue states not poorer
-Kneebone 2016: from 2000 to 2010-2014, poverty has grown faster in R than D districts; this suggests that Republican policies failed worse at preventing poverty: <https://www.brookings.edu/research/poverty-crosses-party-lines/> https://cdn.discordapp.com/attachments/418850379518705675/641087611984805888/unknown.png Between 2000 and 2010-14, the poor population grew faster in red districts than blue. The number of people living below the poverty line (e.g., $24,230 for a family of four in 2014) in Republican districts climbed by 49 percent between 2000 and 2010-14 compared with a 33 percent increase in Democratic districts. As a result, Republican districts accounted for 60 percent of the increase in the nation’s poor population during that time. At the same time, poverty rates rose by similar margins in both red and blue districts (3.3 and 3.2 percentage points, respectively).
-#####c
-
-#####
 # trade
 #####o
 # consensus
@@ -3874,7 +3861,7 @@ Hasenbuch et al 2018: localities in Massachusetts that adopted GIPANDOs ("discri
 # on media biases: even anti-trans sources admit this bias is likely
 quoting an anti-trans source: alleged increase in bathroom incidents may be due to media change, not policy change: <http://womanmeanssomething.com/wp-content/uploads/2018/02/A-Longitudinal-Analysis-of-Media-Reports-at-Target-Stores.pdf> Another potential limitation of our analysis is that we don't know if pressure on Target has impacted media reporting. It may be that in some areas, perhaps in conservative locales, a bias may exist to report more of the total Target incidents occurring. It could also be that in other areas a liberal bias would lead to the suppression of news stories. We have noted a tendency in some states, usually liberal ones, to not report addresses of the incident locations. This may or may not be related to media bias.
 
-# republicans
+# argument by lack of republican examples
 the North Carolina GOP was unable to find a single example of a trans person using a bathroom to sexually assault others: <https://www.charlotteobserver.com/news/politics-government/article70255967.html>
 
 # specific case: Dakota Nieves
@@ -5520,47 +5507,7 @@ the 1978 national consultation had an absurdly biased form and question design: 
 #####o
 
 #####
-# political beliefs: polarization
-#####o
-# polarization over time: upward
-political partisanship of both reported ideology and latent ideology (measured by answers to policy questions) has increased since 1970 to 2010: <https://academic.oup.com/poq/article/80/S1/392/2223374> <https://sci-hub.st/10.1093/poq/nfw005> https://cdn.discordapp.com/attachments/418850379518705675/674640205453721635/unknown.png
-#####c
-
-#####
-# political beliefs: engagement
-#####o
-# political engagement: v-curve with extremists more active
-the ends of the political spectrum are more likely to be politically engaged (the "V curve"): more likely to vote in primaries and in generals, contribute to campaigns, contact elected officials, attend campaign events, volunteer for campaigns): <https://www.people-press.org/2014/06/12/section-5-political-engagement-and-activism/> https://cdn.discordapp.com/attachments/418850379518705675/640989375936856144/6-11-Ideology-by-Engagment.png https://cdn.discordapp.com/attachments/418850379518705675/659920734235131906/unknown.png
-
-# political engagement: generally pretty rare, 1% politically active
-National Journal 2014: only 1% of people engaged in more than 8 political activities in the past year and only 10% more than 4: <https://www.theatlantic.com/business/archive/2014/05/only-one-percent-of-americans-are-really-politically-active/425286/> <https://www.theatlantic.com/politics/archive/2014/05/are-you-more-politically-engaged-than-the-average-american/361989/>  <https://www.nationaljournal.com/s/57952/> <https://web.archive.org/web/20140509202407/http://www.nationaljournal.com/next-economy/big-questions/of-the-people-by-the-people-for-the-people-20140509> <https://web.archive.org/web/20140511125502/http://www.nationaljournal.com/next-economy/big-questions/only-one-percent-of-americans-are-really-politically-active-20140509> https://cdn.discordapp.com/attachments/742557921849901077/965049033813028864/unknown.png
-
-#####
-# political beliefs: material conditions
-#####o
-# income: usa: elites
-on supporting or opposing specific legislation, partisan differences (Dem vs Rep) are usually much larger than income differences (25%ile vs 75%ile) in opinion (5 of 6 security issues, 24 of 28 economic issues, and 15 of 15 social issues): <http://columbia.edu/~jrl2124/partypurse.pdf> <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.st/10.1017/S0003055419000315> https://cdn.discordapp.com/attachments/418850379518705675/646868893423632404/unknown.png
-within Americans, relative to the bottom 99% by income, the top 1% are more likely to identify as Republican by +5%, Independent +2%, and Democratic -7%; to identify as conservative -1%, moderate +4%, and liberal -1%: <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> https://cdn.discordapp.com/attachments/418850379518705675/659903397218091028/unknown.png
-
-# income: usa: postmaterialism
-higher-income individuals were much more likely to engage in "slacktivism" via online petitions, but those petitions focused on hyperspecific issues or "postmaterialist" issues (eg, gluten labelling), rather than substantive policy changes: <https://journals.sagepub.com/doi/full/10.1177/1532673X17722989> <http://sci-hub.st/10.1177/1532673X17722989> <https://cdn.discordapp.com/attachments/418850379518705675/778109442789081128/hersh2017.pdf> https://cdn.discordapp.com/attachments/418850379518705675/778106778670858250/unknown.png
-
-# income: international
-people in high-income countries are more likely to oppose a "free market economy" (30%) than people in the middle-income countries (28%) or low-income countries (24%): <https://www.pewresearch.org/global/2014/10/09/emerging-and-developing-economies-much-more-optimistic-than-rich-countries-about-the-future/> https://cdn.discordapp.com/attachments/418850379518705675/749991985196302396/Inequality-01.png
-people in high-income countries are more likely to support high taxes to reduce the gap between rich and poor (48%) than people in middle-income countries (40%) or low-income countries (31%): <https://www.pewresearch.org/global/2014/10/09/emerging-and-developing-economies-much-more-optimistic-than-rich-countries-about-the-future/> https://cdn.discordapp.com/attachments/418850379518705675/749994065269096528/Inequality-02.png
-
-# recessions
-after the recession -- as people's lives were getting easier and against the predictions of material conditions -- people in the USA moved leftward on specific policies (although support for socialism proper only slightly increased): <https://news.gallup.com/poll/268295/support-government-inches-not-socialism.aspx> https://cdn.discordapp.com/attachments/418850379518705675/739258009250693201/unknown.png
-
-# wealth [unformatted]
-in 2011, the top 1% by wealth of Americans <https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-and-thepolicy-preferences-of-wealthy-americans/B783EEF6785FEE093198ABED8D2C3D61> <https://sci-hub.st/10.1017/S153759271200360X>
-
-# engels quote
-engels on material conditions: <https://www.marxists.org/archive/marx/works/1890/letters/90_09_21.htm> """According to the materialist conception of history, the ultimately determining element in history is the production and reproduction of real life. Other than this neither Marx nor I have ever asserted. Hence if somebody twists this into saying that the economic element is the only determining one, he transforms that proposition into a meaningless, abstract, senseless phrase.""""""Without making oneself ridiculous it would be a difficult thing to explain in terms of economics the existence of every small state in Germany, past and present, or the origin of the High German consonant permutations, which widened the geographic partition wall formed by the mountains from the Sudetic range to the Taunus to form a regular fissure across all Germany.""""""Marx and I are ourselves partly to blame for the fact that the younger people sometimes lay more stress on the economic side than is due to it. We had to emphasise the main principle vis-à-vis our adversaries, who denied it, and we had not always the time, the place or the opportunity to give their due to the other elements involved in the interaction."""
-#####c
-
-#####
-# joe biden: assessing the good and bad
+# joe biden: good changes
 #####o
 # international relations: airstrikes: dramatic decrease
 All AirWars graphs: <https://airwars.org/conflict-data>
@@ -5572,7 +5519,7 @@ Yemen: 4-8 civilian deaths: <https://airwars.org/conflict/us-forces-in-yemen/> h
 demand increased monitoring, investigating, and transparently releasing estimates of civilian harm from US military actions: <https://airwars.org/news-and-investigations/airwars-adds-voice-to-104-organisations-calling-on-president-biden-to-overhaul-us-civilian-harm-approach/>
 
 # international relations: syria: comparison with russia
-this page note only events attribtued *solely* to Russia, excluding those linked to the Syrian regime (which is difficult to distinguish, given that they fly the same machines and use the same munitions): <https://airwars.org/conflict/russian-military-in-syria/>
+this page notes only events attribtued *solely* to Russia, excluding those linked to the Syrian regime (which is difficult to distinguish, given that they fly the same machines and use the same munitions): <https://airwars.org/conflict/russian-military-in-syria/>
 see discussion here: estimated death toll: about 24,743 total, with 4.3k-6.4k from Russia alone and 10k-17.1k from events with Russia and another actor alleged: <https://airwars.org/news-and-investigations/patterns-of-civilian-harm-from-russias-military-actions-in-syria-2015-2022/>
 
 # additional airstrike datasets
@@ -5599,31 +5546,6 @@ impact on party vote is small: <https://fivethirtyeight.com/features/there-is-no
 
 # labor issues: democrats in general
 Newman 2020: Democrats are more consistently voting in favor of union bills than ever before (mostly due to losing conservative Southern senators): <https://www.alternet.org/2020/09/the-conventional-wisdom-is-wrong-todays-democrats-are-more-united-in-support-of-organized-labor-than-the-new-deal-dems/> https://cdn.discordapp.com/attachments/418850379518705675/760534760719253536/unknown.png https://cdn.discordapp.com/attachments/418850379518705675/760874282447405116/unknown.png
-
-# lgbt issues: biden
-Biden in 2012: endorsed gay marriage before Obama: <https://www.politico.com/story/2012/05/obama-expected-to-speak-on-gay-marriage-076103> <https://www.nytimes.com/2012/05/07/us/politics/biden-expresses-support-for-same-sex-marriages.html>
-Biden in 2012: "Trans issues are the civil rights issue of our time." <https://www.politico.com/blogs/politico44/2012/10/biden-says-transgender-discrimination-civil-rights-issue-of-our-time-147761> <https://www.queerty.com/vp-joe-biden-thinks-lgbt-rights-is-the-civil-rights-issue-of-our-time-probably-20121031> 
-Biden in 2020: "Transgender equality is the civil rights issue of our time. There is no room for compromise when it comes to basic human rights." <https://twitter.com/JoeBiden/status/1221135646107955200>
-
-# health issues: biden
-<https://en.wikipedia.org/wiki/Public_health_insurance_option> The public option is not the same as publicly funded health care, but was proposed as an alternative health insurance plan offered by the government. The public option was initially proposed for the Patient Protection and Affordable Care Act, but was removed after Senator Joe Lieberman (I-CT) threatened a filibuster.[1][2]
-<https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0363> <https://sci-hub.se/10.1377/hlthaff.2010.0363> """Senate Democrats were engaged in a highly contentious debate throughout the fall of 2009, and the political life of the public option changed almost daily. The debate reached a critical impasse in November 2009, when Sen. Joseph Lieberman (I-CT), who usually caucuses with the Democrats, threatened to filibuster the Senate bill if it included a public option."""
-
-# lgbt issues: trump
-GLAAD has a "timeline of hate" from Trump: <https://www.hrc.org/resources/trumps-timeline-of-hate>
-On January 30, 2017, Donald Trump said he would keep in place a 2014 executive order from the Obama administration which created federal workplace protections for LGBT people. The White House released a statement saying the President was "respectful and supportive of LGBTQ rights" and noted that he was the first Republican nominee to raise the issue (in his acceptance speech at the 2016 Republican National Convention).[180] <https://en.wikipedia.org/wiki/Social_policy_of_Donald_Trump#LGBT_anti-discrimination_laws>
-After Three Years of Attacking L.G.B.T.Q. Rights, Trump Suddenly Tries Outreach <https://www.nytimes.com/2020/08/26/us/politics/trump-lgbtq-rights.html> 
-The absurd claim that Trump is the ‘most pro-gay president in American history’ <https://www.washingtonpost.com/politics/2020/08/24/absurb-claim-that-trump-is-most-pro-gay-president-american-history/> <https://archive.is/rrJPy> 
-
-# biden vs trump: age
-Trump will be 74 and Biden will be 77 in 2020: <https://fivethirtyeight.com/features/what-happens-if-a-presidential-nominee-can-no-longer-run-for-office/> https://cdn.discordapp.com/attachments/418850379518705675/710688750400700456/skelley-INCAPACITATED-NOMINEE-0415-1.png
-
-# democratic leftism
-the democratic manifesto has moved left over time: <http://archive.is/JmCxh> https://cdn.discordapp.com/attachments/418850379518705675/703324027644674100/unknown.png https://cdn.discordapp.com/attachments/418850379518705675/703324062864244756/unknown.png
-
-# dw-nominate suggests biden is center-left (relative to USA)
-DW-Nominate for Biden: <https://voteview.com/person/14101/joseph-robinette-biden-jr> https://cdn.discordapp.com/attachments/418850379518705675/703325130713202700/unknown.png
-DW-Nominate for Sanders: <https://voteview.com/person/29147/bernard-sanders> https://cdn.discordapp.com/attachments/418850379518705675/703325169019650108/unknown.png
 
 # trump and unions
 Trump has attacked private-sector unions: <https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/>
@@ -5694,7 +5616,7 @@ about half of Americans acknowledge that Trump was born wealthy: <https://www.po
 #####
 # 2016 primary
 #####o
-# alleged media anti-bernie bias: evidence against? (weak evidence IMO for strengths)
+# alleged media anti-bernie bias: weak evidence
 Shorenstein analysis: in the pre-primary (Jan 2015-Dec 2015), Sanders received more-positive coverage than Clinton most of the time: <https://shorensteincenter.org/pre-primary-news-coverage-2016-trump-clinton-sanders/> https://cdn.discordapp.com/attachments/418850379518705675/630737747254181888/unknown.png
 Shorenstein analysis: in the primary (Jan 2016-June 2016), Sanders received more-positive coverage than Clinton 1/2 of the time and less-positive 1/2 of the time: <https://shorensteincenter.org/news-coverage-2016-presidential-primaries/> https://cdn.discordapp.com/attachments/418850379518705675/630743789107150848/unknown.png
 opinion polling: Sanders polled around 5% until May 2015 and rose to ~40% by April 2016: <https://www.realclearpolitics.com/epolls/2016/president/us/2016_democratic_presidential_nomination-3824.html> https://cdn.discordapp.com/attachments/418850379518705675/630741958675136512/unknown.png
@@ -5704,8 +5626,26 @@ only 1 in 10 Sanders voters ended up voting for Trump, comparable to switches fo
 #####c
 
 #####
+# blue states vs red states
+#####o
+# federal money: blue states are not "welfare queens"
+Pew 2021: federal aid as a percent of state budgets tends to be higher in red states than blue states (likely because red states are poorer): <https://www.pewtrusts.org/en/research-and-analysis/articles/2021/12/22/2019-federal-share-of-state-revenue-remains-stable> https://cdn.discordapp.com/attachments/742557921849901077/983842615541784616/unknown.png
+Tierney 2017: red states tend to take more from the federal government than they give (likely because red states are poorer): <https://www.theatlantic.com/business/archive/2014/05/which-states-are-givers-and-which-are-takers/361668/> <https://archive.ph/Hv548> https://cdn.discordapp.com/attachments/418850379518705675/469767203248668672/unknown.png
+
+# productivity: blue states not slackers
+Muro and Liu 2016: Clinton-voting counties made up 64% of the US GDP; Trump-voting counties were just 36%: <https://www.brookings.edu/blog/the-avenue/2016/11/29/another-clinton-trump-divide-high-output-america-vs-low-output-america/> https://cdn.discordapp.com/attachments/418850379518705675/488749782354100235/unknown.png
+
+# poverty: blue states not poorer
+Kneebone 2016: from 2000 to 2010-2014, poverty has grown faster in R than D districts; this suggests that Republican policies failed worse at preventing poverty: <https://www.brookings.edu/research/poverty-crosses-party-lines/> https://cdn.discordapp.com/attachments/418850379518705675/641087611984805888/unknown.png Between 2000 and 2010-14, the poor population grew faster in red districts than blue. The number of people living below the poverty line (e.g., $24,230 for a family of four in 2014) in Republican districts climbed by 49 percent between 2000 and 2010-14 compared with a 33 percent increase in Democratic districts. As a result, Republican districts accounted for 60 percent of the increase in the nation’s poor population during that time. At the same time, poverty rates rose by similar margins in both red and blue districts (3.3 and 3.2 percentage points, respectively).
+#####c
+
+#####
 # republican opposition to democracy: gerrymandering
 #####o
+# causal evidence: republican trifectas harm democracy
+Grumbach 2022 preprint: differences-in-differences: after Rep trifectas take power, the Democracy Index (a measure that mostly focuses on gerrymandering and includes voter disenfranchisement & making voting harder): <https://sites.google.com/view/jakegrumbach/working-papers> <https://cdn.discordapp.com/attachments/742557921849901077/983851175172517928/grumbach2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/983851909767127060/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/983851841248968765/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/983851990205480980/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/983852464396730450/unknown.png
+Grumbach and Aneja 2021 preprint: <https://sites.google.com/view/jakegrumbach/working-papers> <https://cdn.discordapp.com/attachments/742557921849901077/983851351396200468/grumbach2021.pdf>
+
 # us house effects
 on average, Democrats would need to win 54.4% of the vote to win a majority in the US house: in the average election from 2012 to 2016, 59 of 435 seats (14%) would have changed party if percent of votes cast matched the percent of seats won; Democrats unfairly gained 20 seats; Republicans unfairly gained 39 seats; on net, Republicans unfairly gained a 19 of 435 seats (4.4%) partisan advantage: <https://www.americanprogress.org/issues/democracy/reports/2019/05/09/468916/voter-determined-districts/> https://cdn.discordapp.com/attachments/418850379518705675/772570529927790602/VoterDistricts-fig2-693.png
 gerrymandering clearly benefits republicans in the US House: <https://www.brennancenter.org/our-work/research-reports/extreme-maps> <https://cdn.discordapp.com/attachments/418850379518705675/774799344288792576/extreme_maps.pdf> https://cdn.discordapp.com/attachments/418850379518705675/774800355078832128/unknown.png
@@ -5730,6 +5670,10 @@ in 2018 in Wisconsin, Democratic candidates for the US House received 53% of the
 Lührmann Medzihorsky Lindberg 2021: the Republican Party has adopted increasingly illiberal (anti-pluralist) rhetoric and policy positions; it is closer to the illiberal parties of Orban's Fidesz, Modi's BJP, Erdogan's AKP, or Bolsonaro's PSL: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3813132> <https://v-dem.net/media/publications/working_paper_116_final.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982108076524048435/luhrman2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982108258363908136/unknown.png
 Lührmann Medzihorsky Lindberg 2021: this results from the fact that the Republican Party's rhetoric and policy positions have shown increasingly lack of commitment to democracy, disrespect of minority rights, demonization of opponents, and encouragement of violence:: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3813132> <https://v-dem.net/media/publications/working_paper_116_final.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982108076524048435/luhrman2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982109180485845005/unknown.png
 Lührmann Medzihorsky Lindberg 2021: anti-pluralist rhetoric and policy positions strongly correlate with anti-democratic actions; anti-pluralist party rule correlates with a 4.8x higher risk (6% vs 29%) of reduced V-DEM democracy score: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3813132> <https://v-dem.net/media/publications/working_paper_116_final.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982108076524048435/luhrman2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/982108490128580649/unknown.png
+
+# democratic rhetoric: has moved leftward
+Chinoy 2019: the Democratic Party's manifesto's rhetoric has moved leftward over time: <https://www.nytimes.com/interactive/2019/06/26/opinion/sunday/republican-platform-far-right.html> <http://archive.is/JmCxh> https://cdn.discordapp.com/attachments/418850379518705675/703324062864244756/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/983845043615973438/unknown.png
+^ citation for above: Manifesto Project: <https://manifesto-project.wzb.eu/>
 
 # relevant scotus cases
 in 2015, the Supreme Court ruled 5-4 to uphold that an independent districting comission was constitutional: <https://en.wikipedia.org/wiki/Arizona_State_Legislature_v._Arizona_Independent_Redistricting_Commission>
@@ -10723,6 +10667,7 @@ Zeoli 2010: correlational evidence suggests that intimate partner homicide is in
 #
 #
 #####o
+Note: This section summarizes several books, some of which I strongly disagree with, and others which have good and bad sections. Unlike other sections, where I mostly try to concentrate evidence I agree with (or refute studies I disagree with), this section is almost entirely a series of raw summaries.
 
 #####
 #
