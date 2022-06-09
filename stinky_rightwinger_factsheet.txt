@@ -4067,32 +4067,6 @@ Geynisman-Tan 2018: among 1003 women, those who reported having had anal sex als
 #####c
 
 #####
-# nonheterosexuality -> child sexual abuse
-#####o
-# evidence: abuse
-in a sample of 175 child sexual abusers, 47% were "fixated" (meaning, attracted to children only) and 53% were "regressed" (meaning, usually attracted to adults but temporarily sexually abusing a child). Of the "regressed", 76% were heterosexual, 24% were bisexual, and 0% were homosexual: <https://link.springer.com/article/10.1007/BF01542377> <https://sci-hub.se/10.1007/BF01542377> https://cdn.discordapp.com/attachments/418850379518705675/638843898118144010/unknown.png
-in a sample of 269 child molesters, 237 (88%) were identified as heterosexual, while just 2 (0.7%) could be identified as potentially homosexual: <https://pediatrics.aappublications.org/content/94/1/41.long> <https://sci-hub.se/10.0000/pediatrics.aappublications.org/content/94/1/41> None of the alleged male offenders against female children was identified by the family or social service agencies as potentially homosexual. [....] Thus, the percentage of girls alleged to have been molested by potentially identifiable lesbian women was 0.4% (1/219). [....] Using the criterion that the alleged offender might possibly be identifiable as being homosexual by the caretaker, there was one male child potentially offended against by ahomosexual male (1 /50 = 2%). [....] Heterosexual relationships were documented for 237 (88%) of the alleged adult offenders.
-
-# evidence: bad studies
-this study counts any adult male who has sex with a male child as a "homosexual", despite strong evidence that pedophiles fall into two categories -- fixated and regressed -- as shown in the first study: <https://www.tandfonline.com/doi/abs/10.1080/00926239208404356> <https://sci-hub.se/10.1080/00926239208404356> https://cdn.discordapp.com/attachments/418850379518705675/639070447320956938/unknown.png freund and watson, "The proportions of heterosexual and homosexual pedophiles among sex offenders against children: an exploratory study"
-this study counts any adult male who has sex with a male child as a "homosexual", despite strong evidence that pedophiles fall into two categories -- fixated and regressed -- as shown in the first study: <https://journals.sagepub.com/doi/abs/10.2466/pr0.1985.57.3f.1227> <https://sci-hub.se/10.2466/pr0.1985.57.3f.1227> "Homosexual Molestation of Children/Sexual Interaction of Teacher and Pupil"
-
-# evidence: arousal
-homosexual males responded no more to male children than heterosexual males responded to female children: <https://www.tandfonline.com/doi/abs/10.1080/00224498909551494> <https://sci-hub.se/10.1080/00224498909551494> https://cdn.discordapp.com/attachments/418850379518705675/639077877396275220/unknown.png The results of the present study suggest that the erotic attractiveness of male children (or pubescents) for androphiles is not greater than the erotic attractiveness of female children (or pubescents) to gynephiles.
-#####c
-
-#####
-# child sexual abuse -> nonheterosexuality
-#####o
-# rates
-in a worldwide metastudy, being the victim of child sexual abuse was about 3x higher for male homosexuals than male heterosexuals and about 2x higher for female homosexuals than female heterosexuals: <https://www.tandfonline.com/doi/abs/10.1080/10538712.2015.1006746> <https://sci-hub.se/10.1080/10538712.2015.1006746> https://cdn.discordapp.com/attachments/418850379518705675/638347070880743424/unknown.png This meta-analysis revealed no significant difference between the prevalence of CSA across lesbian, gay, and bisexual individuals. This was true for both sexes; the prevalence of CSA among male sexual minorities was 22.2% and for female sexual minorities was 36.2%. These values appear to differ widely from those of heterosexual people: Pereda and colleagues (2009b) found that the prevalence of CSA was 7.9% in men and 19.7% in women in general sample, and Stoltenborgh and colleagues (2011) found that the prevalence of CSA was 7.6% in men and 18.0% in women. Thus, we might conclude that the prevalence of CSA among sexual minorities is higher than that among heterosexuals.
-in a USA metastudy, homosexuals were 1-4x more likely to be the victim of child sexual abuse: <https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2009.190009> <http://sci-hub.se/10.2105/AJPH.2009.190009> https://cdn.discordapp.com/attachments/418850379518705675/638346922096066560/unknown.png Sexual minority individuals were on average 3.8, 1.2, 1.7, and 2.4 times more likely to experience sexual abuse, parental physical abuse, or assault at school or to miss school through fear, respectively.
-
-# causes
-causation may be reversed: gender-nonconforming children are more likely to be abused, not vice versa: <https://journals.sagepub.com/doi/abs/10.1177/1079063215618378> <http://sci-hub.se/10.1177/1079063215618378> The instrumental variable analysis revealed that the increased prevalence of CSA experienced by nonheterosexuals compared with heterosexuals may be due to the influence of sexual orientation on CSA. In sum, the results suggest that nonheterosexuality may increase the risk of childhood sexual abuse.
-#####c
-
-#####
 # parenting
 #####o
 # happiness
