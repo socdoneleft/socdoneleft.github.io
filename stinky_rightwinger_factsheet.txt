@@ -8622,7 +8622,6 @@ few Muslims worldwide support ISIS -- the most supportive country was Nigeria, w
 mass migration is a meme in the USA: as a proportion of population, the US has had far higher immigration rates than it currently does: <https://www.dhs.gov/immigration-statistics/yearbook> <https://www2.census.gov/prod2/statcomp/documents/CT1970p2-13.pdf> https://cdn.discordapp.com/attachments/418850379518705675/746374531291152384/US_Immigration_versus_Population_1830_2020.png
 mass immigration is a meme in the USA: as a proportion of population, the US has had higher non-native residents than it currently does: <http://www.pewresearch.org/fact-tank/2015/09/30/how-u-s-immigration-laws-and-rules-have-changed-through-history/> https://cdn.discordapp.com/attachments/418850379518705675/746380946877579285/unknown.png
 
-
 # scope of illegal immigration the usa
 bad article asserting the USA has 22 million illegal immigrants (instead of the usual 11 million): <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201193> 
 ^ debunking article demonstrating the same methodology could assert the USA has 8.5 million illegal immigrants: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204199> https://cdn.discordapp.com/attachments/418850379518705675/571057533846945819/image.png
@@ -8687,6 +8686,19 @@ immigrants produce patents at double the rate as natives, and the presence of th
 
 # brain drain appears not to be real
 outmigration (highly circular) from Nepal increased education and employment among nonmigrant Nepalese: <https://academic.oup.com/ej/article/127/600/495/5067822> https://cdn.discordapp.com/attachments/418850379518705675/569040368444899328/unknown.png Starting in 1993, recruits were required to have completed at least eight years of education and written tests in mathematics and English became part of the selection process. In 1997, the minimum education requirement was increased to 10 years. [....] Third, because recruits must be between 17 1/2 and 21 years old, men who were 22 or older in 1993 were not affected by the change. These older men are referred to as the ineligible cohort and the younger ones are referred to as the eligible cohort.
+#####c
+
+#####
+# labor mobility is labor power
+#####o
+# historical natural experiment: iceland
+Nakamura Sigurdsson Steinsson: a lava eruption in 1973 on an island in Iceland may have caused small but significant income gains among those who were forced to move; suggests that migration frictions left some people some people stuck in place: <https://www.nber.org/papers/w22392> <https://cdn.discordapp.com/attachments/742557921849901077/985299667015331890/nakamura2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985299911442571294/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985300106112811088/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985300193769558036/unknown.png 
+
+# todo reread
+Abramitzky et al 2021: as a group, children of immigrants achieve more upward mobility than the children of U.S.-born fathers; that the mobility advantage of the children of immigrants is just as strong today as it was in the past. What’s more, some of the immigrant groups that politicians accused long ago of having little to contribute to the economy—the Irish, Italians, and Portuguese—actually achieved the highest rates of upward mobility: <https://time.com/6182715/immigrants-children-us-mobility/> <https://www.aeaweb.org/articles?id=10.1257/aer.20191586> <https://sci-hub.se/10.1257/aer.20191586>
+^ Abramitzky and Boustan 2022: book expanding on the concept: <http://www.worldcat.org/oclc/1283132665> <https://u1lib.org/book/21713842/f0b189> <https://cdn.discordapp.com/attachments/742557921849901077/985176713350770708/Abramitzky2022.pdf>
+Abramitzky Boustan Eriksson 2012: <https://www.aeaweb.org/articles?id=10.1257/aer.102.5.1832> 
+Abramitzky Boustan Eriksson 2014: <https://www.journals.uchicago.edu/doi/abs/10.1086/675805>
 #####c
 
 #####
