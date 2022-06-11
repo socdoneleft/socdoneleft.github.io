@@ -3721,6 +3721,30 @@ among trans adults, self-reported stigma is associated with trans suicide attemp
 #####c
 
 #####
+# hormone blockers
+#####o
+# literature review
+Call Challa Telingator 2021: literature review: puberty suppression is temporary and reversible, which allows time for an adolescent to decide their gender identity; blockers have long been used to treat precocious puberty and show no long-term side effects: <https://link.springer.com/article/10.1007/s11920-021-01245-9> <https://sci-hub.se/10.1007/s11920-021-01245-9> <https://cdn.discordapp.com/attachments/742557921849901077/984966418669912105/call2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984984097401212988/unknown.png
+
+# todo
+de Vries et al 2011: todo reread xxx: that transgender children treated with puberty blockers showed improved psychological functioning: <https://www.sciencedirect.com/science/article/abs/pii/S1743609515336171> 
+de Vries et al 2014: todo reread xxx: that transgender children treated with puberty blockers showed improved psychological functioning: <https://www.publications.aap.org/pediatrics/article-abstract/134/4/696/32932/Young-Adult-Psychological-Outcome-After-Puberty>
+Mahfouda et al 2017: todo reread xxx: puberty blockers do not alter long-term pubertal development but rather temporarily pause the progression of endogenous puberty to give patients time to explore their gender without committing to irreversible development of secondary sex characteristics: <https://www.sciencedirect.com/science/article/pii/S2213858717300992>
+
+# puberty blockers reduce suicidality to that of cis youth
+van der Miesen et al 2019: compared to 651 cis youth, scores for internalizing, externalizing, & suicidality were similar among 178 trans youth using puberty blockers but were higher among 272 trans youth not on puberty suppression: <https://www.sciencedirect.com/science/article/abs/pii/S1054139X20300276> <https://sci-hub.se/10.1016/j.jadohealth.2019.12.018> <https://cdn.discordapp.com/attachments/742557921849901077/984973526316490802/vanderMiesen2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984978952412094464/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/984979178392789002/unknown.png """The samples in this study consisted of consecutive referrals to the Center of Expertise on Gender Dysphoria of the VU University Medical Center (VUmc) in Amsterdam, the Netherlands, between 2012 and 2015, and a control group of cisgender adolescents recruited in 2015 in the general population. During this period, 504 adolescents were seen in our gender identity service. Fiftythree participants did not complete the assessment process and did, therefore, not participate in this study. The reason for dropout was failure to complete the questionnaire or alternation of symptoms of GD. Of the adolescents diagnosed with GD, 179 were about to start GAH treatment. One participant did not complete the questionnaire and was thus excluded. Therefore, in this cross-sectional study, the three groups that were compared consisted of (1) adolescents who just started the assessment process (n ¼ 272; mean age ¼ 14.5 years; 116 assigned boys at birth and 156 assigned girls at birth), (2) adolescents diagnosed with GD who were on puberty suppression and about to start GAH treatment (n ¼ 178; mean age ¼ 16.8 years; 68 assigned boys at birth and 110 assigned girls at birth), and (3) cisgender adolescents recruited from the general population (n ¼ 651; mean age ¼ 15.4 years; 346 assigned boys at birth and 305 assigned girls at birth). Adolescents who just started the diagnostic procedure were assessed during their first sessions at the VUmc. Adolescents diagnosed with GD were assessed before the start of GAH. During both assessments, parents and children completed several questionnaires [20]."""
+
+# puberty blockers reduce lifetime suicidal ideation by many times
+Turban et al 2020: among 20619 trans adults (18-36 years old), 2.5% reported puberty blocker use in adolescence; that segment reported 0.3x as much lifetime suicidal ideation as those who wanted but could not receive puberty blockers: <https://publications.aap.org/pediatrics/article/145/2/e20191725/68259/Pubertal-Suppression-for-Transgender-Youth-and> <https://sci-hub.se/10.1542/peds.2019-1725> <https://cdn.discordapp.com/attachments/742557921849901077/984981785484075050/turban2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984982868533063720/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/984983329659060294/unknown.png
+#####c
+
+#####
+# cross-sex hormone therapy: evidence for adolescents
+#####o
+Call Challa Telingator 2021: literature review: puberty suppression is temporary and reversible, which allows time for an adolescent to decide their gender identity; blockers have long been used to treat precocious puberty and show no long-term side effects: <https://link.springer.com/article/10.1007/s11920-021-01245-9> <https://sci-hub.se/10.1007/s11920-021-01245-9> <https://cdn.discordapp.com/attachments/742557921849901077/984966418669912105/call2021.pdf>
+#####c
+
+#####
 # cross-sex hormone therapy: evidence for adults
 #####o
 # effects: mental health
@@ -3735,7 +3759,7 @@ most trans people felt that their gender was "wrong" before 20: <https://transeq
 #####c
 
 #####
-# cross-sex hormone therapy / hormone blockers: desistance
+# desistance from transgender identity in youth
 #####o
 # rate estimates: newest, highest quality
 Olson et al 2022: among 280 transgender youth who started social gender transition around 6 years old, 98.9% remained transgender (opposite gender or nonbinary) at the end of the study, around 5.5 years since starting transition: <https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2021-056082/186992/Gender-Identity-5-Years-After-Social-Transition> <https://cdn.discordapp.com/attachments/742557921849901077/971978733458186270/olson2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/971974456501223434/unknown.png
@@ -3760,7 +3784,7 @@ Clarke and Spiliadis 2019: 58%, 1.5 years: in the USA between 2014 and 2017, 58.
 #####c
 
 #####
-# sexual reassignment surgery: efficacy
+# sexual reassignment surgery: efficacy in adults
 #####o
 # meta-studies: surgical outcomes
 Manrique et al 2018: meta-study: 92% of vaginoplasty patients reported overall satisfaction, 86% satisfaction with function, 90% with aesthetic outcomes: <https://pubmed.ncbi.nlm.nih.gov/29489533/> <https://journals.lww.com/annalsplasticsurgery/Abstract/2018/06000/Complications_and_Patient_Reported_Outcomes_in.19.aspx> <https://sci-hub.se/10.1097/SAP.0000000000001393> <https://cdn.discordapp.com/attachments/742557921849901077/983161503010127872/manrique2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/983168589085409310/unknown.png """Patient-reported outcomes pooled from studies with both techniques, as shown in Figure 3, included an overall satisfaction rate of 92% (75%–100%) with overall results, 86% (72%–95%) with function, and 90% (74%–95%) with aesthetic outcomes. With the penile inversion technique, patient-reported outcomes included a satisfaction rate of 88% (71%–99%) with overall results, 86% (66%–98%) with function, and 86% (71%–96%) with esthetics outcome. Only one study reported overall satisfaction with overall results, and all patients in this study were satisfied.22 Satisfaction with functional outcomes in the intestinal vaginoplasty group was of 86% (75%–95%). One group reported satisfaction with esthetic outcomes in this group, which was 86% (69%–94%).16"""
