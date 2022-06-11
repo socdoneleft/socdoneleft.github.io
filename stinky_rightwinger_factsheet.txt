@@ -1559,14 +1559,18 @@ Acemoglu 2000: causal evidence suggests that education has large positive extern
 #####
 # education policies: summer vacations bad
 #####o
-# summer vacation effects on learning: 
+# summer vacation effects on learning: early studies
 Cooper et al 1996: metastudy: summer vacation over had significant negative effects on student performance in math and reading, excluding the Sustaining Effects Study (SES), which had different results than most other studies: study: <https://journals.sagepub.com/doi/abs/10.3102/00346543066003227> <http://sci-hub.se/10.3102/00346543066003227> <https://cdn.discordapp.com/attachments/742557921849901077/960005518133461062/cooper1996.pdf> https://cdn.discordapp.com/attachments/418850379518705675/664541074903138349/unknown.png
 ^ Borman 2000: graph for above: <https://eric.ed.gov/?id=EJ630023> <https://sci-hub.se/10.1111/1540-5834.00069> <https://cdn.discordapp.com/attachments/742557921849901077/960005517885964359/borman2000.pdf> https://cdn.discordapp.com/attachments/418850379518705675/664543004375121921/unknown.png
 Alexander et al 2007: panel study n=300: low SES students stagnated over the summer while high SES students gained; this difference accounts for 66% (48.48/73.16) of the absolute difference: <https://journals.sagepub.com/doi/10.1177/000312240707200202> <https://sci-hub.se/10.1177/000312240707200202> <https://cdn.discordapp.com/attachments/742557921849901077/960005757716275210/alexander2007.pdf> https://cdn.discordapp.com/attachments/742557921849901077/960005857930776596/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/960006040127168643/unknown.png
 ^ Alexander et al 1996: panel study: <https://books.google.com/books?id=6tveJqNXcWQC> <https://u1lib.org/book/885106/7ac405> https://cdn.discordapp.com/attachments/418850379518705675/664536645370118217/unknown.png n=326 full, 790 initial
 
-# summer learning
-Cooper 2003: meta-study: modified school calendars that have students learn during the summer (with same or comparable overall school days) have small, positive effects on student learning, with larger effcts for disadvantaged students: <https://journals.sagepub.com/doi/abs/10.3102/00346543073001001> <https://sci-hub.se/10.3102/00346543073001001> https://cdn.discordapp.com/attachments/418850379518705675/664550784897384459/unknown.png
+# summer vacation effects on learning: later studies: no major effect, no effect by socioeconomics or race
+Kuhfeld 2019: those with greater Spring-Summer learning loss showed greater Fall-Spring learning growth on NWEA MAP tests, suggesting that the loss is not permanent and is related to something plastic: <https://kappanonline.org/rethinking-summer-slide-the-more-you-gain-the-more-you-lose/> https://cdn.discordapp.com/attachments/742557921849901077/985325753988157500/unknown.png
+von Hippel Workman Downey 2018: using the high-quality ECLS-K studies, there was no differential learning loss over the summer by socioeconomic status or race/ethnicity; instead, differences in education emerge before kindergarten: <https://journals.sagepub.com/doi/full/10.1177/0038040718801760> <https://sci-hub.se/10.1177/0038040718801760> <https://cdn.discordapp.com/attachments/742557921849901077/985325539160121394/vonhippel2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985326019873505330/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985326051850858516/unknown.png
+
+# summer learning reform: policy effects
+Cooper et al 2003: meta-study: modified school calendars that have students learn during the summer (with same or comparable overall school days) have small, positive effects on student learning (around 1/10th of a standard deviation), with larger effcts for disadvantaged students: <https://journals.sagepub.com/doi/abs/10.3102/00346543073001001> <https://sci-hub.se/10.3102/00346543073001001> <https://cdn.discordapp.com/attachments/742557921849901077/985326783148752976/cooper2003.pdf> https://cdn.discordapp.com/attachments/418850379518705675/664550784897384459/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985327277694935080/unknown.png
 #####c
 
 #####
