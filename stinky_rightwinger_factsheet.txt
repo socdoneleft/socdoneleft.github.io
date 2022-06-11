@@ -3557,6 +3557,9 @@ of US adults willing to talk about sexual topics who have not dated a trans pers
 # self-reported rating of passing / clocking / attractiveness
 most trans people report that people could not usually tell that they were trans: <https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> https://cdn.discordapp.com/attachments/418850379518705675/517484183879417906/unknown.png
 
+# age of trans feelings
+most trans people felt that their gender was "wrong" before 20: <https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> https://cdn.discordapp.com/attachments/418850379518705675/517483097630048279/unknown.png
+
 # transition status: usa: overall
 most trans people have transitioned, but more trans men (FtM) than trans women (MtF): <https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> https://cdn.discordapp.com/attachments/418850379518705675/517483615173476370/unknown.png
 
@@ -3679,13 +3682,13 @@ Moser 2009: using the same methods Blanchard uses, one would be forced to conclu
 # transracialism
 #####o
 # social acceptance in hypatia article
-Tuvel 2017: transgenderism and transracialism *could* be considered analogous if they were both societally accepted (the latter is not): <https://en.wikipedia.org/wiki/Hypatia_transracialism_controversy> <https://onlinelibrary.wiley.com/doi/pdf/10.1111/hypa.12327> <http://sci-hub.se/10.1111/hypa.12327> <https://cdn.discordapp.com/attachments/742557921849901077/808466748591702036/tuvel2017.pdf> """In the case of sex, the recognition of transgender identity has involved a shift away from an emphasis on one’s sexed biology toward an emphasis on gendered selfidentification. In a similar fashion, the recognition of transracial identity might eventually involve a shift away from an emphasis on ancestral ties or skin color of origin toward an emphasis on racial self-identification. In both cases, I think we have stronger reasons to accept individuals’ self-identities than to force them to feel beholden to an identity thrust upon them at birth.10 The argument for this point is broadly Millian; as a rule, we should encourage “different experiments in living” and not interfere with others’ liberty unless doing so would prevent harm to others (Mill 2002, 47). I hope to have shown that harm to members of a race is not an inevitable or obvious consequence of transracialism and, importantly, no more inevitable or obvious in the case of race than of sex."""
+Tuvel 2017: claims transgenderism and transracialism *could* be considered analogous if they were both societally accepted (the latter is not): <https://en.wikipedia.org/wiki/Hypatia_transracialism_controversy> <https://onlinelibrary.wiley.com/doi/pdf/10.1111/hypa.12327> <http://sci-hub.se/10.1111/hypa.12327> <https://cdn.discordapp.com/attachments/742557921849901077/808466748591702036/tuvel2017.pdf> """In the case of sex, the recognition of transgender identity has involved a shift away from an emphasis on one’s sexed biology toward an emphasis on gendered selfidentification. In a similar fashion, the recognition of transracial identity might eventually involve a shift away from an emphasis on ancestral ties or skin color of origin toward an emphasis on racial self-identification. In both cases, I think we have stronger reasons to accept individuals’ self-identities than to force them to feel beholden to an identity thrust upon them at birth.10 The argument for this point is broadly Millian; as a rule, we should encourage “different experiments in living” and not interfere with others’ liberty unless doing so would prevent harm to others (Mill 2002, 47). I hope to have shown that harm to members of a race is not an inevitable or obvious consequence of transracialism and, importantly, no more inevitable or obvious in the case of race than of sex."""
 #####c
 #####c
 
 #####
 #
-# transgender: treatments for gender nonconformity
+# transgender: treatments for gender dysphoria
 #
 #####o
 
@@ -3724,7 +3727,7 @@ among trans adults, self-reported stigma is associated with trans suicide attemp
 # hormone blockers
 #####o
 # literature review
-Call Challa Telingator 2021: literature review: puberty suppression is temporary and reversible, which allows time for an adolescent to decide their gender identity; blockers have long been used to treat precocious puberty and show no long-term side effects: <https://link.springer.com/article/10.1007/s11920-021-01245-9> <https://sci-hub.se/10.1007/s11920-021-01245-9> <https://cdn.discordapp.com/attachments/742557921849901077/984966418669912105/call2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984984097401212988/unknown.png
+Call Challa Telingator 2021: literature review: puberty suppression is temporary and reversible; give time for an adolescent to decide their gender; have long been used to treat precocious puberty; show no long-term side effects: <https://link.springer.com/article/10.1007/s11920-021-01245-9> <https://sci-hub.se/10.1007/s11920-021-01245-9> <https://cdn.discordapp.com/attachments/742557921849901077/984966418669912105/call2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984984097401212988/unknown.png
 
 # todo
 de Vries et al 2011: todo reread xxx: that transgender children treated with puberty blockers showed improved psychological functioning: <https://www.sciencedirect.com/science/article/abs/pii/S1743609515336171> 
@@ -3741,21 +3744,26 @@ Turban et al 2020: among 20619 trans adults (18-36 years old), 2.5% reported pub
 #####
 # cross-sex hormone therapy: evidence for adolescents
 #####o
-Call Challa Telingator 2021: literature review: puberty suppression is temporary and reversible, which allows time for an adolescent to decide their gender identity; blockers have long been used to treat precocious puberty and show no long-term side effects: <https://link.springer.com/article/10.1007/s11920-021-01245-9> <https://sci-hub.se/10.1007/s11920-021-01245-9> <https://cdn.discordapp.com/attachments/742557921849901077/984966418669912105/call2021.pdf>
+# literature review: summary
+Call Challa Telingator 2021: HRT is irreversible, but so is puberty, and both should be considered carefully; and HRT has large positive effects on well-being: <https://link.springer.com/article/10.1007/s11920-021-01245-9> <https://sci-hub.se/10.1007/s11920-021-01245-9> <https://cdn.discordapp.com/attachments/742557921849901077/984966418669912105/call2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984985888956219402/unknown.png
+
+# effects: mental health improvements
+Kuper et al 2020: among 148 trans youth (9–18yo) taking hormone replacement therapy (83%), reported mental health improved and suicidal ideation, suicide attempt, and nonsuicidal self-injury (NSSI) decreased at both 1-3 month and 18+ month followup: <https://www.publications.aap.org/pediatrics/article-split/145/4/e20193006/76951/Body-Dissatisfaction-and-Mental-Health-Outcomes-of> <https://sci-hub.se/10.1542/peds.2019-3006> <https://cdn.discordapp.com/attachments/742557921849901077/984991186857111582/kuper2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984994330261458955/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/984992978412118026/unknown.png
 #####c
 
 #####
 # cross-sex hormone therapy: evidence for adults
 #####o
+# literature review: mental health
+Nguyen et al 2018: literature review: improved mental health: <https://link.springer.com/article/10.1007/s11920-018-0973-0> <https://sci-hub.se/10.1007/s11920-018-0973-0> <https://cdn.discordapp.com/attachments/742557921849901077/808463794006917160/nguyen2018.pdf> """Although there are some conflicting data, GAHT overwhelmingly seems to have positive psychological effects in both adolescents and adults. Research tends to support that GAHT reduces symptoms of anxiety and depression, lowers perceived and social distress, and improves quality of life and self-esteem in both male-to-female and female-to-male transgender individuals."""
+
 # effects: mental health
-Nguyen 2018: literature review: <https://link.springer.com/article/10.1007/s11920-018-0973-0> <https://sci-hub.se/10.1007/s11920-018-0973-0> <https://cdn.discordapp.com/attachments/742557921849901077/808463794006917160/nguyen2018.pdf> """Although there are some conflicting data, GAHT overwhelmingly seems to have positive psychological effects in both adolescents and adults. Research tends to support that GAHT reduces symptoms of anxiety and depression, lowers perceived and social distress, and improves quality of life and self-esteem in both male-to-female and female-to-male transgender individuals."""
-Heylens 2014: among 57 patients, hormone therapy decreased symptoms of mental distress for trans people to that of the general population: <https://www.jsm.jsexmed.org/article/S1743-6095(15)30533-6/fulltext> <https://sci-hub.se/10.1111/jsm.12363> <https://cdn.discordapp.com/attachments/742557921849901077/808463794749046824/heylens2014.pdf> A difference in SCL-90 overall psychoneurotic distress was observed at the different points of assessments (P = 0.003), with the most prominent decrease occurring after the initiation of hormone therapy (P < 0.001). Significant decreases were found in the subscales such as anxiety, depression, interpersonal sensitivity, and hostility. Furthermore, the SCL-90 scores resembled those of a general population after hormone therapy was initiated. Analysis of the psychosocial variables showed no significant differences between pre- and postoperative assessments.
+Heylens 2014: among 57 patients (adults), hormone therapy decreased symptoms of mental distress for trans people to that of the general population: <https://www.sciencedirect.com/science/article/abs/pii/S1743609515305336> <https://www.jsm.jsexmed.org/article/S1743-6095(15)30533-6/fulltext> <https://sci-hub.se/10.1111/jsm.12363> <https://cdn.discordapp.com/attachments/742557921849901077/808463794749046824/heylens2014.pdf> """A difference in SCL-90 overall psychoneurotic distress was observed at the different points of assessments (P = 0.003), with the most prominent decrease occurring after the initiation of hormone therapy (P < 0.001). Significant decreases were found in the subscales such as anxiety, depression, interpersonal sensitivity, and hostility. Furthermore, the SCL-90 scores resembled those of a general population after hormone therapy was initiated. Analysis of the psychosocial variables showed no significant differences between pre- and postoperative assessments."""
+Colizzi 2014: among 107 patients (age ~29), rates of depression were ~19pp higher before hormone therapy (42%) than after 12 months on hormone therapy (33%):: <https://www.sciencedirect.com/science/article/abs/pii/S030645301300348X> <https://sci-hub.se/10.1016/j.psyneuen.2013.09.029> <https://cdn.discordapp.com/attachments/742557921849901077/984996463144747028/colizzi2014.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984997014225952808/unknown.png
+Colizzi et al 2013: among 70 patients (age ~28), cortisol levels and perceived stress were above normal before hormone therapy, but after 12 months of hormone therapy were within normal levels: <https://www.sciencedirect.com/science/article/abs/pii/S1743609515302241> <https://sci-hub.se/10.1111/jsm.12155> <https://cdn.discordapp.com/attachments/742557921849901077/984994857108008960/colizzi2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/984995819541368882/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/984996024038875226/unknown.png
 
 # effects: cardiovascular health worsened
 transfeminine (MtF) women on cross-sex hormones had 2-4x higher rates of venous thromboembolism (blood clot in veins, usually leg), 2-4x higher rates of ischemic stroke (blood clot in brain/head), and insignificantly higher rates of myocardial infarction (heart attack); there were too few transmasculine cardiovascular events to make any significant claims: <https://annals.org/aim/article-abstract/2687653/cross-sex-hormones-acute-cardiovascular-events-transgender-persons-cohort-study> <https://sci-hub.se/10.7326/M17-2785> https://cdn.discordapp.com/attachments/418850379518705675/671699934147248128/unknown.png n="2842 transfeminine and 2118 transmasculine members with a mean follow-up of 4.0 and 3.6 years, respectively, matched to 48[,]686 cisgender men and 48[,]775 cisgender women." "In summary, the present study demonstrated that cross-sex estrogen is a risk factor for VTE and probably ischemic stroke among transfeminine persons."
-
-# age of trans feelings
-most trans people felt that their gender was "wrong" before 20: <https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> https://cdn.discordapp.com/attachments/418850379518705675/517483097630048279/unknown.png
 #####c
 
 #####
