@@ -824,6 +824,10 @@ baltimore https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-crime-po
 https://foxbaltimore.com/news/city-in-crisis/baltimore-police-departments-clearance-rate-now-426
 https://www.latimes.com/opinion/bookclub/la-reading-los-angeles-kennedy-ghettoside-20150404-story.html
 https://www.wsj.com/articles/the-underpolicing-of-black-america-1422049080
+
+# todo: black lives matter protests -- todo reread xxx -- see published responses, eg the gun store location study (FFL)
+Devi and Fryer 2020: <https://www.nber.org/papers/w27324> <https://sci-hub.se/10.3386/w27324> <https://cdn.discordapp.com/attachments/742557921849901077/985382118538494034/devi2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985382183566999593/unknown.png
+Campbell 2021: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097> https://cdn.discordapp.com/attachments/742557921849901077/985381802808082432/unknown.png """A difference-in-differences design finds census places with protests experienced a 15% to 20% decrease in police homicides from 2014 through 2019, around 300 fewer deaths. This decrease was prominent when protests were large or frequent. Potential mechanisms behind the reduction include police agencies obtaining body-worn cameras to curtail force and depolicing following a so-called `Ferguson Effect.' Fewer property crimes, but more murders, were reported to agencies with local protests; in contrast, the property crime clearance rate fell."""
 #####c
 #####c
 
@@ -2464,6 +2468,12 @@ Chow-White and Green 2013: there may have been an increase of race realist suppo
 Rinderman 2017: <https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00399/full> <http://sci-hub.se/10.3389/fpsyg.2016.00399> https://cdn.discordapp.com/attachments/418850379518705675/721798459514028122/unknown.png
 Rinderman 1987: <https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.42.2.137> <https://sci-hub.se/10.1037/0003-066X.42.2.137> """This is perhaps the central question in the IQ controversy. Respondents were asked to express their opinion of the role of genetic differences in the black-white IQ differential. Forty-five percent believe the difference to be a product of both genetic and environmental variation, compared to only 15% who feel the difference is entirely due to environmental variation. Twenty-four percent of experts do not believe there are sufficient data to support any reasonable opinion, and 14% did not respond to the question. Eight experts (1%) indicate a belief in an entirely genetic determination. The source of socioeconomic class differences in IQ. The case for genetic determination is even more strongly felt for socioeconomic status (SES) differences. Fifty-five percent of experts choose the genetic--environmental option, as opposed to 12% for strictly environmental. Eighteen percent do not feel there are sufficient data, and 15% were nonrespondents. Only one respondent attributes the difference entirely to genetics."""
 #####c
+
+#####
+# persuasion
+#####o
+<https://www.nytimes.com/2019/12/07/us/race-biology-genetics.html> <https://archive.ph/LWApA> <https://www.sciencedirect.com/science/article/pii/S2666247721000397> <https://sci-hub.se/10.1016/j.xhgg.2021.100058> <https://cdn.discordapp.com/attachments/742557921849901077/985386579218542632/abramitzky2021.pdf> 
+#####c
 #####c
 
 #####
@@ -3296,11 +3306,11 @@ Many conservatives claim that "black people had it better under segregation", "b
 Reeves and Rodrigue 2017: at each decline of income, black men have much less upward mobility than white men, but mobility is higher now than ever before: <https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/> <https://archive.ph/wip/GAENC> https://cdn.discordapp.com/attachments/742557921849901077/982376932937191494/unknown.png
 Reeves and Rodrigue 2017: based on a counterfactual simulation where black men had the same income mobility as white men, the average income of black men would have been 35 percent of the average income of white men by 1900; we have not yet reached this benchmark: <https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/> <https://archive.ph/wip/GAENC> https://cdn.discordapp.com/attachments/742557921849901077/982379757427654674/unknown.png
 
-# todo review reread xxx
-Collins and Wanamaker 2017: <https://www.nber.org/papers/w23395> <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2968213> <https://cdn.discordapp.com/attachments/742557921849901077/982383834886721597/collins2017.pdf> 
-Johnson 2016: the upward mobility of black children born into the national bottom 50%, as compared to white children born into the national bottom 50%, has substantially increased since 1945: <https://inequality.stanford.edu/news-events/center-news/can-schools-level-playing-field> <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982381966093607043/johnson2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887079228571648/unknown.png tau represents the percentile increase required to be classified as "upwardly mobile"; tau=0 means "higher percentile than parents", tau=0.2 means "20% higher than parents"
-bottom half of this https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/
-todo: <https://www.brookings.edu/blog/social-mobility-memos/2015/01/15/five-bleak-facts-on-black-opportunity/>
+# intergenerational mobility: in the long run since slavery
+Ellencourt et al 2022: in 1860, the average black person owned just 1/55th of the average white person; today, the average black person owns just 1/6 of what the average white person owns: <https://sites.google.com/view/ellora-derenoncourt/us-inequality-data> <https://cdn.discordapp.com/attachments/742557921849901077/985378803427737610/ellencourt2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985378957501280286/unknown.png
+Ellencourt et al 2022: even if black & white people had had equal ability to build wealth, the white-black wealth ratio would be 3x today, because freedmen were so deeply poor: <https://sites.google.com/view/ellora-derenoncourt/us-inequality-data> <https://cdn.discordapp.com/attachments/742557921849901077/985378803427737610/ellencourt2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985379292118679573/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985379318660202516/unknown.png
+Ellencourt et al 2022: 1st: flow-based policies, which raise black income growth, saving, and capital gains rates, are likely to have a small effect unless they elevate black income/saving/gains over white rates; the authors estimate that even if capital gains, savings rates, and income growth were equal for white and black people, it would take until 2200 (!) for black income to equal white income -- at which point that white-black wealth ratio would still be 1.88x! <https://sites.google.com/view/ellora-derenoncourt/us-inequality-data> <https://cdn.discordapp.com/attachments/742557921849901077/985378803427737610/ellencourt2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985379537724526602/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985379722122907648/unknown.png
+Ellencourt et al 2022: 2nd: Stock-based policies: Classic reparations. A one-time payment of $267k per person to each descendant of enslaved people would instantly reduce the white-black wealth ratio to 1.4x! But this fix would be very temporary. Black people have lower income, capital gains, and savings rates If unchanged, the wealth ratio would grow to >3x after 120y If ~halved, the ratio would grow to 2x after 240y If {capital gains and savings rates} were equal (but not income), the ratio would stabilize at ~1.1x: <https://sites.google.com/view/ellora-derenoncourt/us-inequality-data> <https://cdn.discordapp.com/attachments/742557921849901077/985378803427737610/ellencourt2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985379834643505212/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985379955070365726/unknown.png
 
 # intergenerational mobility: explaining the recent flatline of mobility: society got less equal!
 Manduca 2018: from 1965 to 2015, the median black family's income rose from the 25th percentile to the 35th %ile; these relative gains were nearly exactly negated by overall increasing income inequality: incomes at the 35th %ile dropped from 70% to 50% of the mean: <https://sociologicalscience.com/articles-v5-8-182/> <https://sociologicalscience.com/download/vol-5/march/SocSci_v5_182to205.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/851703489842380810/manduca2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/872287791793463336/E76F9JhXIAElsRL.png
@@ -3311,6 +3321,12 @@ the unemployment rate of black people has always been about 2x that of white peo
 # single motherhood and extra-marital birth
 single motherhood has always been higher for black people: <http://www.pewsocialtrends.org/2016/06/27/1-demographic-trends-and-economic-well-being/> https://cdn.discordapp.com/attachments/418850379518705675/640931855100674078/ST_2016.png
 extramarital births have always been higher for black people: <http://www.pewsocialtrends.org/2016/06/27/1-demographic-trends-and-economic-well-being/ https://cdn.discordapp.com/attachments/418850379518705675/640931941713051670/ST_2016.png
+
+# todo review reread xxx
+Collins and Wanamaker 2017: <https://www.nber.org/papers/w23395> <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2968213> <https://cdn.discordapp.com/attachments/742557921849901077/982383834886721597/collins2017.pdf> 
+Johnson 2016: the upward mobility of black children born into the national bottom 50%, as compared to white children born into the national bottom 50%, has substantially increased since 1945: <https://inequality.stanford.edu/news-events/center-news/can-schools-level-playing-field> <https://gsppi.berkeley.edu/~ruckerj/Johnson_EconMobility_FedRsv.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/982381966093607043/johnson2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/599887079228571648/unknown.png tau represents the percentile increase required to be classified as "upwardly mobile"; tau=0 means "higher percentile than parents", tau=0.2 means "20% higher than parents"
+bottom half of this https://www.brookings.edu/research/the-century-gap-low-economic-mobility-for-black-men-150-years-after-the-civil-war/
+todo: <https://www.brookings.edu/blog/social-mobility-memos/2015/01/15/five-bleak-facts-on-black-opportunity/>
 #####c
 
 #####
@@ -8699,7 +8715,11 @@ outmigration (highly circular) from Nepal increased education and employment amo
 # historical natural experiment: iceland
 Nakamura Sigurdsson Steinsson: a lava eruption in 1973 on an island in Iceland may have caused small but significant income gains among those who were forced to move; suggests that migration frictions left some people some people stuck in place: <https://www.nber.org/papers/w22392> <https://cdn.discordapp.com/attachments/742557921849901077/985299667015331890/nakamura2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985299911442571294/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985300106112811088/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985300193769558036/unknown.png 
 
+# student debt relief as labor mobility
+<https://twitter.com/emollick/status/1519730048001089536> 
+
 # todo reread
+Derenoncourt 2021: instrumental variable: higher-than-expected black movement to a Northern commuting zone predicts lower upward mobility for black men born from 1978-1983; this does not result from selection effects or deindustrialization, but may result from observably higher white flight, segregation, resultant crime, and policing: <https://sites.google.com/view/ellora-derenoncourt/us-inequality-data> <https://cdn.discordapp.com/attachments/742557921849901077/985383471780347914/derenoncourt_2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985385045185404988/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985385286278189127/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985385308080181278/unknown.png """What is more likely is that a restructur- ing of economic activity within Great Migration CZs left Black families in the urban core without adequate opportunities while white families potentially followed jobs by moving to growing suburban areas, a finding in line with the historical and sociological literature on this topic."""
 Abramitzky et al 2021: as a group, children of immigrants achieve more upward mobility than the children of U.S.-born fathers; that the mobility advantage of the children of immigrants is just as strong today as it was in the past. What’s more, some of the immigrant groups that politicians accused long ago of having little to contribute to the economy—the Irish, Italians, and Portuguese—actually achieved the highest rates of upward mobility: <https://time.com/6182715/immigrants-children-us-mobility/> <https://www.aeaweb.org/articles?id=10.1257/aer.20191586> <https://sci-hub.se/10.1257/aer.20191586>
 ^ Abramitzky and Boustan 2022: book expanding on the concept: <http://www.worldcat.org/oclc/1283132665> <https://u1lib.org/book/21713842/f0b189> <https://cdn.discordapp.com/attachments/742557921849901077/985176713350770708/Abramitzky2022.pdf>
 Abramitzky Boustan Eriksson 2012: <https://www.aeaweb.org/articles?id=10.1257/aer.102.5.1832> 
@@ -8877,18 +8897,18 @@ according to the South African Police Service, 74% of farm murders were white an
 # statistics: reliability
 reliability (or lack thereof) of the statistics: <https://www.abc.net.au/news/2018-04-05/fact-check-were-400-white-south-african-farmers-murdered-year/9591724> Dr de Kock told Fact Check that the police's farm murder count was reliable. But he said the "biggest problem" with the data was that police stations do not specifically record hate-based murders or "farm murders". "So a murder, wherever that murder happens, whatever the motive for that murder, will just be registered as a murder." Dr de Kock also pointed out that more than half of farm attacks or murders take place on "small holdings", usually plots of one or two hectares on the edge of towns and cities. "In many cases people don't actually farm on those," he said, explaining that while some people might farm on a small scale, "strictly speaking [they're] no commercial farmer". Dr Burger said the lack of regular government statistics on farm attacks and murders makes it "extremely difficult to accurately define the extent of the problem". But he also said the union works hard to ensure the credibility of its data, which he relies on himself. And according to Dr Burger, murder statistics reported by different groups tended to be similar.
 
-# race motivator
+# no evidence that farm attacks are motivated by race
 2003 South African Human Rights Commission conclusion: <https://africacheck.org/wp-content/uploads/2013/11/Final-Report-Committee-of-Inquiry-Farm-Attacks-July-2003.pdf> 
 2008 South African Human Rights Commission conclusion: <http://www.sahrc.org.za/home/21/files/Reports/Farming%20Inquiry%20Report_2008.pdf>
 2015 South African Human Rights Commission conclusion: <https://www.sahrc.org.za/home/21/files/SAHRC%20SAFETY%20AND%20SECURITY%20IN%20FARM%20COMMUNITIES%202015%20pdf.pdf> The Commission unequivocally states that the causes for 'farm attacks and murders' is not race. The statemetn is made bearing in mind all research conducted in previous hearings and governmetn commissions of inquiries. Racial tensions have been present in South Africa for many decades and continue to be the case in democratic South Africa. [.....] Safety and security challenges persist in farming communities. Violence in farming communities is not based on the ground of race but reflects a reality where issues of racial segregation, land tenure, and economic [dis]empowerment provide the context for considering the root causes of crime which occur in farming communities. In addition, the Commission notes that the term "farm attacks and/or murder" i[s] inappropriate.
 
-# genocide watch
+# genocide watch is not credible
 Genocide Watch has no formal methodology for its claims: <https://africacheck.org/2016/09/15/analysis-genocide-watch-thin-transparency-methodology/> <https://thetempest.co/2018/04/29/news/white-genocide-south-africa/>
 
-# eff: polls
+# eff polls very poorly
 the EFF has done poorly in opinion polling: <https://en.wikipedia.org/wiki/South_African_general_election,_2019#Opinion_polling>
 
-# eff: condemned
+# eff was condemned by anc
 the EFF has been condemned by the ANC: <http://web.archive.org/web/20180613013353/http://www.anc.org.za/content/african-national-congress-statement-blatant-racist-nationalism-eff>
 #####c
 
