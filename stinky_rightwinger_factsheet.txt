@@ -1514,7 +1514,6 @@ Kohn 1999: <https://www.google.com/books/edition/The_Schools_Our_Children_Deserv
 
 # alternative model: ferrer
 Veysey 1979: Ferrer children "often did not learn to read until they were ten or twelve" years old <https://www.google.com/books/edition/The_Communal_Experience/-RZy-l3nHfoC?hl=en&gbpv=1&pg=PA77> <https://archive.org/details/communalexperien0000veys/page/78/mode/2up> https://cdn.discordapp.com/attachments/742557921849901077/888876537842139156/unknown.png
-^ NAAL: according to the Census, self-reported literacy rates for people over 14 years old were 98% for native white, 87% for foreign white, and 77% for black people: <https://nces.ed.gov/naal/lit_history.asp> https://cdn.discordapp.com/attachments/742557921849901077/888879089082073148/unknown.png
 #####c
 
 #####
@@ -3314,6 +3313,9 @@ Derenoncourt et al 2022: 2nd: Stock-based policies: Classic reparations. A one-t
 
 # intergenerational mobility: explaining the recent flatline of mobility: society got less equal!
 Manduca 2018: from 1965 to 2015, the median black family's income rose from the 25th percentile to the 35th %ile; these relative gains were nearly exactly negated by overall increasing income inequality: incomes at the 35th %ile dropped from 70% to 50% of the mean: <https://sociologicalscience.com/articles-v5-8-182/> <https://sociologicalscience.com/download/vol-5/march/SocSci_v5_182to205.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/851703489842380810/manduca2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/872287791793463336/E76F9JhXIAElsRL.png
+
+# literacy in the long run
+NCES NAAL 2007: according to the US Census HSUS, self-reported literacy rates for people over 14 years old were 98% for native white, 87% for foreign white, and 77% for black people: <https://nces.ed.gov/naal/lit_history.asp> <https://archive.ph/6x2g> https://cdn.discordapp.com/attachments/742557921849901077/888879089082073148/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/988149255459995729/unknown.png
 
 # unemployment
 the unemployment rate of black people has always been about 2x that of white people: <http://www.pewsocialtrends.org/2016/06/27/1-demographic-trends-and-economic-well-being/> https://cdn.discordapp.com/attachments/418850379518705675/640931798376775683/ST_2016.png
