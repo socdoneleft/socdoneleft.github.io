@@ -3357,6 +3357,13 @@ Xie and Gough 2011: among 941 Hispanic respondents to the 2003 New Immigrant Sur
 #####c
 
 #####
+# causes: the legacy of slavery
+#####
+# the great migration spurred white backlash, which now hurts black men
+Derenoncourt 2021: instrumental variable: higher-than-expected black movement to a Northern commuting zone predicts lower upward mobility for black men born from 1978-1983; this does not result from selection effects or deindustrialization, but may result from observably higher white flight, segregation, resultant crime, and policing: <https://sites.google.com/view/ellora-derenoncourt/us-inequality-data> <https://cdn.discordapp.com/attachments/742557921849901077/985383471780347914/derenoncourt_2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985385045185404988/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985385286278189127/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985385308080181278/unknown.png """What is more likely is that a restructur- ing of economic activity within Great Migration CZs left Black families in the urban core without adequate opportunities while white families potentially followed jobs by moving to growing suburban areas, a finding in line with the historical and sociological literature on this topic."""
+#####c
+
+#####
 # not causes
 #####o
 # conspicious consumption (consumerism, jewelry, bling)
@@ -3366,6 +3373,9 @@ black and Hispanic people spend more on conspicious consumption than income- and
 #####
 # what about asian people?
 #####
+# immigrant benefit TODO
+Abramitzky et al 2021: as a group, children of immigrants achieve more upward mobility than the children of U.S.-born fathers; that the mobility advantage of the children of immigrants is just as strong today as it was in the past. What’s more, some of the immigrant groups that politicians accused long ago of having little to contribute to the economy—the Irish, Italians, and Portuguese—actually achieved the highest rates of upward mobility: <https://time.com/6182715/immigrants-children-us-mobility/> <https://www.aeaweb.org/articles?id=10.1257/aer.20191586> <https://sci-hub.se/10.1257/aer.20191586>
+
 # not all asian people
 Asian-American economic success is very mixed by ethnicity: <https://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/> https://cdn.discordapp.com/attachments/418850379518705675/640932588642631700/FT_17.png
 
@@ -8783,8 +8793,6 @@ Nakamura Sigurdsson Steinsson: a lava eruption in 1973 on an island in Iceland m
 <https://twitter.com/emollick/status/1519730048001089536> 
 
 # todo reread
-Derenoncourt 2021: instrumental variable: higher-than-expected black movement to a Northern commuting zone predicts lower upward mobility for black men born from 1978-1983; this does not result from selection effects or deindustrialization, but may result from observably higher white flight, segregation, resultant crime, and policing: <https://sites.google.com/view/ellora-derenoncourt/us-inequality-data> <https://cdn.discordapp.com/attachments/742557921849901077/985383471780347914/derenoncourt_2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/985385045185404988/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985385286278189127/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/985385308080181278/unknown.png """What is more likely is that a restructur- ing of economic activity within Great Migration CZs left Black families in the urban core without adequate opportunities while white families potentially followed jobs by moving to growing suburban areas, a finding in line with the historical and sociological literature on this topic."""
-Abramitzky et al 2021: as a group, children of immigrants achieve more upward mobility than the children of U.S.-born fathers; that the mobility advantage of the children of immigrants is just as strong today as it was in the past. What’s more, some of the immigrant groups that politicians accused long ago of having little to contribute to the economy—the Irish, Italians, and Portuguese—actually achieved the highest rates of upward mobility: <https://time.com/6182715/immigrants-children-us-mobility/> <https://www.aeaweb.org/articles?id=10.1257/aer.20191586> <https://sci-hub.se/10.1257/aer.20191586>
 ^ Abramitzky and Boustan 2022: book expanding on the concept: <http://www.worldcat.org/oclc/1283132665> <https://u1lib.org/book/21713842/f0b189> <https://cdn.discordapp.com/attachments/742557921849901077/985176713350770708/Abramitzky2022.pdf>
 Abramitzky Boustan Eriksson 2012: <https://www.aeaweb.org/articles?id=10.1257/aer.102.5.1832> 
 Abramitzky Boustan Eriksson 2014: <https://www.journals.uchicago.edu/doi/abs/10.1086/675805>
