@@ -1692,7 +1692,7 @@ people in all degrees except engineering were, after a few years of college, mor
 # academia bias political bias in academia
 #####o
 # education moves students left, not teachers
-among 6807 students in 47 four-year colleges, 27% moved to the left and 16% moved to the right between freshmen and senior year; however, faculty political orientation was insignificantly associated with this change; students at nonreligious schools moved more left than religious, women moved more left than men, and higher-income students moved slightly less left: <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/indoctrination-u-faculty-ideology-and-changes-in-student-political-orientation/25ABD9B1A3577F27B5659941CD52D6C9> <https://sci-hub.se/10.1017/S1049096508081031> <https://cdn.discordapp.com/attachments/418850379518705675/753305694194892930/mariani2008.pdf> https://cdn.discordapp.com/attachments/418850379518705675/753305372252438578/unknown.png
+Mariani and Hewitt 2008: among 6807 students in 47 four-year colleges, 27% moved to the left and 16% moved to the right between freshmen and senior year; however, faculty political orientation was insignificantly associated with this change; students at nonreligious schools moved more left than religious, women moved more left than men, and higher-income students moved slightly less left: <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/indoctrination-u-faculty-ideology-and-changes-in-student-political-orientation/25ABD9B1A3577F27B5659941CD52D6C9> <https://sci-hub.se/10.1017/S1049096508081031> <https://cdn.discordapp.com/attachments/418850379518705675/753305694194892930/mariani2008.pdf> https://cdn.discordapp.com/attachments/418850379518705675/753305372252438578/unknown.png
 
 # political orientation by field
 among 1643 faculty in 183 four-year colleges in 1999, 72% identified as left or liberal; faculty who were conservative, Christian, or women, were more likely to teach at lower-selectivity colleges: <https://www.degruyter.com/view/journals/for/3/1/article-for.2005.3.1.1067.xml.xml> <https://sci-hub.se/10.2202/1540-8884.1067> <https://cdn.discordapp.com/attachments/418850379518705675/753307126667018370/rothman2005.pdf> https://cdn.discordapp.com/attachments/418850379518705675/753308317937565826/unknown.png
@@ -4315,6 +4315,10 @@ studies by the Polish Federation for Women and Family Planning provide similar e
 # banning increases maternal death
 worldwide, more liberal abortion laws are correlated with lower maternal death rates from abortion: <https://www.who.int/gho/women_and_health/diseases_risk_factors/situation_trends_unsafe_abortion/en/> https://cdn.discordapp.com/attachments/418850379518705675/640934606085816350/unsafe_abortion.png
 in the UK, the legalization of abortion in 1968 was followed by dramatically reduced illegal abortion maternal deaths: <https://cmfblog.org.uk/2012/06/17/how-many-women-really-died-from-abortions-prior-to-the-abortion-act/> https://cdn.discordapp.com/attachments/418850379518705675/640934510317404160/abortionstats.png
+
+# polling
+NPR 2022: 64% of Americans (and 62% of Independents) opposed overturning Roe v. Wade: <https://www.npr.org/2022/05/19/1099844097/abortion-polling-roe-v-wade-supreme-court-draft-opinion> https://cdn.discordapp.com/attachments/742557921849901077/989976409323757608/unknown.png
+Vox 2022: at 24 weeks, 29% say abortion should be legal, 18% say it depends, and 48% say it should be illegal: <https://www.vox.com/policy-and-politics/23167397/abortion-public-opinion-polls-americans> https://cdn.discordapp.com/attachments/742557921849901077/989977793171431424/unknown.png
 #####c
 
 #####
