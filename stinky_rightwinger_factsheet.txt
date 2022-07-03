@@ -4798,12 +4798,25 @@ SK received 1.5bn 2010 USD (6.4% of GDP) in 1960, 1.9bn 2010 USD (3.2% of GDP) i
 # history
 the CCP legalized and encouraged wealthy individuals to join the Party in 2002: <https://www.cambridge.org/core/journals/china-quarterly/article/integrating-wealth-and-power-in-china-the-communist-partys-embrace-of-the-private-sector/EA99A64D882429152C77D71CF6AE88A6> <http://sci-hub.se/10.1017/S0305741007002056> """To further symbolize the CCP's support of the private sector, the 16th Party Congress in 2002 revised the Party's Constitution to include the "Three Represents" slogan promoted by Jiang Zemin. The CCP now claimed to represent not only its traditional supporters, the workers and farmers, but also the interests of the new "advanced productive forces" of urban economic and social elites, thereby justifying their inclusion in the Party. Although often ridiculed as empty rhetoric, the "Three Represents" changed the Party's strategy of co-opting entrepreneurs from an informal practice to a formal goal."""
 
-# wealth of the leadership: sources
+# wealth of the leadership: usa
 wealth of US congress (2018): total $2.43 billion, mean $55.8 million, median $511 thousand: <https://www.rollcall.com/2018/02/27/wealth-of-congress-richer-than-ever-but-mostly-at-the-very-top/>
+
+# wealth of the leadership: china
+Li 2017: research on the this topic: <https://journals.openedition.org/chinaperspectives/7233> <https://sci-hub.se/10.4000/chinaperspectives.7233> <https://cdn.discordapp.com/attachments/742557921849901077/992964136164143174/li2017.pdf> """Private entrepreneurs have also been granted representation in the NPC and National People’s Political Consultative Conference (NPPCC) since the 1990s. According to calculations by Southern Weekly in 2010, about 9% of the delegates in the 11th NPC (2008‑2013) were owners of private enterprises.28 According to the Shanghai-based Hurun Research Institute, about 15% of private entrepreneurs on the China’s Rich List were members of either the NPC or NPPCC from 2010 to 2013, and as much as 30-40% of the 50 richest private entrepreneurs in China were also NPC/NPPCC delegates from 2010 to 2014.29"""
+2018 Hurun Rich List: <https://www.hurun.net/en-US/Info/Detail?num=E406EB5BC439> <https://archive.ph/wip/iWkZW> 
+2018 Hurun Rich List Ranking: <https://www.hurun.net/en-US/Rank/HsRankDetails?pagetype=rich&num=DFW1O34E> <https://archive.ph/wip/wNFdj> """Political appointments hit a twenty-year low with 7.5% compared with 10% last year and five years ago’s high at 15.7%. 142 are delegates to the NPC or CPPCC, down 71 from last year, with delegate to the NPC down 48 to 77, and CPPCC down 23 to 65."""
+2016 Hurun Rich List: <http://www.hurun.net/CN/ArticleShow.aspx?nid=20867> <http://web.archive.org/web/20170325204435/http://www.hurun.net/CN/ArticleShow.aspx?nid=20867> """The proportion of people who have the right to speak has dropped for two consecutive years, from 11.3% last year to 9.4%. 176 are deputies to the National People's Congress or members of the CPPCC, a decrease of 17 from last year. Among them, the number of deputies to the National People's Congress decreased by 15 to 99, and the number of members of the Chinese People's Political Consultative Conference decreased by 2 to 77. Mainly because the election of 45 deputies to the 12th National People's Congress of Liaoning Province was invalid."""
+2015 Hurun Rich List: http://www.hurun.net/CN/ArticleShow.aspx?nid=14677
+2014 Hurun Rich List: http://www.hurun.net/CN/ArticleShow.aspx?nid=4569
+2013 Hurun Rich List: http://www.hurun.net/CN/ArticleShow.aspx?nid=85
+2012 Hurun Rich List: http://www.hurun.net/CN/ArticleShow.aspx?nid=275
+2011 Hurun Rich List: http://www.hurun.net/CN/ArticleShow.aspx?nid=407
+2010 Hurun Rich List: http://www.hurun.net/CN/ArticleShow.aspx?nid=1470
+2009 Hurun Rich List: http://www.hurun.net/CN/ArticleShow.aspx?nid=1508
 ^ ultimate source: <http://www.opensecrets.org/personal-finances/top-net-worth?year=2018>
-2019: the National People's Congress (~3000 people) was worth at least 3.4 trillion CNY (504 billion USD, average 168 million USD), according to the Hurun Report: <https://www.scmp.com/business/money/wealth/article/2188727/fewer-billionaires-among-chinas-lawmakers-2018-stock-market>
-2018: the National People's Congress (~3000 people) was worth at least 4.1 trillion CNY (650 billion USD, average 217 million USD), according to the Hurun Report: <https://www.nytimes.com/2018/03/01/business/china-parliament-billionaires.html>
-2017: the National People's Congress (~3000 people) was worth at least 3.5 trillion CNY (555 billion USD, average 185 million USD), according to the Hurun Report: <https://www.nytimes.com/2017/03/02/business/china-wealth-rich-parliament.html>
+2019: the National People's Congress (2948 people) was worth at least 3.4 trillion CNY (504 billion USD, average 168 million USD), according to the Hurun Report: <https://www.scmp.com/business/money/wealth/article/2188727/fewer-billionaires-among-chinas-lawmakers-2018-stock-market> <https://en.wikipedia.org/wiki/2019_National_People%27s_Congress>
+2018: the National People's Congress (2980 people) was worth at least 4.1 trillion CNY (650 billion USD, average 217 million USD), according to the Hurun Report: <https://www.nytimes.com/2018/03/01/business/china-parliament-billionaires.html> <https://en.wikipedia.org/wiki/2018_National_People%27s_Congress> <http://www.npc.gov.cn/englishnpc/c2846/column2.shtml>
+2017: the National People's Congress (~3000 people) was worth at least 3.5 trillion CNY (555 billion USD, average 185 million USD), according to the Hurun Report: <https://www.nytimes.com/2017/03/02/business/china-wealth-rich-parliament.html> <https://en.wikipedia.org/wiki/2017_National_People%27s_Congress>
 ^ author of Hurun report: <https://en.wikipedia.org/wiki/Rupert_Hoogewerf>
 
 # wealth of the leadership: change over time
