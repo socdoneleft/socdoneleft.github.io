@@ -1322,10 +1322,9 @@ higher housing density, higher green space, and higher poverty predicted decreas
 # medicare for all
 #####o
 # expense: good evidence
-Cai 2020: most estimates suggest that shifting to single payer would decrease net spending on healthcare by around 3% of healthcare spending (about 0.5% of GDP): <https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003013> <https://sci-hub.st/10.1371/journal.pmed.1003013> <https://cdn.discordapp.com/attachments/418850379518705675/789605378597322792/cai2020.pdf> https://cdn.discordapp.com/attachments/418850379518705675/789660535989862470/unknown.png
+Cai 2020: most estimates suggest that shifting to single payer would decrease net spending on healthcare by around 3% of healthcare spending (about 0.5% of GDP): <https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003013> <https://sci-hub.st/10.1371/journal.pmed.1003013> <https://cdn.discordapp.com/attachments/418850379518705675/789605378597322792/cai2020.pdf> https://cdn.discordapp.com/attachments/418850379518705675/789660535989862470/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/993554601922019328/unknown.png
 urban institute: <https://www.urban.org/research/publication/sanders-single-payer-health-care-plan-effect-national-health-expenditures-and-federal-and-private-spending> <https://www.urban.org/sites/default/files/alfresco/publication-pdfs/2000785-The-Sanders-Single-Payer-Health-Care-Plan.pdf>
 https://www.crfb.org/papers/primary-care-estimating-democratic-candidates-health-plans
-
 
 # expense: bad evidence
 a libertarian think-tank found that Medicare For All would decrease national health expenditures by 250 billion dollars per year: <https://twitter.com/SenSanders/status/1023966741679038466> <https://archive.is/o/u0Bnb/https://www.mercatus.org/system/files/blahous-costs-medicare-mercatus-working-paper-v1_1.pdf> https://cdn.discordapp.com/attachments/418850379518705675/473903012851613696/unknown.png [5671 - 5307 - 846 - 482 - 1572]/(2032-2022) = 253.6 billion saved per year
