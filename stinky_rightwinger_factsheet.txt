@@ -4322,6 +4322,10 @@ todo: <https://www.kff.org/womens-health-policy/fact-sheet/abortions-later-in-pr
 todo: <https://sgp.fas.org/crs/misc/R45161.pdf>
 most women who have late-term abortions have a reason to do so: <https://www.guttmacher.org/journals/psrh/2013/11/who-seeks-abortions-or-after-20-weeks> <https://onlinelibrary.wiley.com/doi/full/10.1363/4521013> <http://sci-hub.se/10.1363/4521013> """Most women seeking later abortion fit at least one of five profiles: They were raising children alone, were depressed or using illicit substances, were in conflict with a male partner or experiencing domestic violence, had trouble deciding and then had access problems, or were young and nulliparous."""
 
+# fetal anomalies and their rates of occurrence
+Forrester and Merz 2005: among 281866 live births in Hawaii from 1986 to 2000, 294 (0.104%, 1 in 958) had congenital hydrocephaly; this did not account for fetal deaths or abortions: <https://pubmed.ncbi.nlm.nih.gov/15871567/> <https://evols.library.manoa.hawaii.edu/handle/10524/53480> <https://evols.library.manoa.hawaii.edu/bitstream/10524/53480/2005-02p38-41.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/995109309367193660/forrester2005.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995109790701334588/unknown.png
+Jeng et al 2011: among 5353022 live births in California from 1991 to 2000, 3152 (0.0589%, 1 in 1698) had congenital hydrocephaly; this did not account for fetal deaths or aboritons: <https://pubmed.ncbi.nlm.nih.gov/21763944/> <https://www.sciencedirect.com/science/article/abs/pii/S0887899411001950> <https://sci-hub.se/10.1016/j.pediatrneurol.2011.03.009> <https://cdn.discordapp.com/attachments/742557921849901077/995110150530678794/jeng2011.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995110465468379166/unknown.png
+
 # contraceptive use before abortion
 54-51% of abortion patients reported using a contraceptive method in the month that they became pregnant: <https://www.contraceptionjournal.org/article/S0010-7824(18)30003-9/fulltext> <https://sci-hub.se/10.1016/j.contraception.2017.12.018>
 
