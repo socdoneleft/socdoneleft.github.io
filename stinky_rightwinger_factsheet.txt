@@ -4288,70 +4288,6 @@ Lestrat 2011: women married below 18 are about 1.3-2.5 times more likely to repo
 #####c
 
 #####
-# abortion and reproductive health
-#####o
-# abortion restrictions
-2017 abortion restrictions by state: <https://www.washingtonpost.com/graphics/national/abortion-regulations/> https://cdn.discordapp.com/attachments/418850379518705675/725546905731334154/unknown.png
-
-# birth control
-birth control really, really benefits society: <https://www.guttmacher.org/report/social-and-economic-benefits-womens-ability-determine-whether-and-when-have-children>
-birth control really, really benefits society: <https://www.theatlantic.com/health/archive/2014/07/the-broader-benefits-of-contraception/373856/>
-
-# frequency of abortions by gestational age
-1.3% of abortions occur after the 21st week: <https://www.guttmacher.org/fact-sheet/induced-abortion-united-states> https://cdn.discordapp.com/attachments/418850379518705675/445396159876562944/whenwomenhaveabortionsgraph_0.png
-1.4% of abortions occur after the 21st week: <https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm#T8_down> https://cdn.discordapp.com/attachments/418850379518705675/580074595533455401/unknown.png
-Guttmacher Institute 1997: in 1992, an estimated 320 (0.021%) of 1528930 abortions were conducted after the 26th week: <https://web.archive.org/web/20020422172458/http://guttmacher.org:80/pubs/ib14.html> https://cdn.discordapp.com/attachments/742557921849901077/976234799427624980/unknown.png
-Epner 1998: the above estimate is almost certainly an overestimate, but high-quality data does not exist: <https://jamanetwork.com/journals/jama/article-abstract/187908> <https://sci-hub.st/10.1001/jama.280.8.724> <https://cdn.discordapp.com/attachments/742557921849901077/976232329469108276/epner1998.pdf> https://cdn.discordapp.com/attachments/742557921849901077/976231826676912179/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/976232877589164042/unknown.png
-^ todo graph this
-
-# viability of fetuses by gestational age
-term used: "peri-viable birth" covers birth from 20w0d to 25w6d: <https://www.acog.org/clinical/clinical-guidance/obstetric-care-consensus/articles/2017/10/periviable-birth> """Approximately 0.5% of all births occur before the third trimester of pregnancy, and these very early deliveries result in the majority of neonatal deaths and more than 40% of infant deaths. A recent executive summary of proceedings from a joint workshop defined periviable birth as delivery occurring from 20 0/7 weeks to 25 6/7 weeks of gestation. When delivery is anticipated near the limit of viability, families and health care teams are faced with complex and ethically challenging decisions."""
-in England in 2006, a majority of fetuses survive after 25 weeks of pregnancy: <https://www.bmj.com/content/345/bmj.e7961> https://cdn.discordapp.com/attachments/418850379518705675/579718234555547658/F4.png
-Rysavy et al 2015: among 4704 births in a national American research hospital network from 2006-2011, a majority of fetuses survived at 24 weeks of pregnancy and a majority survived without severe neurodevelopmental impairment at 26 weeks; NDI assessed at 18 to 22 weeks corrected age, about ~1.4 years after birth: <https://www.economist.com/the-economist-explains/2015/05/19/the-limit-of-viability> <http://archive.is/SRGrc> <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465092/> <https://www.nejm.org/doi/full/10.1056/NEJMoa1410689> <https://sci-hub.se/10.1056/NEJMoa1410689> <https://cdn.discordapp.com/attachments/742557921849901077/995920100412641411/rysavy2015.pdf>  <https://cdn.discordapp.com/attachments/742557921849901077/991882982140936213/rysavy2015supplement.pdf> https://cdn.discordapp.com/attachments/742557921849901077/916109603148804127/nejmoa1410689_t2.png https://cdn.discordapp.com/attachments/742557921849901077/995885430899753050/rysavy_2015.png
-Stoll et al 2010: among 8515 births in a national American research hospital network from 2003-2007, a majority survived at 24 weeks and a majority survived without morbidities at 28 weeks: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2982806/> <https://sci-hub.se/10.1542/peds.2009-2959> <https://cdn.discordapp.com/attachments/742557921849901077/991882982405181541/stoll2010.pdf> <https://publications.aap.org/pediatrics/article-abstract/126/3/443/66128/Neonatal-Outcomes-of-Extremely-Preterm-Infants> https://cdn.discordapp.com/attachments/742557921849901077/991961124205506600/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/995888756659851385/stoll_2010.png
-in most countries, a majority of fetuses survive after 24-25 weeks of pregnancy: <https://pediatrics.aappublications.org/content/139/3/e20161821> https://cdn.discordapp.com/attachments/418850379518705675/580076688621436958/F1.png
-the youngest preterm baby to ever survive was born at 21 weeks, 2 days: <https://en.wikipedia.org/wiki/Preterm_birth#Notable_cases>
-Lau et al 2013: just 0.4% of all births occur before the third trimester of pregnancy (week 27 is 2nd, week 28 is 3rd); these very early births result in the majority of neonatal deaths and 45% of total infant deaths: <https://pubmed.ncbi.nlm.nih.gov/23545381/> <https://publications.aap.org/pediatrics/article-abstract/131/5/855/31244/Extremely-Low-Birth-Weight-and-Infant-Mortality> <https://sci-hub.se/10.1542/peds.2012-2471> <https://cdn.discordapp.com/attachments/742557921849901077/995913575535226910/lau2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995914284590698608/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/995914382095683605/unknown.png
-
-# reasons why patients have abortions in general
-the most common reasons cited for abortion are [1] dramatic life change (interfere w/ education/job/dependents), [2] can't afford baby, [3] don't want to be single mother / relationship problems, [4-5] enough children: <https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1931-2393.2005.tb00045.x> <https://sci-hub.se/10.1111/j.1931-2393.2005.tb00045.x> https://cdn.discordapp.com/attachments/418850379518705675/681177585195286662/unknown.png
-young and old pregnant women are most likely to have an abortion: <https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm> https://cdn.discordapp.com/attachments/418850379518705675/641979775057002496/ss6713a1-F2.png
-
-# reasons why patients have late-term abortions
-todo: <https://www.guttmacher.org/evidence-you-can-use/later-abortion>
-todo: <https://www.kff.org/womens-health-policy/fact-sheet/abortions-later-in-pregnancy/>
-todo: <https://sgp.fas.org/crs/misc/R45161.pdf>
-most women who have late-term abortions have a reason to do so: <https://www.guttmacher.org/journals/psrh/2013/11/who-seeks-abortions-or-after-20-weeks> <https://onlinelibrary.wiley.com/doi/full/10.1363/4521013> <http://sci-hub.se/10.1363/4521013> """Most women seeking later abortion fit at least one of five profiles: They were raising children alone, were depressed or using illicit substances, were in conflict with a male partner or experiencing domestic violence, had trouble deciding and then had access problems, or were young and nulliparous."""
-
-# fetal anomalies and their rates of occurrence
-Forrester and Merz 2005: among 281866 live births in Hawaii from 1986 to 2000, 294 (0.104%, 1 in 958) had congenital hydrocephaly; this did not account for fetal deaths or abortions: <https://pubmed.ncbi.nlm.nih.gov/15871567/> <https://evols.library.manoa.hawaii.edu/handle/10524/53480> <https://evols.library.manoa.hawaii.edu/bitstream/10524/53480/2005-02p38-41.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/995109309367193660/forrester2005.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995109790701334588/unknown.png
-Jeng et al 2011: among 5353022 live births in California from 1991 to 2000, 3152 (0.0589%, 1 in 1698) had congenital hydrocephaly; this did not account for fetal deaths or aboritons: <https://pubmed.ncbi.nlm.nih.gov/21763944/> <https://www.sciencedirect.com/science/article/abs/pii/S0887899411001950> <https://sci-hub.se/10.1016/j.pediatrneurol.2011.03.009> <https://cdn.discordapp.com/attachments/742557921849901077/995110150530678794/jeng2011.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995110465468379166/unknown.png
-
-# contraceptive use before abortion
-54-51% of abortion patients reported using a contraceptive method in the month that they became pregnant: <https://www.contraceptionjournal.org/article/S0010-7824(18)30003-9/fulltext> <https://sci-hub.se/10.1016/j.contraception.2017.12.018>
-
-# no effect of suicide
-non-fatal first suicide attempts were no higher after than before abortion, suggesting that abortion does not cause elevated suicide rates among women with abortions: <https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(19)30400-6/fulltext> <https://sci-hub.se/10.1016/S2215-0366(19)30400-6> https://cdn.discordapp.com/attachments/418850379518705675/681208247897555107/unknown.png
-
-# mortality rate from abortion
-Epner 1998: abortion fatality rates from 1974-1987 rose from 28.1 per 100k at 13-15 weeks, 103 per 100k at 16-20 weeks, and 274 per 100k at >=21 weeks: <https://jamanetwork.com/journals/jama/article-abstract/187908> <https://sci-hub.st/10.1001/jama.280.8.724> <https://cdn.discordapp.com/attachments/742557921849901077/976232329469108276/epner1998.pdf> https://cdn.discordapp.com/attachments/742557921849901077/976232105426174043/unknown.png
-between 2008 and 2014, abortion killed 0.62 per 100,000. in 2014, pregnancy killed 23.8 per 100,000 -- 23.8/0.62=38.39x times higher: <https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm> <https://en.wikipedia.org/wiki/Maternal_mortality_in_the_United_States>
-
-# poland
-before illegalization in 1990, Poland had about 100-200,000 abortions per year (adjust this to live births): <http://www.johnstonsarchive.net/policy/abortion/ab-poland.html>
-A poll of Polish women suggests lifetime abortion rates of 1/3-1/4 (compared to 1/4 in the USA): <https://www.cbos.pl/SPISKOM.POL/2013/K_060_13.PDF> https://cdn.discordapp.com/attachments/418850379518705675/602342144627179521/unknown.png W ciągu swojego życia ciążę przerwała, z dużym prawdopodobieństwem, nie mniej niż co czwarta, ale też nie więcej niż co trzecia dorosła Polka. W skali całego społeczeństwa daje to od 4,1 do 5,8 mln kobiet. [Not less than 1/4 but not more than 1/3 of adult Polish women have interrupted their pregnancy during their life, with high probability. On the scale of the whole society this gives between 4.1 and 5.8 million women.] <http://www.johnstonsarchive.net/policy/abortion/uslifetimeab.html> Summary: It is estimated here that, as of 2008, about 28% of U.S. women ages 15-64 have had abortions. This figure has risen from 2.8% in 1973 to 11% in 1980, 19% in 1987, 24% in 1994, and 27% in 2001. In 2008, of women ages 40-55, about 40% have had abortions in their lifetimes.
-studies by the Polish Federation for Women and Family Planning provide similar estimates of 1/4 lifetime exposure and yearly counts of 100,000+: <https://www.theseus.fi/bitstream/handle/10024/138222/thesis_Ewa_Hirvonen.pdf?sequence=1> <http://wyborcza.pl/7,87648,20314186,zasadzka-na-anestezjologa.html> <http://wyborcza.pl/1,76842,8300922,Polskie_aborcje_w_klinikach_calej_Europy.html> For instance Wanda Nowicka, head of the Federation for Women and Family Planning, estimated in 2010 that approximately 80 000-200 000 Polish women terminate unintended pregnancies every year. According to her, 10-15% of these abortions are induced abroad. (Dubrowska 2010.) This estimation would mean that up to 30 000 Polish women travel each year abroad to seek abortion. According to the latest estimations of the Federation for Women and Family Planning (2016), over 100 000 abortions are induced every year in Poland, meaning that every fourth Polish woman has experienced an abortion.
-
-# banning increases maternal death
-worldwide, more liberal abortion laws are correlated with lower maternal death rates from abortion: <https://www.who.int/gho/women_and_health/diseases_risk_factors/situation_trends_unsafe_abortion/en/> https://cdn.discordapp.com/attachments/418850379518705675/640934606085816350/unsafe_abortion.png
-in the UK, the legalization of abortion in 1968 was followed by dramatically reduced illegal abortion maternal deaths: <https://cmfblog.org.uk/2012/06/17/how-many-women-really-died-from-abortions-prior-to-the-abortion-act/> https://cdn.discordapp.com/attachments/418850379518705675/640934510317404160/abortionstats.png
-
-# polling
-NPR 2022: 64% of Americans (and 62% of Independents) opposed overturning Roe v. Wade: <https://www.npr.org/2022/05/19/1099844097/abortion-polling-roe-v-wade-supreme-court-draft-opinion> https://cdn.discordapp.com/attachments/742557921849901077/989976409323757608/unknown.png
-Vox 2022: at 24 weeks, 29% say abortion should be legal, 18% say it depends, and 48% say it should be illegal: <https://www.vox.com/policy-and-politics/23167397/abortion-public-opinion-polls-americans> https://cdn.discordapp.com/attachments/742557921849901077/989977793171431424/unknown.png
-#####c
-
-#####
 # gay parenting
 #####o
 # Invisible Victims: Delayed Onset Depression among Adults with Same-Sex Parents
@@ -4397,7 +4333,7 @@ men born in 1953 were the last to face conscription -- in 2019, that's age 66 --
 congress recently appointed a commission to consider inclusion of women in the draft (or abolishment): <https://en.wikipedia.org/wiki/National_Commission_on_Military,_National,_and_Public_Service>
 
 # intimate partner violence
-women who experience IPV are much more likely to be raped, physically assaulted, and stalked; time from work, suffer more injuries, and are more likely to use the medical, mental, and justice systems: <https://journals.sagepub.com/doi/abs/10.1177/10778010022181769> <https://sci-hub.se/10.1177/10778010022181769> https://cdn.discordapp.com/attachments/418850379518705675/644190873608912904/unknown.png
+compared with men who experience IPV, women who experience IPV are much more likely to be raped, physically assaulted, and stalked; time from work, suffer more injuries, and are more likely to use the medical, mental, and justice systems: <https://journals.sagepub.com/doi/abs/10.1177/10778010022181769> <https://sci-hub.se/10.1177/10778010022181769> https://cdn.discordapp.com/attachments/418850379518705675/644190873608912904/unknown.png
 #####c
 
 #####
@@ -4520,6 +4456,92 @@ bystander intervention is effective at reducing sexual assaults: <https://www.jm
 
 # false rape accusations
 discussion of FBI "false rape" or "true rape" statistics: <http://www.datagoneodd.com/blog/2015/01/25/how-to-lie-and-mislead-with-rape-statistics-part-1/>
+#####c
+#####c
+
+#####
+#
+# abortion and reproductive health
+#
+#####o
+
+#####
+# current laws
+#####o
+# abortion restrictions
+2017 abortion restrictions by state: <https://www.washingtonpost.com/graphics/national/abortion-regulations/> https://cdn.discordapp.com/attachments/418850379518705675/725546905731334154/unknown.png
+#####c
+
+#####
+# benefits of birth control [TODO]
+#####o
+birth control really, really benefits society: <https://www.guttmacher.org/report/social-and-economic-benefits-womens-ability-determine-whether-and-when-have-children>
+birth control really, really benefits society: <https://www.theatlantic.com/health/archive/2014/07/the-broader-benefits-of-contraception/373856/>
+#####c
+
+#####
+# abortion and fetal viability
+#####o
+# frequency of abortions by gestational age
+1.3% of abortions occur after the 21st week: <https://www.guttmacher.org/fact-sheet/induced-abortion-united-states> https://cdn.discordapp.com/attachments/418850379518705675/445396159876562944/whenwomenhaveabortionsgraph_0.png
+1.4% of abortions occur after the 21st week: <https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm#T8_down> https://cdn.discordapp.com/attachments/418850379518705675/580074595533455401/unknown.png
+
+# frequency of abortions by gestational age, focus on late term abortions
+Guttmacher Institute 1997: in 1992, an estimated 320 (0.021%) of 1528930 abortions were conducted after the 26th week: <https://web.archive.org/web/20020422172458/http://guttmacher.org:80/pubs/ib14.html> https://cdn.discordapp.com/attachments/742557921849901077/976234799427624980/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/995885431323373618/abortions_by_gestational_age.png
+Epner 1998: the above estimate is almost certainly an overestimate, but high-quality data does not exist: <https://jamanetwork.com/journals/jama/article-abstract/187908> <https://sci-hub.st/10.1001/jama.280.8.724> <https://cdn.discordapp.com/attachments/742557921849901077/976232329469108276/epner1998.pdf> https://cdn.discordapp.com/attachments/742557921849901077/976231826676912179/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/976232877589164042/unknown.png
+
+# viability of fetuses by gestational age
+ACOG 2017: The American College of Obstetricians and Gynecologists defines births between 20 weeks 0 days and 25 weeks 6 days as "periviable": <https://www.acog.org/clinical/clinical-guidance/obstetric-care-consensus/articles/2017/10/periviable-birth> https://cdn.discordapp.com/attachments/742557921849901077/997240220477030411/unknown.png """Approximately 0.5% of all births occur before the third trimester of pregnancy, and these very early deliveries result in the majority of neonatal deaths and more than 40% of infant deaths. A recent executive summary of proceedings from a joint workshop defined periviable birth as delivery occurring from 20 0/7 weeks to 25 6/7 weeks of gestation. When delivery is anticipated near the limit of viability, families and health care teams are faced with complex and ethically challenging decisions."""
+Lau et al 2013: just 0.4% of all births occur before the third trimester of pregnancy (week 27 is 2nd, week 28 is 3rd); these very early births result in the majority of neonatal deaths and 45% of total infant deaths: <https://pubmed.ncbi.nlm.nih.gov/23545381/> <https://publications.aap.org/pediatrics/article-abstract/131/5/855/31244/Extremely-Low-Birth-Weight-and-Infant-Mortality> <https://sci-hub.se/10.1542/peds.2012-2471> <https://cdn.discordapp.com/attachments/742557921849901077/995913575535226910/lau2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995914284590698608/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/995914382095683605/unknown.png
+the youngest preterm baby to ever survive was born at 21 weeks, 1 days: <https://www.uab.edu/news/health/item/12427-uab-hospital-delivers-record-breaking-premature-baby>
+
+Rysavy et al 2015: among 4704 births in a national American research hospital network from 2006-2011, a majority of fetuses survived at 24 weeks of pregnancy and a majority survived without severe neurodevelopmental impairment at 26 weeks; NDI assessed at 18 to 22 weeks corrected age, about ~1.4 years after birth: <https://www.economist.com/the-economist-explains/2015/05/19/the-limit-of-viability> <http://archive.is/SRGrc> <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465092/> <https://www.nejm.org/doi/full/10.1056/NEJMoa1410689> <https://sci-hub.se/10.1056/NEJMoa1410689> <https://cdn.discordapp.com/attachments/742557921849901077/995920100412641411/rysavy2015.pdf>  <https://cdn.discordapp.com/attachments/742557921849901077/991882982140936213/rysavy2015supplement.pdf> https://cdn.discordapp.com/attachments/742557921849901077/916109603148804127/nejmoa1410689_t2.png https://cdn.discordapp.com/attachments/742557921849901077/995885430899753050/rysavy_2015.png
+Stoll et al 2010: among 8515 births in a national American research hospital network from 2003-2007, a majority survived at 24 weeks and a majority survived without morbidities at 28 weeks: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2982806/> <https://sci-hub.se/10.1542/peds.2009-2959> <https://cdn.discordapp.com/attachments/742557921849901077/991882982405181541/stoll2010.pdf> <https://publications.aap.org/pediatrics/article-abstract/126/3/443/66128/Neonatal-Outcomes-of-Extremely-Preterm-Infants> https://cdn.discordapp.com/attachments/742557921849901077/991961124205506600/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/995888756659851385/stoll_2010.png
+
+# international evidence
+in most countries, a majority of fetuses survive after 24-25 weeks of pregnancy: <https://pediatrics.aappublications.org/content/139/3/e20161821> https://cdn.discordapp.com/attachments/418850379518705675/580076688621436958/F1.png
+in England in 2006, a majority of fetuses survive after 25 weeks of pregnancy: <https://www.bmj.com/content/345/bmj.e7961> https://cdn.discordapp.com/attachments/418850379518705675/579718234555547658/F4.png
+#####c
+
+#####
+# patient reasons for abortion
+#####o
+# reasons given by patients for abortions in general
+the most common reasons cited for abortion are [1] dramatic life change (interfere w/ education/job/dependents), [2] can't afford baby, [3] don't want to be single mother / relationship problems, [4-5] enough children: <https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1931-2393.2005.tb00045.x> <https://sci-hub.se/10.1111/j.1931-2393.2005.tb00045.x> https://cdn.discordapp.com/attachments/418850379518705675/681177585195286662/unknown.png
+young and old pregnant women are most likely to have an abortion: <https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm> https://cdn.discordapp.com/attachments/418850379518705675/641979775057002496/ss6713a1-F2.png
+
+# reasons given by patients for late-term abortions
+todo: <https://www.guttmacher.org/evidence-you-can-use/later-abortion>
+todo: <https://www.kff.org/womens-health-policy/fact-sheet/abortions-later-in-pregnancy/>
+todo: <https://sgp.fas.org/crs/misc/R45161.pdf>
+most women who have late-term abortions have a reason to do so: <https://www.guttmacher.org/journals/psrh/2013/11/who-seeks-abortions-or-after-20-weeks> <https://onlinelibrary.wiley.com/doi/full/10.1363/4521013> <http://sci-hub.se/10.1363/4521013> """Most women seeking later abortion fit at least one of five profiles: They were raising children alone, were depressed or using illicit substances, were in conflict with a male partner or experiencing domestic violence, had trouble deciding and then had access problems, or were young and nulliparous."""
+
+# fetal anomalies and their rates of occurrence
+Forrester and Merz 2005: among 281866 live births in Hawaii from 1986 to 2000, 294 (0.104%, 1 in 958) had congenital hydrocephaly; this did not account for fetal deaths or abortions: <https://pubmed.ncbi.nlm.nih.gov/15871567/> <https://evols.library.manoa.hawaii.edu/handle/10524/53480> <https://evols.library.manoa.hawaii.edu/bitstream/10524/53480/2005-02p38-41.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/995109309367193660/forrester2005.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995109790701334588/unknown.png
+Jeng et al 2011: among 5353022 live births in California from 1991 to 2000, 3152 (0.0589%, 1 in 1698) had congenital hydrocephaly; this did not account for fetal deaths or aboritons: <https://pubmed.ncbi.nlm.nih.gov/21763944/> <https://www.sciencedirect.com/science/article/abs/pii/S0887899411001950> <https://sci-hub.se/10.1016/j.pediatrneurol.2011.03.009> <https://cdn.discordapp.com/attachments/742557921849901077/995110150530678794/jeng2011.pdf> https://cdn.discordapp.com/attachments/742557921849901077/995110465468379166/unknown.png
+
+# contraceptive use before abortion
+54-51% of abortion patients reported using a contraceptive method in the month that they became pregnant: <https://www.contraceptionjournal.org/article/S0010-7824(18)30003-9/fulltext> <https://sci-hub.se/10.1016/j.contraception.2017.12.018>
+
+# no effect of suicide
+non-fatal first suicide attempts were no higher after than before abortion, suggesting that abortion does not cause elevated suicide rates among women with abortions: <https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(19)30400-6/fulltext> <https://sci-hub.se/10.1016/S2215-0366(19)30400-6> https://cdn.discordapp.com/attachments/418850379518705675/681208247897555107/unknown.png
+
+# mortality rate from abortion
+Epner 1998: abortion fatality rates from 1974-1987 rose from 28.1 per 100k at 13-15 weeks, 103 per 100k at 16-20 weeks, and 274 per 100k at >=21 weeks: <https://jamanetwork.com/journals/jama/article-abstract/187908> <https://sci-hub.st/10.1001/jama.280.8.724> <https://cdn.discordapp.com/attachments/742557921849901077/976232329469108276/epner1998.pdf> https://cdn.discordapp.com/attachments/742557921849901077/976232105426174043/unknown.png
+between 2008 and 2014, abortion killed 0.62 per 100,000. in 2014, pregnancy killed 23.8 per 100,000 -- 23.8/0.62=38.39x times higher: <https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm> <https://en.wikipedia.org/wiki/Maternal_mortality_in_the_United_States>
+
+# poland
+before illegalization in 1990, Poland had about 100-200,000 abortions per year (adjust this to live births): <http://www.johnstonsarchive.net/policy/abortion/ab-poland.html>
+A poll of Polish women suggests lifetime abortion rates of 1/3-1/4 (compared to 1/4 in the USA): <https://www.cbos.pl/SPISKOM.POL/2013/K_060_13.PDF> https://cdn.discordapp.com/attachments/418850379518705675/602342144627179521/unknown.png W ciągu swojego życia ciążę przerwała, z dużym prawdopodobieństwem, nie mniej niż co czwarta, ale też nie więcej niż co trzecia dorosła Polka. W skali całego społeczeństwa daje to od 4,1 do 5,8 mln kobiet. [Not less than 1/4 but not more than 1/3 of adult Polish women have interrupted their pregnancy during their life, with high probability. On the scale of the whole society this gives between 4.1 and 5.8 million women.] <http://www.johnstonsarchive.net/policy/abortion/uslifetimeab.html> Summary: It is estimated here that, as of 2008, about 28% of U.S. women ages 15-64 have had abortions. This figure has risen from 2.8% in 1973 to 11% in 1980, 19% in 1987, 24% in 1994, and 27% in 2001. In 2008, of women ages 40-55, about 40% have had abortions in their lifetimes.
+studies by the Polish Federation for Women and Family Planning provide similar estimates of 1/4 lifetime exposure and yearly counts of 100,000+: <https://www.theseus.fi/bitstream/handle/10024/138222/thesis_Ewa_Hirvonen.pdf?sequence=1> <http://wyborcza.pl/7,87648,20314186,zasadzka-na-anestezjologa.html> <http://wyborcza.pl/1,76842,8300922,Polskie_aborcje_w_klinikach_calej_Europy.html> For instance Wanda Nowicka, head of the Federation for Women and Family Planning, estimated in 2010 that approximately 80 000-200 000 Polish women terminate unintended pregnancies every year. According to her, 10-15% of these abortions are induced abroad. (Dubrowska 2010.) This estimation would mean that up to 30 000 Polish women travel each year abroad to seek abortion. According to the latest estimations of the Federation for Women and Family Planning (2016), over 100 000 abortions are induced every year in Poland, meaning that every fourth Polish woman has experienced an abortion.
+
+# banning increases maternal death
+worldwide, more liberal abortion laws are correlated with lower maternal death rates from abortion: <https://www.who.int/gho/women_and_health/diseases_risk_factors/situation_trends_unsafe_abortion/en/> https://cdn.discordapp.com/attachments/418850379518705675/640934606085816350/unsafe_abortion.png
+in the UK, the legalization of abortion in 1968 was followed by dramatically reduced illegal abortion maternal deaths: <https://cmfblog.org.uk/2012/06/17/how-many-women-really-died-from-abortions-prior-to-the-abortion-act/> https://cdn.discordapp.com/attachments/418850379518705675/640934510317404160/abortionstats.png
+
+# polling
+NPR 2022: 64% of Americans (and 62% of Independents) opposed overturning Roe v. Wade: <https://www.npr.org/2022/05/19/1099844097/abortion-polling-roe-v-wade-supreme-court-draft-opinion> https://cdn.discordapp.com/attachments/742557921849901077/989976409323757608/unknown.png
+Vox 2022: at 24 weeks, 29% say abortion should be legal, 18% say it depends, and 48% say it should be illegal: <https://www.vox.com/policy-and-politics/23167397/abortion-public-opinion-polls-americans> https://cdn.discordapp.com/attachments/742557921849901077/989977793171431424/unknown.png
 #####c
 #####c
 
