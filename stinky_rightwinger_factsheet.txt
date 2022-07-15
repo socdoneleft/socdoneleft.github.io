@@ -4470,6 +4470,10 @@ discussion of FBI "false rape" or "true rape" statistics: <http://www.datagoneod
 #####o
 # abortion restrictions
 2017 abortion restrictions by state: <https://www.washingtonpost.com/graphics/national/abortion-regulations/> https://cdn.discordapp.com/attachments/418850379518705675/725546905731334154/unknown.png
+
+# polling on overturning roe v wade
+NPR 2022: 64% of Americans (and 62% of Independents) opposed overturning Roe v. Wade: <https://www.npr.org/2022/05/19/1099844097/abortion-polling-roe-v-wade-supreme-court-draft-opinion> https://cdn.discordapp.com/attachments/742557921849901077/989976409323757608/unknown.png
+Vox 2022: at 24 weeks, 29% say abortion should be legal, 18% say it depends, and 48% say it should be illegal: <https://www.vox.com/policy-and-politics/23167397/abortion-public-opinion-polls-americans> https://cdn.discordapp.com/attachments/742557921849901077/989977793171431424/unknown.png
 #####c
 
 #####
@@ -4534,13 +4538,20 @@ Jeng et al 2011: among 5353022 live births in California from 1991 to 2000, 3152
 # contraceptive use before abortion
 54-51% of abortion patients reported using a contraceptive method in the month that they became pregnant: <https://www.contraceptionjournal.org/article/S0010-7824(18)30003-9/fulltext> <https://sci-hub.se/10.1016/j.contraception.2017.12.018>
 
+#####
+# health consequences of abortion
+#####o
 # no effect of suicide
 non-fatal first suicide attempts were no higher after than before abortion, suggesting that abortion does not cause elevated suicide rates among women with abortions: <https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(19)30400-6/fulltext> <https://sci-hub.se/10.1016/S2215-0366(19)30400-6> https://cdn.discordapp.com/attachments/418850379518705675/681208247897555107/unknown.png
 
 # mortality rate from abortion
 Epner 1998: abortion fatality rates from 1974-1987 rose from 28.1 per 100k at 13-15 weeks, 103 per 100k at 16-20 weeks, and 274 per 100k at >=21 weeks: <https://jamanetwork.com/journals/jama/article-abstract/187908> <https://sci-hub.st/10.1001/jama.280.8.724> <https://cdn.discordapp.com/attachments/742557921849901077/976232329469108276/epner1998.pdf> https://cdn.discordapp.com/attachments/742557921849901077/976232105426174043/unknown.png
 between 2008 and 2014, abortion killed 0.62 per 100,000. in 2014, pregnancy killed 23.8 per 100,000 -- 23.8/0.62=38.39x times higher: <https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm> <https://en.wikipedia.org/wiki/Maternal_mortality_in_the_United_States>
+#####c
 
+#####
+# consequences of bans
+#####o
 # poland
 before illegalization in 1990, Poland had about 100-200,000 abortions per year (adjust this to live births): <http://www.johnstonsarchive.net/policy/abortion/ab-poland.html>
 A poll of Polish women suggests lifetime abortion rates of 1/3-1/4 (compared to 1/4 in the USA): <https://www.cbos.pl/SPISKOM.POL/2013/K_060_13.PDF> https://cdn.discordapp.com/attachments/418850379518705675/602342144627179521/unknown.png W ciągu swojego życia ciążę przerwała, z dużym prawdopodobieństwem, nie mniej niż co czwarta, ale też nie więcej niż co trzecia dorosła Polka. W skali całego społeczeństwa daje to od 4,1 do 5,8 mln kobiet. [Not less than 1/4 but not more than 1/3 of adult Polish women have interrupted their pregnancy during their life, with high probability. On the scale of the whole society this gives between 4.1 and 5.8 million women.] <http://www.johnstonsarchive.net/policy/abortion/uslifetimeab.html> Summary: It is estimated here that, as of 2008, about 28% of U.S. women ages 15-64 have had abortions. This figure has risen from 2.8% in 1973 to 11% in 1980, 19% in 1987, 24% in 1994, and 27% in 2001. In 2008, of women ages 40-55, about 40% have had abortions in their lifetimes.
@@ -4549,10 +4560,6 @@ studies by the Polish Federation for Women and Family Planning provide similar e
 # banning increases maternal death
 worldwide, more liberal abortion laws are correlated with lower maternal death rates from abortion: <https://www.who.int/gho/women_and_health/diseases_risk_factors/situation_trends_unsafe_abortion/en/> https://cdn.discordapp.com/attachments/418850379518705675/640934606085816350/unsafe_abortion.png
 in the UK, the legalization of abortion in 1968 was followed by dramatically reduced illegal abortion maternal deaths: <https://cmfblog.org.uk/2012/06/17/how-many-women-really-died-from-abortions-prior-to-the-abortion-act/> https://cdn.discordapp.com/attachments/418850379518705675/640934510317404160/abortionstats.png
-
-# polling
-NPR 2022: 64% of Americans (and 62% of Independents) opposed overturning Roe v. Wade: <https://www.npr.org/2022/05/19/1099844097/abortion-polling-roe-v-wade-supreme-court-draft-opinion> https://cdn.discordapp.com/attachments/742557921849901077/989976409323757608/unknown.png
-Vox 2022: at 24 weeks, 29% say abortion should be legal, 18% say it depends, and 48% say it should be illegal: <https://www.vox.com/policy-and-politics/23167397/abortion-public-opinion-polls-americans> https://cdn.discordapp.com/attachments/742557921849901077/989977793171431424/unknown.png
 #####c
 #####c
 
