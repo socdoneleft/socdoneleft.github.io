@@ -4950,10 +4950,20 @@ China loaned $86.3bn from 2000-2014 to African countries: <http://www.sais-cari.
 these loans are heavily concentrated in resource extraction and transportation: <http://www.sais-cari.org/publications-working-papers> <https://cdn.discordapp.com/attachments/418850379518705675/792571707474968606/brautigam2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/792582988550242314/unknown.png
 
 # international lending: generosity
-summary: Chinese lending to developing countries is generally less concessional than official Western or multilateral creditors but more concessional than the private market
+summary: Chinese lending to developing countries is generally less concessional than official Western or multilateral creditors but much more concessional than the private market. This is a net good!
 longer quote: <https://www.worldbank.org/en/topic/regional-integration/publication/belt-and-road-economics-opportunities-and-risks-of-transport-corridors> <https://cdn.discordapp.com/attachments/418850379518705675/792566366548393994/ruta2019.pdf> """Interest costs and maturities of Chinese loan are on average more favorable than borrowing on market terms. Data reported by debtor countries to the World Bank suggest that most Chinese loans are concessional, but with terms that may not be the most favorable for LIDCs.1 Most Chinese loans to LIDCs have fixed interest rates with a median rate of 2 percent, a grace period of 6 years, and a maturity of 20 years. Terms to LIDCs have been stable over time, corresponding to a median grant element of 40 percent. The median annual maturity of loans to EMEs fluctuates between 12 and 18 years, and the grace period between 3 and 5 years. A growing share of loans to EMEs have flexible interest rates, benchmarked to the 6-month LIBOR rate. Interest rates that Chinese lenders apply to LIDCs are on average more favorable than loans to EMEs but remain higher than those available from other creditors for countries at low and moderate risk of debt distress. The median loan from China fully disburses between 2.5 and 7.5 years from the year of commitment, in both LIDCs and EMEs. Yet, Chinese loans are often associated with other economic costs, such as those arising from collateralization, which are difficult to assess given limited availability of information."""
 relative to the World Bank, Chinese loans were substantially less concessionary (meaning, offering better terms than private market loans): <https://www.cgdev.org/publication/chinese-and-world-bank-lending-terms-systematic-comparison> <https://cdn.discordapp.com/attachments/418850379518705675/731256153144557669/morris2020.pdf> https://cdn.discordapp.com/attachments/418850379518705675/731260050856738856/unknown.png
 relative to the World Bank, comparable Chinese loans were substantially less generous in concessionary; they generally had higher interest rates, shorter length, and shorter grace periods: <https://www.cgdev.org/publication/chinese-and-world-bank-lending-terms-systematic-comparison> <https://cdn.discordapp.com/attachments/418850379518705675/731256153144557669/morris2020.pdf> https://cdn.discordapp.com/attachments/418850379518705675/731260061325983815/unknown.png
+
+# debt diplomacy reading todo good studies
+https://archive.ph/xfhSv#selection-821.114-821.126
+https://twitter.com/nicolaslippolis/status/1531731048563884035
+https://www.tandfonline.com/doi/abs/10.1080/00396338.2022.2078054
+https://sci-hub.se/10.1080/00396338.2022.2078054
+https://www.theguardian.com/global-development/2022/jul/12/west-must-force-private-lenders-to-ease-africas-crippling-debt-say-campaigners
+https://debtjustice.org.uk/press-release/african-governments-owe-three-times-more-debt-to-private-lenders-than-china
+https://debtjustice.org.uk/wp-content/uploads/2022/07/Who-African-governments-debt-is-owed-to_Media-Briefing_07.22.pdf
+https://databank.worldbank.org/source/international-debt-statistics#
 
 # effects on popular opinion
 belt and road initiatives seem to win people's hearts: <https://www.pewresearch.org/fact-tank/2020/04/23/nigerians-living-near-a-major-belt-and-road-project-grew-more-positive-toward-china-after-it-was-completed/> https://cdn.discordapp.com/attachments/418850379518705675/731258344408481883/ft_2020.png
