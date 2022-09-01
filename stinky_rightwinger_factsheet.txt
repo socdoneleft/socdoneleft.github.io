@@ -2498,6 +2498,12 @@ Donovan 2016: among 86 ninth-graders, reading a race-based description of sickle
 # reducing belief in racial essentialism: genetics education
 Harmon 2019: <https://www.nytimes.com/2019/12/07/us/race-biology-genetics.html> <https://archive.ph/LWApA>
 Donovan 2021: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8756492/> <https://www.sciencedirect.com/science/article/pii/S2666247721000397> <https://sci-hub.se/10.1016/j.xhgg.2021.100058> <https://cdn.discordapp.com/attachments/742557921849901077/1008927691753402458/donovan2021.pdf>
+
+. Specifically, one needs to understand that the causes of within-group variation in a trait can be different from the causes of between-group variation in that same trait. That is, even when trait differences between individuals within a population are entirely inherited, differences between populations can still be caused entirely by environmental factors (Feldman & Lewontin, 1975).
+
+The combined contribution of all of these genomic variants to any group level difference in a complex human trait is predicted to be small, possibly spurious, and largely dependent on the environment according to population genetic theory (Rosenberg et al., 2018). <https://academic.oup.com/emph/article/2019/1/26/5262222>
+Empirically, we also know that intergenerational scores on IQ tests have changed over time because of improvements in the human environment <https://www.pnas.org/doi/full/10.1073/pnas.1718793115>
+To claim that racial disparities in education are caused by genetic differences between races on the basis of heritability statistics that are derived within populations, as Jensen (1969) did, is at best a conceptual error (Feldman & Lewontin, 1975), and at worst, an ideological distortion of scientific knowledge (Donovan, 2015a; Graves, 2015; Lewontin, 1996) that is not supported by contemporary population genetic theory on polygenic trait variation <https://academic.oup.com/emph/article/2019/1/26/5262222>
 #####c
 #####c
 
