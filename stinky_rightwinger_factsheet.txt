@@ -10140,11 +10140,7 @@ Medicean manuscript M2 (location: Plut.68.02): details and images: <http://teca.
 # original specific text of tacitus: chapter 44
 Fisher 1906: Annals of Tacitus Book XV Section 44 (15.44): relevant text in Latin: <https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0077%3Abook%3D15%3Achapter%3D44> <https://archive.ph/hwWZ> https://cdn.discordapp.com/attachments/742557921849901077/1016922391840051202/unknown.png """ergo abolendo rumori Nero subdidit reos et quaesitissimis poenis adfecit quos per flagitia invisos vulgus Christianos appellabat. auctor nominis eius Christus Tiberio imperitante per procuratorem Pontium Pilatum supplicio adfectus erat; repressaque in praesens exitiabilis superstitio rursum erumpebat, non modo per Iudaeam, originem eius mali, sed per urbem etiam quo cuncta undique atrocia aut pudenda confluunt celebranturque.""""""Therefore, suppressing the rumour, Nero subjected the guilty and inflicted the most severe punishments on those whom the common people called Christians, who had been hated for their atrocities. The author of his name, Christ Tiberius, had been put to death by the procurator Pontius Pilate. And the deadly superstition, suppressed for the time being, broke out again, not only through Judea, the origin of its evil, but also through the city, where everything atrocious or shameful from every quarter converges and is celebrated."""
 Medicean manuscript M2 Page 38, which contains Book XV Section 44: original pictures: <http://teca.bmlonline.it/TecaRicerca/showMag.jsp?RisIdr=TECA0000806725> <http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000806725&keyworks=tacitus#page/81/mode/1up> <https://en.wikipedia.org/wiki/File:MII.png> https://cdn.discordapp.com/attachments/742557921849901077/1016825500490027118/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016826354127360030/unknown.png
-Medicean manuscript M2 Page 38, which contains Book XV Section 44: "christian/chrestian" and "christus/chrestus" highlighted: <http://teca.bmlonline.it/TecaRicerca/showMag.jsp?RisIdr=TECA0000806725> <http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000806725&keyworks=tacitus#page/81/mode/1up> <https://en.wikipedia.org/wiki/File:MII.png> TODO
-
-# debate efficacy
-Kwon 2019: debate: <https://www.scientificamerican.com/article/how-to-debate-a-science-denier/> <https://archive.ph/1oWEo>
-McCammon et al 2012: debate: <https://www.tandfonline.com/doi/abs/10.1080/08929092.2012.678223> <https://sci-hub.se/10.1080/08929092.2012.678223> <https://cdn.discordapp.com/attachments/742557921849901077/1016921211973939220/mccammon2012.pdf>
+Medicean manuscript M2 Page 38, which contains Book XV Section 44: "christian/chrestian" and "christus/chrestus" highlighted: <http://teca.bmlonline.it/TecaRicerca/showMag.jsp?RisIdr=TECA0000806725> <http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000806725&keyworks=tacitus#page/81/mode/1up> <https://en.wikipedia.org/wiki/File:MII.png> https://cdn.discordapp.com/attachments/742557921849901077/1016929069000052759/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016932483138322472/unknown.png
 
 Carrier 2014: <https://u1lib.org/book/2372593/3ca91c> <https://www.worldcat.org/title/861768627> 
 
@@ -10739,7 +10735,7 @@ Martin and Yurukoglu 2017: data from channel number randomization suggests that 
 more persuasive posts on /r/ChangeMyView tend to be shorter, earlier in the thread, from higher social capital (higher karma) users, and use more argumentative sentences: <http://www.sdspeople.fudan.edu.cn/zywei/paper/487-wei-acl2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540433785146048532/unknown.png
 #####c
 
-####
+#####
 # debate: TODO reread xxx
 #####o
 Chen et al 2022: "Exploring debaters and audiences’ depth of critical thinking and its relationship with their participation in debate activities" <https://www.sciencedirect.com/science/article/abs/pii/S1871187122000384> <https://sci-hub.se/10.1016/j.tsc.2022.101035> TODO NOT ON SCIHUB YET
@@ -10754,6 +10750,36 @@ Najafi et al 2015: <https://academicjournals.org/journal/ERR/article-abstract/EE
 
 Zare and Othman 2013: debate has the potential to maintain active student engagement which includes improving critical thinking skills, mastering lesson content and improving speaking skills: <https://www.idosi.org/wasj/wasj28(11)2013.htm> <https://www.idosi.org/wasj/wasj28(11)13/5.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/962829310606069790/zare2015.pdf>
 ^ note: above was published in an IDOSI journal, which is an open-access predatory publisher that exercises little to no peer review: <https://en.wikipedia.org/wiki/Category:International_Digital_Organization_for_Scientific_Information_academic_journals>
+
+# debate efficacy
+Kwon 2019: debate: <https://www.scientificamerican.com/article/how-to-debate-a-science-denier/> <https://archive.ph/1oWEo>
+McCammon et al 2012: debate: <https://www.tandfonline.com/doi/abs/10.1080/08929092.2012.678223> <https://sci-hub.se/10.1080/08929092.2012.678223> <https://cdn.discordapp.com/attachments/742557921849901077/1016921211973939220/mccammon2012.pdf>
+
+## debate good
+
+### debate is an effective educational tool
+
+#### excellent and nuanced video by Jangles Sciencelad
+In Defense of Debate: <https://www.youtube.com/watch?v=qdYOaM0YH9E>
+
+#### debate and education
+Omelicheva and Avdeyeva 2008: debate achieved higher deep knowing in students: compared to lectures, undergrad students who observed debates had insignificantly lower knowledge (recollection of fact) and significantly higher comprehension (ability to explain fact), application (applying concept to unrelated situation), and evaluation (using concept to judge reality): <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/teaching-with-lecture-or-debate-testing-the-effectiveness-of-traditional-versus-active-learning-methods-of-instruction/3CCA1F6C678593BAE683F6FBFE2CEE55> <https://sci-hub.st/10.1017/S1049096508080815> <https://cdn.discordapp.com/attachments/742557921849901077/941139776277475368/omelicheva2008.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941140160211464252/unknown.png n=60 undergrads """The tests demonstrated that in our classes students acquired better comprehension, application, and critical evaluation skills when a controversial topic was taught in the debate format. With regard to basic knowledge, lectures better facilitated students’ memorization, recall, and recognition of information, however, this finding was only significant at the .10 level."""
+
+#### limit of debate: gender
+Tumposky 2004: debate is exclusive to women, who feel much less comfortable in adversarial conversations: <https://www.tandfonline.com/doi/abs/10.3200/TCHS.78.2.52-56> <https://sci-hub.st/10.3200/TCHS.78.2.52-56> <https://cdn.discordapp.com/attachments/742557921849901077/941146035655417856/tumposky2004.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941145893304946748/unknown.png """In her study of how males and females communicate, sociolinguist Tannen (1992) found that an adversarial environment is antithetical to the way most females learn and like to interact. She also notes that “most women are more comfortable speaking in private to a small group of people they know well” (1992, 7). Other research suggests that very few women are comfortable with adversarial argument, in or out of classrooms. In an interview study with American college students, researchers found that “the classic dormitory bull session with students assailing their opponents’ logic and attacking their evidence, seems to occur rarely among women” (Belenky et al. 1986, 105)."""
+
+#### debate education
+positions taken in student debates influences student positions on those topics (and can therefore open minds): <https://files.eric.ed.gov/fulltext/EJ977172.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483810094597931018/unknown.png
+debaters have significantly better critical thinking than nondebaters: <https://www.tandfonline.com/doi/abs/10.1080/00028533.1987.11951345>
+
+#### philosophy education
+philosophy education improves academic performance: <https://v1.educationendowmentfoundation.org.uk/uploads/pdf/Philosophy_for_Children.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483857320791769099/unknown.png
+
+#####
+# standpoint epistemology / standpoint theory good
+#####o
+# cognitive biases favor the powerful
+Brien and Crandall 2005: students were not more likely to trust a high-status doctor than low-status nurse (n=51 white undergrad students), students were more likely to distrust someone perceived as self-interested and someone in the outgroup (n=130 undergrad students), and students were more likely to trust someone defending the status quo (n=92): <https://link.springer.com/article/10.1007/s11211-005-3368-4> <https://sci-hub.st/10.1007/s11211-005-3368-4> <https://cdn.discordapp.com/attachments/742557921849901077/941147162501324800/brien2005.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941150811218645012/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941151263368826961/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152327103045733/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152463522758696/unknown.png
 #####c
 #####c
 
