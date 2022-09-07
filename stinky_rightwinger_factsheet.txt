@@ -10754,26 +10754,27 @@ Zare and Othman 2013: debate has the potential to maintain active student engage
 # debate efficacy
 Kwon 2019: debate: <https://www.scientificamerican.com/article/how-to-debate-a-science-denier/> <https://archive.ph/1oWEo>
 McCammon et al 2012: debate: <https://www.tandfonline.com/doi/abs/10.1080/08929092.2012.678223> <https://sci-hub.se/10.1080/08929092.2012.678223> <https://cdn.discordapp.com/attachments/742557921849901077/1016921211973939220/mccammon2012.pdf>
+#####c
 
-## debate good
+#####
+# debate is an effective educational tool
+#####o
+# excellent and nuanced video by Jangles Sciencelad
+Jangles Sciencelad: "In Defense of Debate": overviews some of the major strengths and weakness of debate as a propagandistic/ <https://www.youtube.com/watch?v=qdYOaM0YH9E>
 
-### debate is an effective educational tool
+# effectiveness of debate in education: achieves deep knowledge
+Omelicheva and Avdeyeva 2008: debate achieved higher deep knowing in students: compared to lectures, undergrad students who observed debates had insignificantly lower knowledge (recollection of fact) and significantly higher comprehension (ability to explain fact), application (applying concept to unrelated situation), and evaluation (using concept to judge reality): <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/teaching-with-lecture-or-debate-testing-the-effectiveness-of-traditional-versus-active-learning-methods-of-instruction/3CCA1F6C678593BAE683F6FBFE2CEE55> <https://sci-hub.st/10.1017/S1049096508080815> <https://cdn.discordapp.com/attachments/742557921849901077/941139776277475368/omelicheva2008.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941140160211464252/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016957998553382912/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016958325683925002/unknown.png n=60 undergrads """The tests demonstrated that in our classes students acquired better comprehension, application, and critical evaluation skills when a controversial topic was taught in the debate format. With regard to basic knowledge, lectures better facilitated students’ memorization, recall, and recognition of information, however, this finding was only significant at the .10 level."""
 
-#### excellent and nuanced video by Jangles Sciencelad
-In Defense of Debate: <https://www.youtube.com/watch?v=qdYOaM0YH9E>
-
-#### debate and education
-Omelicheva and Avdeyeva 2008: debate achieved higher deep knowing in students: compared to lectures, undergrad students who observed debates had insignificantly lower knowledge (recollection of fact) and significantly higher comprehension (ability to explain fact), application (applying concept to unrelated situation), and evaluation (using concept to judge reality): <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/teaching-with-lecture-or-debate-testing-the-effectiveness-of-traditional-versus-active-learning-methods-of-instruction/3CCA1F6C678593BAE683F6FBFE2CEE55> <https://sci-hub.st/10.1017/S1049096508080815> <https://cdn.discordapp.com/attachments/742557921849901077/941139776277475368/omelicheva2008.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941140160211464252/unknown.png n=60 undergrads """The tests demonstrated that in our classes students acquired better comprehension, application, and critical evaluation skills when a controversial topic was taught in the debate format. With regard to basic knowledge, lectures better facilitated students’ memorization, recall, and recognition of information, however, this finding was only significant at the .10 level."""
-
-#### limit of debate: gender
+# limit of debate: gender exclusivity
 Tumposky 2004: debate is exclusive to women, who feel much less comfortable in adversarial conversations: <https://www.tandfonline.com/doi/abs/10.3200/TCHS.78.2.52-56> <https://sci-hub.st/10.3200/TCHS.78.2.52-56> <https://cdn.discordapp.com/attachments/742557921849901077/941146035655417856/tumposky2004.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941145893304946748/unknown.png """In her study of how males and females communicate, sociolinguist Tannen (1992) found that an adversarial environment is antithetical to the way most females learn and like to interact. She also notes that “most women are more comfortable speaking in private to a small group of people they know well” (1992, 7). Other research suggests that very few women are comfortable with adversarial argument, in or out of classrooms. In an interview study with American college students, researchers found that “the classic dormitory bull session with students assailing their opponents’ logic and attacking their evidence, seems to occur rarely among women” (Belenky et al. 1986, 105)."""
 
-#### debate education
+# debate education
 positions taken in student debates influences student positions on those topics (and can therefore open minds): <https://files.eric.ed.gov/fulltext/EJ977172.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483810094597931018/unknown.png
 debaters have significantly better critical thinking than nondebaters: <https://www.tandfonline.com/doi/abs/10.1080/00028533.1987.11951345>
 
-#### philosophy education
+# philosophy education
 philosophy education improves academic performance: <https://v1.educationendowmentfoundation.org.uk/uploads/pdf/Philosophy_for_Children.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483857320791769099/unknown.png
+#####c
 
 #####
 # standpoint epistemology / standpoint theory good
