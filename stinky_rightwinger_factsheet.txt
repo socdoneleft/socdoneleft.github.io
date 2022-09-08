@@ -10708,66 +10708,59 @@ and the poll itself was a merely distributed to teachers, not students -- making
 #####o
 
 #####
-# persuasion: debating, deep canvassing, media, humor
+# persuasion: basically everything works
+#####o
+# summary
+The studies below show that lots of specific methods work. In my opinion, the correct synthesis of these results is that basically *all* methods of persuasion work. While some may work better than others, and may work better on different people, evidence works, logic works, debate works, empathy works, humor works.
+
+# methods: logos, ridicule, empathy: all work
+Orosz et al 2016: ridicule & humor (making fun of inconsistencies and of believers in the conspiracy) and logical breakdown (providing stats and explaining logical failures) are equally effective at reducing belief in a Jewish superconspiracy, though the effect size is not large (~3 points on an 88-point scale (3.4pp): <https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01525/full> <https://sci-hub.st/10.3389/fpsyg.2016.01525/full> <https://cdn.discordapp.com/attachments/742557921849901077/804880189695852595/orosz2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540432297199927297/fpsyg-07-01525-g001.png
+#####c
+
+#####
+# persuasion: deep canvassing works
 #####o
 # methods: deep canvassing: compassion works
 Kalla and Broockman 2016: deep canvassing (having a ~10 minute conversation encouraging the person to consider a trans person's perspective) increased tolerance of transgender people (~.3 SD) and support for a gender nondiscrimination law (~.5 points on -3 to +3 scale); these effects persisted and strengthened after 3 months, and were robust to a fake negative ad against the law: <https://www.nytimes.com/2016/04/10/magazine/how-do-you-change-voters-minds-have-a-conversation.html> <http://science.sciencemag.org/content/352/6282/220> <http://sci-hub.st/10.1126/science.aad9713> <https://cdn.discordapp.com/attachments/742557921849901077/801830550729129984/broockman2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/801832782732984350/unknown.png Defining “transgender” in the item wording revealed that placebo subjects were less supportive of protecting this group (P < 0.05, one-tailed). Next, all subjects were less supportive after viewing an opposing ad, but the effect of the conversations endured (P < 0.05, one-tailed). However, the ads’ impact dissipated, whereas the conversations’ effect endured (P < 0.05, one-tailed).
 Kalla and Broockman 2020: conversations that used both {convincing arguments and compassion} durably reduced anti-immigration sentiment and transphobia; conversations that used only {convincing arguments} had insignificant effects; this was found in face-to-face, video, and phone interventions: <https://www.cambridge.org/core/journals/american-political-science-review/article/abs/reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments/4AA5B97806A4CAFBAB0651F5DAD8F223> <https://cdn.discordapp.com/attachments/742557921849901077/895135046011322388/kalla2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/895137880199016508/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895125663898566676/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895126146545496124/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895126906058469427/unknown.png
+#####c
 
-# methods: logos, ridicule, empathy: all work
-Orosz et al 2016: ridicule & humor (making fun of inconsistencies and of believers in the conspiracy) and logical breakdown (providing stats and explaining logical failures) are equally effective at reducing belief in a Jewish superconspiracy, though the effect size is not large (~3 points on an 88-point scale (3.4pp): <https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01525/full> <https://sci-hub.st/10.3389/fpsyg.2016.01525/full> <https://cdn.discordapp.com/attachments/742557921849901077/804880189695852595/orosz2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540432297199927297/fpsyg-07-01525-g001.png
-
-# methods: logos: no backfire effect, evidence works
+#####
+# persuasion: evidence works
+#####o
+# general evidence: evidence changes minds and there's no backfire effect
 Wood et al 2018: there is no evidence for a consistent "backfire effect"; telling people facts generally changes their minds; the effect of factual correction is ~1/3 as large as the effect of ideology on stated belief: <https://mindhacks.com/2018/01/03/the-backfire-effect-is-elusive/> <https://link.springer.com/article/10.1007/s11109-018-9443-y> <https://sci-hub.se/10.1007/s11109-018-9443-y> <https://cdn.discordapp.com/attachments/742557921849901077/874024449693872168/wood2018.pdf> https://cdn.discordapp.com/attachments/418850379518705675/716789700517691592/unknown.png """The present paper presents results from five experiments in which we enrolled more than 10,100 subjects and tested 52 issues of potential backfire. Across all experiments, we found no corrections capable of triggering backfire, despite testing precisely the kinds of polarized issues where backfire should be expected. Evidence of factual backfire is far more tenuous than prior research suggests."""
 ^ list of factual correction: <https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-018-9443-y/MediaObjects/11109_2018_9443_MOESM1_ESM.pdf>
 
-# methods: logos: no partisan cue effect, evidence works
+# specific evidence: misinformation isn't stronger, evidence still works
+Schmid and Betsch 2019: experimental study: among 1661 respondents, topic rebuttal (oppose misinformation with facts) and technique rebuttal (refute the methods that science deniers use to mislead their audience) substantially and significantly reduced the influence of science deniers (by about 1/3 of a standard deviation), especially among individuals who vulnerable to antiscience beliefs: <https://www.scientificamerican.com/article/how-to-debate-a-science-denier/> <https://archive.ph/1oWEo> <https://www.nature.com/articles/s41562-019-0632-4> <https://sci-hub.se/10.1038/s41562-019-0632-4> <https://cdn.discordapp.com/attachments/742557921849901077/1017236881374715985/schmid2019.pdf> <https://osf.io/xx2kt/> https://cdn.discordapp.com/attachments/742557921849901077/1017237734185762816/unknown.png
+
+# specific evidence: there's no major partisan cue effect, evidence still works
 Tappin 2021: against "partisan motivated reasoning": evidence changed minds in a sample of 24 policy issues; no significant difference between "evidence + contrary party leader cue" (purple) vs "evidence alone" (black): <https://psyarxiv.com/247bs/> <https://cdn.discordapp.com/attachments/742557921849901077/895135650540564500/tappin2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/895128816383582238/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895135169621672017/FA-ygFjVkAohiOg.png Altogether, our design incorporates 48 unique arguments and evidence (information) treatments, and we recruit a total of 5,071 American adults corresponding to 25,181 observations. The experiment design is as follows.
-
-# delivery: op-eds
-Coppock et al 2021 (all three authors are libertarians): libertarian op-eds changed individual's minds by ~.5-1 points on a 7-point scale (if linear, ~7-14%) about specific issues; about 2/3 of this effect persists after 1 month: <https://www.nowpublishers.com/article/Details/QJPS-16112> <https://sci-hub.st/10.1561/100.00016112> <https://cdn.discordapp.com/attachments/742557921849901077/809165474083373116/coppock2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/809891950219231272/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/809892661757870140/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/959340400605294612/unknown.png """Under the rosiest scenario, an op-ed costs $5,000 to produce, reaches 400,000 people, and changes the mind of 20% of them. Plugging these values into Equation (1), we obtain that the cost per mind changed is a mere 6 cents. Under a more conservative set of assumptions, an op-ed costs 10 times as much ($50,000), reaches half as many people (200,000), and changes half as many minds (10%). The resulting cost per mind changed would work out to $2.50."""
-^ supplementary material for above, including op-eds: <https://cdn.discordapp.com/attachments/742557921849901077/959332602148450345/coppock2018supp.pdf>
-
-# delivery: tv news
-Martin and Yurukoglu 2017: data from channel number randomization suggests that Fox News shifts voting patterns rightward: Without Fox News, .46% fewer people would've voted Republican in 2000, 3.59% in 2004, and 6.35% in 2008: <https://www.vox.com/policy-and-politics/2017/9/8/16263710/fox-news-presidential-vote-study> <https://www.aeaweb.org/articles?id=10.1257%2Faer.20160812> <http://sci-hub.st/10.1257/aer.20160812> <https://cdn.discordapp.com/attachments/418850379518705675/786317526560276520/martin2017.pdf> https://cdn.discordapp.com/attachments/418850379518705675/786318192644456529/unknown.png
-
-# length
-more persuasive posts on /r/ChangeMyView tend to be shorter, earlier in the thread, from higher social capital (higher karma) users, and use more argumentative sentences: <http://www.sdspeople.fudan.edu.cn/zywei/paper/487-wei-acl2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540433785146048532/unknown.png
 #####c
 
 #####
-# debate: TODO reread xxx
-#####o
-
-Moore 2020: proposes the importance of teaching healthy ways in participatory debate without indoctrination: <https://www.learntechlib.org/p/217578/> <https://cdn.discordapp.com/attachments/742557921849901077/962830427083669544/moore2020.pdf>
-
-Najafi et al 2015: <https://academicjournals.org/journal/ERR/article-abstract/EE7AD5657410> <https://sci-hub.se/10.5897/ERR2015.2316> <https://cdn.discordapp.com/attachments/742557921849901077/962825127320490064/najafi2015.pdf>
-
-# debate efficacy
-Kwon 2019: debate: <https://www.scientificamerican.com/article/how-to-debate-a-science-denier/> <https://archive.ph/1oWEo>
-#####c
-
-#####
-# debate is an effective educational tool
+# delivery method: debate is an effective educational tool
 #####o
 # excellent and nuanced video by Jangles Sciencelad
 Jangles Sciencelad: "In Defense of Debate": overviews some of the major strengths and weakness of debate as a propagandistic/ <https://www.youtube.com/watch?v=qdYOaM0YH9E>
 
-# effectiveness of debate in education: achieves deep knowledge
+# strength of debate: educational debate achieves deep knowledge
 Omelicheva and Avdeyeva 2008: debate achieved higher deep knowing in students: compared to lectures, undergrad students who observed debates had insignificantly lower knowledge (recollection of fact) and significantly higher comprehension (ability to explain fact), application (applying concept to unrelated situation), and evaluation (using concept to judge reality): <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/teaching-with-lecture-or-debate-testing-the-effectiveness-of-traditional-versus-active-learning-methods-of-instruction/3CCA1F6C678593BAE683F6FBFE2CEE55> <https://sci-hub.st/10.1017/S1049096508080815> <https://cdn.discordapp.com/attachments/742557921849901077/941139776277475368/omelicheva2008.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941140160211464252/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016957998553382912/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016958325683925002/unknown.png n=60 undergrads """The tests demonstrated that in our classes students acquired better comprehension, application, and critical evaluation skills when a controversial topic was taught in the debate format. With regard to basic knowledge, lectures better facilitated students’ memorization, recall, and recognition of information, however, this finding was only significant at the .10 level."""
 
-# critical thinking enables debate victories
-Chen et al 2022: in an educational context, debate winners demonstrated higher critical thinking than their opponents: <https://www.sciencedirect.com/science/article/abs/pii/S1871187122000384> <https://sci-hub.se/10.1016/j.tsc.2022.101035> <https://cdn.discordapp.com/attachments/742557921849901077/1017216725080613024/chen2022.pdf> """Results indicated that: (1) averagely speaking, the winning team demonstrated a higher depth of critical thinking, and their number of speeches was relatively more than that of the teams with lower debate scores; (2) debaters’ depth of critical thinking was negatively correlated to their number of speeches; (3) audiences’ depth of critical thinking was not significantly correlated to their number of online posts; (4) debaters’ overall depth of critical thinking was relatively lower than that of audiences."""
+# strength of debate: critical thinking enables debate victories
+Chen et al 2022: among 76 sophomore undergrads, educational debate winners demonstrated higher critical thinking (as evaluated by the instructor) than their opponents: <https://www.sciencedirect.com/science/article/abs/pii/S1871187122000384> <https://sci-hub.se/10.1016/j.tsc.2022.101035> <https://cdn.discordapp.com/attachments/742557921849901077/1017216725080613024/chen2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017234353836789790/unknown.png (score == 40 is a win, score == 35 is a tie, score == 30 is a loss) """Results indicated that: (1) averagely speaking, the winning team demonstrated a higher depth of critical thinking, and their number of speeches was relatively more than that of the teams with lower debate scores; (2) debaters’ depth of critical thinking was negatively correlated to their number of speeches; (3) audiences’ depth of critical thinking was not significantly correlated to their number of online posts; (4) debaters’ overall depth of critical thinking was relatively lower than that of audiences."""
 
-# debate encourages better critical thinking
+# strength of debate: debate encourages better critical thinking
 Mumtaz and Latif 2017: among 182 female second-year medical students in Saudi Arabia, the vast majority reported that educational debate improved their critical thinking (78%), speaking and presentation skills (71%), and understanding of hearing from diverse viewpoints (80%): <https://journals.physiology.org/doi/full/10.1152/advan.00157.2016> <https://sci-hub.se/10.1152/advan.00157.2016> <https://cdn.discordapp.com/attachments/742557921849901077/962824535944593418/mumtaz2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017222798105661460/unknown.png
 Colbert 1987: non-experimental evidence: among 248 undergrads, measured two weeks before and two weeks after inter-collegiate competitive debate began, debaters saw significantly more positive changes in critical thinking skills compared to nondebaters: <https://www.tandfonline.com/doi/abs/10.1080/00028533.1987.11951345> <https://sci-hub.se/10.1080/00028533.1987.11951345> <https://cdn.discordapp.com/attachments/742557921849901077/1017216449821020220/colbert2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017219017926258699/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017219769650384956/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017220641755238410/unknown.png
 
-# debate encourages more-divisive, less-participatory activity
-McAvoy and McAvoy 2021: among 165 high school students, compared to deliberative small group activity, debate brought : <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2021.1942706> <https://sci-hub.se/10.1080/0161956X.2021.1942706> <https://cdn.discordapp.com/attachments/742557921849901077/962824033022406666/mcavoy2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017225482334392350/unknown.png
+# limit of debate: adversarial debate has lower respect, satisfaction, participation, higher hesitation
+McAvoy and McAvoy 2021: among 165 high school students, compared to deliberative small group activity, students in the debate condition reported less respect, more hesitation to speak, less satisfaction, and lower participation: <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2021.1942706> <https://sci-hub.se/10.1080/0161956X.2021.1942706> <https://cdn.discordapp.com/attachments/742557921849901077/962824033022406666/mcavoy2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017225482334392350/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017231711127490560/unknown.png
 
-# limit of debate: gender exclusivity (see Mumtaz as counter-example)
+# limit of debate: alleged gender exclusivity (see also Mumtaz as counter-example)
 Tumposky 2004: debate is exclusive to women, who feel much less comfortable in adversarial conversations: <https://www.tandfonline.com/doi/abs/10.3200/TCHS.78.2.52-56> <https://sci-hub.st/10.3200/TCHS.78.2.52-56> <https://cdn.discordapp.com/attachments/742557921849901077/941146035655417856/tumposky2004.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941145893304946748/unknown.png """In her study of how males and females communicate, sociolinguist Tannen (1992) found that an adversarial environment is antithetical to the way most females learn and like to interact. She also notes that “most women are more comfortable speaking in private to a small group of people they know well” (1992, 7). Other research suggests that very few women are comfortable with adversarial argument, in or out of classrooms. In an interview study with American college students, researchers found that “the classic dormitory bull session with students assailing their opponents’ logic and attacking their evidence, seems to occur rarely among women” (Belenky et al. 1986, 105)."""
+McAvoy and McAvoy 2021: among 165 high school students, young women were more likely to report hearing something offensive in small group discussion than debate, and equally likely to report hesitance to speak in both activities: <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2021.1942706> <https://sci-hub.se/10.1080/0161956X.2021.1942706> <https://cdn.discordapp.com/attachments/742557921849901077/962824033022406666/mcavoy2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017232010240069682/unknown.png
 
 # effect of debating on positions taken
 Lilly 2012: positions taken in student debates influences student positions on those topics; this can be seen as good (opening minds to new positions) or bad (people who argue for just one side will be convinced by that side): <https://eric.ed.gov/?id=EJ977172> <https://files.eric.ed.gov/fulltext/EJ977172.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1016961779055722526/lillyl2012.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483810094597931018/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016962056915791942/unknown.png
@@ -10778,7 +10771,21 @@ Lord et al 2021: randomized-control trial (RCT): among 3601 children aged 9-10, 
 #####c
 
 #####
-# standpoint epistemology / standpoint theory good
+# delivery methods: other effective methods
+#####o
+# delivery: op-eds
+Coppock et al 2021 (all three authors are libertarians): libertarian op-eds changed individual's minds by ~.5-1 points on a 7-point scale (if linear, ~7-14%) about specific issues; about 2/3 of this effect persists after 1 month: <https://www.nowpublishers.com/article/Details/QJPS-16112> <https://sci-hub.st/10.1561/100.00016112> <https://cdn.discordapp.com/attachments/742557921849901077/809165474083373116/coppock2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/809891950219231272/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/809892661757870140/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/959340400605294612/unknown.png """Under the rosiest scenario, an op-ed costs $5,000 to produce, reaches 400,000 people, and changes the mind of 20% of them. Plugging these values into Equation (1), we obtain that the cost per mind changed is a mere 6 cents. Under a more conservative set of assumptions, an op-ed costs 10 times as much ($50,000), reaches half as many people (200,000), and changes half as many minds (10%). The resulting cost per mind changed would work out to $2.50."""
+^ supplementary material for above, including op-eds: <https://cdn.discordapp.com/attachments/742557921849901077/959332602148450345/coppock2018supp.pdf>
+
+# delivery: tv news
+Martin and Yurukoglu 2017: data from channel number randomization suggests that Fox News shifts voting patterns rightward: Without Fox News, .46% fewer people would've voted Republican in 2000, 3.59% in 2004, and 6.35% in 2008: <https://www.vox.com/policy-and-politics/2017/9/8/16263710/fox-news-presidential-vote-study> <https://www.aeaweb.org/articles?id=10.1257%2Faer.20160812> <http://sci-hub.st/10.1257/aer.20160812> <https://cdn.discordapp.com/attachments/418850379518705675/786317526560276520/martin2017.pdf> https://cdn.discordapp.com/attachments/418850379518705675/786318192644456529/unknown.png
+
+# delivery: forum posts
+more persuasive posts on /r/ChangeMyView tend to be shorter, earlier in the thread, from higher social capital (higher karma) users, and use more argumentative sentences: <http://www.sdspeople.fudan.edu.cn/zywei/paper/487-wei-acl2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540433785146048532/unknown.png
+#####c
+
+#####
+# background: standpoint epistemology / standpoint theory good
 #####o
 # cognitive biases favor the powerful
 Brien and Crandall 2005: students were not more likely to trust a high-status doctor than low-status nurse (n=51 white undergrad students), students were more likely to distrust someone perceived as self-interested and someone in the outgroup (n=130 undergrad students), and students were more likely to trust someone defending the status quo (n=92): <https://link.springer.com/article/10.1007/s11211-005-3368-4> <https://sci-hub.st/10.1007/s11211-005-3368-4> <https://cdn.discordapp.com/attachments/742557921849901077/941147162501324800/brien2005.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941150811218645012/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941151263368826961/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152327103045733/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152463522758696/unknown.png
