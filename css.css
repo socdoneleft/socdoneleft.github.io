@@ -14,7 +14,7 @@
 	--sidebar_left_size: 0%;
 	--sidebar_left_size_inv: calc(100% - var(--sidebar_left_size));
 	
-	--main_width_base: 80%;
+	--main_width_base: 60%;
 	--main_width: calc(var(--main_width_base) - var(--padding_default)*2);
 	--main_margin: calc((100% - var(--main_width_base)) / 2);
 	--main_width_responsive: calc(var(--main_width) - var(--sidebar_left_size));
