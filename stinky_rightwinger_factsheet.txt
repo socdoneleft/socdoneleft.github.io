@@ -7992,17 +7992,12 @@ if someone claims to have read "Das Kapital":
 
 # gotha programme
 if someone claims to have read Critique of the Gotha Programme:
-- ask them whether workers under Marxian socialism should receive the diminished or undiminished value of their labor; Marx clearly states that workers only receive the value of their labor after deductions are made as necessary to pay for capital, "common satisfaction of needs", "poor relief", and communal means of consumption ("social stock"): <https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm>
-- ask them whose "iron law of wages" Marx and Engels rejected; either "Malthus" or "Lasalle" is correct, and is the focus of the entire 2nd part of the Critique: <https://www.marxists.org/archive/marx/works/1875/gotha/ch02.htm>
+* ask them whether workers under Marxian socialism should receive the diminished or undiminished value (perhaps "full fruits") of their labor; Marx clearly states that workers only receive the value of their labor after deductions are made as necessary to pay for capital, "common satisfaction of needs", "poor relief", and communal means of consumption ("social stock"): <https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm>
+* ask them whose "iron law of wages" Marx and Engels rejected; either "Malthus" or "Lasalle" is correct, and is the focus of the entire 2nd part of the Critique: <https://www.marxists.org/archive/marx/works/1875/gotha/ch02.htm>
 
 # origin of family and the state
 if someone claims to have read Origin of the Family and the State:
 - ask them what the three stages of hitherto existing civilization are; roughly "tribal", "feudal", "capitalist" is acceptable
-#####c
-
-#####
-# 
-#####o
 #####c
 #####c
 
