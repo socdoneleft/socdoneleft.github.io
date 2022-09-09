@@ -663,6 +663,414 @@ Ginsberg opposed court-packing because she felt it would reduce judicial indepen
 Ginsberg's argument hinges on the idea that people follow the judiciary's rulings: <https://www.npr.org/2019/07/24/744633713/justice-ginsburg-i-am-very-much-alive> """But the whole notion of the country's independent judiciary hinges on public trust, she noted. "The court has no troops at its command," Ginsburg pointed out, "doesn't have the power of the purse, and yet time and again, when the courts say something, people accept it." She recalled Bush v. Gore, the controversial case in which the Supreme Court stopped a Florida recount in the 2000 presidential election. "I dissented from that decision," Ginsburg said. "I thought it was unwise. A lot of people disagreed with it. And yet the day after the court rendered its decision, there were no riots in the streets. People adjusted to it. And life went on.""""
 #####c
 #####c
+
+#####
+#
+# media
+#
+#####o
+
+#####
+# media bias towards capitalists: real and significant
+#####o
+# media supports advertiser narratives
+news outlets reported about 17% of corporate social irresponsibility (CSI) events studied; a news outlet is more likely to report CSI if the outlet is a daily publication (+3.6-3.9%), if it is left-leaning (+2.8% relative to right-leaning), and if the incident came from a large or well-known corporation; a news outlet is less likely to report CSI if it has an advertising relationship (-.9%) or if it has a selective advertising relationship (-7.8%): <https://www.ama.org/2020/04/01/press-release-from-the-journal-of-marketing-media-bias-with-corporate-social-irresponsibility-events/> <https://journals.sagepub.com/doi/10.1177/0022242920911907> <http://sci-hub.se/10.1177/0022242920911907> https://cdn.discordapp.com/attachments/418850379518705675/708111548694003773/unknown.png
+
+# media prefers scandals to policy
+online media focused more on Hillary Clinton's scandals than her politics: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536267934318985247/unknown.png
+
+# media prefers sensationalism ("it bleeds, it leads"): good study
+Ritchie 2019: compared to both actual frequency of deaths and frequency of Google Searches, the NYT and Guardian were more likely to cover certain types of death -- terrorism (~3400x actual, 5x Google), homicide (26x actual, 7x Google) -- and less likely to cover others -- road incidents & accidents (0.3x actual, 0.2x Google), cancer (.3x actual, .37x Google): <https://ourworldindata.org/does-the-news-reflect-what-we-die-from> https://cdn.discordapp.com/attachments/742557921849901077/950877219226538034/Causes-of-death-in-USA-vs.-media-coverage.png https://cdn.discordapp.com/attachments/742557921849901077/950883537148596264/Over-and-underrepresentation-of-deaths-in-media.png
+
+# media prefers sensationalism ("it bleeds, it leads"): bad study
+Dalal 2015: in a convenience sample of major events, the New York Times was substantially more likely to cover deaths from terrorism than deaths from disease, drowning, or natural disasters: <https://www.nemil.com/s/part3-horror-films.html> <https://public.tableau.com/app/profile/nemil.dalal/viz/CoveragevsDeathsWorldexclNepalEarthquake/NYTimesCoveragevsNumberofWorldDeathsexclNepal> https://cdn.discordapp.com/attachments/742557921849901077/950868438715359332/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/950868450027372564/unknown.png
+Dalal 2015: the New York Times is significantly more likely to cover terrorism than other kinds of death: <https://www.nemil.com/s/part3-horror-films.html> https://cdn.discordapp.com/attachments/742557921849901077/950870400940802048/unknown.png
+#####c
+
+#####
+# media bias toward liberals/leftists: mixture
+#####o
+# liberal overrepresentation among journalists: real
+Willnat and Weaver 2014: journalists are 4x more likely to be affiliated as Democratic (28.1%) than Republican (7.1%): <https://www.politico.com/blogs/media/2014/05/survey-7-percent-of-reporters-identify-as-republican-188053> <http://archive.news.indiana.edu/releases/iu/2014/05/2013-american-journalist-key-findings.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/965050523231330394/weaver2014.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536590716378415124/unknown.png
+
+# conservative overrepresentation among media content: real
+Power and Miller 2018: Sunday talk news shows actually tilt conservative: <https://www.mediamatters.org/blog/2018/11/02/study-over-past-3-months-guest-panels-sunday-shows-have-been-overwhelmingly-conservative/221974> <https://archive.ph/wip/4Tg41> https://cdn.discordapp.com/attachments/418850379518705675/640937903370797093/Sunday-Show-Guests.png
+CNN actually gives Republican guests more air time than Democratic guests: <https://web.stanford.edu/~ayurukog/cable_news.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471458421699510292/unknown.png
+
+# liberal or conservative bias on youtube
+Ledwich and Zaitsev 2020: the "partisan left" and the "partisan right" are equally more likely to be recommended to an anonymous user: <https://doi.org/10.5210/fm.v25i3.10419> <https://firstmonday.org/ojs/index.php/fm/article/view/10419/9404> https://cdn.discordapp.com/attachments/742557921849901077/976210565070487552/mlfigure6.png
+
+# conspiracies to keep leftist media down
+the BBC secretly colluded with MI5 to keep out leftist journalists: <http://www.bbc.com/news/stories-43754737> <https://archive.ph/PMoaG>
+#####c
+
+#####
+# publicly funded media effective: govtreon, news vouchers, media vouchers, journalism vouchers
+#####o
+# background: us subsidized media extensively
+CJR 2010: uniquely among governments of the time, the US government recognized that the market wouldn't underfund investigative media, so they subsidized media to the tune of $30 billion (0.2% of GDP): <https://archives.cjr.org/the_news_frontier/rejuvenating_american_journali.php> <https://archive.ph/I0FMs> https://cdn.discordapp.com/attachments/742557921849901077/868276307404935208/unknown.png """There was no notion that “the market,” unsubsidized, would produce sufficient journalism; the idea was unthinkable until the late 19th or early 20th century, when, with the striking explosion in advertising, commercial interests began to prosper. To that end, in the first generations of our nation’s history the federal government instituted extraordinarily large postal and printing subsidies with the explicit goal of broadening and deepening the amount of newspapers and periodical in the United States. These were brilliant subsidies that did not favor a single party or viewpoint; indeed, they made much of the abolitionist press possible while also supporting pro-slavery publications. If the United States federal government devoted the same percentage of GDP to subsidizing journalism today that it did in the 1840s, for example, the expenditure would be around $30 billion. Indeed the one area that distinguished the American government from European governments at the time was its commitment to creating a huge and credible democratic press system."""
+
+# cjr's citizenship news voucher
+CJR 2010: explaining the "Citizenship News Voucher" concept: $200/yr voucher to nonprofit media as defined broadly by the IRS: <https://archives.cjr.org/the_news_frontier/rejuvenating_american_journali.php> <https://archive.ph/I0FMs> """The idea is simple: every American adult gets a $200 voucher she can use to donate government money to any nonprofit news medium of her choice. She will indicate her choice on her tax return. If she does not file a tax return, a simple form will be available to use. She can split her $200 among several different qualifying nonprofit media. This program would be purely voluntary, like the tax-form check-offs for funding elections or protecting wildlife. A government agency, possibly operating out of the Internal Revenue Service, can be set up to allocate the funds and to determine eligibility—according to universal standards that err on the side of expanding rather than constraining the number of qualifying media."""
+
+# baker's artistic freedom voucher
+Baker 2003: explains the program artistic freedom voucher (AFV): <https://www.policyarchive.org/handle/10207/20794> <https://cdn.discordapp.com/attachments/742557921849901077/853444815344369664/baker2003.pdf> """The AFV would allow each individual to contribute a refundable tax credit of approximately $100 to a creative worker of their choice, or to an intermediary who passes funds along to creative workers. Recipients of the AFV (creative workers and intermediaries) would be required to register with the government in the same way that religious or charitable organizations must now register for tax-exempt status. This registration is only for the purpose of preventing fraud – it does not involve any evaluation of the quality of the work being produced."""
+Baker 2003: explains funding for the AFV and scope of its benefits: <https://www.policyarchive.org/handle/10207/20794> <https://cdn.discordapp.com/attachments/742557921849901077/853444815344369664/baker2003.pdf> https://cdn.discordapp.com/attachments/742557921849901077/868277958396215346/unknown.png """In exchange for receiving AFV support, creative workers would be ineligible for copyright protection for a significant period of time (e.g. five years). Copyrights and the AFV are alternative ways in which the government supports creative workers. Creative workers are entitled to be compensated once for their work, not twice. The AFV would not affect a creative workers ability to receive money for concerts or other live performances. [....] A $100 per adult voucher would be sufficient to pay 500,000 writers, musicians, singers, actors, or other creative workers $40,000 a year. All of the material produced by these workers would be placed in the public domain where it could be freely reproduced."""
+^ status quo: 5 million cultural workers: <https://nasaa-arts.org/nasaa_research/facts-figures-on-the-creative-economy/> """There were 5.2 million arts and cultural sector jobs in America in 2017—accounting for 3.3% of all U.S. jobs—which collectively paid workers a total of $446.7 billion. Explore your state’s level of arts employment with NASAA’s Creative Economy State Profiles."""
+Baker 2003: explains savings from waiving of copyright: <https://www.policyarchive.org/handle/10207/20794> <https://cdn.discordapp.com/attachments/742557921849901077/853444815344369664/baker2003.pdf> https://cdn.discordapp.com/attachments/742557921849901077/853451591033159680/unknown.png """The AFV would create a vast amount of uncopyrighted material. [....] Under plausible assumptions, the savings from reduced expenditures on copyrighted material would vastly exceed the cost of the AFV. [....] The AFV would immediately create a pool of money (approximately $20 billion annually) to support creative and artistic workers that is far larger than the amount that currently flows to them through copyright-protected material. [...] [T]he current distribution of royalties and related payments is heavily concentrated among a small group of singers, actors, writers and other creative workers[.] [...] This means that almost all creative workers would stand to earn far more through the AFV system than through the copyright system. [....] The projections assume much more modest savings (20 percent in the high savings scenario and 10 percent in the low savings scenario) in the case of books, advertising, and cable and pay TV. In these cases, a much higher proportion of the costs are attributable to the physical production and distribution of the material, rather than the compensation of the creative workers."""
+
+# public-funded sources are trustworthy
+even for conservatives, publicly funded media (NPR, PBS, BBC, public TV in general) has higher trust: <https://www.rjionline.org/stories/who-trusts-and-pays-for-the-news-heres-what-8728-people-told-us> https://cdn.discordapp.com/attachments/418850379518705675/442821850158858263/unknown.png
+even for conservatives, publicly funded media (NPR, PBS) has higher trust: <https://www.rjionline.org/reporthtml.html> <https://kf-site-production.s3.amazonaws.com/publications/pdfs/000/000/255/original/KnightFoundation_AccuracyandBias_Report_FINAL.pdf> https://cdn.discordapp.com/attachments/418850379518705675/459766155897339924/unknown.png
+
+# public-funded sources reduce right-wing extremism
+Chandel 2016: <https://www.theguardian.com/media/2016/aug/08/public-service-media-rightwing-extremism-ebu-psbs> <https://www.ebu.ch/news/2016/08/ebu-research-shows-strong-public-service-media-contributes-to-a-healthy-democracy> <https://web.archive.org/web/20160910131332/http://www.ebu.ch/files/live/sites/ebu/files/Publications/EBU-MIS%20-%20PSM%20Correlations%20-%20Public.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/968235641827643442/Chandel2016.pdf> 
+
+# todo xxx reread
+https://www.ebu.ch/video-talks/membersonly/2021/09/no-democracy-without-media-a-research-perspective
+https://journals.sagepub.com/doi/10.1177/0267323121991334
+https://cadmus.eui.eu/handle/1814/70218
+https://www.ebu.ch/publications/research/login_only/report/trust-in-media
+https://www.ebu.ch/news/2022/01/public-media-and-democracy-in-turbulent-times--lessons-from-lithuania
+Pickard 2008: <http://web.archive.org/web/20200811010828/https://www.asc.upenn.edu/news-events/publications/victor-pickard-josh-stearns-craig-aaron-saving-news-toward-national> <https://cdn.discordapp.com/attachments/742557921849901077/853473046731030528/pickard2008.pdf>
+McChesney 2011: <https://brill.com/view/journals/pgdt/10/1/article-p224_17.xml> 
+https://techliberation.com/2010/04/14/the-wrong-way-to-reinvent-media-part-3-media-vouchers/#_ftn12
+https://www.ftc.gov/sites/default/files/documents/public_events/how-will-journalism-survive-internet-age/mcchesney.pdf
+https://twitter.com/DemocracyPolicy/status/1351246730776330241
+https://www.jspp.psychopen.eu/index.php/jspp/article/view/96/37
+https://www.niemanlab.org/2011/03/funding-public-media-how-the-us-compares-to-the-rest-of-the-world/
+https://docs.google.com/document/d/1rJrpsZJg_FZX7Fk396v8reyEF-0fRweGRBUKcJcoQ4I/edit
+https://nofilmschool.com/2014/01/sundance-infographic-numbers-in-independent-film
+https://www.documentarytelevision.com/documentary-budget/sundance-and-the-single-documentary-economy-the-1-3-billion-cost-of-missing-out/
+#####c
+
+#####
+# echo-chambers / echo chambers: very real
+#####o
+# right-wing online echo-chamber
+right-wing users exist within a right-wing media echochamber where the furthest-right news is rewarded and center-right news is shunned: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536269210389577740/unknown.png The particular prominence of the right-most column in Figure 2.7 reflects the overwhelming prominence of Breitbart, as also reflected in the network maps. [...] On Twitter, the center-right is the least represented. On Facebook, both the center and center-right garnered relatively little attention. This pattern suggests that social media sharing in general is more partisan than hyperlinking, and sharing on Facebook is more partisan than on Twitter.
+right-wing users exist within a right-wing media echochamber where Breitbart and Fox dominate: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536272411893563423/unknown.png While the prominence of individual media sources in the right-wing sphere varies when assessed by shares on Facebook and Twitter, the content and core structure, with Breitbart at the center, is stable across platforms. Even in the highly charged pre-election months, everyone outside the Breitbart-centered universe formed a tightly interconnected attention network, with major traditional mass-media and professional sources at the core. The right, by contrast, formed its own insular sphere centered on Breitbart. [....] Outside the rightwing ecosystem, we did not see a leftward polarization but its opposite—an increase in the authority of, and attention paid to, the traditional professional media that occupy the center and center-left, at the expense of the left. On the right, the most important shift was that Fox News reasserted its authority as the central node of the online right-wing media ecosystem. This revival came at the expense of Breitbart, which declined to second place online (leaving aside Fox dominance of conservative television throughout the election and post-election periods). However, Fox News’s resurgence did not increase connections between the right and the rest of the network. During the election, Fox online received 40 percent of its inlinks from the right quintile. In the year after the election, Fox received 51 percent of its links from the right quintile. This shift reflected a decline in linking to Fox across-the-board, not only from the left. Indeed, links from the center-right and the center to Fox declined proportionately more than did links from the center-left and left.8
+#####c
+
+#####
+# fake news: electoral effects
+#####o
+# effects: 2016 election
+in 2016, belief in 1 or more of 3 fake news stories (Pope Francis endorsed Trump, Clinton sold weapons to ISIS, Clinton had very serious illness) is correlated with vote switching from Obama to Trump: <https://www.documentcloud.org/documents/4429952-Fake-News-May-Have-Contributed-to-Trump-s-2016.html> <https://www.washingtonpost.com/news/the-fix/wp/2018/04/03/a-new-study-suggests-fake-news-might-have-won-donald-trump-the-2016-election/> https://cdn.discordapp.com/attachments/418850379518705675/641985676136415252/ISLAR3RGQM52ZOEVYXX6LHM7VA.png
+^ how many people looked at these stories? pope francis: https://docs.google.com/spreadsheets/d/1ysnzawW6pDGBEqbXqeYuzWa7Rx2mQUip6CXUUUk4jIk/edit#gid=1756764129
+^ example of fabricated news: <http://web.archive.org/web/20160322052708/http://abcnews.com.co/> https://cdn.discordapp.com/attachments/418850379518705675/498269876486537222/unknown.png
+completely false articles made up 2.6 percent of all hard-news articles late in the 2016 campaign: <http://www.dartmouth.edu/~nyhan/fake-news-2016.pdf> In total, articles on proTrump or pro-Clinton fake news websites represented an average of approximately 2.6% of all the articles Americans read on sites focusing on hard news topics during this period. The pro-Trump or pro-Clinton fake news that people read was heavily skewed toward Donald Trump — people saw an average (mean) of 5.45 articles from fake news websites during the study period of October 7–November 14, 2016. Nearly all of these were pro-Trump (average of 5.00 pro-Trump articles).
+in the last 3 months of the 2016 election, the 20 most popular false election stories generated 1.3 million more Facebook engagements than the 20 most popular legitimate stories: <https://www.buzzfeednews.com/article/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook> https://cdn.discordapp.com/attachments/418850379518705675/471518377576366090/sub-buzz-441-1479332078-1.png
+
+# fake news: penetration
+a significant portion of the population -- about 10% -- believes that InfoWars is credible: <https://morningconsult.com/2016/12/07/poll-majority-find-major-media-outlets-credible/> https://cdn.discordapp.com/attachments/418850379518705675/640984451937206273/FakeNews-toplines.png
+
+# fake news: general
+fake news spreads faster than true news: <http://science.sciencemag.org/content/sci/359/6380/1146.full.pdf> <https://www.theguardian.com/technology/2018/mar/08/scientists-truth-fiction-twitter-bots> https://cdn.discordapp.com/attachments/418850379518705675/471490435877961730/unknown.png
+ad hominem attacks against science reduce the credibility of science: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192025> <https://www.psypost.org/2018/02/study-suggests-attacking-motives-scientists-just-effective-attacking-science-50746> https://cdn.discordapp.com/attachments/742557921849901077/982150871934726174/unknown.png
+
+# psychology: fake news
+people with weaker cognitive ability have a harder time judging fake news objectively: <https://www.sciencedirect.com/science/article/pii/S0160289617301617> <https://www.scientificamerican.com/article/cognitive-ability-and-vulnerability-to-fake-news/> https://cdn.discordapp.com/attachments/418850379518705675/641996458249289750/1-s2.png
+delusional, dogmatic, and fundamentalist people have a harder time judging fake news as fake: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3172140> <http://www.niemanlab.org/2018/05/people-who-are-delusional-dogmatic-or-religious-fundamentalists-are-more-likely-to-believe-fake-news/>
+social exclusion increases belief in conspiracy theories: <https://www.sciencedirect.com/science/article/pii/S0022103116304711> <https://psychcentral.com/news/2017/02/18/social-exclusion-leads-to-belief-in-conspiracy-theories/116589.html> https://cdn.discordapp.com/attachments/418850379518705675/641996525593165849/1-s2.png
+most people (and most young people) have a hard time sifting fact from fiction: <https://stacks.stanford.edu/file/druid:fv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf> [A]t each level -- middle school, high school, and college -- these variations paled in comparison to a stunning and dismaying consistency. Overall, young people's ability to reason about the information on the Internet can be summed up in one word: bleak.
+
+# solution: education
+Craft 2017: people with better understandings of news is produced are significantly less likely to believe in conspiracy theories (1 additional answer on the News Media Knowledge Scale correlated with a -0.3 of 4 [7.5% if Likert is linear] reduction in conspiracy theory endorsement): <https://www.sciencedaily.com/releases/2017/11/171130150424.htm> <http://journals.sagepub.com/doi/full/10.1177/2057047317725539> <https://sci-hub.se/10.1177/2057047317725539> <https://cdn.discordapp.com/attachments/742557921849901077/824668168479440926/craft2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/824669198533001237/unknown.png
+education can reduce belief in fake news: <https://www.irex.org/project/learn-discern-l2d-media-literacy-training> <https://www.irex.org/sites/default/files/node/resource/impact-study-media-literacy-ukraine.pdf> Compared to the control group, L2D participants were: 28% more likely to demonstrate sophisticated knowledge of the news media industry[.] 25% more likely to self-report checking multiple news sources[.] 13% more likely to correctly identify and critically analyze a fake news story[.] 4% more likely to express a sense of agency over what news sources they can access[.]
+#####c
+
+#####
+# fake news: higher prominence among the right
+#####o
+# right-wing sharing of fake news
+old people, Republicans, and conservatives are more likely to share fake news: <https://www.theguardian.com/technology/2019/jan/10/older-people-more-likely-to-share-fake-news-on-facebook> <http://advances.sciencemag.org/content/5/1/eaau4586.full> <https://sci-hub.se/10.1126/sciadv.aau4586> https://cdn.discordapp.com/attachments/418850379518705675/540948735836815360/F2.png
+fake news is disproportionately consumed by the right: <https://www.dartmouth.edu/~nyhan/fake-news-2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640984562385551390/unknown.png
+^ source of fake news: <https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.211> <https://sci-hub.se/10.1257/jep.31.2.211> https://cdn.discordapp.com/attachments/418850379518705675/498268400158507008/unknown.png
+fake news is disproportionately consumed by the right: <http://www.ox.ac.uk/news/2018-02-06-trump-supporters-and-extreme-right-share-widest-range-junk-news> <http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews.pdf> <http://comprop.oii.ox.ac.uk/research/polarization-partisanship-and-junk-news/> https://cdn.discordapp.com/attachments/418850379518705675/471489238831988736/unknown.png On Twitter, a network of Trump supporters consumes the largest volume of junk news, and junk news is the largest proportion of news links they share.
+
+# right-wing belief in fake news
+young people are better able to identify opinion from fact: <http://www.pewresearch.org/fact-tank/2018/10/23/younger-americans-are-better-than-older-americans-at-telling-factual-news-statements-from-opinions/> https://cdn.discordapp.com/attachments/418850379518705675/640984815109144606/FT_18.png
+of American conservatives, only a minority trust sources other than Fox News and talk radio: <http://www.journalism.org/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/> https://cdn.discordapp.com/attachments/418850379518705675/640984870629277717/PJ_14.png
+republicans are more likely than democrats to believe fake news and less likely to believe true news: <https://web.stanford.edu/~gentzkow/research/fakenews.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471462924171477002/unknown.png
+
+# project veritas lies: anecdotes
+Project Veritas uses cuts to maliciously misrepresent people. compare PV's cut-down video https://www.youtube.com/watch?v=cWptWsSzSh4 (2:52) versus this: https://www.washingtonpost.com/video/national/james-okeefe-and-post-reporter-exchange-what-really-happened/2017/11/27/668d558e-d3c5-11e7-9ad9-ca0619edfa05_video.html (4:44)
+watch a Project Veritas "sting" operative get owned by WaPo journalists: https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html
+watch the founder of Project Vertias avoid answering any questions about that fishing expedition: https://www.washingtonpost.com/video/national/project-veritas-founder-james-okeefe-avoids-post-reporters-questions/2017/11/27/a664414c-d3af-11e7-9ad9-ca0619edfa05_video.html
+
+# fox news: studies
+fox news viewers are more uninformed than those that consume no media at all (2012 poll): <http://publicmind.fdu.edu/2012/confirmed/final.pdf> <https://www.inquisitr.com/241677/study-fox-news-viewers-less-informed-than-those-who-watch-no-news-at-all/> https://cdn.discordapp.com/attachments/418850379518705675/471458654663606298/unknown.png
+^ a more recent study found that fox news viewers are pretty typical (for just 3 questions): <http://publicmind.fdu.edu/2015/false/> https://cdn.discordapp.com/attachments/418850379518705675/471460565827452928/unknown.png
+
+# fox news lies: anecdotes
+fox news thought that antifa was going to start a civil war on 04 November 2017: <https://rationalwiki.org/wiki/November_4th_Antifa_Civil_War> https://cdn.discordapp.com/attachments/418850379518705675/641996585810526209/Fox_News_Antifa_Plans_to_Overthrow_President.png
+fox news edited out booing at two trump events: <https://www.businessinsider.com/trump-booed-ufc-fight-video-fox-friends-cheers-2019-11> <https://www.mediamatters.org/fox-friends/fox-friends-edits-boos-out-video-trump-attending-world-series>
+#####c
+#####c
+
+
+#####
+#
+# polling
+#
+#####o
+
+#####
+# why polling is hard
+#####o
+# expensive
+Kennedy and Hartig 2019: response rates to Pew's telephone surveys have declined from 36% in 1996 to 6% in 2019: <https://www.pewresearch.org/fact-tank/2019/02/27/response-rates-in-telephone-surveys-have-resumed-their-decline/> https://cdn.discordapp.com/attachments/742557921849901077/987215075582550036/unknown.png
+Guterbock Benson Lavrakas 2018: the average cost per completed interview among 25 polling organizations was ~$45: <https://www.surveypractice.org/article/3168-the-changing-costs-of-random-digital-dial-cell-phone-and-landline-interviewing> https://cdn.discordapp.com/attachments/742557921849901077/987216732768833536/unknown.png
+#####c
+
+#####
+# polls accurate
+#####o
+# polls were accurate: statistics
+national presidential and Congressional polls in the United States are relatively accurate, with a consistent 5-7% error rate over the past 20 years: <https://fivethirtyeight.com/features/the-polls-are-all-right/> https://cdn.discordapp.com/attachments/418850379518705675/457540212881489930/unknown.png
+
+# polls vs projections
+polls are not the same as projections: **POLLS** predict **WHAT PROPORTION** of votes X candidate will get --> "Hillary Clinton will get 48% of the popular vote countrywide". **PROJECTIONS** predict **HOW LIKELY** it is that X candidate will win --> "Hillary Clinton has a 3 in 4 chance to win in the 2016 election". In short: <https://projects.fivethirtyeight.com/2016-election-forecast/> https://cdn.discordapp.com/attachments/418850379518705675/457580660505444353/unknown.png
+polls are not the same as projections: <https://www.youtube.com/watch?v=1wZphSHtnAg> 
+
+# polls were accurate in 2016
+polls said that Clinton would receive 48.5% of the vote, Trump 44.9%, and Johnson 5.0%: <https://projects.fivethirtyeight.com/2016-election-forecast/> the Federal Elections Commission says: Clinton received 48.18% of the vote, Trump 46.09%, and Johnson 3.28%: <https://en.wikipedia.org/wiki/United_States_presidential_election,_2016> <https://transition.fec.gov/pubrec/fe2016/2016presgeresults.pdf> the polls overestimated Clinton by 0.3%, underestimated Trump by 1.2%, and overestimated Johnson by 1.7% (just 3.2% off)
+rcp: <https://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html> <https://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton_vs_johnson_vs_stein-5952.html>
+
+# polls were accurate in 2018
+polls said that Democrats would receive 50.7% of the vote and Republicans 42.0% (ratio: 1.207): <https://projects.fivethirtyeight.com/congress-generic-ballot-polls/> https://cdn.discordapp.com/attachments/418850379518705675/556600710062538772/unknown.png Democrats received 53.4% of the vote and Republicans 44.8% (ratio: 1.192, 1.25% off): <https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections>
+projections put Democrats at gaining 39 seats in the House and losing 1 in the Senate: <https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/> Democrats gained 41 seats in the House and lost 2 in the Senate: <https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections> <https://en.wikipedia.org/wiki/2018_United_States_Senate_elections>
+projections put Democrats at governing 24 states and Republicans at 26: <https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/> Democrats now govern 23 states and Republicans 27: <https://en.wikipedia.org/wiki/2018_United_States_gubernatorial_elections>
+#####c
+
+#####
+# unsorted unformatted
+#####o
+instant runoff voting (ranked choice voting) has majority support, particularly among the young and Democrats: <https://thepulseofthenation.com/#the-future-of-democracy/3> https://cdn.discordapp.com/attachments/418850379518705675/556636516575870976/unknown.png
+
+most people wouldn't change their minds if presented with scientific evidence: <https://thepulseofthenation.com/#the-common-good/2> https://cdn.discordapp.com/attachments/418850379518705675/556638290329993216/unknown.png
+2/3 of people prefer common sense over science, particularly the old and less-educated: <https://thepulseofthenation.com/#common-sense> https://cdn.discordapp.com/attachments/418850379518705675/556641080846843944/unknown.png
+1/2 of people think correlation means causation: <https://thepulseofthenation.com/#knowledge-is-power/2> https://cdn.discordapp.com/attachments/418850379518705675/556644273592860682/knowledge_3-f230c8b2.png 
+most people who think they're well-informed on economics also cannot name a single economist: <https://thepulseofthenation.com/#the-dismal-science/2> https://cdn.discordapp.com/attachments/418850379518705675/556645207991386112/unknown.png
+
+Republicans are much more likely to believe that there's a Deep State and the Parkland school shooting was a hoax: <https://thepulseofthenation.com/#conspiracy-theories> https://cdn.discordapp.com/attachments/418850379518705675/556643267798892554/unknown.png
+
+most Republicans don't think the USA has interfered with the democratic elections of another nation: <https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change> https://cdn.discordapp.com/attachments/418850379518705675/556643691486380043/unknown.png https://upload.wikimedia.org/wikipedia/commons/0/08/Map_of_US_involvement_in_regime_change_and_election_interference.svg
+Republicans are more likely to think they're well-informed on economics, less able to name a living economist, and less able to name the 3 branches of government (but equally likely to think correlation == causation): <https://thepulseofthenation.com/#red-team-vs-blue-team> https://cdn.discordapp.com/attachments/418850379518705675/556647006471192613/unknown.png
+most people who support a border wall think they could get past one: <https://thepulseofthenation.com/#border-wall/2> https://cdn.discordapp.com/attachments/418850379518705675/556648870956892170/border_wall_3-99f06f8a.png
+
+29% of Trump supporters would vote for him if he murdered a journalist: <https://thepulseofthenation.com/#the-truth/2> https://cdn.discordapp.com/attachments/418850379518705675/556650911473336320/the_truth_3-329b5ca1.png
+
+Republicans hate weed because Democrats are having sex: <https://thepulseofthenation.com/#sex-without-love/4> https://cdn.discordapp.com/attachments/418850379518705675/556647596496519168/sex_5-54aabc5c.png
+
+most Democrats who think men and women are equal think that women are better multitaskers and better empathizers: <https://thepulseofthenation.com/#gender-equality/3> https://cdn.discordapp.com/attachments/418850379518705675/556652320646103043/unknown.png
+
+Republicans would rather be dumb and happy than smart and sad: <https://thepulseofthenation.com/#dumb-and-happy/1> https://cdn.discordapp.com/attachments/418850379518705675/556657557758803968/dumb_and_happy_2-4ca4614c.png
+#####c
+
+#####
+# socialism and social democracy
+#####o
+# understanding: americans identify socialism with equality and state ownership
+Gallup: in 2018 (1949), Americans described socialism as "equal in distribution" by 23% (12%), as "state control of business" by 17% (34%), as "social services free" by 10% (2%), as "modified communism" by 6% (6%), as "talking to people" by 6% (N/A), as "restriction of freedom" by 3% (1%), "liberal government" by 2% (1%), as a "cooperative plan" by 1% (1%), or using negative adjectives only by 6% (2%): <https://news.gallup.com/opinion/polling-matters/243362/meaning-socialism-americans-today.aspx> https://cdn.discordapp.com/attachments/418850379518705675/739259796154351747/unknown.png
+Pew 2019: Americans with a positive view of socialism argue it improves fairness&equality (31%), builds upon capitalism (20%), point to historical successes (6%); Americans with a negative view of socialism argue it undermines work ethic or increases dependence on gov't (19%), point to historical failures (18%), or undermines democracy (17%): <https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/> https://cdn.discordapp.com/attachments/742557921849901077/973806197184532490/unknown.png
+Pew 2019: Americans with a positive view of capitalism argue it promotes individual opportunity (24%) or is essential to America (20%); Americans with a negative view of capitalism argue it unequally benefits a small few (23%), is exploitative/corrupt by nature (20%), or undermines democracy (8%): <https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/> https://cdn.discordapp.com/attachments/742557921849901077/973808175000219709/unknown.png
+Data For Progress 2020: most Americans identify capitalism closer with "freedom to pursue individual interests" than "the economy is controlled by a small group of wealthy individuals"; most Americans identify capitalism closer with "government empowers workers to have a say and provides ... health care, housing, free education" than gov't "has total control over the economy and business": <https://www.dataforprogress.org/blog/2022/1/26/democratic-socialism-and-socialism-are-increasingly-salient-among-democrats> <https://archive.ph/AFxZh> https://cdn.discordapp.com/attachments/742557921849901077/973813443343826954/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/973813454773321748/unknown.png
+
+# understanding: policies and socialist identity
+Data For Progress 2020: Americans who support more of 4 social-democratic policies (Medicare For All, expanded UI, paid sick leave, job guarantee) are more likely to support "a form of socialism in the US"; or, socialism correlates with social democracy: <https://www.dataforprogress.org/blog/2020/6/10/how-americans-feel-about-socialism> <https://archive.ph/Mrybg> https://cdn.discordapp.com/attachments/742557921849901077/973812305752100934/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/973812321631735859/unknown.png
+Data For Progress 2020: likely voters have a +25% opinion of capitalism and -20% opinion of socialism; after being asked the above descriptions, they were significantly (6%) more likely to support "democratic socialism": <https://www.dataforprogress.org/blog/2022/1/26/democratic-socialism-and-socialism-are-increasingly-salient-among-democrats> <https://archive.ph/AFxZh> https://cdn.discordapp.com/attachments/742557921849901077/973813409730682880/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/973813428235939880/unknown.png
+
+# mixed identities: favoring both socialism and capitalism
+Gallup 2021: a significant portion of Americans are favorable to both capitalism and socialism; of Dems, 34% like both, 17% like capitalism only, 28% like socialism only, 16% dislike both: <https://news.gallup.com/opinion/polling-matters/358178/deconstructing-americans-views-socialism-capitalism.aspx> <https://archive.ph/IFKzq> https://cdn.discordapp.com/attachments/742557921849901077/973804032789463050/unknown.png
+
+# specific policies: fairly popular
+2018: the "radical left's agenda" (end cash bail, government-produced generic drugs, public job guarantee, public internet) is more popular than the mainstream republican's agenda: <http://nymag.com/daily/intelligencer/2018/08/the-radical-lefts-agenda-is-more-popular-than-the-gops.html> <https://www.dataforprogress.org/polling-the-left-agenda/> https://cdn.discordapp.com/attachments/418850379518705675/479147826899582986/unknown.png
+2018: a majority of Republicans now support Medicare for All; a majority of Americans support free college: <https://www.reuters.com/investigates/special-report/usa-election-progressives/#interactives-poll> https://cdn.discordapp.com/attachments/418850379518705675/484955359069601794/unknown.png
+2019: most voters support student loan forgiveness: <https://morningconsult.com/2019/05/08/voters-favor-elizabeth-warren-student-debt-loan-plan/> https://cdn.discordapp.com/attachments/418850379518705675/640926373271306241/190507_Student-Debt-Poll_fullwidth.png
+
+# specific policies: wealth redistribution: trends: no major change
+2016: the portion of americans supporting wealth redistribution is basically the same as in 1980: <https://fivethirtyeight.com/features/why-young-democrats-love-bernie-sanders/> https://cdn.discordapp.com/attachments/418850379518705675/640926899127713792/silver-bernieyouth-2.png
+US 1990-2018: just 6% more people oppose a "rich class" in 2018 (58% yes) than in 1990 (62% yes): <https://news.gallup.com/poll/235439/partisan-divide-benefit-having-rich-people-expands.aspx> <https://news.gallup.com/poll/154619/americans-having-rich-class-years-ago.aspx> https://cdn.discordapp.com/attachments/742557921849901077/974028944930111508/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/974028998617235496/unknown.png
+US 2021: 29% say that billionaires existing is a bad thing; 55% say neither; 15% say good thing: <https://www.pewresearch.org/fact-tank/2021/07/28/americans-views-about-billionaires-have-grown-somewhat-more-negative-since-2020/> https://cdn.discordapp.com/attachments/742557921849901077/974029937650565120/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/974030129938440192/unknown.png
+US 2019: Americans want to tax billionaires but not eliminate them: <https://www.huffpost.com/entry/wealth-inequality-billionaires-poll_n_5c7d98d8e4b069b2129ec865> <https://big.assets.huffingtonpost.com/athena/files/2019/02/28/5c78213ee4b010e7c5653787.pdf> https://cdn.discordapp.com/attachments/418850379518705675/565306167652253736/5c7d9bee260000f903fde43a.png
+Data For Progress 2019: <https://www.vox.com/recode/22356742/billionaires-amazon-jeff-bezos-rich-philanthropy-coronavirus-election> <https://www.vox.com/recode/2021/3/30/22357510/poll-billioniares-data-for-progress-vox-wealth-philanthropy-inequality> <https://www.filesforprogress.org/datasets/2021/3/dfp-recode-voters-attitudes-billionaires.pdf> https://cdn.discordapp.com/attachments/742557921849901077/974033009500098662/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/974034529960468541/unknown.png
+
+# general social survey: variables to consider
+eqwlth
+helppoor
+helpnot
+
+# support for term socialism: levels by age: higher among the young
+Gallup 2018: the current generation is the most socialist generation: <https://news.gallup.com/poll/240725/democrats-positive-socialism-capitalism.aspx> https://cdn.discordapp.com/attachments/418850379518705675/640926483782696980/unknown.png
+Harvard 2016: the American youth support socialism: <http://iop.harvard.edu/sites/default/files/content/160425_Harvard%20IOP%20Spring%20Report_update.pdf> https://cdn.discordapp.com/attachments/418850379518705675/440404533294661634/unknown.png
+Pew 2011: the American youth support socialism: <http://www.people-press.org/2011/12/28/little-change-in-publics-response-to-capitalism-socialism/> https://cdn.discordapp.com/attachments/418850379518705675/440405307747729408/unknown.png
+YouGov 2015: the American youth support socialism: <https://today.yougov.com/topics/politics/articles-reports/2015/05/11/one-third-millennials-like-socialism> https://cdn.discordapp.com/attachments/418850379518705675/640926681191940106/socialism4-3.png
+
+# support for term socialism: trends: gallup [not increasing]
+US 2010-2021: capitalism from 60% positive to 60% positive, socialism 37% positive to 38% positive: <https://news.gallup.com/poll/357755/socialism-capitalism-ratings-unchanged.aspx> https://cdn.discordapp.com/attachments/742557921849901077/973802007934685244/unknown.png
+
+# support for term socialism: trends: pew [not increasing]
+US 2011: socialism 31% positive, 60% negative; capitalism 50% positive, 40% negative <http://www.people-press.org/2011/12/28/little-change-in-publics-response-to-capitalism-socialism/> https://cdn.discordapp.com/attachments/418850379518705675/640927058817450009/12-28-11-11.png
+US 1990-2012: "the US benefits from having a class of rich people": yes 62% to 63%, no 32% to 34%: <http://www.people-press.org/2010/05/04/socialism-not-so-negative-capitalism-not-so-positive/> https://cdn.discordapp.com/attachments/418850379518705675/640927157211758614/610-1.png
+
+# support for term socialism: trends: yougov [slightly increasing]
+US 2016: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable: socialism 5%, 24%, 18%, 30%; capitalism 21%, 31%, 18%, 9%; describe self as socialist 9%, as capitalist 27%: <https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/467z1ta5ys/tabs_OP_Socialism_20160127.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640952869826068480/socialism1.png
+US 2015 October: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable; socialism 7%, 18%, 15%, 32%; capitalism 20%, 28%, 17%, 11%; describe self as socialist 9%, as capitalist 30%: <https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/x8miy3gp2f/tabs_OPI_Democratic_Nomination_20151016.pdf>
+US 2015 May: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable; socialism 6%, 20%, 19%, 32%; capitalism 24%, 28%, 17%, 9% <http://cdn.yougov.com/cumulus_uploads/document/3csd07d2dd/tabs_OPI_socialism_20150508.pdf>
+
+# support for term socialism: levels: other pollsters
+American Culture and Faith 2017: 37% prefer socialism to capitalism <https://www.culturefaith.com/acfi-survey-reveals-details-about-the-ideology-gap-separating-americans/>
+Reason-Rupe 2014: of US millenials, 52% capitalism better system, 42% socialism better system; 64% free market economy better system, 32% economy managed by government better system: report: <http://reason.com/assets/db/14048862817887.pdf> toplines: <http://reason.com/assets/db/14048863511533.pdf>
+Victims of Communism 2017 October: prefer to live in country that is X: 59% capitalist, 34% socialist, 4% fascist, 3% communist <http://web.archive.org/web/20171105212821/http://victimsofcommunism.org/wp-content/uploads/2017/11/YouGov-VOC-2017-for-Media-Release-November-2-2017-final.pdf
+Victims of Communism 2016: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable; socialism 7%, 22%, 17%, 30%; capitalism 24%, 25%, 17%, 12%: toplines: <http://web.archive.org/web/20161024041530/https://www.victimsofcommunism.org/wp-content/uploads/2016/10/VOC-Attitudes-toward-Socialism-Topline-Data.pdf>
+#####c
+
+#####
+# political view change over time
+#####o
+# cohort effects
+different generations have different voting patterns (ie, they didn't change very much as they aged): <http://www.people-press.org/2011/11/03/section-1-how-generations-have-changed/> https://cdn.discordapp.com/attachments/418850379518705675/640926774758342667/11-3-11-17.png
+
+# political views don't change over time
+your political views are three times more malleable in your teens than in your midlife: <https://www.nytimes.com/interactive/2014/07/08/upshot/how-the-year-you-were-born-influences-your-politics.html> <http://archive.is/0S3vo> <http://www.stat.columbia.edu/~gelman/research/unpublished/cohort_voting_20140605.pdf> https://cdn.discordapp.com/attachments/418850379518705675/473938047046778880/unknown.png
+political views solidify in your teens: <http://www.pewresearch.org/fact-tank/2014/07/09/the-politics-of-american-generations-how-age-affects-attitudes-and-voting-behavior/> <https://books.google.com/books?id=3a927Jder6IC#v=onepage> On an individual level, of course, many people’s political views evolve over the course of their lives. But academic research indicates not only that generations have distinct political identities, but that most people’s basic outlooks and orientations are set fairly early on in life. As one famous longitudinal study of Bennington College women put it, “through late childhood and early adolescence, attitudes are relatively malleable…with the potential for dramatic change possible in late adolescence or early adulthood. [B]ut greater stability sets in at some early point, and attitudes tend to be increasingly persistent as people age.” [unformatted redo]
+
+# political views change over time
+brits become more conservative as they age, but it's not associated with most significant life events: <https://www.theguardian.com/commentisfree/2015/nov/03/do-we-become-more-conservative-with-age-young-old-politics> <https://www.sciencedirect.com/science/article/pii/S0261379413000875> <https://sci-hub.se/10.1016/j.electstud.2013.06.007> Ageing makes people more likely to vote Conservative. The question of whether future Conservative support is threatened by generational replacement can therefore be answered with some confidence in the negative. Newer generations are not less Conservative than older generations once ageing effects are controlled for using side information taken from the panel studies. There are nonetheless identifiable political generations. Individuals born in certain years appear more or less Conservative, ignoring trend effects, depending on the prevailing political conditions at the time that they entered the electorate. [....] Given the increasing longevity of the electorate and the increased proportion who are elderly, our findings indicate that over time we should expect to see an increasingly Conservative electorate. [....] The elderly are not Conservative because they are rich, but because they are elderly. [....] While we can rule out some social ageing effects (due to marriage, income changes and so forth), we do not know exactly why people become more supportive of the right as they age. [unformatted redo]
+#####c
+
+#####
+# perceptions of crime
+#####o
+# perceptions
+the public consistently believes that crime is going up even when it's not: <http://www.pewresearch.org/fact-tank/2016/11/16/voters-perceptions-of-crime-continue-to-conflict-with-reality/> https://cdn.discordapp.com/attachments/418850379518705675/640928233348661295/FT_16.png
+the public consistently believes that crime is going up even when it's not: <https://thesocietypages.org/socimages/2017/02/27/why-the-american-public-seems-allergic-to-facts/> 
+#####c
+
+#####
+# generation z
+#####o
+# racism declining
+2019 HarrisX poll: 62% of white respondents believe that "whites are discriminated against in America to any extent"; just 31% of Gen Z believe this: <https://thehill.com/hilltv/what-americas-thinking/433270-poll-republicans-and-democrats-differ-strongly-on-whether-white> https://cdn.discordapp.com/attachments/418850379518705675/573676285100818432/unknown.png
+2018 Pew Poll: younger Republicans are much more likely (2x) to say that "blacks are treated less fairly than whites": <http://www.people-press.org/2018/03/01/the-generation-gap-in-american-politics/> https://cdn.discordapp.com/attachments/418850379518705675/640927629251313674/PSDT_1.png
+2017 PPRI poll: <https://www.prri.org/research/mtv-culture-and-religion/> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Survey-Report-FINAL.pdf> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Topline-FINAL.pdf> favorable views of Trump: 35% white young people, 46% white people; white people experience discrimination as serious as discrimination against other groups: 36% white young people, 55% white people
+
+# good polls
+2019 Pew poll: Gen Z is less racist, more leftist, and more trans-accepting: <http://www.pewsocialtrends.org/2019/01/17/generation-z-looks-a-lot-like-millennials-on-key-social-and-political-issues/> https://cdn.discordapp.com/attachments/418850379518705675/617790014301929522/unknown.png 
+2018 National Election Pool (NEP) exit polls: 18-24 year-olds voted heavily for Democrats: <https://www.cnn.com/election/2018/exit-polls> https://cdn.discordapp.com/attachments/418850379518705675/630070967355310103/unknown.png
+2017 PPRI poll: <https://www.prri.org/research/mtv-culture-and-religion/> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Survey-Report-FINAL.pdf> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Topline-FINAL.pdf> Gen Z voted 59.5% Clinton, 28.3% Trump, 12% other. Gen Z has net favorability of -35 for the Republican Party, +17 Democratic Party, -44 US-Mexico border wall, -26 Muslim ban, +50 gay marriage, +31 legal marijuana, -22 birth-gender bathrooms, and -44 making abortion.
+2016 Populus poll: <https://www.varkeyfoundation.org/media/4487/global-young-people-report-single-pages-new.pdf> https://cdn.discordapp.com/attachments/418850379518705675/497963039224496128/unknown.png USA: 90% strongly agree or agree that men and women should be treated equally, 83% that transgender people should have the same rights as non-transgender people, 63% that safe abortion should be available legally to women that need it, 71% that same-sex couples should be allowed to marry
+2016 UCLA college freshmen survey: <https://www.heri.ucla.edu/monographs/TheAmericanFreshman2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/497979093367914507/unknown.png
+2016 National Election Pool (NEP) exit polls: 18-29 year-olds voted heavily for Clinton and for Democrats: <https://edition.cnn.com/election/2016/results/exit-polls/national/president> https://cdn.discordapp.com/attachments/418850379518705675/630070440114651194/unknown.png
+2016 CCES survey: <https://www.nytimes.com/2018/07/26/opinion/sunday/democracy-democrats-voters-disenfranchisment.html> https://cdn.discordapp.com/attachments/418850379518705675/498263499894423562/unknown.png
+2015 CGK poll: <https://genhq.com/wp-content/uploads/2017/01/Research-White-Paper-Gen-Zs-Political-Civic-Outlook-c-2016-The-Center-for-Generational-Kinetics.pdf> 33% GenZ vs 39% Millenials vs 29% other more access after the Affordable Care Act; 33% GenZ vs 39% Millenials vs 43% other think minorities have equal access for success in business; 54% GenZ vs 60% millenial vs 69% other think illegal immigration is a problem in the US
+2014 Northwestern University poll: <https://www.psandl.com/wp-content/uploads/2014/12/Innovation_Summit_GenZ_Topline_Report.pdf> total agree: 64% big corporations and banks control too much in American society, 61% the gap between rich and poor Americans is harmful to my generation, 73% it's better for America to be a place with people of many races and languages rather than a country that is less diverse, 53% college should be free for everybody, 73% everyone should have the right to marry regardless of sexual orientation, 74% transgender people should have equal rights, 64% healthcare should be free for everyone, 55% everyone should have a right to become a US citizen regardless of where they were born and how they came to the country
+
+# shitty poll from the gild:
+The Gild (consultancy company) poll was not a representative sample of Generation Z -- it was an online poll that anyone could participate in (including you, if only the page didn't 404 nowadays): <https://www.forbes.com/sites/ashleystahl/2017/08/11/why-democrats-should-be-losing-sleep-over-generation-z/#66d23b207878> <http://afterthemillennials.com/why-generation-z-is-not-more-conservative/> https://cdn.discordapp.com/attachments/418850379518705675/630088949955821568/gildbad.png
+
+# shitty HHM book survey
+2016 Houghton Mifflin Harcourt (book company) survey: <https://www.hmhco.com/about-us/press-releases/one-vote-2016-results> 47% Clinton, 41% Trump, 12% other
+
+# shitty poll from mycollegeoptions-hispanic heritage foundation:
+the fall 2016 poll found 32% supported Trump, 22% Clinton: <https://hispanicheritage.org/my-college-options-hispanic-heritage-foundation-present-findings-of-national-survey-over-100k-high-school-students-on-2016-presidential-election-and-attitudes-on-key-issues/> <https://public.tableau.com/profile/mycollegeoptions#!/vizhome/PresidentialPolling-Fall2016/PresidentialPolling2016> https://cdn.discordapp.com/attachments/418850379518705675/630067328477822985/unknown.png
+yet the spring 2016 poll found 30% supported Sanders, 12% Clinton, 18% Trump, 8% Cruz, 7% Rubio, 6% Carson; 43% support Democrats, 40% Republicans: <https://public.tableau.com/profile/mycollegeoptions#!/vizhome/PresidentialDashboard-Spring2016/PresidentialPolling2016>
+and the poll itself was a merely distributed to teachers, not students -- making it very unlikely to be representative of the nation as a whole: <https://hispanicheritage.org/my-college-options-hispanic-heritage-foundation-present-findings-of-national-survey-over-100k-high-school-students-on-2016-presidential-election-and-attitudes-on-key-issues/> https://cdn.discordapp.com/attachments/418850379518705675/630084018326470657/unknown.png
+#####c
+#####c
+
+#####
+#
+# persuasion
+#
+#####o
+
+#####
+# persuasion: basically everything works
+#####o
+# summary
+The studies below show that lots of specific methods work. In my opinion, the correct synthesis of these results is that basically *all* methods of persuasion work. While some may work better than others, and may work better on different people, evidence works, logic works, debate works, empathy works, humor works.
+
+# methods: logos, ridicule, empathy: all work
+Orosz et al 2016: ridicule & humor (making fun of inconsistencies and of believers in the conspiracy) and logical breakdown (providing stats and explaining logical failures) are equally effective at reducing belief in a Jewish superconspiracy, though the effect size is not large (~3 points on an 88-point scale (3.4pp): <https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01525/full> <https://sci-hub.st/10.3389/fpsyg.2016.01525/full> <https://cdn.discordapp.com/attachments/742557921849901077/804880189695852595/orosz2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540432297199927297/fpsyg-07-01525-g001.png
+#####c
+
+#####
+# persuasion: deep canvassing works
+#####o
+# methods: deep canvassing: compassion works
+Kalla and Broockman 2016: deep canvassing (having a ~10 minute conversation encouraging the person to consider a trans person's perspective) increased tolerance of transgender people (~.3 SD) and support for a gender nondiscrimination law (~.5 points on -3 to +3 scale); these effects persisted and strengthened after 3 months, and were robust to a fake negative ad against the law: <https://www.nytimes.com/2016/04/10/magazine/how-do-you-change-voters-minds-have-a-conversation.html> <http://science.sciencemag.org/content/352/6282/220> <http://sci-hub.st/10.1126/science.aad9713> <https://cdn.discordapp.com/attachments/742557921849901077/801830550729129984/broockman2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/801832782732984350/unknown.png Defining “transgender” in the item wording revealed that placebo subjects were less supportive of protecting this group (P < 0.05, one-tailed). Next, all subjects were less supportive after viewing an opposing ad, but the effect of the conversations endured (P < 0.05, one-tailed). However, the ads’ impact dissipated, whereas the conversations’ effect endured (P < 0.05, one-tailed).
+Kalla and Broockman 2020: conversations that used both {convincing arguments and compassion} durably reduced anti-immigration sentiment and transphobia; conversations that used only {convincing arguments} had insignificant effects; this was found in face-to-face, video, and phone interventions: <https://www.cambridge.org/core/journals/american-political-science-review/article/abs/reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments/4AA5B97806A4CAFBAB0651F5DAD8F223> <https://cdn.discordapp.com/attachments/742557921849901077/895135046011322388/kalla2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/895137880199016508/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895125663898566676/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895126146545496124/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895126906058469427/unknown.png
+#####c
+
+#####
+# persuasion: evidence works
+#####o
+# general evidence: evidence changes minds and there's no backfire effect
+Wood et al 2018: there is no evidence for a consistent "backfire effect"; telling people facts generally changes their minds; among 10100 adults, the effect of factual correction was ~1/3 as large as the effect of ideology on stated belief: <https://mindhacks.com/2018/01/03/the-backfire-effect-is-elusive/> <https://link.springer.com/article/10.1007/s11109-018-9443-y> <https://sci-hub.se/10.1007/s11109-018-9443-y> <https://cdn.discordapp.com/attachments/742557921849901077/874024449693872168/wood2018.pdf> https://cdn.discordapp.com/attachments/418850379518705675/716789700517691592/unknown.png """The present paper presents results from five experiments in which we enrolled more than 10,100 subjects and tested 52 issues of potential backfire. Across all experiments, we found no corrections capable of triggering backfire, despite testing precisely the kinds of polarized issues where backfire should be expected. Evidence of factual backfire is far more tenuous than prior research suggests."""
+^ list of factual correction: <https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-018-9443-y/MediaObjects/11109_2018_9443_MOESM1_ESM.pdf>
+
+# specific evidence: misinformation isn't stronger, evidence still works
+Schmid and Betsch 2019: experimental study: among 1661 adults, topic rebuttal (oppose misinformation with facts) and technique rebuttal (refute the methods that science deniers use to mislead their audience) substantially and significantly reduced the influence of science deniers (by about 1/3 of a standard deviation), especially among individuals who vulnerable to antiscience beliefs: <https://www.scientificamerican.com/article/how-to-debate-a-science-denier/> <https://archive.ph/1oWEo> <https://www.nature.com/articles/s41562-019-0632-4> <https://sci-hub.se/10.1038/s41562-019-0632-4> <https://cdn.discordapp.com/attachments/742557921849901077/1017236881374715985/schmid2019.pdf> <https://osf.io/xx2kt/> https://cdn.discordapp.com/attachments/742557921849901077/1017237734185762816/unknown.png
+
+# specific evidence: there's no major partisan cue effect, evidence still works
+Tappin 2021: against "partisan motivated reasoning": among 5071 adults, evidence changed minds in a sample of 24 policy issues; no significant difference between "evidence + contrary party leader cue" (purple) vs "evidence alone" (black): <https://psyarxiv.com/247bs/> <https://cdn.discordapp.com/attachments/742557921849901077/895135650540564500/tappin2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/895128816383582238/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895135169621672017/FA-ygFjVkAohiOg.png Altogether, our design incorporates 48 unique arguments and evidence (information) treatments, and we recruit a total of 5,071 American adults corresponding to 25,181 observations. The experiment design is as follows.
+#####c
+
+#####
+# delivery method: debate is an effective educational tool
+#####o
+# debate: excellent and nuanced video by Jangles Sciencelad
+Jangles Sciencelad: "In Defense of Debate": overviews some of the major strengths and weakness of debate as a propagandistic/ <https://www.youtube.com/watch?v=qdYOaM0YH9E>
+
+# strength of debate: educational debate achieves deep knowledge
+Omelicheva and Avdeyeva 2008: debate achieved higher deep knowing in students: compared to lectures, undergrad students who observed debates had insignificantly lower knowledge (recollection of fact) and significantly higher comprehension (ability to explain fact), application (applying concept to unrelated situation), and evaluation (using concept to judge reality): <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/teaching-with-lecture-or-debate-testing-the-effectiveness-of-traditional-versus-active-learning-methods-of-instruction/3CCA1F6C678593BAE683F6FBFE2CEE55> <https://sci-hub.st/10.1017/S1049096508080815> <https://cdn.discordapp.com/attachments/742557921849901077/941139776277475368/omelicheva2008.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941140160211464252/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016957998553382912/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016958325683925002/unknown.png n=60 undergrads """The tests demonstrated that in our classes students acquired better comprehension, application, and critical evaluation skills when a controversial topic was taught in the debate format. With regard to basic knowledge, lectures better facilitated students’ memorization, recall, and recognition of information, however, this finding was only significant at the .10 level."""
+
+# strength of debate: critical thinking enables debate victories
+Chen et al 2022: among 76 sophomore undergrads, educational debate winners demonstrated higher critical thinking (as evaluated by the instructor) than their opponents: <https://www.sciencedirect.com/science/article/abs/pii/S1871187122000384> <https://sci-hub.se/10.1016/j.tsc.2022.101035> <https://cdn.discordapp.com/attachments/742557921849901077/1017216725080613024/chen2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017234353836789790/unknown.png (score == 40 is a win, score == 35 is a tie, score == 30 is a loss) """Results indicated that: (1) averagely speaking, the winning team demonstrated a higher depth of critical thinking, and their number of speeches was relatively more than that of the teams with lower debate scores; (2) debaters’ depth of critical thinking was negatively correlated to their number of speeches; (3) audiences’ depth of critical thinking was not significantly correlated to their number of online posts; (4) debaters’ overall depth of critical thinking was relatively lower than that of audiences."""
+
+# strength of debate: debate encourages better critical thinking
+Mumtaz and Latif 2017: among 182 female second-year medical students in Saudi Arabia, the vast majority reported that educational debate improved their critical thinking (78%), speaking and presentation skills (71%), and understanding of hearing from diverse viewpoints (80%): <https://journals.physiology.org/doi/full/10.1152/advan.00157.2016> <https://sci-hub.se/10.1152/advan.00157.2016> <https://cdn.discordapp.com/attachments/742557921849901077/962824535944593418/mumtaz2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017222798105661460/unknown.png
+Colbert 1987: non-experimental evidence: among 248 undergrads, measured two weeks before and two weeks after inter-collegiate competitive debate began, debaters saw significantly more positive changes in critical thinking skills compared to nondebaters: <https://www.tandfonline.com/doi/abs/10.1080/00028533.1987.11951345> <https://sci-hub.se/10.1080/00028533.1987.11951345> <https://cdn.discordapp.com/attachments/742557921849901077/1017216449821020220/colbert2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017219017926258699/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017219769650384956/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017220641755238410/unknown.png
+
+# limit of debate: adversarial debate has lower respect, satisfaction, participation, higher hesitation
+McAvoy and McAvoy 2021: among 165 high school students, compared to deliberative small group activity, students in the debate condition reported less respect, more hesitation to speak, less satisfaction, and lower participation: <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2021.1942706> <https://sci-hub.se/10.1080/0161956X.2021.1942706> <https://cdn.discordapp.com/attachments/742557921849901077/962824033022406666/mcavoy2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017225482334392350/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017231711127490560/unknown.png
+
+# limit of debate: alleged gender exclusivity (see also Mumtaz as counter-example)
+Tumposky 2004: debate is exclusive to women, who feel much less comfortable in adversarial conversations: <https://www.tandfonline.com/doi/abs/10.3200/TCHS.78.2.52-56> <https://sci-hub.st/10.3200/TCHS.78.2.52-56> <https://cdn.discordapp.com/attachments/742557921849901077/941146035655417856/tumposky2004.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941145893304946748/unknown.png """In her study of how males and females communicate, sociolinguist Tannen (1992) found that an adversarial environment is antithetical to the way most females learn and like to interact. She also notes that “most women are more comfortable speaking in private to a small group of people they know well” (1992, 7). Other research suggests that very few women are comfortable with adversarial argument, in or out of classrooms. In an interview study with American college students, researchers found that “the classic dormitory bull session with students assailing their opponents’ logic and attacking their evidence, seems to occur rarely among women” (Belenky et al. 1986, 105)."""
+McAvoy and McAvoy 2021: among 165 high school students, young women were more likely to report hearing something offensive in small group discussion than debate, and equally likely to report hesitance to speak in both activities: <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2021.1942706> <https://sci-hub.se/10.1080/0161956X.2021.1942706> <https://cdn.discordapp.com/attachments/742557921849901077/962824033022406666/mcavoy2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017232010240069682/unknown.png
+
+# effect of debating on positions taken
+Lilly 2012: positions taken in student debates influences student positions on those topics; this can be seen as good (opening minds to new positions) or bad (people who argue for just one side will be convinced by that side): <https://eric.ed.gov/?id=EJ977172> <https://files.eric.ed.gov/fulltext/EJ977172.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1016961779055722526/lillyl2012.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483810094597931018/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016962056915791942/unknown.png
+
+# philosophy education: effective in one RCT, ineffective in one RCT
+Gorard et al 2015: randomized-control trial (RCT): among 3159 children aged 9-10, receiving philosophy education significantly and substantially improved academic performance or social-emotional learning: <https://qz.com/635002/teaching-kids-philosophy-makes-them-smarter-in-math-and-english/> <https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/philosophy-for-children> <https://cdn.discordapp.com/attachments/742557921849901077/1016963114979307520/Gorand2015.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483857320791769099/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016964359127322676/unknown.png
+Lord et al 2021: randomized-control trial (RCT): among 3601 children aged 9-10, receiving philosophy education did not significantly improved academic performance or social-emotional learning: <https://www.theguardian.com/education/2021/mar/03/research-undermines-claims-philosophy-boosts-primary-maths-and-reading> <https://dailynous.com/2021/03/04/philosophy-for-kids-is-not-math-for-kids-or-reading-for-kids/> <https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/philosophy-for-children-effectiveness-trial> <https://cdn.discordapp.com/attachments/742557921849901077/1016966929174499389/lord2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1016967181545783306/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016968163096788992/unknown.png
+#####c
+
+#####
+# delivery methods: other effective methods
+#####o
+# delivery: op-eds
+Coppock et al 2021 (all three authors are libertarians): libertarian op-eds changed individual's minds by ~.5-1 points on a 7-point scale (if linear, ~7-14%) about specific issues; about 2/3 of this effect persists after 1 month: <https://www.nowpublishers.com/article/Details/QJPS-16112> <https://sci-hub.st/10.1561/100.00016112> <https://cdn.discordapp.com/attachments/742557921849901077/809165474083373116/coppock2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/809891950219231272/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/809892661757870140/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/959340400605294612/unknown.png """Under the rosiest scenario, an op-ed costs $5,000 to produce, reaches 400,000 people, and changes the mind of 20% of them. Plugging these values into Equation (1), we obtain that the cost per mind changed is a mere 6 cents. Under a more conservative set of assumptions, an op-ed costs 10 times as much ($50,000), reaches half as many people (200,000), and changes half as many minds (10%). The resulting cost per mind changed would work out to $2.50."""
+^ supplementary material for above, including op-eds: <https://cdn.discordapp.com/attachments/742557921849901077/959332602148450345/coppock2018supp.pdf>
+
+# delivery: tv news
+Martin and Yurukoglu 2017: data from channel number randomization suggests that Fox News shifts voting patterns rightward: Without Fox News, .46% fewer people would've voted Republican in 2000, 3.59% in 2004, and 6.35% in 2008: <https://www.vox.com/policy-and-politics/2017/9/8/16263710/fox-news-presidential-vote-study> <https://www.aeaweb.org/articles?id=10.1257%2Faer.20160812> <http://sci-hub.st/10.1257/aer.20160812> <https://cdn.discordapp.com/attachments/418850379518705675/786317526560276520/martin2017.pdf> https://cdn.discordapp.com/attachments/418850379518705675/786318192644456529/unknown.png
+
+# delivery: forum posts
+more persuasive posts on /r/ChangeMyView tend to be shorter, earlier in the thread, from higher social capital (higher karma) users, and use more argumentative sentences: <http://www.sdspeople.fudan.edu.cn/zywei/paper/487-wei-acl2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540433785146048532/unknown.png
+#####c
+
+#####
+# background: standpoint epistemology / standpoint theory good
+#####o
+# cognitive biases favor the powerful
+Brien and Crandall 2005: students were not more likely to trust a high-status doctor than low-status nurse (n=51 white undergrad students), students were more likely to distrust someone perceived as self-interested and someone in the outgroup (n=130 undergrad students), and students were more likely to trust someone defending the status quo (n=92): <https://link.springer.com/article/10.1007/s11211-005-3368-4> <https://sci-hub.st/10.1007/s11211-005-3368-4> <https://cdn.discordapp.com/attachments/742557921849901077/941147162501324800/brien2005.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941150811218645012/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941151263368826961/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152327103045733/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152463522758696/unknown.png
+#####c
+#####c
 #####c
 
 #####
@@ -10358,151 +10766,6 @@ Anggoro et al 2008: compared to children in Jakarta (Indonesian), children in Ch
 
 #####
 #
-# media
-#
-#####o
-
-#####
-# media bias towards capitalists: real and significant
-#####o
-# media supports advertiser narratives
-news outlets reported about 17% of corporate social irresponsibility (CSI) events studied; a news outlet is more likely to report CSI if the outlet is a daily publication (+3.6-3.9%), if it is left-leaning (+2.8% relative to right-leaning), and if the incident came from a large or well-known corporation; a news outlet is less likely to report CSI if it has an advertising relationship (-.9%) or if it has a selective advertising relationship (-7.8%): <https://www.ama.org/2020/04/01/press-release-from-the-journal-of-marketing-media-bias-with-corporate-social-irresponsibility-events/> <https://journals.sagepub.com/doi/10.1177/0022242920911907> <http://sci-hub.se/10.1177/0022242920911907> https://cdn.discordapp.com/attachments/418850379518705675/708111548694003773/unknown.png
-
-# media prefers scandals to policy
-online media focused more on Hillary Clinton's scandals than her politics: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536267934318985247/unknown.png
-
-# media prefers sensationalism ("it bleeds, it leads"): good study
-Ritchie 2019: compared to both actual frequency of deaths and frequency of Google Searches, the NYT and Guardian were more likely to cover certain types of death -- terrorism (~3400x actual, 5x Google), homicide (26x actual, 7x Google) -- and less likely to cover others -- road incidents & accidents (0.3x actual, 0.2x Google), cancer (.3x actual, .37x Google): <https://ourworldindata.org/does-the-news-reflect-what-we-die-from> https://cdn.discordapp.com/attachments/742557921849901077/950877219226538034/Causes-of-death-in-USA-vs.-media-coverage.png https://cdn.discordapp.com/attachments/742557921849901077/950883537148596264/Over-and-underrepresentation-of-deaths-in-media.png
-
-# media prefers sensationalism ("it bleeds, it leads"): bad study
-Dalal 2015: in a convenience sample of major events, the New York Times was substantially more likely to cover deaths from terrorism than deaths from disease, drowning, or natural disasters: <https://www.nemil.com/s/part3-horror-films.html> <https://public.tableau.com/app/profile/nemil.dalal/viz/CoveragevsDeathsWorldexclNepalEarthquake/NYTimesCoveragevsNumberofWorldDeathsexclNepal> https://cdn.discordapp.com/attachments/742557921849901077/950868438715359332/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/950868450027372564/unknown.png
-Dalal 2015: the New York Times is significantly more likely to cover terrorism than other kinds of death: <https://www.nemil.com/s/part3-horror-films.html> https://cdn.discordapp.com/attachments/742557921849901077/950870400940802048/unknown.png
-#####c
-
-#####
-# media bias toward liberals/leftists: mixture
-#####o
-# liberal overrepresentation among journalists: real
-Willnat and Weaver 2014: journalists are 4x more likely to be affiliated as Democratic (28.1%) than Republican (7.1%): <https://www.politico.com/blogs/media/2014/05/survey-7-percent-of-reporters-identify-as-republican-188053> <http://archive.news.indiana.edu/releases/iu/2014/05/2013-american-journalist-key-findings.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/965050523231330394/weaver2014.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536590716378415124/unknown.png
-
-# conservative overrepresentation among media content: real
-Power and Miller 2018: Sunday talk news shows actually tilt conservative: <https://www.mediamatters.org/blog/2018/11/02/study-over-past-3-months-guest-panels-sunday-shows-have-been-overwhelmingly-conservative/221974> <https://archive.ph/wip/4Tg41> https://cdn.discordapp.com/attachments/418850379518705675/640937903370797093/Sunday-Show-Guests.png
-CNN actually gives Republican guests more air time than Democratic guests: <https://web.stanford.edu/~ayurukog/cable_news.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471458421699510292/unknown.png
-
-# liberal or conservative bias on youtube
-Ledwich and Zaitsev 2020: the "partisan left" and the "partisan right" are equally more likely to be recommended to an anonymous user: <https://doi.org/10.5210/fm.v25i3.10419> <https://firstmonday.org/ojs/index.php/fm/article/view/10419/9404> https://cdn.discordapp.com/attachments/742557921849901077/976210565070487552/mlfigure6.png
-
-# conspiracies to keep leftist media down
-the BBC secretly colluded with MI5 to keep out leftist journalists: <http://www.bbc.com/news/stories-43754737> <https://archive.ph/PMoaG>
-#####c
-
-#####
-# publicly funded media effective: govtreon, news vouchers, media vouchers, journalism vouchers
-#####o
-# background: us subsidized media extensively
-CJR 2010: uniquely among governments of the time, the US government recognized that the market wouldn't underfund investigative media, so they subsidized media to the tune of $30 billion (0.2% of GDP): <https://archives.cjr.org/the_news_frontier/rejuvenating_american_journali.php> <https://archive.ph/I0FMs> https://cdn.discordapp.com/attachments/742557921849901077/868276307404935208/unknown.png """There was no notion that “the market,” unsubsidized, would produce sufficient journalism; the idea was unthinkable until the late 19th or early 20th century, when, with the striking explosion in advertising, commercial interests began to prosper. To that end, in the first generations of our nation’s history the federal government instituted extraordinarily large postal and printing subsidies with the explicit goal of broadening and deepening the amount of newspapers and periodical in the United States. These were brilliant subsidies that did not favor a single party or viewpoint; indeed, they made much of the abolitionist press possible while also supporting pro-slavery publications. If the United States federal government devoted the same percentage of GDP to subsidizing journalism today that it did in the 1840s, for example, the expenditure would be around $30 billion. Indeed the one area that distinguished the American government from European governments at the time was its commitment to creating a huge and credible democratic press system."""
-
-# cjr's citizenship news voucher
-CJR 2010: explaining the "Citizenship News Voucher" concept: $200/yr voucher to nonprofit media as defined broadly by the IRS: <https://archives.cjr.org/the_news_frontier/rejuvenating_american_journali.php> <https://archive.ph/I0FMs> """The idea is simple: every American adult gets a $200 voucher she can use to donate government money to any nonprofit news medium of her choice. She will indicate her choice on her tax return. If she does not file a tax return, a simple form will be available to use. She can split her $200 among several different qualifying nonprofit media. This program would be purely voluntary, like the tax-form check-offs for funding elections or protecting wildlife. A government agency, possibly operating out of the Internal Revenue Service, can be set up to allocate the funds and to determine eligibility—according to universal standards that err on the side of expanding rather than constraining the number of qualifying media."""
-
-# baker's artistic freedom voucher
-Baker 2003: explains the program artistic freedom voucher (AFV): <https://www.policyarchive.org/handle/10207/20794> <https://cdn.discordapp.com/attachments/742557921849901077/853444815344369664/baker2003.pdf> """The AFV would allow each individual to contribute a refundable tax credit of approximately $100 to a creative worker of their choice, or to an intermediary who passes funds along to creative workers. Recipients of the AFV (creative workers and intermediaries) would be required to register with the government in the same way that religious or charitable organizations must now register for tax-exempt status. This registration is only for the purpose of preventing fraud – it does not involve any evaluation of the quality of the work being produced."""
-Baker 2003: explains funding for the AFV and scope of its benefits: <https://www.policyarchive.org/handle/10207/20794> <https://cdn.discordapp.com/attachments/742557921849901077/853444815344369664/baker2003.pdf> https://cdn.discordapp.com/attachments/742557921849901077/868277958396215346/unknown.png """In exchange for receiving AFV support, creative workers would be ineligible for copyright protection for a significant period of time (e.g. five years). Copyrights and the AFV are alternative ways in which the government supports creative workers. Creative workers are entitled to be compensated once for their work, not twice. The AFV would not affect a creative workers ability to receive money for concerts or other live performances. [....] A $100 per adult voucher would be sufficient to pay 500,000 writers, musicians, singers, actors, or other creative workers $40,000 a year. All of the material produced by these workers would be placed in the public domain where it could be freely reproduced."""
-^ status quo: 5 million cultural workers: <https://nasaa-arts.org/nasaa_research/facts-figures-on-the-creative-economy/> """There were 5.2 million arts and cultural sector jobs in America in 2017—accounting for 3.3% of all U.S. jobs—which collectively paid workers a total of $446.7 billion. Explore your state’s level of arts employment with NASAA’s Creative Economy State Profiles."""
-Baker 2003: explains savings from waiving of copyright: <https://www.policyarchive.org/handle/10207/20794> <https://cdn.discordapp.com/attachments/742557921849901077/853444815344369664/baker2003.pdf> https://cdn.discordapp.com/attachments/742557921849901077/853451591033159680/unknown.png """The AFV would create a vast amount of uncopyrighted material. [....] Under plausible assumptions, the savings from reduced expenditures on copyrighted material would vastly exceed the cost of the AFV. [....] The AFV would immediately create a pool of money (approximately $20 billion annually) to support creative and artistic workers that is far larger than the amount that currently flows to them through copyright-protected material. [...] [T]he current distribution of royalties and related payments is heavily concentrated among a small group of singers, actors, writers and other creative workers[.] [...] This means that almost all creative workers would stand to earn far more through the AFV system than through the copyright system. [....] The projections assume much more modest savings (20 percent in the high savings scenario and 10 percent in the low savings scenario) in the case of books, advertising, and cable and pay TV. In these cases, a much higher proportion of the costs are attributable to the physical production and distribution of the material, rather than the compensation of the creative workers."""
-
-# public-funded sources are trustworthy
-even for conservatives, publicly funded media (NPR, PBS, BBC, public TV in general) has higher trust: <https://www.rjionline.org/stories/who-trusts-and-pays-for-the-news-heres-what-8728-people-told-us> https://cdn.discordapp.com/attachments/418850379518705675/442821850158858263/unknown.png
-even for conservatives, publicly funded media (NPR, PBS) has higher trust: <https://www.rjionline.org/reporthtml.html> <https://kf-site-production.s3.amazonaws.com/publications/pdfs/000/000/255/original/KnightFoundation_AccuracyandBias_Report_FINAL.pdf> https://cdn.discordapp.com/attachments/418850379518705675/459766155897339924/unknown.png
-
-# public-funded sources reduce right-wing extremism
-Chandel 2016: <https://www.theguardian.com/media/2016/aug/08/public-service-media-rightwing-extremism-ebu-psbs> <https://www.ebu.ch/news/2016/08/ebu-research-shows-strong-public-service-media-contributes-to-a-healthy-democracy> <https://web.archive.org/web/20160910131332/http://www.ebu.ch/files/live/sites/ebu/files/Publications/EBU-MIS%20-%20PSM%20Correlations%20-%20Public.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/968235641827643442/Chandel2016.pdf> 
-
-# todo xxx reread
-https://www.ebu.ch/video-talks/membersonly/2021/09/no-democracy-without-media-a-research-perspective
-https://journals.sagepub.com/doi/10.1177/0267323121991334
-https://cadmus.eui.eu/handle/1814/70218
-https://www.ebu.ch/publications/research/login_only/report/trust-in-media
-https://www.ebu.ch/news/2022/01/public-media-and-democracy-in-turbulent-times--lessons-from-lithuania
-Pickard 2008: <http://web.archive.org/web/20200811010828/https://www.asc.upenn.edu/news-events/publications/victor-pickard-josh-stearns-craig-aaron-saving-news-toward-national> <https://cdn.discordapp.com/attachments/742557921849901077/853473046731030528/pickard2008.pdf>
-McChesney 2011: <https://brill.com/view/journals/pgdt/10/1/article-p224_17.xml> 
-https://techliberation.com/2010/04/14/the-wrong-way-to-reinvent-media-part-3-media-vouchers/#_ftn12
-https://www.ftc.gov/sites/default/files/documents/public_events/how-will-journalism-survive-internet-age/mcchesney.pdf
-https://twitter.com/DemocracyPolicy/status/1351246730776330241
-https://www.jspp.psychopen.eu/index.php/jspp/article/view/96/37
-https://www.niemanlab.org/2011/03/funding-public-media-how-the-us-compares-to-the-rest-of-the-world/
-https://docs.google.com/document/d/1rJrpsZJg_FZX7Fk396v8reyEF-0fRweGRBUKcJcoQ4I/edit
-https://nofilmschool.com/2014/01/sundance-infographic-numbers-in-independent-film
-https://www.documentarytelevision.com/documentary-budget/sundance-and-the-single-documentary-economy-the-1-3-billion-cost-of-missing-out/
-#####c
-
-#####
-# echo-chambers / echo chambers: very real
-#####o
-# right-wing online echo-chamber
-right-wing users exist within a right-wing media echochamber where the furthest-right news is rewarded and center-right news is shunned: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536269210389577740/unknown.png The particular prominence of the right-most column in Figure 2.7 reflects the overwhelming prominence of Breitbart, as also reflected in the network maps. [...] On Twitter, the center-right is the least represented. On Facebook, both the center and center-right garnered relatively little attention. This pattern suggests that social media sharing in general is more partisan than hyperlinking, and sharing on Facebook is more partisan than on Twitter.
-right-wing users exist within a right-wing media echochamber where Breitbart and Fox dominate: <https://www.youtube.com/watch?v=UUrGA48clA4> <http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf> https://cdn.discordapp.com/attachments/418850379518705675/536272411893563423/unknown.png While the prominence of individual media sources in the right-wing sphere varies when assessed by shares on Facebook and Twitter, the content and core structure, with Breitbart at the center, is stable across platforms. Even in the highly charged pre-election months, everyone outside the Breitbart-centered universe formed a tightly interconnected attention network, with major traditional mass-media and professional sources at the core. The right, by contrast, formed its own insular sphere centered on Breitbart. [....] Outside the rightwing ecosystem, we did not see a leftward polarization but its opposite—an increase in the authority of, and attention paid to, the traditional professional media that occupy the center and center-left, at the expense of the left. On the right, the most important shift was that Fox News reasserted its authority as the central node of the online right-wing media ecosystem. This revival came at the expense of Breitbart, which declined to second place online (leaving aside Fox dominance of conservative television throughout the election and post-election periods). However, Fox News’s resurgence did not increase connections between the right and the rest of the network. During the election, Fox online received 40 percent of its inlinks from the right quintile. In the year after the election, Fox received 51 percent of its links from the right quintile. This shift reflected a decline in linking to Fox across-the-board, not only from the left. Indeed, links from the center-right and the center to Fox declined proportionately more than did links from the center-left and left.8
-#####c
-
-#####
-# fake news: electoral effects
-#####o
-# effects: 2016 election
-in 2016, belief in 1 or more of 3 fake news stories (Pope Francis endorsed Trump, Clinton sold weapons to ISIS, Clinton had very serious illness) is correlated with vote switching from Obama to Trump: <https://www.documentcloud.org/documents/4429952-Fake-News-May-Have-Contributed-to-Trump-s-2016.html> <https://www.washingtonpost.com/news/the-fix/wp/2018/04/03/a-new-study-suggests-fake-news-might-have-won-donald-trump-the-2016-election/> https://cdn.discordapp.com/attachments/418850379518705675/641985676136415252/ISLAR3RGQM52ZOEVYXX6LHM7VA.png
-^ how many people looked at these stories? pope francis: https://docs.google.com/spreadsheets/d/1ysnzawW6pDGBEqbXqeYuzWa7Rx2mQUip6CXUUUk4jIk/edit#gid=1756764129
-^ example of fabricated news: <http://web.archive.org/web/20160322052708/http://abcnews.com.co/> https://cdn.discordapp.com/attachments/418850379518705675/498269876486537222/unknown.png
-completely false articles made up 2.6 percent of all hard-news articles late in the 2016 campaign: <http://www.dartmouth.edu/~nyhan/fake-news-2016.pdf> In total, articles on proTrump or pro-Clinton fake news websites represented an average of approximately 2.6% of all the articles Americans read on sites focusing on hard news topics during this period. The pro-Trump or pro-Clinton fake news that people read was heavily skewed toward Donald Trump — people saw an average (mean) of 5.45 articles from fake news websites during the study period of October 7–November 14, 2016. Nearly all of these were pro-Trump (average of 5.00 pro-Trump articles).
-in the last 3 months of the 2016 election, the 20 most popular false election stories generated 1.3 million more Facebook engagements than the 20 most popular legitimate stories: <https://www.buzzfeednews.com/article/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook> https://cdn.discordapp.com/attachments/418850379518705675/471518377576366090/sub-buzz-441-1479332078-1.png
-
-# fake news: penetration
-a significant portion of the population -- about 10% -- believes that InfoWars is credible: <https://morningconsult.com/2016/12/07/poll-majority-find-major-media-outlets-credible/> https://cdn.discordapp.com/attachments/418850379518705675/640984451937206273/FakeNews-toplines.png
-
-# fake news: general
-fake news spreads faster than true news: <http://science.sciencemag.org/content/sci/359/6380/1146.full.pdf> <https://www.theguardian.com/technology/2018/mar/08/scientists-truth-fiction-twitter-bots> https://cdn.discordapp.com/attachments/418850379518705675/471490435877961730/unknown.png
-ad hominem attacks against science reduce the credibility of science: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192025> <https://www.psypost.org/2018/02/study-suggests-attacking-motives-scientists-just-effective-attacking-science-50746> https://cdn.discordapp.com/attachments/742557921849901077/982150871934726174/unknown.png
-
-# psychology: fake news
-people with weaker cognitive ability have a harder time judging fake news objectively: <https://www.sciencedirect.com/science/article/pii/S0160289617301617> <https://www.scientificamerican.com/article/cognitive-ability-and-vulnerability-to-fake-news/> https://cdn.discordapp.com/attachments/418850379518705675/641996458249289750/1-s2.png
-delusional, dogmatic, and fundamentalist people have a harder time judging fake news as fake: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3172140> <http://www.niemanlab.org/2018/05/people-who-are-delusional-dogmatic-or-religious-fundamentalists-are-more-likely-to-believe-fake-news/>
-social exclusion increases belief in conspiracy theories: <https://www.sciencedirect.com/science/article/pii/S0022103116304711> <https://psychcentral.com/news/2017/02/18/social-exclusion-leads-to-belief-in-conspiracy-theories/116589.html> https://cdn.discordapp.com/attachments/418850379518705675/641996525593165849/1-s2.png
-most people (and most young people) have a hard time sifting fact from fiction: <https://stacks.stanford.edu/file/druid:fv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf> [A]t each level -- middle school, high school, and college -- these variations paled in comparison to a stunning and dismaying consistency. Overall, young people's ability to reason about the information on the Internet can be summed up in one word: bleak.
-
-# solution: education
-Craft 2017: people with better understandings of news is produced are significantly less likely to believe in conspiracy theories (1 additional answer on the News Media Knowledge Scale correlated with a -0.3 of 4 [7.5% if Likert is linear] reduction in conspiracy theory endorsement): <https://www.sciencedaily.com/releases/2017/11/171130150424.htm> <http://journals.sagepub.com/doi/full/10.1177/2057047317725539> <https://sci-hub.se/10.1177/2057047317725539> <https://cdn.discordapp.com/attachments/742557921849901077/824668168479440926/craft2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/824669198533001237/unknown.png
-education can reduce belief in fake news: <https://www.irex.org/project/learn-discern-l2d-media-literacy-training> <https://www.irex.org/sites/default/files/node/resource/impact-study-media-literacy-ukraine.pdf> Compared to the control group, L2D participants were: 28% more likely to demonstrate sophisticated knowledge of the news media industry[.] 25% more likely to self-report checking multiple news sources[.] 13% more likely to correctly identify and critically analyze a fake news story[.] 4% more likely to express a sense of agency over what news sources they can access[.]
-#####c
-
-#####
-# fake news: higher prominence among the right
-#####o
-# right-wing sharing of fake news
-old people, Republicans, and conservatives are more likely to share fake news: <https://www.theguardian.com/technology/2019/jan/10/older-people-more-likely-to-share-fake-news-on-facebook> <http://advances.sciencemag.org/content/5/1/eaau4586.full> <https://sci-hub.se/10.1126/sciadv.aau4586> https://cdn.discordapp.com/attachments/418850379518705675/540948735836815360/F2.png
-fake news is disproportionately consumed by the right: <https://www.dartmouth.edu/~nyhan/fake-news-2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640984562385551390/unknown.png
-^ source of fake news: <https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.211> <https://sci-hub.se/10.1257/jep.31.2.211> https://cdn.discordapp.com/attachments/418850379518705675/498268400158507008/unknown.png
-fake news is disproportionately consumed by the right: <http://www.ox.ac.uk/news/2018-02-06-trump-supporters-and-extreme-right-share-widest-range-junk-news> <http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews.pdf> <http://comprop.oii.ox.ac.uk/research/polarization-partisanship-and-junk-news/> https://cdn.discordapp.com/attachments/418850379518705675/471489238831988736/unknown.png On Twitter, a network of Trump supporters consumes the largest volume of junk news, and junk news is the largest proportion of news links they share.
-
-# right-wing belief in fake news
-young people are better able to identify opinion from fact: <http://www.pewresearch.org/fact-tank/2018/10/23/younger-americans-are-better-than-older-americans-at-telling-factual-news-statements-from-opinions/> https://cdn.discordapp.com/attachments/418850379518705675/640984815109144606/FT_18.png
-of American conservatives, only a minority trust sources other than Fox News and talk radio: <http://www.journalism.org/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/> https://cdn.discordapp.com/attachments/418850379518705675/640984870629277717/PJ_14.png
-republicans are more likely than democrats to believe fake news and less likely to believe true news: <https://web.stanford.edu/~gentzkow/research/fakenews.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471462924171477002/unknown.png
-
-# project veritas lies: anecdotes
-Project Veritas uses cuts to maliciously misrepresent people. compare PV's cut-down video https://www.youtube.com/watch?v=cWptWsSzSh4 (2:52) versus this: https://www.washingtonpost.com/video/national/james-okeefe-and-post-reporter-exchange-what-really-happened/2017/11/27/668d558e-d3c5-11e7-9ad9-ca0619edfa05_video.html (4:44)
-watch a Project Veritas "sting" operative get owned by WaPo journalists: https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html
-watch the founder of Project Vertias avoid answering any questions about that fishing expedition: https://www.washingtonpost.com/video/national/project-veritas-founder-james-okeefe-avoids-post-reporters-questions/2017/11/27/a664414c-d3af-11e7-9ad9-ca0619edfa05_video.html
-
-# fox news: studies
-fox news viewers are more uninformed than those that consume no media at all (2012 poll): <http://publicmind.fdu.edu/2012/confirmed/final.pdf> <https://www.inquisitr.com/241677/study-fox-news-viewers-less-informed-than-those-who-watch-no-news-at-all/> https://cdn.discordapp.com/attachments/418850379518705675/471458654663606298/unknown.png
-^ a more recent study found that fox news viewers are pretty typical (for just 3 questions): <http://publicmind.fdu.edu/2015/false/> https://cdn.discordapp.com/attachments/418850379518705675/471460565827452928/unknown.png
-
-# fox news lies: anecdotes
-fox news thought that antifa was going to start a civil war on 04 November 2017: <https://rationalwiki.org/wiki/November_4th_Antifa_Civil_War> https://cdn.discordapp.com/attachments/418850379518705675/641996585810526209/Fox_News_Antifa_Plans_to_Overthrow_President.png
-fox news edited out booing at two trump events: <https://www.businessinsider.com/trump-booed-ufc-fight-video-fox-friends-cheers-2019-11> <https://www.mediamatters.org/fox-friends/fox-friends-edits-boos-out-video-trump-attending-world-series>
-#####c
-#####c
-
-#####
-#
 # military service
 #
 #####o
@@ -10576,270 +10839,6 @@ the home-ownership gap between veteran and nonmilitary residents disproportionat
 the home-ownership gap between active duty and nonmilitary residents disproportionately benefits nonwhite people: <https://www.urban.org/research/publication/impacts-us-military-service-homeownership-and-income> <https://cdn.discordapp.com/attachments/418850379518705675/706228873347727380/urban_strochak_military_2020.pdf> https://cdn.discordapp.com/attachments/418850379518705675/714520461500743750/unknown.png
 the income gap between veteran and nonmilitary residents disproportionately benefits nonwhite people: <https://www.urban.org/research/publication/impacts-us-military-service-homeownership-and-income> <https://cdn.discordapp.com/attachments/418850379518705675/706228873347727380/urban_strochak_military_2020.pdf> https://cdn.discordapp.com/attachments/418850379518705675/714520424410775592/unknown.png
 the income gap between active duty and nonmilitary residents disproportionately benefits nonwhite people: <https://www.urban.org/research/publication/impacts-us-military-service-homeownership-and-income> <https://cdn.discordapp.com/attachments/418850379518705675/706228873347727380/urban_strochak_military_2020.pdf> https://cdn.discordapp.com/attachments/418850379518705675/714520445176512522/unknown.png
-#####c
-#####c
-
-
-
-#####
-#
-# polling
-#
-#####o
-
-#####
-# why polling is hard
-#####o
-# expensive
-Kennedy and Hartig 2019: response rates to Pew's telephone surveys have declined from 36% in 1996 to 6% in 2019: <https://www.pewresearch.org/fact-tank/2019/02/27/response-rates-in-telephone-surveys-have-resumed-their-decline/> https://cdn.discordapp.com/attachments/742557921849901077/987215075582550036/unknown.png
-Guterbock Benson Lavrakas 2018: the average cost per completed interview among 25 polling organizations was ~$45: <https://www.surveypractice.org/article/3168-the-changing-costs-of-random-digital-dial-cell-phone-and-landline-interviewing> https://cdn.discordapp.com/attachments/742557921849901077/987216732768833536/unknown.png
-#####c
-
-#####
-# polls accurate
-#####o
-# polls were accurate: statistics
-national presidential and Congressional polls in the United States are relatively accurate, with a consistent 5-7% error rate over the past 20 years: <https://fivethirtyeight.com/features/the-polls-are-all-right/> https://cdn.discordapp.com/attachments/418850379518705675/457540212881489930/unknown.png
-
-# polls vs projections
-polls are not the same as projections: **POLLS** predict **WHAT PROPORTION** of votes X candidate will get --> "Hillary Clinton will get 48% of the popular vote countrywide". **PROJECTIONS** predict **HOW LIKELY** it is that X candidate will win --> "Hillary Clinton has a 3 in 4 chance to win in the 2016 election". In short: <https://projects.fivethirtyeight.com/2016-election-forecast/> https://cdn.discordapp.com/attachments/418850379518705675/457580660505444353/unknown.png
-polls are not the same as projections: <https://www.youtube.com/watch?v=1wZphSHtnAg> 
-
-# polls were accurate in 2016
-polls said that Clinton would receive 48.5% of the vote, Trump 44.9%, and Johnson 5.0%: <https://projects.fivethirtyeight.com/2016-election-forecast/> the Federal Elections Commission says: Clinton received 48.18% of the vote, Trump 46.09%, and Johnson 3.28%: <https://en.wikipedia.org/wiki/United_States_presidential_election,_2016> <https://transition.fec.gov/pubrec/fe2016/2016presgeresults.pdf> the polls overestimated Clinton by 0.3%, underestimated Trump by 1.2%, and overestimated Johnson by 1.7% (just 3.2% off)
-rcp: <https://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html> <https://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton_vs_johnson_vs_stein-5952.html>
-
-# polls were accurate in 2018
-polls said that Democrats would receive 50.7% of the vote and Republicans 42.0% (ratio: 1.207): <https://projects.fivethirtyeight.com/congress-generic-ballot-polls/> https://cdn.discordapp.com/attachments/418850379518705675/556600710062538772/unknown.png Democrats received 53.4% of the vote and Republicans 44.8% (ratio: 1.192, 1.25% off): <https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections>
-projections put Democrats at gaining 39 seats in the House and losing 1 in the Senate: <https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/> Democrats gained 41 seats in the House and lost 2 in the Senate: <https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections> <https://en.wikipedia.org/wiki/2018_United_States_Senate_elections>
-projections put Democrats at governing 24 states and Republicans at 26: <https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/> Democrats now govern 23 states and Republicans 27: <https://en.wikipedia.org/wiki/2018_United_States_gubernatorial_elections>
-#####c
-
-#####
-# unsorted unformatted
-#####o
-instant runoff voting (ranked choice voting) has majority support, particularly among the young and Democrats: <https://thepulseofthenation.com/#the-future-of-democracy/3> https://cdn.discordapp.com/attachments/418850379518705675/556636516575870976/unknown.png
-
-most people wouldn't change their minds if presented with scientific evidence: <https://thepulseofthenation.com/#the-common-good/2> https://cdn.discordapp.com/attachments/418850379518705675/556638290329993216/unknown.png
-2/3 of people prefer common sense over science, particularly the old and less-educated: <https://thepulseofthenation.com/#common-sense> https://cdn.discordapp.com/attachments/418850379518705675/556641080846843944/unknown.png
-1/2 of people think correlation means causation: <https://thepulseofthenation.com/#knowledge-is-power/2> https://cdn.discordapp.com/attachments/418850379518705675/556644273592860682/knowledge_3-f230c8b2.png 
-most people who think they're well-informed on economics also cannot name a single economist: <https://thepulseofthenation.com/#the-dismal-science/2> https://cdn.discordapp.com/attachments/418850379518705675/556645207991386112/unknown.png
-
-Republicans are much more likely to believe that there's a Deep State and the Parkland school shooting was a hoax: <https://thepulseofthenation.com/#conspiracy-theories> https://cdn.discordapp.com/attachments/418850379518705675/556643267798892554/unknown.png
-
-most Republicans don't think the USA has interfered with the democratic elections of another nation: <https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change> https://cdn.discordapp.com/attachments/418850379518705675/556643691486380043/unknown.png https://upload.wikimedia.org/wikipedia/commons/0/08/Map_of_US_involvement_in_regime_change_and_election_interference.svg
-Republicans are more likely to think they're well-informed on economics, less able to name a living economist, and less able to name the 3 branches of government (but equally likely to think correlation == causation): <https://thepulseofthenation.com/#red-team-vs-blue-team> https://cdn.discordapp.com/attachments/418850379518705675/556647006471192613/unknown.png
-most people who support a border wall think they could get past one: <https://thepulseofthenation.com/#border-wall/2> https://cdn.discordapp.com/attachments/418850379518705675/556648870956892170/border_wall_3-99f06f8a.png
-
-29% of Trump supporters would vote for him if he murdered a journalist: <https://thepulseofthenation.com/#the-truth/2> https://cdn.discordapp.com/attachments/418850379518705675/556650911473336320/the_truth_3-329b5ca1.png
-
-Republicans hate weed because Democrats are having sex: <https://thepulseofthenation.com/#sex-without-love/4> https://cdn.discordapp.com/attachments/418850379518705675/556647596496519168/sex_5-54aabc5c.png
-
-most Democrats who think men and women are equal think that women are better multitaskers and better empathizers: <https://thepulseofthenation.com/#gender-equality/3> https://cdn.discordapp.com/attachments/418850379518705675/556652320646103043/unknown.png
-
-Republicans would rather be dumb and happy than smart and sad: <https://thepulseofthenation.com/#dumb-and-happy/1> https://cdn.discordapp.com/attachments/418850379518705675/556657557758803968/dumb_and_happy_2-4ca4614c.png
-#####c
-
-#####
-# socialism and social democracy
-#####o
-# understanding: americans identify socialism with equality and state ownership
-Gallup: in 2018 (1949), Americans described socialism as "equal in distribution" by 23% (12%), as "state control of business" by 17% (34%), as "social services free" by 10% (2%), as "modified communism" by 6% (6%), as "talking to people" by 6% (N/A), as "restriction of freedom" by 3% (1%), "liberal government" by 2% (1%), as a "cooperative plan" by 1% (1%), or using negative adjectives only by 6% (2%): <https://news.gallup.com/opinion/polling-matters/243362/meaning-socialism-americans-today.aspx> https://cdn.discordapp.com/attachments/418850379518705675/739259796154351747/unknown.png
-Pew 2019: Americans with a positive view of socialism argue it improves fairness&equality (31%), builds upon capitalism (20%), point to historical successes (6%); Americans with a negative view of socialism argue it undermines work ethic or increases dependence on gov't (19%), point to historical failures (18%), or undermines democracy (17%): <https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/> https://cdn.discordapp.com/attachments/742557921849901077/973806197184532490/unknown.png
-Pew 2019: Americans with a positive view of capitalism argue it promotes individual opportunity (24%) or is essential to America (20%); Americans with a negative view of capitalism argue it unequally benefits a small few (23%), is exploitative/corrupt by nature (20%), or undermines democracy (8%): <https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/> https://cdn.discordapp.com/attachments/742557921849901077/973808175000219709/unknown.png
-Data For Progress 2020: most Americans identify capitalism closer with "freedom to pursue individual interests" than "the economy is controlled by a small group of wealthy individuals"; most Americans identify capitalism closer with "government empowers workers to have a say and provides ... health care, housing, free education" than gov't "has total control over the economy and business": <https://www.dataforprogress.org/blog/2022/1/26/democratic-socialism-and-socialism-are-increasingly-salient-among-democrats> <https://archive.ph/AFxZh> https://cdn.discordapp.com/attachments/742557921849901077/973813443343826954/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/973813454773321748/unknown.png
-
-# understanding: policies and socialist identity
-Data For Progress 2020: Americans who support more of 4 social-democratic policies (Medicare For All, expanded UI, paid sick leave, job guarantee) are more likely to support "a form of socialism in the US"; or, socialism correlates with social democracy: <https://www.dataforprogress.org/blog/2020/6/10/how-americans-feel-about-socialism> <https://archive.ph/Mrybg> https://cdn.discordapp.com/attachments/742557921849901077/973812305752100934/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/973812321631735859/unknown.png
-Data For Progress 2020: likely voters have a +25% opinion of capitalism and -20% opinion of socialism; after being asked the above descriptions, they were significantly (6%) more likely to support "democratic socialism": <https://www.dataforprogress.org/blog/2022/1/26/democratic-socialism-and-socialism-are-increasingly-salient-among-democrats> <https://archive.ph/AFxZh> https://cdn.discordapp.com/attachments/742557921849901077/973813409730682880/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/973813428235939880/unknown.png
-
-# mixed identities: favoring both socialism and capitalism
-Gallup 2021: a significant portion of Americans are favorable to both capitalism and socialism; of Dems, 34% like both, 17% like capitalism only, 28% like socialism only, 16% dislike both: <https://news.gallup.com/opinion/polling-matters/358178/deconstructing-americans-views-socialism-capitalism.aspx> <https://archive.ph/IFKzq> https://cdn.discordapp.com/attachments/742557921849901077/973804032789463050/unknown.png
-
-# specific policies: fairly popular
-2018: the "radical left's agenda" (end cash bail, government-produced generic drugs, public job guarantee, public internet) is more popular than the mainstream republican's agenda: <http://nymag.com/daily/intelligencer/2018/08/the-radical-lefts-agenda-is-more-popular-than-the-gops.html> <https://www.dataforprogress.org/polling-the-left-agenda/> https://cdn.discordapp.com/attachments/418850379518705675/479147826899582986/unknown.png
-2018: a majority of Republicans now support Medicare for All; a majority of Americans support free college: <https://www.reuters.com/investigates/special-report/usa-election-progressives/#interactives-poll> https://cdn.discordapp.com/attachments/418850379518705675/484955359069601794/unknown.png
-2019: most voters support student loan forgiveness: <https://morningconsult.com/2019/05/08/voters-favor-elizabeth-warren-student-debt-loan-plan/> https://cdn.discordapp.com/attachments/418850379518705675/640926373271306241/190507_Student-Debt-Poll_fullwidth.png
-
-# specific policies: wealth redistribution: trends: no major change
-2016: the portion of americans supporting wealth redistribution is basically the same as in 1980: <https://fivethirtyeight.com/features/why-young-democrats-love-bernie-sanders/> https://cdn.discordapp.com/attachments/418850379518705675/640926899127713792/silver-bernieyouth-2.png
-US 1990-2018: just 6% more people oppose a "rich class" in 2018 (58% yes) than in 1990 (62% yes): <https://news.gallup.com/poll/235439/partisan-divide-benefit-having-rich-people-expands.aspx> <https://news.gallup.com/poll/154619/americans-having-rich-class-years-ago.aspx> https://cdn.discordapp.com/attachments/742557921849901077/974028944930111508/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/974028998617235496/unknown.png
-US 2021: 29% say that billionaires existing is a bad thing; 55% say neither; 15% say good thing: <https://www.pewresearch.org/fact-tank/2021/07/28/americans-views-about-billionaires-have-grown-somewhat-more-negative-since-2020/> https://cdn.discordapp.com/attachments/742557921849901077/974029937650565120/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/974030129938440192/unknown.png
-US 2019: Americans want to tax billionaires but not eliminate them: <https://www.huffpost.com/entry/wealth-inequality-billionaires-poll_n_5c7d98d8e4b069b2129ec865> <https://big.assets.huffingtonpost.com/athena/files/2019/02/28/5c78213ee4b010e7c5653787.pdf> https://cdn.discordapp.com/attachments/418850379518705675/565306167652253736/5c7d9bee260000f903fde43a.png
-Data For Progress 2019: <https://www.vox.com/recode/22356742/billionaires-amazon-jeff-bezos-rich-philanthropy-coronavirus-election> <https://www.vox.com/recode/2021/3/30/22357510/poll-billioniares-data-for-progress-vox-wealth-philanthropy-inequality> <https://www.filesforprogress.org/datasets/2021/3/dfp-recode-voters-attitudes-billionaires.pdf> https://cdn.discordapp.com/attachments/742557921849901077/974033009500098662/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/974034529960468541/unknown.png
-
-# general social survey: variables to consider
-eqwlth
-helppoor
-helpnot
-
-# support for term socialism: levels by age: higher among the young
-Gallup 2018: the current generation is the most socialist generation: <https://news.gallup.com/poll/240725/democrats-positive-socialism-capitalism.aspx> https://cdn.discordapp.com/attachments/418850379518705675/640926483782696980/unknown.png
-Harvard 2016: the American youth support socialism: <http://iop.harvard.edu/sites/default/files/content/160425_Harvard%20IOP%20Spring%20Report_update.pdf> https://cdn.discordapp.com/attachments/418850379518705675/440404533294661634/unknown.png
-Pew 2011: the American youth support socialism: <http://www.people-press.org/2011/12/28/little-change-in-publics-response-to-capitalism-socialism/> https://cdn.discordapp.com/attachments/418850379518705675/440405307747729408/unknown.png
-YouGov 2015: the American youth support socialism: <https://today.yougov.com/topics/politics/articles-reports/2015/05/11/one-third-millennials-like-socialism> https://cdn.discordapp.com/attachments/418850379518705675/640926681191940106/socialism4-3.png
-
-# support for term socialism: trends: gallup [not increasing]
-US 2010-2021: capitalism from 60% positive to 60% positive, socialism 37% positive to 38% positive: <https://news.gallup.com/poll/357755/socialism-capitalism-ratings-unchanged.aspx> https://cdn.discordapp.com/attachments/742557921849901077/973802007934685244/unknown.png
-
-# support for term socialism: trends: pew [not increasing]
-US 2011: socialism 31% positive, 60% negative; capitalism 50% positive, 40% negative <http://www.people-press.org/2011/12/28/little-change-in-publics-response-to-capitalism-socialism/> https://cdn.discordapp.com/attachments/418850379518705675/640927058817450009/12-28-11-11.png
-US 1990-2012: "the US benefits from having a class of rich people": yes 62% to 63%, no 32% to 34%: <http://www.people-press.org/2010/05/04/socialism-not-so-negative-capitalism-not-so-positive/> https://cdn.discordapp.com/attachments/418850379518705675/640927157211758614/610-1.png
-
-# support for term socialism: trends: yougov [slightly increasing]
-US 2016: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable: socialism 5%, 24%, 18%, 30%; capitalism 21%, 31%, 18%, 9%; describe self as socialist 9%, as capitalist 27%: <https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/467z1ta5ys/tabs_OP_Socialism_20160127.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640952869826068480/socialism1.png
-US 2015 October: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable; socialism 7%, 18%, 15%, 32%; capitalism 20%, 28%, 17%, 11%; describe self as socialist 9%, as capitalist 30%: <https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/x8miy3gp2f/tabs_OPI_Democratic_Nomination_20151016.pdf>
-US 2015 May: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable; socialism 6%, 20%, 19%, 32%; capitalism 24%, 28%, 17%, 9% <http://cdn.yougov.com/cumulus_uploads/document/3csd07d2dd/tabs_OPI_socialism_20150508.pdf>
-
-# support for term socialism: levels: other pollsters
-American Culture and Faith 2017: 37% prefer socialism to capitalism <https://www.culturefaith.com/acfi-survey-reveals-details-about-the-ideology-gap-separating-americans/>
-Reason-Rupe 2014: of US millenials, 52% capitalism better system, 42% socialism better system; 64% free market economy better system, 32% economy managed by government better system: report: <http://reason.com/assets/db/14048862817887.pdf> toplines: <http://reason.com/assets/db/14048863511533.pdf>
-Victims of Communism 2017 October: prefer to live in country that is X: 59% capitalist, 34% socialist, 4% fascist, 3% communist <http://web.archive.org/web/20171105212821/http://victimsofcommunism.org/wp-content/uploads/2017/11/YouGov-VOC-2017-for-Media-Release-November-2-2017-final.pdf
-Victims of Communism 2016: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable; socialism 7%, 22%, 17%, 30%; capitalism 24%, 25%, 17%, 12%: toplines: <http://web.archive.org/web/20161024041530/https://www.victimsofcommunism.org/wp-content/uploads/2016/10/VOC-Attitudes-toward-Socialism-Topline-Data.pdf>
-#####c
-
-#####
-# political view change over time
-#####o
-# cohort effects
-different generations have different voting patterns (ie, they didn't change very much as they aged): <http://www.people-press.org/2011/11/03/section-1-how-generations-have-changed/> https://cdn.discordapp.com/attachments/418850379518705675/640926774758342667/11-3-11-17.png
-
-# political views don't change over time
-your political views are three times more malleable in your teens than in your midlife: <https://www.nytimes.com/interactive/2014/07/08/upshot/how-the-year-you-were-born-influences-your-politics.html> <http://archive.is/0S3vo> <http://www.stat.columbia.edu/~gelman/research/unpublished/cohort_voting_20140605.pdf> https://cdn.discordapp.com/attachments/418850379518705675/473938047046778880/unknown.png
-political views solidify in your teens: <http://www.pewresearch.org/fact-tank/2014/07/09/the-politics-of-american-generations-how-age-affects-attitudes-and-voting-behavior/> <https://books.google.com/books?id=3a927Jder6IC#v=onepage> On an individual level, of course, many people’s political views evolve over the course of their lives. But academic research indicates not only that generations have distinct political identities, but that most people’s basic outlooks and orientations are set fairly early on in life. As one famous longitudinal study of Bennington College women put it, “through late childhood and early adolescence, attitudes are relatively malleable…with the potential for dramatic change possible in late adolescence or early adulthood. [B]ut greater stability sets in at some early point, and attitudes tend to be increasingly persistent as people age.” [unformatted redo]
-
-# political views change over time
-brits become more conservative as they age, but it's not associated with most significant life events: <https://www.theguardian.com/commentisfree/2015/nov/03/do-we-become-more-conservative-with-age-young-old-politics> <https://www.sciencedirect.com/science/article/pii/S0261379413000875> <https://sci-hub.se/10.1016/j.electstud.2013.06.007> Ageing makes people more likely to vote Conservative. The question of whether future Conservative support is threatened by generational replacement can therefore be answered with some confidence in the negative. Newer generations are not less Conservative than older generations once ageing effects are controlled for using side information taken from the panel studies. There are nonetheless identifiable political generations. Individuals born in certain years appear more or less Conservative, ignoring trend effects, depending on the prevailing political conditions at the time that they entered the electorate. [....] Given the increasing longevity of the electorate and the increased proportion who are elderly, our findings indicate that over time we should expect to see an increasingly Conservative electorate. [....] The elderly are not Conservative because they are rich, but because they are elderly. [....] While we can rule out some social ageing effects (due to marriage, income changes and so forth), we do not know exactly why people become more supportive of the right as they age. [unformatted redo]
-#####c
-
-#####
-# perceptions of crime
-#####o
-# perceptions
-the public consistently believes that crime is going up even when it's not: <http://www.pewresearch.org/fact-tank/2016/11/16/voters-perceptions-of-crime-continue-to-conflict-with-reality/> https://cdn.discordapp.com/attachments/418850379518705675/640928233348661295/FT_16.png
-the public consistently believes that crime is going up even when it's not: <https://thesocietypages.org/socimages/2017/02/27/why-the-american-public-seems-allergic-to-facts/> 
-#####c
-
-#####
-# generation z
-#####o
-# racism declining
-2019 HarrisX poll: 62% of white respondents believe that "whites are discriminated against in America to any extent"; just 31% of Gen Z believe this: <https://thehill.com/hilltv/what-americas-thinking/433270-poll-republicans-and-democrats-differ-strongly-on-whether-white> https://cdn.discordapp.com/attachments/418850379518705675/573676285100818432/unknown.png
-2018 Pew Poll: younger Republicans are much more likely (2x) to say that "blacks are treated less fairly than whites": <http://www.people-press.org/2018/03/01/the-generation-gap-in-american-politics/> https://cdn.discordapp.com/attachments/418850379518705675/640927629251313674/PSDT_1.png
-2017 PPRI poll: <https://www.prri.org/research/mtv-culture-and-religion/> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Survey-Report-FINAL.pdf> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Topline-FINAL.pdf> favorable views of Trump: 35% white young people, 46% white people; white people experience discrimination as serious as discrimination against other groups: 36% white young people, 55% white people
-
-# good polls
-2019 Pew poll: Gen Z is less racist, more leftist, and more trans-accepting: <http://www.pewsocialtrends.org/2019/01/17/generation-z-looks-a-lot-like-millennials-on-key-social-and-political-issues/> https://cdn.discordapp.com/attachments/418850379518705675/617790014301929522/unknown.png 
-2018 National Election Pool (NEP) exit polls: 18-24 year-olds voted heavily for Democrats: <https://www.cnn.com/election/2018/exit-polls> https://cdn.discordapp.com/attachments/418850379518705675/630070967355310103/unknown.png
-2017 PPRI poll: <https://www.prri.org/research/mtv-culture-and-religion/> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Survey-Report-FINAL.pdf> <https://www.prri.org/wp-content/uploads/2018/01/PRRI-MTV-Topline-FINAL.pdf> Gen Z voted 59.5% Clinton, 28.3% Trump, 12% other. Gen Z has net favorability of -35 for the Republican Party, +17 Democratic Party, -44 US-Mexico border wall, -26 Muslim ban, +50 gay marriage, +31 legal marijuana, -22 birth-gender bathrooms, and -44 making abortion.
-2016 Populus poll: <https://www.varkeyfoundation.org/media/4487/global-young-people-report-single-pages-new.pdf> https://cdn.discordapp.com/attachments/418850379518705675/497963039224496128/unknown.png USA: 90% strongly agree or agree that men and women should be treated equally, 83% that transgender people should have the same rights as non-transgender people, 63% that safe abortion should be available legally to women that need it, 71% that same-sex couples should be allowed to marry
-2016 UCLA college freshmen survey: <https://www.heri.ucla.edu/monographs/TheAmericanFreshman2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/497979093367914507/unknown.png
-2016 National Election Pool (NEP) exit polls: 18-29 year-olds voted heavily for Clinton and for Democrats: <https://edition.cnn.com/election/2016/results/exit-polls/national/president> https://cdn.discordapp.com/attachments/418850379518705675/630070440114651194/unknown.png
-2016 CCES survey: <https://www.nytimes.com/2018/07/26/opinion/sunday/democracy-democrats-voters-disenfranchisment.html> https://cdn.discordapp.com/attachments/418850379518705675/498263499894423562/unknown.png
-2015 CGK poll: <https://genhq.com/wp-content/uploads/2017/01/Research-White-Paper-Gen-Zs-Political-Civic-Outlook-c-2016-The-Center-for-Generational-Kinetics.pdf> 33% GenZ vs 39% Millenials vs 29% other more access after the Affordable Care Act; 33% GenZ vs 39% Millenials vs 43% other think minorities have equal access for success in business; 54% GenZ vs 60% millenial vs 69% other think illegal immigration is a problem in the US
-2014 Northwestern University poll: <https://www.psandl.com/wp-content/uploads/2014/12/Innovation_Summit_GenZ_Topline_Report.pdf> total agree: 64% big corporations and banks control too much in American society, 61% the gap between rich and poor Americans is harmful to my generation, 73% it's better for America to be a place with people of many races and languages rather than a country that is less diverse, 53% college should be free for everybody, 73% everyone should have the right to marry regardless of sexual orientation, 74% transgender people should have equal rights, 64% healthcare should be free for everyone, 55% everyone should have a right to become a US citizen regardless of where they were born and how they came to the country
-
-# shitty poll from the gild:
-The Gild (consultancy company) poll was not a representative sample of Generation Z -- it was an online poll that anyone could participate in (including you, if only the page didn't 404 nowadays): <https://www.forbes.com/sites/ashleystahl/2017/08/11/why-democrats-should-be-losing-sleep-over-generation-z/#66d23b207878> <http://afterthemillennials.com/why-generation-z-is-not-more-conservative/> https://cdn.discordapp.com/attachments/418850379518705675/630088949955821568/gildbad.png
-
-# shitty HHM book survey
-2016 Houghton Mifflin Harcourt (book company) survey: <https://www.hmhco.com/about-us/press-releases/one-vote-2016-results> 47% Clinton, 41% Trump, 12% other
-
-# shitty poll from mycollegeoptions-hispanic heritage foundation:
-the fall 2016 poll found 32% supported Trump, 22% Clinton: <https://hispanicheritage.org/my-college-options-hispanic-heritage-foundation-present-findings-of-national-survey-over-100k-high-school-students-on-2016-presidential-election-and-attitudes-on-key-issues/> <https://public.tableau.com/profile/mycollegeoptions#!/vizhome/PresidentialPolling-Fall2016/PresidentialPolling2016> https://cdn.discordapp.com/attachments/418850379518705675/630067328477822985/unknown.png
-yet the spring 2016 poll found 30% supported Sanders, 12% Clinton, 18% Trump, 8% Cruz, 7% Rubio, 6% Carson; 43% support Democrats, 40% Republicans: <https://public.tableau.com/profile/mycollegeoptions#!/vizhome/PresidentialDashboard-Spring2016/PresidentialPolling2016>
-and the poll itself was a merely distributed to teachers, not students -- making it very unlikely to be representative of the nation as a whole: <https://hispanicheritage.org/my-college-options-hispanic-heritage-foundation-present-findings-of-national-survey-over-100k-high-school-students-on-2016-presidential-election-and-attitudes-on-key-issues/> https://cdn.discordapp.com/attachments/418850379518705675/630084018326470657/unknown.png
-#####c
-#####c
-
-#####
-#
-# persuasion
-#
-#####o
-
-#####
-# persuasion: basically everything works
-#####o
-# summary
-The studies below show that lots of specific methods work. In my opinion, the correct synthesis of these results is that basically *all* methods of persuasion work. While some may work better than others, and may work better on different people, evidence works, logic works, debate works, empathy works, humor works.
-
-# methods: logos, ridicule, empathy: all work
-Orosz et al 2016: ridicule & humor (making fun of inconsistencies and of believers in the conspiracy) and logical breakdown (providing stats and explaining logical failures) are equally effective at reducing belief in a Jewish superconspiracy, though the effect size is not large (~3 points on an 88-point scale (3.4pp): <https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01525/full> <https://sci-hub.st/10.3389/fpsyg.2016.01525/full> <https://cdn.discordapp.com/attachments/742557921849901077/804880189695852595/orosz2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540432297199927297/fpsyg-07-01525-g001.png
-#####c
-
-#####
-# persuasion: deep canvassing works
-#####o
-# methods: deep canvassing: compassion works
-Kalla and Broockman 2016: deep canvassing (having a ~10 minute conversation encouraging the person to consider a trans person's perspective) increased tolerance of transgender people (~.3 SD) and support for a gender nondiscrimination law (~.5 points on -3 to +3 scale); these effects persisted and strengthened after 3 months, and were robust to a fake negative ad against the law: <https://www.nytimes.com/2016/04/10/magazine/how-do-you-change-voters-minds-have-a-conversation.html> <http://science.sciencemag.org/content/352/6282/220> <http://sci-hub.st/10.1126/science.aad9713> <https://cdn.discordapp.com/attachments/742557921849901077/801830550729129984/broockman2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/801832782732984350/unknown.png Defining “transgender” in the item wording revealed that placebo subjects were less supportive of protecting this group (P < 0.05, one-tailed). Next, all subjects were less supportive after viewing an opposing ad, but the effect of the conversations endured (P < 0.05, one-tailed). However, the ads’ impact dissipated, whereas the conversations’ effect endured (P < 0.05, one-tailed).
-Kalla and Broockman 2020: conversations that used both {convincing arguments and compassion} durably reduced anti-immigration sentiment and transphobia; conversations that used only {convincing arguments} had insignificant effects; this was found in face-to-face, video, and phone interventions: <https://www.cambridge.org/core/journals/american-political-science-review/article/abs/reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments/4AA5B97806A4CAFBAB0651F5DAD8F223> <https://cdn.discordapp.com/attachments/742557921849901077/895135046011322388/kalla2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/895137880199016508/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895125663898566676/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895126146545496124/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895126906058469427/unknown.png
-#####c
-
-#####
-# persuasion: evidence works
-#####o
-# general evidence: evidence changes minds and there's no backfire effect
-Wood et al 2018: there is no evidence for a consistent "backfire effect"; telling people facts generally changes their minds; among 10100 adults, the effect of factual correction was ~1/3 as large as the effect of ideology on stated belief: <https://mindhacks.com/2018/01/03/the-backfire-effect-is-elusive/> <https://link.springer.com/article/10.1007/s11109-018-9443-y> <https://sci-hub.se/10.1007/s11109-018-9443-y> <https://cdn.discordapp.com/attachments/742557921849901077/874024449693872168/wood2018.pdf> https://cdn.discordapp.com/attachments/418850379518705675/716789700517691592/unknown.png """The present paper presents results from five experiments in which we enrolled more than 10,100 subjects and tested 52 issues of potential backfire. Across all experiments, we found no corrections capable of triggering backfire, despite testing precisely the kinds of polarized issues where backfire should be expected. Evidence of factual backfire is far more tenuous than prior research suggests."""
-^ list of factual correction: <https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-018-9443-y/MediaObjects/11109_2018_9443_MOESM1_ESM.pdf>
-
-# specific evidence: misinformation isn't stronger, evidence still works
-Schmid and Betsch 2019: experimental study: among 1661 adults, topic rebuttal (oppose misinformation with facts) and technique rebuttal (refute the methods that science deniers use to mislead their audience) substantially and significantly reduced the influence of science deniers (by about 1/3 of a standard deviation), especially among individuals who vulnerable to antiscience beliefs: <https://www.scientificamerican.com/article/how-to-debate-a-science-denier/> <https://archive.ph/1oWEo> <https://www.nature.com/articles/s41562-019-0632-4> <https://sci-hub.se/10.1038/s41562-019-0632-4> <https://cdn.discordapp.com/attachments/742557921849901077/1017236881374715985/schmid2019.pdf> <https://osf.io/xx2kt/> https://cdn.discordapp.com/attachments/742557921849901077/1017237734185762816/unknown.png
-
-# specific evidence: there's no major partisan cue effect, evidence still works
-Tappin 2021: against "partisan motivated reasoning": among 5071 adults, evidence changed minds in a sample of 24 policy issues; no significant difference between "evidence + contrary party leader cue" (purple) vs "evidence alone" (black): <https://psyarxiv.com/247bs/> <https://cdn.discordapp.com/attachments/742557921849901077/895135650540564500/tappin2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/895128816383582238/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895135169621672017/FA-ygFjVkAohiOg.png Altogether, our design incorporates 48 unique arguments and evidence (information) treatments, and we recruit a total of 5,071 American adults corresponding to 25,181 observations. The experiment design is as follows.
-#####c
-
-#####
-# delivery method: debate is an effective educational tool
-#####o
-# debate: excellent and nuanced video by Jangles Sciencelad
-Jangles Sciencelad: "In Defense of Debate": overviews some of the major strengths and weakness of debate as a propagandistic/ <https://www.youtube.com/watch?v=qdYOaM0YH9E>
-
-# strength of debate: educational debate achieves deep knowledge
-Omelicheva and Avdeyeva 2008: debate achieved higher deep knowing in students: compared to lectures, undergrad students who observed debates had insignificantly lower knowledge (recollection of fact) and significantly higher comprehension (ability to explain fact), application (applying concept to unrelated situation), and evaluation (using concept to judge reality): <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/teaching-with-lecture-or-debate-testing-the-effectiveness-of-traditional-versus-active-learning-methods-of-instruction/3CCA1F6C678593BAE683F6FBFE2CEE55> <https://sci-hub.st/10.1017/S1049096508080815> <https://cdn.discordapp.com/attachments/742557921849901077/941139776277475368/omelicheva2008.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941140160211464252/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016957998553382912/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016958325683925002/unknown.png n=60 undergrads """The tests demonstrated that in our classes students acquired better comprehension, application, and critical evaluation skills when a controversial topic was taught in the debate format. With regard to basic knowledge, lectures better facilitated students’ memorization, recall, and recognition of information, however, this finding was only significant at the .10 level."""
-
-# strength of debate: critical thinking enables debate victories
-Chen et al 2022: among 76 sophomore undergrads, educational debate winners demonstrated higher critical thinking (as evaluated by the instructor) than their opponents: <https://www.sciencedirect.com/science/article/abs/pii/S1871187122000384> <https://sci-hub.se/10.1016/j.tsc.2022.101035> <https://cdn.discordapp.com/attachments/742557921849901077/1017216725080613024/chen2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017234353836789790/unknown.png (score == 40 is a win, score == 35 is a tie, score == 30 is a loss) """Results indicated that: (1) averagely speaking, the winning team demonstrated a higher depth of critical thinking, and their number of speeches was relatively more than that of the teams with lower debate scores; (2) debaters’ depth of critical thinking was negatively correlated to their number of speeches; (3) audiences’ depth of critical thinking was not significantly correlated to their number of online posts; (4) debaters’ overall depth of critical thinking was relatively lower than that of audiences."""
-
-# strength of debate: debate encourages better critical thinking
-Mumtaz and Latif 2017: among 182 female second-year medical students in Saudi Arabia, the vast majority reported that educational debate improved their critical thinking (78%), speaking and presentation skills (71%), and understanding of hearing from diverse viewpoints (80%): <https://journals.physiology.org/doi/full/10.1152/advan.00157.2016> <https://sci-hub.se/10.1152/advan.00157.2016> <https://cdn.discordapp.com/attachments/742557921849901077/962824535944593418/mumtaz2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017222798105661460/unknown.png
-Colbert 1987: non-experimental evidence: among 248 undergrads, measured two weeks before and two weeks after inter-collegiate competitive debate began, debaters saw significantly more positive changes in critical thinking skills compared to nondebaters: <https://www.tandfonline.com/doi/abs/10.1080/00028533.1987.11951345> <https://sci-hub.se/10.1080/00028533.1987.11951345> <https://cdn.discordapp.com/attachments/742557921849901077/1017216449821020220/colbert2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017219017926258699/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017219769650384956/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017220641755238410/unknown.png
-
-# limit of debate: adversarial debate has lower respect, satisfaction, participation, higher hesitation
-McAvoy and McAvoy 2021: among 165 high school students, compared to deliberative small group activity, students in the debate condition reported less respect, more hesitation to speak, less satisfaction, and lower participation: <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2021.1942706> <https://sci-hub.se/10.1080/0161956X.2021.1942706> <https://cdn.discordapp.com/attachments/742557921849901077/962824033022406666/mcavoy2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017225482334392350/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1017231711127490560/unknown.png
-
-# limit of debate: alleged gender exclusivity (see also Mumtaz as counter-example)
-Tumposky 2004: debate is exclusive to women, who feel much less comfortable in adversarial conversations: <https://www.tandfonline.com/doi/abs/10.3200/TCHS.78.2.52-56> <https://sci-hub.st/10.3200/TCHS.78.2.52-56> <https://cdn.discordapp.com/attachments/742557921849901077/941146035655417856/tumposky2004.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941145893304946748/unknown.png """In her study of how males and females communicate, sociolinguist Tannen (1992) found that an adversarial environment is antithetical to the way most females learn and like to interact. She also notes that “most women are more comfortable speaking in private to a small group of people they know well” (1992, 7). Other research suggests that very few women are comfortable with adversarial argument, in or out of classrooms. In an interview study with American college students, researchers found that “the classic dormitory bull session with students assailing their opponents’ logic and attacking their evidence, seems to occur rarely among women” (Belenky et al. 1986, 105)."""
-McAvoy and McAvoy 2021: among 165 high school students, young women were more likely to report hearing something offensive in small group discussion than debate, and equally likely to report hesitance to speak in both activities: <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2021.1942706> <https://sci-hub.se/10.1080/0161956X.2021.1942706> <https://cdn.discordapp.com/attachments/742557921849901077/962824033022406666/mcavoy2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1017232010240069682/unknown.png
-
-# effect of debating on positions taken
-Lilly 2012: positions taken in student debates influences student positions on those topics; this can be seen as good (opening minds to new positions) or bad (people who argue for just one side will be convinced by that side): <https://eric.ed.gov/?id=EJ977172> <https://files.eric.ed.gov/fulltext/EJ977172.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1016961779055722526/lillyl2012.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483810094597931018/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016962056915791942/unknown.png
-
-# philosophy education: effective in one RCT, ineffective in one RCT
-Gorard et al 2015: randomized-control trial (RCT): among 3159 children aged 9-10, receiving philosophy education significantly and substantially improved academic performance or social-emotional learning: <https://qz.com/635002/teaching-kids-philosophy-makes-them-smarter-in-math-and-english/> <https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/philosophy-for-children> <https://cdn.discordapp.com/attachments/742557921849901077/1016963114979307520/Gorand2015.pdf> https://cdn.discordapp.com/attachments/418850379518705675/483857320791769099/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016964359127322676/unknown.png
-Lord et al 2021: randomized-control trial (RCT): among 3601 children aged 9-10, receiving philosophy education did not significantly improved academic performance or social-emotional learning: <https://www.theguardian.com/education/2021/mar/03/research-undermines-claims-philosophy-boosts-primary-maths-and-reading> <https://dailynous.com/2021/03/04/philosophy-for-kids-is-not-math-for-kids-or-reading-for-kids/> <https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/philosophy-for-children-effectiveness-trial> <https://cdn.discordapp.com/attachments/742557921849901077/1016966929174499389/lord2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1016967181545783306/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1016968163096788992/unknown.png
-#####c
-
-#####
-# delivery methods: other effective methods
-#####o
-# delivery: op-eds
-Coppock et al 2021 (all three authors are libertarians): libertarian op-eds changed individual's minds by ~.5-1 points on a 7-point scale (if linear, ~7-14%) about specific issues; about 2/3 of this effect persists after 1 month: <https://www.nowpublishers.com/article/Details/QJPS-16112> <https://sci-hub.st/10.1561/100.00016112> <https://cdn.discordapp.com/attachments/742557921849901077/809165474083373116/coppock2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/809891950219231272/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/809892661757870140/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/959340400605294612/unknown.png """Under the rosiest scenario, an op-ed costs $5,000 to produce, reaches 400,000 people, and changes the mind of 20% of them. Plugging these values into Equation (1), we obtain that the cost per mind changed is a mere 6 cents. Under a more conservative set of assumptions, an op-ed costs 10 times as much ($50,000), reaches half as many people (200,000), and changes half as many minds (10%). The resulting cost per mind changed would work out to $2.50."""
-^ supplementary material for above, including op-eds: <https://cdn.discordapp.com/attachments/742557921849901077/959332602148450345/coppock2018supp.pdf>
-
-# delivery: tv news
-Martin and Yurukoglu 2017: data from channel number randomization suggests that Fox News shifts voting patterns rightward: Without Fox News, .46% fewer people would've voted Republican in 2000, 3.59% in 2004, and 6.35% in 2008: <https://www.vox.com/policy-and-politics/2017/9/8/16263710/fox-news-presidential-vote-study> <https://www.aeaweb.org/articles?id=10.1257%2Faer.20160812> <http://sci-hub.st/10.1257/aer.20160812> <https://cdn.discordapp.com/attachments/418850379518705675/786317526560276520/martin2017.pdf> https://cdn.discordapp.com/attachments/418850379518705675/786318192644456529/unknown.png
-
-# delivery: forum posts
-more persuasive posts on /r/ChangeMyView tend to be shorter, earlier in the thread, from higher social capital (higher karma) users, and use more argumentative sentences: <http://www.sdspeople.fudan.edu.cn/zywei/paper/487-wei-acl2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540433785146048532/unknown.png
-#####c
-
-#####
-# background: standpoint epistemology / standpoint theory good
-#####o
-# cognitive biases favor the powerful
-Brien and Crandall 2005: students were not more likely to trust a high-status doctor than low-status nurse (n=51 white undergrad students), students were more likely to distrust someone perceived as self-interested and someone in the outgroup (n=130 undergrad students), and students were more likely to trust someone defending the status quo (n=92): <https://link.springer.com/article/10.1007/s11211-005-3368-4> <https://sci-hub.st/10.1007/s11211-005-3368-4> <https://cdn.discordapp.com/attachments/742557921849901077/941147162501324800/brien2005.pdf> https://cdn.discordapp.com/attachments/742557921849901077/941150811218645012/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941151263368826961/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152327103045733/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/941152463522758696/unknown.png
 #####c
 #####c
 

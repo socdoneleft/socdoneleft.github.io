@@ -223,3 +223,21 @@ button.active,
 .invisible {
 	display: none;
 }
+
+
+/* toc */
+ul.toc {
+    font-weight: 900;
+    font-size: var(--fontsize_3);
+    padding-bottom: var(--padding_half);
+}
+ul.toc > ul.toc {
+    font-weight: 900;
+    font-size: var(--fontsize_4);
+    padding-bottom: 0px;
+}
+ul.toc > ul.toc > ul.toc {
+    font-weight: 500;
+    font-size: var(--fontsize_5);
+    padding-bottom: 0px;
+}
