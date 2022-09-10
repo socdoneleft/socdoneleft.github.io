@@ -6816,6 +6816,12 @@ GfK 2014 March 12-14: 54% would join Russia, 5% restore 1992 constitution, 19% i
 #####c
 
 #####
+# donbas status: polling
+#####o
+KIIS 2014 April 8-16: most people in Donetsky and Luhansk do not think that their region should secede from Ukraine and join Russia; most also do not support the armed actions of those who captured administrative buildings in their regions: <https://kiis.com.ua/?lang=eng&cat=news&id=258> <https://archive.ph/aycDU> <https://web.archive.org/web/20160125153703/http://kiis.com.ua/?lang=eng&cat=news&id=258> https://cdn.discordapp.com/attachments/742557921849901077/1018276232640606378/unknown.png
+#####c
+
+#####
 # documented war crimes by russian forces: surrendered civilian killing near Myla
 #####o
 # see also
