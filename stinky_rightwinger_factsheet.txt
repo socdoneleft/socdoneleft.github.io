@@ -6822,6 +6822,11 @@ KIIS 2014 April 8-16: most people in Donetsky and Luhansk do not think that thei
 #####c
 
 #####
+# civilian deaths in ukraine over time
+#####o
+#####c
+
+#####
 # documented war crimes by russian forces: surrendered civilian killing near Myla
 #####o
 # see also
@@ -6989,6 +6994,8 @@ Hinkle April 05: there's no way Russians killed civilians, they loved each other
 Hinkle April 04: satellite photographs are bullshit, you shouldn't trust them: <https://twitter.com/jacksonhinklle/status/1511187694042247168> <> https://cdn.discordapp.com/attachments/742557921849901077/977236070175502336/unknown.png
 Hinkle : those civilians were killed by Ukrainians: <https://twitter.com/jacksonhinklle/status/1513718137862049795> <https://web.archive.org/web/20220412073003/https://twitter.com/KimIversenShow/status/1513781352008540163> https://cdn.discordapp.com/attachments/742557921849901077/977236756619460608/unknown.png """The civilians had their hands tied with white arm bands. They had Russian military rations. Ukrainian SAFARI forces killed them during their “clearing operation” targeting “Russian saboteurs” in Bucha on April 1/2. I hesitate to believe any of these stories without evidence."""
 Hinkle April 12: there have been war crimes on both sides, but the Russian atrocities in Bucha are "thoroughly debunked": <https://twitter.com/jacksonhinklle/status/1513939707079454724> <> https://cdn.discordapp.com/attachments/742557921849901077/977237503700521030/unknown.png """I agree that there have been war crimes committed on both sides. But I do take issue with the alleged Russian atrocities in Bucha which have been thoroughly debunked. Plus the limited evidence we have (most was destroyed by UA) indicates their forces were guilty of war crimes."""
+#####c
+
 #####
 # documented war crimes by ukrainian forces: pow shooting in dmytrivka
 #####o
