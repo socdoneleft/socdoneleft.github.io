@@ -9146,24 +9146,34 @@ Engels claims that the English proletariat is becoming bourgeois because England
 #####c
 
 #####
-# modern revolutions
+# naxalites: modern revolution, failure
 #####o
-# naxalites: strength
+# strength and scope
 the Naxalites have been losing ground for decades: <https://en.wikipedia.org/wiki/Naxalite%E2%80%93Maoist_insurgency> https://cdn.discordapp.com/attachments/418850379518705675/768110579399131166/unknown.png
 the Naxalite insurgency has been causing fewer and fewer deaths over time: <https://www.satp.org/datasheet-terrorist-attack/fatalities/india> https://cdn.discordapp.com/attachments/418850379518705675/768130860230246430/unknown.png
 
-# shining path: strength
+#####
+# shining path: modern revolution, failure
+#####
+# collapse after 1992
 the Shining Path was decimated by the 1992 arrest of Presidente Guzman and has caused far fewer attacks since then: <http://www.terrorismanalysts.com/pt/index.php/pot/article/view/524/1037> <https://cdn.discordapp.com/attachments/418850379518705675/768133278459887626/englund2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/768133664823181322/unknown.png
 
-# shining path: fatalities vs the state
-[xxx reread]
-Rendon 2019: using assumptions favorable to the Shining Path, between 1980 and 2000 the Shining Path likely killed 18700 people, the Peruvian gov't 28000, and other actors 1300: <https://journals.sagepub.com/doi/10.1177/2053168018820375> <https://sci-hub.se/10.1177/2053168018820375> <https://cdn.discordapp.com/attachments/418850379518705675/768134455725916200/rendon2019a.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1018579818645835786/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1018580192534478888/unknown.png
-<https://journals.sagepub.com/doi/10.1177/2053168019835628> <https://sci-hub.se/10.1177/2053168019835628> <https://cdn.discordapp.com/attachments/418850379518705675/768134462734336000/manrique-vallier2019.pdf>
-<https://journals.sagepub.com/doi/10.1177/2053168019840972> <https://sci-hub.se/10.1177/2053168019840972> <https://cdn.discordapp.com/attachments/418850379518705675/768134471311425556/rendon2019b.pdf>
-https://www.usip.org/publications/2001/07/truth-commission-peru-01
-http://www.cverdad.org.pe/ifinal/pdf/TOMO%20I/Primera%20Parte%20El%20Proceso-Los%20hechos-Las%20v%EDctimas/Seccion%20Primera-Panorama%20General/3.%20LOS%20ROSTROS%20Y%20PERFILES%20DE%20LA%20VIOLENCIA.pdf
-https://hrdag.org/wp-content/uploads/2013/02/aaas_peru_5.pdf
-https://www.amnesty.org/download/Documents/92000/amr460032004en.pdf
+# killing estimates: high-govt, low-SP estimates
+Rendon 2019a: using assumptions favorable to the Shining Path (extrapolating from the 9 of 59 provinces with enough data to do direct log-linear victim extrapolation), between 1980 and 2000 the Shining Path likely killed 18700 people, the Peruvian gov't 28000, and other actors 1300: <https://journals.sagepub.com/doi/10.1177/2053168018820375> <https://sci-hub.se/10.1177/2053168018820375> <https://cdn.discordapp.com/attachments/418850379518705675/768134455725916200/rendon2019a.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1018579818645835786/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1018580192534478888/unknown.png
+Rendon 2019b: todo reread xxx: response to Manrique-Vallier and Ball 2019: <https://journals.sagepub.com/doi/10.1177/2053168019840972> <https://sci-hub.se/10.1177/2053168019840972> <https://cdn.discordapp.com/attachments/418850379518705675/768134471311425556/rendon2019b.pdf>
+
+# killing estimates: low-govt, high-SP estimates
+Manrique-Vallier and Ball 2019: criticism 1: using updated and more-complete data, Rendon's estimates for SP victims are often *lower* than the number of *observed* deaths: <https://hrdag.org/publications/reality-and-risk-a-refutation-of-s-rendons-analysis-of-the-peruvian-truth-and-reconciliation-commissions-conflict-mortality-study/> <https://journals.sagepub.com/doi/10.1177/2053168019835628> <https://sci-hub.se/10.1177/2053168019835628> <https://cdn.discordapp.com/attachments/418850379518705675/768134462734336000/manrique-vallier2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1018602482559090738/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1018605980969341048/unknown.png """First, his estimates are inconsistent with observed data. By combining the data used by the TRC with data published by the Peruvian government between 2004 and 2006 (Ministerio de la Mujer y Desarrollo Social 2006a, 2006b), we see that Rendón’s estimates for SLU are, in most strata and in the aggregate, lower than the number of observed SLU victims—without considering victims who continue to be undocumented. This fact alone is enough to dismiss Rendón’s conclusions. The TRC’s estimates do not suffer from this problem."""
+Manrique-Vallier and Ball 2019: criticism 2: selecting strata with enough data for direct extrapolation skews the sample toward strata that enumerated high proportions of their victims: <https://hrdag.org/publications/reality-and-risk-a-refutation-of-s-rendons-analysis-of-the-peruvian-truth-and-reconciliation-commissions-conflict-mortality-study/> <https://journals.sagepub.com/doi/10.1177/2053168019835628> <https://sci-hub.se/10.1177/2053168019835628> <https://cdn.discordapp.com/attachments/418850379518705675/768134462734336000/manrique-vallier2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1018603203153100851/unknown.png
+Manrique-Vallier and Ball 2019: criticism 3: the statistical estimation risk for Rendon's procedure is higher for most numbers of victims that are realistic (ie, above the number of observed victims in 2018): <https://hrdag.org/publications/reality-and-risk-a-refutation-of-s-rendons-analysis-of-the-peruvian-truth-and-reconciliation-commissions-conflict-mortality-study/> <https://journals.sagepub.com/doi/10.1177/2053168019835628> <https://sci-hub.se/10.1177/2053168019835628> <https://cdn.discordapp.com/attachments/418850379518705675/768134462734336000/manrique-vallier2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1018603635833311363/unknown.png
+
+# killing estimates: the truth and reconciliation commission
+Ball et al 2001, Truth and Reconciliation Commission 2001, Ball et al 2003: <https://hrdag.org/publications/how-many-peruvians-have-died/> <https://archive.ph/wip/JavVZ> <https://hrdag.org/wp-content/uploads/2013/02/aaas_peru_5.pdf> <http://web.archive.org/web/20220719234030/https://hrdag.org/wp-content/uploads/2013/02/aaas_peru_5.pdf> <https://www.aaas.org/sites/default/files/Peru2003.pdf> <http://web.archive.org/web/20220911191721/https://www.aaas.org/sites/default/files/Peru2003.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1018601219377352734/Peru2003.pdf>
+
+# truth and reconciliation commission: general info
+Truth and Reconciliation Commission 2001: Peru Digital Collection (Volumes 1-9 and Annex): see Anexo 2 ¿Cuántos Peruanos Murieron? Estimación Del Total De Víctimas Causadas Por El Conflicto Armado Interno: <https://www.usip.org/publications/2001/07/truth-commission-peru-01> <http://web.archive.org/web/20220911185218/https://www.usip.org/publications/2001/07/truth-commission-peru-01>
+Volume 1 Chapter 3: <https://www.usip.org/sites/default/files/file/resources/collections/commissions/Peru01-Report/Reru01-Report_Vol1Ch1-4.pdf> <http://www.cverdad.org.pe/ifinal/pdf/TOMO%20I/Primera%20Parte%20El%20Proceso-Los%20hechos-Las%20v%EDctimas/Seccion%20Primera-Panorama%20General/3.%20LOS%20ROSTROS%20Y%20PERFILES%20DE%20LA%20VIOLENCIA.pdf>
+Amnesty International 2004: review of the Truth and Reconciliation Commission: "Amnesty International includes a series of its own recommendations to the Peruvian authorities as well as supporting the extensive recommendations made by the Commission": <https://www.amnesty.org/en/documents/amr46/003/2004/en/> <https://www.amnesty.org/download/Documents/92000/amr460032004en.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1018604243357282324/ai2004.pdf>
 #####c
 
 #####
