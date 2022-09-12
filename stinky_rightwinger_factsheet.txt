@@ -1885,6 +1885,16 @@ controlling for family characteristics (mother's age, education, vocabulary, and
 #####c
 
 #####
+# religious schools are similar to nonreligious schools
+#####o
+# meta-study: religious schools slightly better than public schools
+Jeynes 2012: meta-study: among studies using sophisticated controls, religious schools performed about 1/6th of a standard deviation better than public schools on standardized tests and on overall achievement; this study made no attempt to examine or correct publication bias, a serious concern:: <https://www.tandfonline.com/doi/abs/10.1080/0161956X.2012.679542> <https://sci-hub.se/10.1080/0161956X.2012.679542> <https://cdn.discordapp.com/attachments/742557921849901077/1018956090643333160/jeynes2012.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1018930393065472011/unknown.png
+
+# large dutch sample: religious schools not significantly differnt than public schools
+Driessen Agirdag Merry 2016: <https://www.tandfonline.com/doi/full/10.1080/00131911.2015.1135880> <https://sci-hub.se/10.1080/00131911.2015.1135880> <https://cdn.discordapp.com/attachments/742557921849901077/1018956029414866964/driessen2016.pdf>
+#####c
+
+#####
 # education policies: homework good
 #####o
 # performance
