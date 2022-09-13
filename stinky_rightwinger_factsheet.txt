@@ -10738,6 +10738,9 @@ Ehrman 1999: to understand Jesus whatsoever, we cannot use the pagan or Jewish s
 # texts which do not mention jesus
 * Dead Sea Scrolls or Qumran Caves Scrolls (300 BCE to 100 CE, 300 years before Jesus was born and 67/70 years after Jesus died): Ehrman 1999: <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls> <https://www.worldcat.org/title/39985521> <https://u1lib.org/book/1211836/792386> <https://archive.org/details/jesusapocalyptic0000ehrm_l7z0/page/56/mode/2up> <https://cdn.discordapp.com/attachments/742557921849901077/1017531463253643315/ehrman1999.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1019054938443219015/unknown.png
 * writings of Philo Judaeus or Philo of Alexandria (20 BCE to 50 CE, 20 years before Jesus was born and 17/20 years after Jesus died): Ehrman 1999: <https://en.wikipedia.org/wiki/Philo> <https://www.worldcat.org/title/39985521> <https://u1lib.org/book/1211836/792386> <https://archive.org/details/jesusapocalyptic0000ehrm_l7z0/page/56/mode/2up> <https://cdn.discordapp.com/attachments/742557921849901077/1017531463253643315/ehrman1999.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1019054938443219015/unknown.png
+
+# sources todo
+Lataster 2015: <https://digitalcommons.usu.edu/imwjournal/vol6/iss1/5/> <http://www.raphaellataster.com/articles/lataster-jesus-sources.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1019111443456602142/lataster2015.pdf>
 #####c
 
 #####
@@ -10789,7 +10792,7 @@ Ehrman 1999: historicist scholar: Tacitus is the third first reference to Jesus 
 
 # authenticity of christians in tacitus: weak
 Even assuming the passage is totally genuine, two fires had destroyed much in the way of official documents Tacitus had to work with and it is unlikely that he would sift through what he did have to find the record of an obscure crucifixion which suggests that Tacitus was repeating an urban myth whose source was likely the Christians themselves,[3]:344
-Carrier 2014: [get citation from rationalwiki about tacitus] <https://u1lib.org/book/2372593/3ca91c> <https://www.worldcat.org/title/861768627> <https://cdn.discordapp.com/attachments/742557921849901077/1017216647892844564/carrier2014.pdf>
+Carrier 2014: page 344 see above excerpt todo: <https://u1lib.org/book/2372593/3ca91c> <https://www.worldcat.org/title/861768627> <https://cdn.discordapp.com/attachments/742557921849901077/1017216647892844564/carrier2014.pdf>
 Carrier 2014: The Prospect of a Christian Interpolation in Tacitus: <https://brill.com/view/journals/vc/68/3/article-p264_2.xml> <https://sci-hub.se/10.1163/15700720-12341171> <https://cdn.discordapp.com/attachments/742557921849901077/1017263868424241203/carrier2014b.pdf>
 
 # authenticity of nero-fire passage in tacitus: weak
