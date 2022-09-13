@@ -10812,6 +10812,17 @@ Medicean manuscript M1 (location: Plut.68.01): details and images: <http://teca.
 Medicean manuscript M2 (location: Plut.68.02): details and images: <http://teca.bmlonline.it/TecaRicerca/showMag.jsp?RisIdr=TECA0000806725> <http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000806725#page/6/mode/2up>
 #####c
 
+#####
+# josephus: genuine early extra-biblical source
+#####o
+# background on josephus
+
+# josephus is the first non-Christian source to mention Jesus
+Ehrman 1999: the Jamesian reference suggests that Jesus had a brother named James, which aligns with claims made in the Gospels: <https://www.worldcat.org/title/39985521> <https://u1lib.org/book/1211836/792386> <https://archive.org/details/jesusapocalyptic0000ehrm_l7z0/page/56/mode/2up> <https://cdn.discordapp.com/attachments/742557921849901077/1017531463253643315/ehrman1999.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1019070035140038676/unknown.png """In contrast to pagan sources, we have very few Jewish texts of any kind that can be reliably dated to the first century of the Common Era. And here again, even among the ones that do survive—for example, the Dead Sea Scrolls, about which I'll say some words later, and the extensive writings of Philo, the great Jewish philosopher of Alexandria, Egypt (20 BCE-50 CE)—Jesus is never mentioned. With one important exception. This is the Jewish historian Josephus (37—100 CE), probably our most important source for understanding Jewish life and history during the first century. In the many volumes of writings that have come down to us from his pen, Josephus does not say much about Jesus. But he does mention him briefly on two occasions, and we will do well to consider what he says. First some background."""
+
+# josephus passage 1: jamesian reference
+Ehrman 1999: the Jamesian reference suggests that Jesus had a brother named James, which aligns with claims made in the Gospels: <https://www.worldcat.org/title/39985521> <https://u1lib.org/book/1211836/792386> <https://archive.org/details/jesusapocalyptic0000ehrm_l7z0/page/56/mode/2up> <https://cdn.discordapp.com/attachments/742557921849901077/1017531463253643315/ehrman1999.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1019069603378372679/unknown.png """I'll take the references in reverse order, since the second is of less historical interest. It occurs in a story about the Jewish high priest Ananus, who abused his power in the year 62 CE by unlawfully putting to death a man named James, whom Josephus identifies as "the brother of Jesus who is called the messiah" (Ant. 20.9,1). From this reference we can learn that there was indeed a man named Jesus (Josephus actually discusses lots of different people with that name—many of them at far greater length than the Jesus we are concerned about), that he had a brother named James (which we already knew from the New Testament; see Mark 6:3 and Gal. 1:19), and that he was thought by some people to be the Jewish messiah. The information is not much, but at least it's something. I should point out that Josephus himself does not happen to agree with those who called Jesus the messiah. We don't know how much he knew about the Christians, but it is clear that he remained a non-Christian Jew until his dying day."""
+#####c
 
 #####
 # thallus: alleged early extra-biblical source
