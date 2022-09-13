@@ -11314,6 +11314,13 @@ applying the utilitarian imperative in law --> justification for slow change ove
 #####o
 
 #####
+# urbanism
+#####o
+# roundabout safety:
+todo reread xxx: two studies: <https://skeptics.stackexchange.com/questions/53774/are-roundabouts-actually-statistically-safer-than-traditional-traffic-patterns>
+#####c
+
+#####
 # overconsumption
 #####o
 # comparison costs
