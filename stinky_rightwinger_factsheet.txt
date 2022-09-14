@@ -1017,6 +1017,9 @@ Schmid and Betsch 2019: experimental study: among 1661 adults, topic rebuttal (o
 
 # specific evidence: there's no major partisan cue effect, evidence still works
 Tappin 2021: against "partisan motivated reasoning": among 5071 adults, evidence changed minds in a sample of 24 policy issues; no significant difference between "evidence + contrary party leader cue" (purple) vs "evidence alone" (black): <https://psyarxiv.com/247bs/> <https://cdn.discordapp.com/attachments/742557921849901077/895135650540564500/tappin2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/895128816383582238/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/895135169621672017/FA-ygFjVkAohiOg.png Altogether, our design incorporates 48 unique arguments and evidence (information) treatments, and we recruit a total of 5,071 American adults corresponding to 25,181 observations. The experiment design is as follows.
+
+# contrary study: mmr-autism link
+Nyhan et al 2014: after factual correction, people who reported least favorable to vaccines were actually 20pp less likely to report being "very likely" to give the MMR vaccine to another child, if they had one:  <https://publications.aap.org/pediatrics/article-abstract/133/4/e835/32713/Effective-Messages-in-Vaccine-Promotion-A?autologincheck=redirected?nfToken=00000000-0000-0000-0000-000000000000> <https://sci-hub.se/10.1542/peds.2013-2365> <https://cdn.discordapp.com/attachments/742557921849901077/1019404589155500062/nyhan2014.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1019404527344042014/unknown.png
 #####c
 
 #####
