@@ -4947,6 +4947,13 @@ discussion of FBI "false rape" or "true rape" statistics: <http://www.datagoneod
 #####o
 # abortion restrictions
 2017 abortion restrictions by state: <https://www.washingtonpost.com/graphics/national/abortion-regulations/> https://cdn.discordapp.com/attachments/418850379518705675/725546905731334154/unknown.png
+#####
+
+#####
+# polling
+#####o
+# polling on abortion restrictions after dobbs
+WSJ 17-25 Aug 2022 n=1313: 10% favor 80% oppose banning abortion in all cases; 25% favor 60% oppose banning abortion after 6 weeks; 30% favor 55% oppose banning abortion after 15 weeks; 15% favor 85% oppose banning travelling to other states to get an abortion:  <https://www.wsj.com/articles/support-for-legalized-abortion-grows-since-dobbs-ruling-wsj-poll-shows-11662210020> <https://archive.ph/sW0hy>
 
 # polling on overturning roe v wade
 NPR 2022: 64% of Americans (and 62% of Independents) opposed overturning Roe v. Wade: <https://www.npr.org/2022/05/19/1099844097/abortion-polling-roe-v-wade-supreme-court-draft-opinion> https://cdn.discordapp.com/attachments/742557921849901077/989976409323757608/unknown.png
