@@ -10917,6 +10917,37 @@ Carrier 2022: why didn't the Romans refute? they weren't interested! <https://ww
 #####c
 
 #####
+# literary miracle of the qur'an / poetic miracle of the qur'an
+#####o
+# general criticisms
+exMuslim: <https://www.youtube.com/watch?v=2CHm2xigkBc>
+exMuslim: <https://www.reddit.com/r/exmuslim/comments/we0xo/is_the_quran_a_linguistic_miracle/>
+exMuslim: <https://www.reddit.com/r/exmuslim/comments/ps9k1l/an_arabs_opinion_on_the_linguistic_miracle_of_the/>
+Muslim: <https://www.reddit.com/r/islam/comments/1n9wng/comment/ccgyb83/>
+pray three times a day: <https://www.reddit.com/r/exmuslim/comments/we0xo/comment/c5cl7hc/>
+
+# al-razi quote
+Abu Bakr Mohammad Ibn Zakariya al-Razi [864/865 - 925/935]: مخارق الانبياء [Mahariq al anbiya, "The Prophets' Fraudulent Tricks"]: banger quote on the "literary miracle" of the Qur'an: <https://www.councilofexmuslims.com/index.php?topic=18628.0> "You claim that the evidentiary miracle is present and available, namely, the Koran. You say: "Whoever denies it, let him produce a similar one." Indeed, we shall produce a thousand similar, from the works of rhetoricians, eloquent speakers and valiant poets, which are more appropriately phrased and state the issues more succinctly. They convey the meaning better and their rhymed prose is in better meter. ... By God what you say astonishes us! You are talking about a work which recounts ancient myths, and which at the same time is full of contradictions and does not contain any useful information or explanation. Then you say: "Produce something like it"?"
+
+# specific criticisms
+Muslim apologists often cite Quran 21:30 as proof that the Qur'an predicted the science of the Big Bang; instead, we see that the exact meaning of Qur'an 21:30 does not map neatly onto the expansion of space-time by immense energy, but instead is described as "parting", "separating", "sewn up", "unstitched", etc.: <https://quranx.com/tafsirs/21.30>
+
+# articles defending [see if anything useful]
+Ahmad 2016: todo reread xxx: <https://jurnal.ar-raniry.ac.id/index.php/jar/article/view/7490> <https://sci-hub.se/10.22373/jar.v3i1.7490> <https://cdn.discordapp.com/attachments/742557921849901077/1023663953131343952/ahmad2016.pdf>
+Qazanfari Omidi Heydarbeygi 2021: todo reread xxx: <https://ijssrr.com/journal/article/view/61> <https://sci-hub.se/10.47814/ijssrr.v4i1.61> <https://cdn.discordapp.com/attachments/742557921849901077/1023664471480213595/Qazanfari2021.pdf>
+#####c
+
+#####
+# scientific foreknowledge: general pages
+#####o
+# todo
+WikiIslam: scientific errors: <https://wikiislam.net/wiki/Scientific_Errors_in_the_Quran>
+WikiIslam: scientific miracles: <https://wikiislam.net/wiki/Scientific_Miracles_in_the_Quran>
+RationalWiki: scientific errors: <https://rationalwiki.org/wiki/Qur%27anic_scientific_errors>
+RationalWiki: scientifci miracles: <https://rationalwiki.org/wiki/Qur%27anic_scientific_foreknowledge>
+#####c
+
+#####
 # islam: reforms toward liberalism / secularism
 #####o
 # rising secularism in the middle east
