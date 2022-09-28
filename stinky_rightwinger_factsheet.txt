@@ -6895,7 +6895,8 @@ KIIS 2014 April 8-16: most people in Donetsk and Luhansk do not think that their
 
 # 2014 referendum results
 Wikipedia: <https://en.wikipedia.org/wiki/2014_Donbas_status_referendums>
-
+Donetsk 11 May 2014: <https://archive.ph/4gFhp> "Do you support the Act of State Self-rule of the Donetsk People's Republic?" """"That can be considered the final and official result," he said, reporting exact figures of 89.07 percent for and 10.19 percent against. "We demand the right to self-determination, and we will get it.""""
+Luhansk 11 May 2014: <http://web.archive.org/web/20140513010835/https://interfax.com/newsinf.asp?id=503984> <https://archive.ph/wip/Q5zwO> """LUHANSK. May 12 (Interfax) - The organizers of the referendum on the status of the Luhansk region allege that 96% of the region's residents who have a right to vote voted for the state independence of the Luhansk People's Republic on May 11. Oleksandr Malykhin, chairman for the Central Elections Commission in charge of the referendum, told a press conference in Luhansk on Monday that 1.35 million ballots were given to voters at polling stations and another 15,000 ballots were given to voters outside of polling stations. According to his information, 1.29 million people, or 96% of the people who voted in the referendum, voted for the state independence of the "Luhansk Republic" and 51,276 people, or 3.8% of the people who received ballots, voted against it. The voter turnout was 75%, Malykhin said. According to the tentative results announced by Malykhin on Monday, the voter turnout reached in the Luhansk region reached 81%, of which 95.98% voted for the federalization of the Luhansk region."""
 
 # 2022 referendum results
 Wikipedia: <https://en.wikipedia.org/wiki/2022_annexation_referendums_in_Russian-occupied_Ukraine>
