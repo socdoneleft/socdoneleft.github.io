@@ -6326,8 +6326,9 @@ Yemen: 4-8 civilian deaths: <https://airwars.org/conflict/us-forces-in-yemen/> h
 demand increased monitoring, investigating, and transparently releasing estimates of civilian harm from US military actions: <https://airwars.org/news-and-investigations/airwars-adds-voice-to-104-organisations-calling-on-president-biden-to-overhaul-us-civilian-harm-approach/>
 
 # international relations: syria: comparison with russia
-this page notes only events attribtued *solely* to Russia, excluding those linked to the Syrian regime (which is difficult to distinguish, given that they fly the same machines and use the same munitions): <https://airwars.org/conflict/russian-military-in-syria/>
-see discussion here: estimated death toll: about 24,743 total, with 4.3k-6.4k from Russia alone and 10k-17.1k from events with Russia and another actor alleged: <https://airwars.org/news-and-investigations/patterns-of-civilian-harm-from-russias-military-actions-in-syria-2015-2022/>
+Airwars: this page notes only events attribtued *solely* to Russia, excluding those linked to the Syrian regime (which is difficult to distinguish, given that they fly the same machines and use the same munitions): <https://airwars.org/conflict/russian-military-in-syria/>
+Airwars: see discussion here: estimated death toll: about 24,743 total, with 4.3k-6.4k from Russia alone and 10k-17.1k from events with Russia and another actor alleged: <https://airwars.org/news-and-investigations/patterns-of-civilian-harm-from-russias-military-actions-in-syria-2015-2022/> https://cdn.discordapp.com/attachments/742557921849901077/1029877813328740373/unknown.png
+Airwars: even the United States admits to roughly 1 in 13 of the civilian deaths that its strikes likely caused: <https://airwars.org/conflict-data/the-credibles/> https://cdn.discordapp.com/attachments/742557921849901077/1029878276488958042/unknown.png
 
 # additional airstrike datasets
 BIJ: ended in 2020, covered Afghanistan (2015-20), Pakistan (2004-2018), Somalia (2001-2020), and Yemen (2001-2020): <https://www.thebureauinvestigates.com/stories/2017-01-01/drone-wars-the-full-data> <https://en.wikipedia.org/wiki/Bureau_of_Investigative_Journalism>
