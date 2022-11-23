@@ -49,6 +49,10 @@
 #####
 # book recommendations
 #####o
+# intros to socialism
+Sunkara 2019: The Socialist Manifesto: <https://www.worldcat.org/title/1048445459>
+Frase 2017: Four Futures: <https://www.worldcat.org/title/988604891>
+
 # economics: about capitalism
 Chang 2010: 23 Things They Don't Tell You About Capitalism: Notes failures of neoliberalism and suggests utility of partial state planning from a non-socialist leftist perspective: <http://www.worldcat.org/oclc/987077586> <https://u1lib.org/book/888686/6099ba> <https://cdn.discordapp.com/attachments/742557921849901077/981774591070466058/chang2003.pdf>
 Piketty 2014: Capital in the 21st Century: Reviews wealth accumulation, inequality, and growth (mostly) from 1800's to 2000's from a non-Marxist socialist perspective: <http://www.worldcat.org/oclc/907929202> <https://u1lib.org/book/2329124/3da90d> <https://cdn.discordapp.com/attachments/742557921849901077/981775295294079006/piketty2014.pdf>
@@ -4339,7 +4343,7 @@ Gulgoz et al 2019: in fact, socially transitioned children had gender developmen
 #####c
 
 #####
-# social affirmation: evidence for aduls
+# social affirmation: evidence for adults
 #####o
 # access to inclusive bathrooms reduces suicide
 Seelman 2016: inclusive bathroom policies correlate with much lower suicide attempt rates among trans people: <https://www.tandfonline.com/doi/abs/10.1080/00918369.2016.1157998> <http://sci-hub.se/10.1080/00918369.2016.1157998> <https://cdn.discordapp.com/attachments/742557921849901077/985664794340249620/seelman2016.pdf> """Using the National Transgender Discrimination Survey, this study analyzes whether being denied access to these spaces is associated with lifetime suicide attempts, after controlling for interpersonal victimization by students or teachers. Findings from sequential logistic regression (N = 2,316) indicate that denial of access to either space had a significant relationship to suicidality, even after controlling for interpersonal victimization. This article discusses implications for higher education professionals and researchers."""
@@ -5645,7 +5649,7 @@ net imports as percent of national income by year for UK, USA, USSA, Germany: <h
 the USSR had real GDP growth in line with the OECD average (comparable to Canada, Australia) between 1928 (first 5 year plan) and 1991 (collapse): <https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018> https://cdn.discordapp.com/attachments/418850379518705675/551302474418618378/unknown.png
 
 # gdp growth under stalin: highly concentrated during periods of low repression
-Davies and Wheatcroft 2018: real growth beyond the Tsarist era was almost entirely concentrated in a brief moment between rapid collectivizatoin and the Great Purge: <https://link.springer.com/chapter/10.1057/978-1-137-36238-4_1> <https://u1lib.org/book/3578737/3fa58b> <https://cdn.discordapp.com/attachments/742557921849901077/945446559049465866/davies2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/969652246000328824/unknown.png
+Davies and Wheatcroft 2018: real growth beyond the Tsarist era was almost entirely concentrated in a brief moment between rapid collectivizatoin and the Great Purge: <https://www.worldcat.org/title/1043948587> <https://link.springer.com/chapter/10.1057/978-1-137-36238-4_1> <https://u1lib.org/book/3578737/3fa58b> <https://cdn.discordapp.com/attachments/742557921849901077/945446559049465866/davies2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/969652246000328824/unknown.png
 
 # income growth
 Piketty et al 2017: the Soviet Union (and Russia) grew faster than the rest of the world: <https://wid.world/document/soviets-oligarchs-inequality-property-russia-1905-2016/> <https://wid.world/document/appendix-soviets-oligarchs-inequality-property-russia-1905-2016-wid-world-working-paper-201710/> https://cdn.discordapp.com/attachments/418850379518705675/554537777568677903/unknown.png
