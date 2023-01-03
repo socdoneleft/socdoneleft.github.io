@@ -5215,12 +5215,6 @@ anxiety disorder rates, university degree rates, welfare dependence, income, arr
 #####o
 
 #####
-# human rights abuses: many
-#####o
-list of articles about human rights in North Korea: <http://stopnkcrimes.org/bbs/board.php?bo_table=reports_north>
-#####c
-
-#####
 # elections: sham
 #####o
 # summary
