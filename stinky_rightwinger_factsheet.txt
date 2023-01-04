@@ -5299,7 +5299,7 @@ KCNA 1998 SPA: 687 Democratic Front seats, 99.85% turnout, 100% of ballots cast 
 KCNA 2014 SPA: <http://www.kcna.kp/kp/article/q/8caffda5ac99c5d815b312898828f7a3.kcmsf> <https://archive.ph/rBwxn>
 KCNA 2009 SPA: <http://www.korea-np.co.jp/news/ViewArticle.aspx?ArticleID=35799> <http://web.archive.org/web/20100627082340/http://www.korea-np.co.jp/news/ViewArticle.aspx?ArticleID=35799>
 KCNA 2003 SPA: <http://www.kcna.co.jp/calendar/2003/08/08-05/2003-08-05-002.html> <https://web.archive.org/web/20030808041419/http://www.kcna.co.jp/calendar/2003/08/08-05/2003-08-05-002.html>
-Korea Institute for National Unification 2009: SPA elections of 2009, 1998, 1990:
+Korea Institute for National Unification 2009: SPA elections of 2003, 1998, 1990:
 
 # local elections: kcna (never gives breakdown by sub-party)
 search: <https://kcnawatch.org/?s=Results+of+Local+Election>
