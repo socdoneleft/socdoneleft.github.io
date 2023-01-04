@@ -5296,6 +5296,8 @@ KCNA 2003 SPA: 687 Democratic Front seats, 99.9% turnout, 100% of ballots cast f
 KCNA 1998 SPA: 687 Democratic Front seats, 99.85% turnout, 100% of ballots cast for Democratic Front candidates: <http://www.kcna.co.jp/item/1998/9807/news07/27.htm> <http://web.archive.org/web/20010919112431/http://www.kcna.co.jp/item/1998/9807/news07/27.htm> https://cdn.discordapp.com/attachments/742557921849901077/965151834006253588/unknown.png
 
 # national elections: candidates elected: kcna
+spreadsheet: <https://docs.google.com/spreadsheets/d/1XBk9CWLATFsGSj4rGYuR4FvtFpK3ZXBv5K2yblPWopc/edit>
+Tongil News 2019 SPA: <http://www.tongilnews.com/news/articleView.html?idxno=128110> 
 KCNA 2014 SPA: <http://www.kcna.kp/kp/article/q/8caffda5ac99c5d815b312898828f7a3.kcmsf> <https://archive.ph/rBwxn>
 KCNA 2009 SPA: <http://www.korea-np.co.jp/news/ViewArticle.aspx?ArticleID=35799> <http://web.archive.org/web/20100627082340/http://www.korea-np.co.jp/news/ViewArticle.aspx?ArticleID=35799>
 KCNA 2003 SPA: <http://www.kcna.co.jp/calendar/2003/08/08-05/2003-08-05-002.html> <https://web.archive.org/web/20030808041419/http://www.kcna.co.jp/calendar/2003/08/08-05/2003-08-05-002.html>
