@@ -5214,6 +5214,18 @@ anxiety disorder rates, university degree rates, welfare dependence, income, arr
 #
 #####o
 
+#####
+# resources
+#####o
+# summary
+It's often hard to find resources from within North Korea, due to the country's closed nature and (often) shitty website design. These help.
+
+# images
+example: images of North Korean elections: <https://www.google.com/search?q=site%3Atongilvoice.com+(%EC%84%A0%EA%B1%B0)+OR+(%ED%88%AC%ED%91%9C)+OR+(%EC%9A%A9%EC%A7%80)&tbm=isch>
+
+# video
+example: videos near the 2019 elections: <https://kcnawatch.org/kctv-archive/?start=01-09-2019&end=01-11-2019>
+#####c
 
 #####
 # democratic elections: obvious sham
@@ -5242,6 +5254,9 @@ Ministry of Unification of the Republic of Korea 2015: picture of three 2015 bal
 # pictures of ballots: from north korean state media
 KCNA 2012: <https://www.youtube.com/watch?v=3GJa_xajnXo> <https://archive.ph/QbZLh> <https://www.youtube.com/watch?v=0FIGc0MRN58> https://cdn.discordapp.com/attachments/742557921849901077/1059936881942474902/image.png https://cdn.discordapp.com/attachments/742557921849901077/1059942427949027338/image.png Left: "Delegate to the Provincial People's Assembly Election Ballot" [도 인민회의 대의원 선거표], Right: "Delegate to the County People's Assembly Election Ballot" [군 인민회의 대의원 선거표]
 Korean Friendship Association of the UK 2019: <https://www.youtube.com/watch?v=OiKUkNo-Ou4> <https://archive.ph/rBkmC> <https://www.youtube.com/watch?v=WDwcu78f1JI> https://cdn.discordapp.com/attachments/742557921849901077/1059937030097879040/image.png https://cdn.discordapp.com/attachments/742557921849901077/1059942827146100868/image.png "Delegate to the Supreme People's Assembly Election Ballot" [최고인민회의 대의원 선거표]
+
+# pictures of public postings of voter rolls (used to check who has and has not voted)
+Tongil Voice 2019: <http://www.tongilvoice.com/index.php?ptype=photo&no=394> <https://archive.ph/L1iCI> """최고인민회의 대의원선거를 뜻깊게 맞이할 드높은 열의안고""""""High enthusiasm to welcome the election of deputies to the Supreme People's Assembly in a meaningful way"""
 
 # how do voter's meetings work?
 Google search: <https://www.google.com/search?q=%28%22north+korea%22+OR+%22DPRK%22+OR+%22KCNA%22%29+AND+%28%22voters%27+meetings%22+OR+%22voters+meetings%22%29>
