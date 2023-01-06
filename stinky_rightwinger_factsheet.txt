@@ -10126,7 +10126,7 @@ Matthews 2017: the United States is uniquely lethal (from official homicide coun
 # violent crime and homicide: increased by guns
 #####o
 # causal: right to carry increased violent crime
-Donohue 2019: relative to synthetic controls: right to carry laws caused a ~15% higher overall violent crime rates 10 years after adoption: <https://onlinelibrary.wiley.com/doi/full/10.1111/jels.12219> <https://sci-hub.se/10.1111/jels.12219> <https://cdn.discordapp.com/attachments/418850379518705675/784507958926245959/donohue2019.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640006587330723840/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1021168895475855360/unknown.png
+Donohue et al 2019: relative to synthetic controls: right to carry laws caused a ~15% higher overall violent crime rates 10 years after adoption: <https://onlinelibrary.wiley.com/doi/full/10.1111/jels.12219> <https://sci-hub.se/10.1111/jels.12219> <https://cdn.discordapp.com/attachments/418850379518705675/784507958926245959/donohue2019.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640006587330723840/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1021168895475855360/unknown.png
 Schell et al 2020: Bayesian modelling: 7 years after implementing a right to carry law, firearm homicides increased by by ~2%, though this result is not significant: <https://www.pnas.org/doi/10.1073/pnas.1921965117> <https://sci-hub.se/10.1073/pnas.1921965117> <https://cdn.discordapp.com/attachments/742557921849901077/980617855227797514/schell2020.pdf> https://cdn.discordapp.com/attachments/742557921849901077/980605686381686884/unknown.png
 
 # causal: stand your ground increased homicide
