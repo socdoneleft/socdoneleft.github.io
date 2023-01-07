@@ -5386,6 +5386,13 @@ This time the name was changed to "Ten Principles for Establishing the Party's U
 #####c
 
 #####
+# claims of dynasty / monarchy
+#####o
+# symbology
+KCNA routinely bolds the names of every Kim leader: Kim Jong-Un, Kim Jong-Il, Kim Il-Sung: <http://kcna.kp/kp/article/q/5e3ca847dfc48f1854c01026f852a754.kcmsf> <https://archive.ph/NX4GQ> https://cdn.discordapp.com/attachments/742557921849901077/1061338186497929236/image.png """The reporter praised the patriotic achievements of the great leader Comrade Kim Il-sung and the great leader Comrade Kim Jong-il, who founded our nation and demonstrated the excellence of the Korean nation to the world. Honoring comrade Kim Jong-un, who has extraordinary wisdom and exceptional political ability, the dignity and status of our socialist state will rise to the highest level, and a new era of self-respect and prosperity unprecedented in the history of the nation for 5,000 years will unfold on this land, the era of our state-first principle. He cherished the national pride and self-esteem of having an outstanding great man as his father, and upheld the programmatic task set forth in the historic speech given by the respected comrade Kim Jong-un at the 5th session of the 14th Supreme People's Assembly to build a prosperous country and realize the cause of national reunification. Thanks to the refined leadership of the respected comrade Kim Jong-un and the single-mindedness of ten million people, our country will forever shine throughout the world as a great and dignified country, prosperous and prosperous, the most powerful country under the world. (End)"""
+#####c
+
+#####
 # economic development
 #####o
 # nighttime photographs
