@@ -5283,8 +5283,9 @@ the single yes/no ballot is *almost exactly* the "democratic" electoral system u
 # north korean election results by year
 #####o
 # graphical results by year
-1990-2019: <https://socdoneleft.substack.com/p/93393821> https://cdn.discordapp.com/attachments/742557921849901077/1061817618916454450/north_korea_elections_1990_2019.png
-1948-2019: <https://socdoneleft.substack.com/p/93393821> https://cdn.discordapp.com/attachments/742557921849901077/1061819740722569296/north_korea_elections.png
+national 1990-2019: <https://socdoneleft.substack.com/p/93393821> https://cdn.discordapp.com/attachments/742557921849901077/1061817618916454450/north_korea_elections_1990_2019.png
+national 1948-2019: <https://socdoneleft.substack.com/p/93393821> https://cdn.discordapp.com/attachments/742557921849901077/1061819740722569296/north_korea_elections.png
+turnout of all elections: <https://socdoneleft.substack.com/p/93393821>  https://cdn.discordapp.com/attachments/742557921849901077/1061831789963907163/image.png
 
 # local and national elections: wikipedia
 1990 SPA: <https://en.wikipedia.org/wiki/1990_North_Korean_parliamentary_election>
@@ -5338,9 +5339,9 @@ Korea Institute for National Unification 2009: SPA elections of 2003, 1998, 1990
 
 # local elections: kcna (never gives breakdown by sub-party)
 search: <https://kcnawatch.org/?s=Results+of+Local+Election>
-KCNA 2019 local: 99.98% turnout, 27876 deputies elected: <http://www.kcna.kp/en/article/q/d2d161c3a528c2acdd2c5e6ee533bde9.kcmsf> <https://archive.is/wip/hjGih> https://cdn.discordapp.com/attachments/742557921849901077/1059951847105904800/image.png
-KCNA 2015 local: 99.97% turnout, 28452 deputies elected: <http://www.kcna.kp/en/article/q/2e66f7a6bbab8d5d2e085f9675b92d26.kcmsf> <https://archive.ph/wip/QSS0o> https://cdn.discordapp.com/attachments/742557921849901077/1059954302891855903/image.png
-KCNA 2011 local: 99.97% turnout, 28116 deputies elected: <https://kcnawatch.org/newstream/1451892012-950726598/report-on-results-of-local-election-in-dprk-released/> <https://archive.ph/wip/Oi5qq> <http://kcna.co.jp/item/2011/201107/news26/20110726-01ee.html> <https://web.archive.org/web/20141012020839/http://kcna.co.jp/item/2011/201107/news26/20110726-01ee.html> https://cdn.discordapp.com/attachments/742557921849901077/965138568810987520/unknown.png
+KCNA 2019 local: 99.98% turnout, 27876 deputies elected, "and voted for the candidates for deputies" (implied 100%, but not explicit): <http://www.kcna.kp/en/article/q/d2d161c3a528c2acdd2c5e6ee533bde9.kcmsf> <https://archive.is/wip/hjGih> https://cdn.discordapp.com/attachments/742557921849901077/1059951847105904800/image.png
+KCNA 2015 local: 99.97% turnout, 28452 deputies elected, "and voted for the candidates for deputies" (implied 100%, but not explicit): <http://www.kcna.kp/en/article/q/2e66f7a6bbab8d5d2e085f9675b92d26.kcmsf> <https://archive.ph/wip/QSS0o> https://cdn.discordapp.com/attachments/742557921849901077/1059954302891855903/image.png
+KCNA 2011 local: 99.97% turnout, 28116 deputies elected, "and voted for the candidates for deputies" (implied 100%, but not explicit): <https://kcnawatch.org/newstream/1451892012-950726598/report-on-results-of-local-election-in-dprk-released/> <https://archive.ph/wip/Oi5qq> <http://kcna.co.jp/item/2011/201107/news26/20110726-01ee.html> <https://web.archive.org/web/20141012020839/http://kcna.co.jp/item/2011/201107/news26/20110726-01ee.html> https://cdn.discordapp.com/attachments/742557921849901077/965138568810987520/unknown.png
 KCNA 2007 local: 99.82% turnout, 27390 deputies elected, 100% of ballots cast for Democratic Front candidates: <https://kcnawatch.org/newstream/1451885201-845613354/results-of-election-of-deputies-to-local-power-bodies-released/> <https://archive.ph/wip/gdKAZ> <http://kcna.co.jp/item/2007/200707/news07/31.htm> <https://web.archive.org/web/20070806115145/http://kcna.co.jp/item/2007/200707/news07/31.htm> https://cdn.discordapp.com/attachments/742557921849901077/965135171722547230/unknown.png
 KCNA 2003 local: 99.9% turnout, 26650 deputies elected, 100% of ballots cast for Democratic Front candidates: <https://kcnawatch.org/newstream/1452003546-314780163/election-returns-announced> <https://archive.ph/wip/iZtCw> <http://kcna.co.jp/item/2003/200308/news08/05.htm> <https://web.archive.org/web/20031003092419/http://kcna.co.jp/item/2003/200308/news08/05.htm> https://cdn.discordapp.com/attachments/742557921849901077/965141975831543858/unknown.png
 KCNA 1999 local: 99.9% turnout, 100% of ballots cast for Democratic Front candidates: <https://kcnawatch.org/newstream/1452000527-457524799/manifestation-of-absolute-trust-in-socialist-government/> <https://archive.ph/wip/G8V9c> <https://kcna.co.jp/item/1999/9903/news03/09.htm> <https://web.archive.org/web/20010912002701/https://kcna.co.jp/item/1999/9903/news03/09.htm> https://cdn.discordapp.com/attachments/742557921849901077/965140962751946832/unknown.png
