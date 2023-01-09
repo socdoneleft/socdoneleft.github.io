@@ -5238,6 +5238,10 @@ Law on the Elections of Deputies to the People’s Assemblies at All Levels: <ht
 # summary
 North Korean ballots have only one candidate listed, who is chosen by the government. Voters can either cast the unmarked ballot to vote for the candidate or mark the ballot to vote against the candidate.
 
+# results by year
+1977-2019: <https://socdoneleft.substack.com/p/93393821> https://cdn.discordapp.com/attachments/742557921849901077/1061793914790608947/north_korea_elections_1982_2019.png
+1948-2019: <https://socdoneleft.substack.com/p/93393821> https://cdn.discordapp.com/attachments/742557921849901077/1061793915126173726/north_korea_elections.png
+
 # constitutional one-party government
 2016 version: North Korea is constitutionally a one-party government: <http://www.korean-books.com.kp/KBMbooks/en/book/politics/00000450.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1060029438001164389/2016constitution.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1060029935307206736/image.png """Article 11. The Democratic People’s Republic of Korea shall conduct all activities under the leadership of the Workers’ Party of Korea."""
 
