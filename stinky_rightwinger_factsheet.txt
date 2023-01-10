@@ -5215,6 +5215,13 @@ anxiety disorder rates, university degree rates, welfare dependence, income, arr
 #####o
 
 #####
+# human rights violations
+#####o
+# united nations reports
+United Nations Commission of Inquiry report 2014: there is an almost complete denial of the right to freedom of thought and expression in North Korea: <https://www.ohchr.org/en/hr-bodies/hrc/co-idprk/reportofthe-commissionof-inquiry-dprk> """State surveillance permeates the private lives of all citizens to ensure that virtually no expression critical of the political system or of its leadership goes undetected."""
+#####c
+
+#####
 # resources
 #####o
 # summary
@@ -5335,7 +5342,7 @@ Tongil News 2019 SPA: <http://www.tongilnews.com/news/articleView.html?idxno=128
 KCNA 2014 SPA: <http://www.kcna.kp/kp/article/q/8caffda5ac99c5d815b312898828f7a3.kcmsf> <https://archive.ph/rBwxn>
 KCNA 2009 SPA: <http://www.korea-np.co.jp/news/ViewArticle.aspx?ArticleID=35799> <http://web.archive.org/web/20100627082340/http://www.korea-np.co.jp/news/ViewArticle.aspx?ArticleID=35799>
 KCNA 2003 SPA: <http://www.kcna.co.jp/calendar/2003/08/08-05/2003-08-05-002.html> <https://web.archive.org/web/20030808041419/http://www.kcna.co.jp/calendar/2003/08/08-05/2003-08-05-002.html>
-Korea Institute for National Unification 2009: SPA elections of 2003, 1998, 1990:
+Korea Institute for National Unification 2009: SPA elections of 2003, 1998, 1990: <https://repo.kinu.or.kr/bitstream/2015.oak/1365/1/0001391352.pdf#page=19>
 
 # local elections: kcna (never gives breakdown by sub-party)
 search: <https://kcnawatch.org/?s=Results+of+Local+Election>
@@ -5401,6 +5408,30 @@ https://en.wikipedia.org/wiki/Constitution_of_North_Korea
 Previously, the North had deleted all the expressions of 'communism' in 2009 and 2010 when it revised the constitution and party rules, respectively.
 also removed dictatorship of proletariat!
 This time the name was changed to "Ten Principles for Establishing the Party's Unique Leadership System", and the content was reduced from the preamble plus 10 articles and 65 paragraphs and merged into the preamble plus 10 articles and 60 paragraphs.
+#####c
+
+#####
+# surveys
+#####o
+# scope of migration from north korea to south korea (and back), aka "defection"
+Ministry of Unification: since 1998, there have been 33,800 migrants from North Korea to South Korea ("defectors"): <https://www.unikorea.go.kr/eng_unikorea/relations/statistics/defectors/>
+WaPo 2022: in the last 10 years, there have been 30 official migrants from South to North Korea ("defectors"): <https://www.washingtonpost.com/world/2022/01/15/north-korea-defector-identity/> <https://www.theguardian.com/world/2018/apr/26/forever-strangers-the-north-korean-defectors-who-want-to-go-back>
+
+# surveys of North Koreans in North Korea: CSIS panel
+the CSIS panel is a convenience sample whose methodology is unknown; given the biases of convenience sampling and the ideological leanings of CSIS, these survey results should be taken with a massive grain of salt: <https://www.washingtonpost.com/world/asia_pacific/what-do-north-koreans-think-about-kim-jong-un-this-survey-tries-to-find-out/2016/11/01/2a2cc357-34a9-464c-b32f-1291d16dd1b0_story.html>
+CSIS Beyond Parallel 2016: pt 1: <https://beyondparallel.csis.org/view-inside-north-korea-meager-rations-banned-markets-and-growing-anger-toward-govt/> 
+pt 2: <https://beyondparallel.csis.org/no-laughing-matter-north-koreans-discontent-and-daring-jokes/>
+pt 3: <https://beyondparallel.csis.org/information-and-its-consequences-in-north-korea/>
+pt 4: <https://beyondparallel.csis.org/paradise-evaporated-escaping-no-income-trap-north-korea/>
+pt 5: <https://beyondparallel.csis.org/unification-north-koreans-hope-near-future/>
+2nd survey pt 1: <https://beyondparallel.csis.org/devils-weapons-ordinary-north-koreans-think-nuclear-program/>
+2nd survey pt 2: <https://beyondparallel.csis.org/hostile-policy-north-korean-views-united-states/>
+
+# surveys of North Koreans outside North Korea
+Database Center for North Korean Human Rights (NKDB) 2022: of 407 defectors, 18% were willing to return to North Korea: <https://nkdb.org/publication/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=9256198&t=board> <https://archive.ph/WI7jk> <https://en.nkdb.org/publication/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=13757750&t=board> <https://archive.ph/PyX16> <https://cdn.discordapp.com/attachments/742557921849901077/1061850056409489488/NKDB_2022.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1061850343081779240/image.png
+IPUS 2022: <https://ipus.snu.ac.kr/eng/archives/events/7377> """Over the past decade, Kim Jong-un’s approval rating averaged 63.7 percent, with 59.4 saying they were proud of Juche ideology, while 58.2 percent of the residents criticized their leaders and the government. Political approval has continued to increase since Kim Jong-un took power, peaking in 2018 but with an apparent decline since 2019, while trust in social and economic institutions have been declining since 2016. The level of interaction and engagement with South Korea is consistently identified as a variable that influences the domestic criticism of the North Korean regime."""
+2011 poll results: <https://en.yna.co.kr/view/AEN20130829006500315> """North Korean leader Kim Jong-un probably has a public approval rating of over 50 percent, a poll conducted on escapees living in South Korea showed Thursday. The survey carried out by the Institute for Peace and Unification Studies at Seoul National University on 133 North Korean defectors showed that 61.7 percent believe the young leader has a majority support of his people. A similar report conducted in 2011 showed that only 55.7 percent of defectors said the former North Korean leader Kim Jong-il had support of at least 50 percent of his people. The former head is the late father of the incumbent leader, with Kim Jong-un taking control in December 2011."""
+
 #####c
 
 #####
