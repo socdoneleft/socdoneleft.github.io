@@ -1342,7 +1342,30 @@ juvenile incarceration is very expensive: <https://www.aecf.org/resources/no-pla
 #####c
 
 #####
-# drug legalization and drug decriminalization
+# drug decriminalization in Portugal (2001-2008) slightly more conservative (2009-current)
+#####o
+# portugal decriminalization in 2001
+Hughes and Stevens 2007: summary of model: https://cdn.discordapp.com/attachments/742557921849901077/1067575271743574027/image.png
+
+# drug use rates
+monthly drug use has declined among adults and teens: <https://transformdrugs.org/the-success-of-portugals-decriminalisation-policy-in-seven-charts/> <http://archive.ph/xEg3m> https://cdn.discordapp.com/attachments/418850379518705675/642018921813377024/unknown.png
+
+# drug death rates
+drug deaths have declined: <https://transformdrugs.org/the-success-of-portugals-decriminalisation-policy-in-seven-charts/> <http://archive.ph/xEg3m> https://cdn.discordapp.com/attachments/418850379518705675/642019090705285130/deaths-1.png
+HIV and AIDS transmission among drug users has declined almost 100 times: <https://transformdrugs.org/the-success-of-portugals-decriminalisation-policy-in-seven-charts/> <http://archive.ph/xEg3m> https://cdn.discordapp.com/attachments/418850379518705675/642019137748598794/HIV-AIDS.png
+
+# economic costs
+decriminalization is not expensive; drug policy costs just 0.05% of Portugal's GDP: <http://www.emcdda.europa.eu/system/files/publications/4508/TD0116918ENN.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471447944105558027/unknown.png while in Europe, on average, just incarceration for drug offenses cost 0.05 % of GDP or EUR 5.9 billion <http://www.emcdda.europa.eu/attachements.cfm/att_228272_EN_TDAT14001ENN.pdf>
+
+# criminal justice benefits
+decriminalization reduced the number of people charged with drug possession and therefore reduced the pressure of drugs on the criminal justice system: <https://kar.kent.ac.uk/13325/1/BFDPP_BP_14_EffectsOfDecriminalisation_EN.pdf.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471450847067373570/unknown.png
+
+# todo 
+Vice: <https://news.vice.com/article/ungass-portugal-what-happened-after-decriminalization-drugs-weed-to-heroin>
+#####c
+
+#####
+# drug legalization and drug decriminalization: other examples
 #####o
 # marijuana legalization
 legalizing marijuana has cut violent crime: <http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12521/full> https://cdn.discordapp.com/attachments/418850379518705675/470973259790155778/unknown.png
@@ -1358,26 +1381,34 @@ the illegal drug market causes violent crime and cannot be solved by increased l
 # colorado legalization in 2014 (jan 1)
 after colorado legalized marijuana in 2014, marijuana use increased among 18+ (from ~30% to ~32%) and decreased among 12-17 (from ~10% to ~8%): <https://www.politifact.com/truth-o-meter/statements/2019/mar/25/john-hickenlooper/did-spike-marijuana-use-colorado-after-legal/> <https://www.samhsa.gov/data/sites/default/files/NSDUHsaePercents2016/NSDUHsaePercents2016.pdf> <https://www.samhsa.gov/data/sites/default/files/NSDUHsaeMethodology2016/NSDUHsaeMethodology2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640988750629044224/unknown.png sample size 5207 for 2015-16, in-person interviews based on Census-weighted population data
 
-# portugal decriminalization in 2001
-monthly drug use has declined among adults and teens: <https://transformdrugs.org/the-success-of-portugals-decriminalisation-policy-in-seven-charts/> <http://archive.ph/xEg3m> https://cdn.discordapp.com/attachments/418850379518705675/642018921813377024/unknown.png
-drug deaths have declined: <https://transformdrugs.org/the-success-of-portugals-decriminalisation-policy-in-seven-charts/> <http://archive.ph/xEg3m> https://cdn.discordapp.com/attachments/418850379518705675/642019090705285130/deaths-1.png
-HIV and AIDS transmission among drug users has declined almost 100 times: <https://transformdrugs.org/the-success-of-portugals-decriminalisation-policy-in-seven-charts/> <http://archive.ph/xEg3m> https://cdn.discordapp.com/attachments/418850379518705675/642019137748598794/HIV-AIDS.png
-decriminalization is not expensive; drug policy costs just 0.05% of Portugal's GDP: <http://www.emcdda.europa.eu/system/files/publications/4508/TD0116918ENN.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471447944105558027/unknown.png while in Europe, on average, just incarceration for drug offenses cost 0.05 % of GDP or EUR 5.9 billion <http://www.emcdda.europa.eu/attachements.cfm/att_228272_EN_TDAT14001ENN.pdf>
-decriminalization reduced the number of people charged with drug possession and therefore reduced the pressure of drugs on the criminal justice system: <https://kar.kent.ac.uk/13325/1/BFDPP_BP_14_EffectsOfDecriminalisation_EN.pdf.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471450847067373570/unknown.png
-# https://news.vice.com/article/ungass-portugal-what-happened-after-decriminalization-drugs-weed-to-heroin
-
 # public opinion
 in 2019, 66% of Americans said "marijuana should be made legal": <https://news.gallup.com/poll/243908/two-three-americans-support-legalizing-marijuana.aspx> https://cdn.discordapp.com/attachments/418850379518705675/659904151718854708/unknown.png
+#####c
 
-# "kill drug dealers": northern ireland
-study about Ireland: <https://www.drugsandalcohol.ie/6868/1/McElrath_4051_Drug_use_and_drug_markets.pdf>
-data about Ireland: <https://www.health-ni.gov.uk/publications/statistics-northern-ireland-drug-misuse-database-200102-201516>
-
-# "kill drug dealers": philippines
-not clear that drug prices are rising: <https://www.reuters.com/article/us-philippines-duterte-drugs/more-blood-but-no-victory-as-philippine-drug-war-marks-its-first-year-idUSKBN19G05D> In July 2016, a gram of shabu cost 1,200-11,000 pesos ($24-$220), according to agency’s figures. Last month, a gram cost 1,000-15,000 pesos ($20-$300), it said. 
-in Philippines, 2% of population uses meth: <https://en.wikipedia.org/wiki/Illegal_drug_trade_in_the_Philippines>
-118,000 "drug personalities" have been arrested: <https://www.aljazeera.com/news/2018/02/senator-rodrigo-duterte-drug-war-killed-20000-180221134139202.html>
+#####
+# "kill drug dealers": Philippines example
+#####o
+# summary
 wikipedia article: <https://en.wikipedia.org/wiki/Philippine_Drug_War>
+
+# prices
+Baldwin and Marshall 2017: not clear that drug prices are rising: <https://www.reuters.com/article/us-philippines-duterte-drugs/more-blood-but-no-victory-as-philippine-drug-war-marks-its-first-year-idUSKBN19G05D> In July 2016, a gram of shabu cost 1,200-11,000 pesos ($24-$220), according to agency’s figures. Last month, a gram cost 1,000-15,000 pesos ($20-$300), it said. 
+
+# drug use rates
+in Philippines, 2% of population uses meth: <https://en.wikipedia.org/wiki/Illegal_drug_trade_in_the_Philippines>
+
+# criminal justice burden
+118,000 "drug personalities" have been arrested: <https://www.aljazeera.com/news/2018/02/senator-rodrigo-duterte-drug-war-killed-20000-180221134139202.html>
+#####c
+
+#####
+# "kill drug dealers": Northern Ireland example
+#####o
+# todo
+study about Ireland: <https://www.drugsandalcohol.ie/6868/1/McElrath_4051_Drug_use_and_drug_markets.pdf>
+
+# drug use
+data about Ireland: <https://www.health-ni.gov.uk/publications/statistics-northern-ireland-drug-misuse-database-200102-201516>
 #####c
 
 #####
