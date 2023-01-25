@@ -1353,6 +1353,10 @@ Rego et al 2021: in 2008, the Portugues Supreme Court re-established drug use as
 
 # todo
 Hughes and Stevens 2010: <https://academic.oup.com/bjc/article-abstract/50/6/999/404023> <https://kar.kent.ac.uk/29910/1/Hughes%20%20Stevens%202010.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1067581168796573807/hughes2010.pdf> 
+2001 usage data: Balsa, C., Farinha, T., Urbano, C. and Francisco, A. (2004), Inque´rito Nacional ao Consumo de Substaˆncias Psicoactivas na populacxa˜o portuguesa—2001. Lisboa: CEOS, Investigacxo˜es Sociolo´gicas, Faculdade de Cieˆncias Sociais e Humanas, Universidade Nova de Lisboa.
+2007 usage data: Balsa, C., Vital, C., Urbano, C. and Pascueiro, L. (2007), II Inque´rito Nacional ao Consumo de Substaˆncias Psicoactivas na Populacxa˜o Portuguesa—2007, Lisboa: CEOS, Investigacxo˜es Sociolo´gicas, Faculdade de Cieˆncias Sociais e Humanas, Universidade Nova de Lisboa.
+see more recent ESPAD reports: Hibell, B., Guttormsson, U., Ahlstro¨m, S., Balakireva, O., Bjarnason, T., Kokkevi, A. and Kraus, L. (2009), The 2007 ESPAD Report: Substance Use Among Students in 35 European Countries. Stockholm: Sweden, The Swedish Council for Information on Alcohol and Other Drugs (CAN).
+Table 3: Changes in drug-related death*, 1999-2003 (Tavares et al. 2005) https://cdn.discordapp.com/attachments/742557921849901077/1067588830577823765/image.png Tavares, LV, Graça, PM, Martins, O & Asensio, M (2005), External and Independent Evaluation of the “National Strategy for the Fight Against Drugs” and of the “National Action Plan for the Fight Against Drugs and Drug Addiction – Horizon 2004”, Portuguese National Institute of Public Administration, Lisbon.
 
 # todo grab these stats
 EMCDDA 2022 Statistical Bulletin: Drug Overdose Deaths: Trends > [national definition] OR [European definition]: <https://www.emcdda.europa.eu/data/stats2022/drd_en>
@@ -7155,6 +7159,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/2014_Crimean_status_referendum> https:
 ^ Wikipedia's source: <https://www.washingtonpost.com/world/2014/03/16/ccec2132-acd4-11e3-a06a-e3230a43d6cb_story.html> <https://web.archive.org/web/20140316232749/http://www.washingtonpost.com/world/crimeans-begin-vote-on-russia-referendum/2014/03/16/ccec2132-acd4-11e3-a06a-e3230a43d6cb_story.html>
 
 # post-referendum polling
+Pew May 2014: 88% of Crimeans say that Kyiv should recognize the results of the referendum in Crimea (4% oppose); 54% of Crimeans say that Kyiv should allow regions to secede from Ukraine (12% oppose): <https://www.pewresearch.org/global/2014/05/08/despite-concerns-about-governance-ukrainians-want-to-remain-one-country/> https://cdn.discordapp.com/attachments/742557921849901077/1067921648856076298/PG-2014-05-08-ukraine-russia-0-05.png https://cdn.discordapp.com/attachments/742557921849901077/1067921662378508308/PG_14.png
 Sasse 2017: 78.8% of Crimean residents say they would vote the same as in March 2014, suggesting that most residents would have supported the referendum: <https://www.zois-berlin.de/publikationen/terra-incognita-the-public-mood-in-crimea> <https://cdn.discordapp.com/attachments/742557921849901077/1029921840812011601/sasse2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1029922663965134918/unknown.png
 #####c
 
