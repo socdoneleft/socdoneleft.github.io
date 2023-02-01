@@ -5758,6 +5758,15 @@ another cause for this: increased security of the investment (for the Chinese le
 #####o
 
 #####
+# biased and usually terrible western sources
+#####o
+# early estimates: zenz 1 million
+Merics: <https://merics.org/en/analysis/where-did-one-million-figure-detentions-xinjiangs-camps-come>
+Zenz 2018: <https://www.tandfonline.com/doi/abs/10.1080/02634937.2018.1507997> <https://sci-hub.ru/10.1080/02634937.2018.1507997> """A Uyghur exile media organization based in Istanbul published a table of re-education detainee figures for 69 counties in Xinjiang, reportedly leaked from a reliable source in the region’s public security agencies (Mizutani 2018). According to this source, the 27 counties in Khotän, Kashgar and Aqsu Prefectures, with a combined Uyghur, Kazakh and Kyrgyz population share of 90.2%, had 693,273 detainees in mid-February 2018. This would represent 12.3% of their Muslim population aged 20–79 (of 4.45 million).4 An RFA report cites the head of security in a township in Kashgar City as estimating the total number of detainees in Kashgar City at about 32,000, which would be 10.4% of its Uyghur and Kazakh population aged 20–79 (RFA 2018b). Another report cites local officials in Ghulja County as saying that their officially mandated adult internment rate was 10% (RFA 2018c). The leaked document put the total number of detainees in 68 Xinjiang counties, excluding regional and prefecture-level cities as well as the administrative units of the Xinjiang Production and Construction Corps, at about 892,000 in spring 2018 (Mizutani 2018). Assuming a Muslim adult internment rate of 10% for cities with a majority-Muslim population and of 5% for cities where the Muslim population is less than 50%, Xinjiang’s total reeducation internment figure may be estimated at just over one million (approx. 1,060,000)."""
+CHRD 2018: interview with eight (!) Uyghur villagers: <https://www.nchrd.org/2018/08/china-massive-numbers-of-uyghurs-other-ethnic-minorities-forced-into-re-education-programs/>
+#####c
+
+#####
 # high rate of arrests: confirmed by chinese state data
 #####o
 # my graphs
