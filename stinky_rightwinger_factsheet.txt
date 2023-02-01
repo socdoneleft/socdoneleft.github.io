@@ -11834,6 +11834,7 @@ Herron et al 2019: observed evolution of multicellular life: in response to pred
 # death toll resources
 #
 #####o
+
 #####
 # black book of communism
 #####o
@@ -11873,6 +11874,38 @@ Aeschimann 2006 in Le Monde: in Iraq and Afghanistan, Courtois supported America
 ^ quote comes from Courtois in Rigoulot and Taubmann 2004: "Irak, an I: un autre regard sur un monde en guerre" [Iraq, and Me: Another Look at a World at War]: <https://www.worldcat.org/title/57002682>
 #####c
 
+#####
+# gulags after stalin
+#####o
+# size of gulags
+Kozlov and Gilburd 2013: number of inmates 1940-1970: <https://www.worldcat.org/title/1257324379> <https://www.degruyter.com/document/doi/10.3138/9781442661059-007/html> <https://hal.science/hal-00859338> <https://libgen.li/edition.php?id=138573381> <https://cdn.discordapp.com/attachments/742557921849901077/1070217649683968040/kozlov2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1070217912763289610/image.png """Inmate population, USSR, 1940–70: Camps, colonies, and prisons of the NKVD-MVD-MGB (1940–60); camps and colonies of the MVD (without prisons) (1962–70). Sources: Viktor Zemskov, ‘Deportatsii naseleniia. Spetsposelentsy i ssyl’nye. Zakliuchennye,’ in Naselenie Rossii v XX veke: Istoricheskie ocherki, ed. V.B. Zhiromskaia (Moscow, 2001), 2:183; GARF R-7523/95a/109/99–101 (1961); R-7523/95a/110/29 (1962); R-9492/6/290/3 (1963–70)."""
+
+# comparisons to penal system under stalin
+Hardy 2016: : <https://www.worldcat.org/title/945730049> <https://academic.oup.com/cornell-scholarship-online/book/22600/chapter-abstract/182960468> <https://libgen.rocks/ads.php?md5=98ff2b00419577a304c1bde6d59c5a12> <https://cdn.discordapp.com/attachments/742557921849901077/1070190839457923092/hardy2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1070204277227790377/image.png https://cdn.discordapp.com/attachments/742557921849901077/1070204286111326208/image.png https://cdn.discordapp.com/attachments/742557921849901077/1070204293891760168/image.png """Criminologists globally in the postwar era promoted a variety of penal measures that avoided incarceration or that placed inmates in “open” institutions, and the Soviets were very much engaged in such efforts.7 Yet no country, in the East or West, was able to displace incarceration as the backbone of their penal system. From Western Europe to the United States to apartheid South Africa, prisons and their equivalents remained the punishment of choice. And these were not “liberal” institutions, but ones in which compulsory labor, corruption, beatings, and prisoner-on-prisoner violence abounded. Moreover, they were often places of severely curtailed rights and arbitrary rule. Some commentators from the period poignantly noted that prison systems in the West were in essence “totalitarian” islands in otherwise free societies. [....] This is not to defend the atrocities committed by and in the Gulag under Stalin and to a lesser extent under Khrushchev, which Solzhenitsyn masterfully exposes, but to remind that some of what he describes is endemic to prisons in general, not to Soviet institutions in particular."""
+
+# comparison to penal systems internationally
+Hardy 2016: the Soviet reforms achieved their goals of reducing state brutality and centering re-education over economic labor: <https://www.worldcat.org/title/945730049> <https://academic.oup.com/cornell-scholarship-online/book/22600/chapter-abstract/182960468> <https://libgen.rocks/ads.php?md5=98ff2b00419577a304c1bde6d59c5a12> <https://cdn.discordapp.com/attachments/742557921849901077/1070190839457923092/hardy2016.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1070191582160105472/image.png """The reforms of the Khrushchev period had an important lasting effect on the Soviet penal system. This certainly holds true in terms of the Gulag's permanent reduction in size, but it also applies to the reorientation of Gulag aims and the resultant improved conditions experienced by its inmates. Although certain inmate privileges were reduced or eliminated in the early 1960s at the culmination of the “camp is not a resort” campaign, many of the most important prisoner-friendly reforms of the 1950s, such as parole and the eight-hour workday, remained. Despite certain continuities, therefore, the Gulag did not return to a state of unchecked (and even abetted) violence, grueling labor, and oppressive living conditions—the defining features of the Stalinist penal system. De-Stalinization in the penal sphere was a real and enduring legacy of the Khrushchev era."""
+#####c
+
+#####
+# soviet death toll before stalin
+#####o
+# purge of 1921
+the Purge of 1921 was not lethal: <https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D1%82%D0%BA%D0%B8_%D0%B2_%D0%92%D0%9A%D0%9F(%D0%B1)> 
+
+# red terror: from 50 to 200k
+In Crimea, Béla Kun and Rosalia Zemlyachka, with Vladimir Lenin's approval,[28] had 50,000 White prisoners of war and civilians summarily executed by shooting or hanging after the defeat of general Pyotr Wrangel at the end of 1920. They had been promised amnesty if they would surrender.[29] This is one of the largest massacres in the Civil War.[30]
+100,000: Lincoln 1989: <https://www.worldcat.org/title/20262296> <https://libgen.is/book/index.php?md5=5F955E836C20AB39ED736A416DDEC944> """Although they do not take into account those killed when the Cheka suppressed hundreds of insurrections against Soviet authority, the best estimates set the probable number of executions at about a hundred thousand,123 or about seven times the number killed by the tsarist government during the entire century before the Revolution. That staggering statistic becomes even more appalling if we remember that it does not include those who died in Cheka prisons from disease, hunger, or beatings. To this day, it remains impossible to do more than guess at the number of men, women, and children whose lives were snuffed out by the Cheka between 1918 and 1921.""""""[citation] 123. Chamberlin, II, p. 75; Gerson, pp. 172-176; Leggett, pp. 466-468."""
+112,000: (28,000 per year): Ryan 2012: <https://www.worldcat.org/title/804665654> <https://libgen.is/book/index.php?md5=4368FDA0BD088D6AA5095557BDC9104D> <https://cdn.discordapp.com/attachments/742557921849901077/1061394373549490177/ryan2012.pdf> no page given
+50,000-140,000: Stone 2013: <https://www.worldcat.org/title/864551944> <https://libgen.is/book/index.php?md5=98AD256239D917249A901A9B513F78B9> <https://cdn.discordapp.com/attachments/742557921849901077/1061394264807981097/stone2013.pdf> p. 335
+140,000: Pipes 2011: <https://www.worldcat.org/title/1143739946> <https://libgen.is/book/index.php?md5=DA9A029C5415BA9B0FF55A4994671A57> <https://cdn.discordapp.com/attachments/742557921849901077/1061394320957124670/pipes2011.pdf> p. 838
+200,000: Lowe 2002: <https://www.worldcat.org/title/48767460> <https://libgen.is/book/index.php?md5=6BF86924C696370FF69C40928B573D87> <https://cdn.discordapp.com/attachments/742557921849901077/1061394407871479880/lowe2002.pdf> p. 151
+
+# de-cossackization
+de-cossackization (may be included in the Red Terror): <https://en.wikipedia.org/wiki/De-Cossackization>
+^ Despite there being more than a million Cossacks before 1917, very few people consider themselves Cossacks today.[7] Shane O'Rourke states that the de-Cossackization "was one of the main factors which led to the disappearance of the Cossacks as a nation".[7] Alexander Nikolaevich Yakovlev, head of the Presidential Committee for the Rehabilitation of Victims of Political Repression, notes that "hundreds of thousands of Cossacks were killed".[20] Robert Gellately claims that "the most reliable estimates indicate that between 300,000 and 500,000 were killed or deported in 1919–20" out of a population of around three million.[19]
+The process has been described by scholar Peter Holquist as part of a "ruthless" and "radical attempt to eliminate undesirable social groups" that showed the Soviet regime's "dedication to social engineering".[10] [....] Peter Holquist states the overall number of executions is difficult to establish; in some regions, hundreds were executed, while the tribunal was very active in Khoper, with a one-month total of 226 executions. The Tsymlianskaia tribunal oversaw the execution of over 700 people. The Kotel'nikovo tribunal executed 117 in early May and nearly 1,000 overall. Others were not quite as active. The Berezovskaia tribunal made a total of twenty arrests in a community of 13,500 people. Holquist also notes that some of White reports of Red atrocities in the Don were consciously scripted for agitation purposes.[21] In one example, an insurgent leader reported that 140 were executed in Bokovskaia, but later provided a different account, according to which only eight people in Bokovskaia were sentenced to death, and the authorities did not manage to carry these sentences out. Holquist emphasizes that he is "not seeking to downplay or dismiss very real executions by the Soviets". Overall, he estimates a death toll of around 10,000 from de-Cossackization.[9]
+#####c
 #####c
 
 #####
