@@ -5875,33 +5875,36 @@ index page: <http://www.nm.jcy.gov.cn/ygjw/gzbg/> <https://archive.ph/wip/heZPX>
 2009 SPP (2010 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2010/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2010/html/W2218E.xls> Social Services and Others > Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2009)
 2008 SPP (2009 Yearbook): <https://www.stats.gov.cn/tjsj/ndsj/2009/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2009/html/W2218E.xls> Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2008)
 
-# fertility: all regions
-2020 (2021 Yearbook): [NOT AVAILABLE] <http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm> 
-2019 (2020 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2020/html/E0208.jpg
+# fertility: china
+2021 China Yearbook (2020): [NOT AVAILABLE] <http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm>
+^ confirms Zens' claims that data is unavailable: <https://twitter.com/adrianzenz/status/1382397174684680197> <https://archive.ph/wip/6rsWT>
+2020 China Yearbook (2019): 2-8 Total Population by Urban and Rural Residence, Birth Rate, Death Rate, Natural Growth Rate and by Region (2019): <http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2020/html/E0208.jpg
+2010 China Yearbook: 3-4 Total Population by Urban and Rural Residence and Birth Rate, Death Rate,Natural Growth Rate by Region (2009): <http://www.stats.gov.cn/tjsj/ndsj/2010/html/D0304E.HTM> <https://www.stats.gov.cn/tjsj/ndsj/2010/html/D0304E.XLS>
 
 # xinjiang yearbooks
 2021 Yearbook: <http://tjj.xinjiang.gov.cn/tjj/zhhvgh/list_nj1.shtml>
+2019 Xinjiang Yearbook: <https://web.archive.org/web/20200724141137/http://tjj.xinjiang.gov.cn/tjj/zhhv/list_nj1.shtml>
 
-# NOT the correct yearbook series
-2020 Yearbook: <http://tjj.xjbt.gov.cn/2020nj/mainindex.htm>
-2019 Yearbook: <http://tjj.xjbt.gov.cn/2019nj/mainindex.htm?
-2018 Yearbook: <http://tjj.xjbt.gov.cn/2018nj/mainindex.htm>
-2017 Yearbook: <http://tjj.xjbt.gov.cn/2017nj/mainindex.htm>
-2016 Yearbook: <http://tjj.xjbt.gov.cn/2016nj/mainindex.htm>
-2015 Yearbook: <http://tjj.xjbt.gov.cn/2015nj/mainindex.htm>
-2014 Yearbook: <http://tjj.xjbt.gov.cn/2014nj/mainindex.htm>
-2013 Yearbook: <http://tjj.xjbt.gov.cn/2013nj/2013mainindex.htm>
-2012 Yearbook: <http://tjj.xjbt.gov.cn/2012nj/2012mainindex.htm>
-2011 Yearbook: <http://tjj.xjbt.gov.cn/2011nj/2011mainindex.htm>
-2010 Yearbook: <http://tjj.xjbt.gov.cn/2010nj/2010mainindex.htm>
-2009 Yearbook: <http://tjj.xjbt.gov.cn/2009nj/2009mainindex.htm>
-2008 Yearbook: <http://tjj.xjbt.gov.cn/2008nj/2008mainindex.htm>
-2007 Yearbook: <http://tjj.xjbt.gov.cn/2007nj/2007mainindex.htm>
-2006 Yearbook: <http://tjj.xjbt.gov.cn/2006nj/2006mainindex.htm>
-2005 Yearbook: <http://tjj.xjbt.gov.cn/2005nj/2005mainindex.htm>
-2004 Yearbook: <http://tjj.xjbt.gov.cn/2004nj/2004maincatalog.htm>
-2003 Yearbook: <http://tjj.xjbt.gov.cn/2003nj/2003maincatalog.htm>
-2010 Xinjiang Production Group Yearbook: 3-1   年末人口数及构成 Population and its Composition at the Year-end: <https://tjj.xjbt.gov.cn/2010nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2010nj/table/03-01.xls>
+# NOT the correct yearbook series for xinjiang province
+2020 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2020nj/mainindex.htm>
+2019 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2019nj/mainindex.htm?
+2018 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2018nj/mainindex.htm>
+2017 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2017nj/mainindex.htm>
+2016 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2016nj/mainindex.htm>
+2015 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2015nj/mainindex.htm>
+2014 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2014nj/mainindex.htm>
+2013 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2013nj/2013mainindex.htm>
+2012 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2012nj/2012mainindex.htm>
+2011 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2011nj/2011mainindex.htm>
+2010 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2010nj/2010mainindex.htm>
+2009 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2009nj/2009mainindex.htm>
+2008 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2008nj/2008mainindex.htm>
+2007 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2007nj/2007mainindex.htm>
+2006 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2006nj/2006mainindex.htm>
+2005 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2005nj/2005mainindex.htm>
+2004 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2004nj/2004maincatalog.htm>
+2003 Xinjiang Production Group Yearbook: <http://tjj.xjbt.gov.cn/2003nj/2003maincatalog.htm>
+2010 Xinjiang Production Group Xinjiang Production Group Yearbook: 3-1   年末人口数及构成 Population and its Composition at the Year-end: <https://tjj.xjbt.gov.cn/2010nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2010nj/table/03-01.xls>
 2010 Xinjiang Production Group Yearbook: 3-3  人口出生率、死亡率、自然增长率 Birth Rate，Death Rate and Natural Growth Rate of Population: <http://tjj.xjbt.gov.cn/2010nj/table/03-03.htm> <http://tjj.xjbt.gov.cn/2010nj/table/03-03.xls>
 2020 Xinjiang Production Group Yearbook: 3-1   年末人口数及构成 Population and Its Composition at Year-end: <http://tjj.xjbt.gov.cn/2020nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2020nj/table/03-01.xls>
 2020 Xinjiang Production Group Yearbook: 3-3  人口出生率、死亡率、自然增长率 Birth Rate，Death Rate and Natural Growth Rate of Population: <http://tjj.xjbt.gov.cn/2020nj/table/03-03.htm> <http://tjj.xjbt.gov.cn/2020nj/table/03-03.xls>
@@ -5910,11 +5913,16 @@ index page: <http://www.nm.jcy.gov.cn/ygjw/gzbg/> <https://archive.ph/wip/heZPX>
 2003 Xinjiang Production Group Yearbook: 3-1   年末人口数及构成(1978—2002年) POPULATION AND ITS COMPOSITION AT THE YEAR-END(1978—2002): <http://tjj.xjbt.gov.cn/2003nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2003nj/table/03-01.xls>
 2003 Xinjiang Production Group Yearbook: 3-3  人口出生率、死亡率、自然增长率(1978—2002年) BIRTH RATE，DEATH RATE AND NATURAL GROWTH RATE OF POPULATION(1978—2002): <http://tjj.xjbt.gov.cn/2003nj/table/03-03.htm> <http://tjj.xjbt.gov.cn/2003nj/table/03-03.xls>
 
-# fertility 2010
-2010 China Yearbook: 3-4 Total Population by Urban and Rural Residence and Birth Rate, Death Rate,Natural Growth Rate by Region (2009): <http://www.stats.gov.cn/tjsj/ndsj/2010/html/D0304E.HTM> <https://www.stats.gov.cn/tjsj/ndsj/2010/html/D0304E.XLS>
-
 # fertility: xinjiang
-2021 Xinjiang Yearbook: 3-1 主要年份人口数及构成 [3-1 Population and Composition in Main Years] <http://tjj.xinjiang.gov.cn/tjj/rkjyug/202203/5cbdcb79b0924739981c6517f0ee0bb2.shtml>
+2021 Xinjiang Yearbook: 3-1 主要年份人口数及构成 [3-1 Population and Composition in Main Years], 1978-2019: <http://tjj.xinjiang.gov.cn/tjj/rkjyug/202203/5cbdcb79b0924739981c6517f0ee0bb2.shtml>
+#####c
+
+#####
+# boarding schools
+#####o
+# boarding schools
+Diamond Packer 2021: need to verify these claims todo: <https://uyghurtribunal.com/wp-content/uploads/2021/09/Diamond-Packer.pdf> """State-run, highly securitized, boarding schools and orphanages to confine Uyghur 103 children full-time, including infants. According to a Ministry of Education planning document, 104 the residential-school expansion was at the top of its list of priorities and, between 2017 and 2019, the number of children separated from their families and placed into state-run boarding schools in the region increased by 76.9%, from 497,800 to 880,500. The explicit goals of these 105 boarding schools are “to promote the teaching of the national standard language [Mandarin Chinese]... block the influence of the family's atmosphere on the children to the greatest extent and reduce the occurrence of ... listening to the scriptures at home.” The government set a 106 2020 goal of running one to two such boarding schools in each of Xinjiang’s over 800 townships. Under State custody, Uyghur children are being raised in Chinese-language 107 environments with standard Han child-rearing methods adopted by the State. The State is thus 108 forcibly transferring Uyghur children to State-run Han group settings. Expert witness Rian Thum has demonstrated that it is reasonable to conclude that the majority of Uyghur middle school students are now in residential schools and that the transfer of Uyghur children into Handominated facilities is not only a by-product of losing parents to mass internment but is an independent goal in and of itself. The systematic forcible separation of Uyghur children from 109 their families, combined with the widespread forcible prevention of Uyghur births and mass internment, threatens “the group’s capacity to renew itself, and hence to ensure its long-term survival” or existence (to use the language of the ICJ interpreting the Genocide Convention).110"""
+
 #####c
 #####c
 
