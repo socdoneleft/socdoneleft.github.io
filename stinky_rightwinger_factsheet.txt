@@ -11768,8 +11768,8 @@ Barrasso 2020: among 240 slaughtered sheep, consciousness rates among religiousl
 # cbt works: increased quality of life
 Hofmann et al 2017: meta-study: across 24 studies with 1969 patients, cognitive-behavioral therapy (CBT) improved self-reported quality of life (QOL) by about 2/3 of a standard deviation (fairly large), with no dropoff over time: <https://pubmed.ncbi.nlm.nih.gov/28440699/> <https://www.tandfonline.com/doi/abs/10.1080/16506073.2017.1304445> <https://sci-hub.ru/10.1080/16506073.2017.1304445> <https://cdn.discordapp.com/attachments/742557921849901077/1070812604051751053/hofmann2017.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1070812906691772486/image.png https://cdn.discordapp.com/attachments/742557921849901077/1070813326306725929/image.png
 
-# ssri's work: increased quality of life
-Cipriani et al 2018: meta-study: across 103k patients, <https://pubmed.ncbi.nlm.nih.gov/29477251/> <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32802-7/fulltext> <https://sci-hub.ru/10.1016/S0140-6736(17)32802-7> <https://cdn.discordapp.com/attachments/742557921849901077/1070812588918718474/cipriani2018.pdf>
+# ssri's work: reduced depression
+Cipriani et al 2018: meta-study: across 474 studies with 106966 patients with acute adult depression, selective serotonin reuptake inhibitors (SSRIs) reduced depression by over 50% of the total score of a standardized depression scale (read: substantially reduced depression) by 1.8 times more than placebo, on average: <https://pubmed.ncbi.nlm.nih.gov/29477251/> <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32802-7/fulltext> <https://sci-hub.ru/10.1016/S0140-6736(17)32802-7> <https://cdn.discordapp.com/attachments/742557921849901077/1070812588918718474/cipriani2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1070830675281858560/image.png https://cdn.discordapp.com/attachments/742557921849901077/1070831184315170827/image.png efficacy: " (response rate measured by the total number of patients who had a reduction of ≥50% of the total score on a standardised observer-rating scale for depression) "
 #####c
 
 #####
