@@ -5860,7 +5860,7 @@ index page: <http://www.nm.jcy.gov.cn/ygjw/gzbg/> <https://archive.ph/wip/heZPX>
 #####
 # yearbooks
 #####o
-# national yearbooks: arrest data
+# arrests: china
 2020 SPP (2021 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2021/html/E24-07.jpg Table 24-7 Arrests and Prosecution Approved by People's Procuratorate (2020)
 2019 SPP (2020 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2020/html/E2407.jpg Table 24-7 Arrests and Prosecution Approved by People's Procuratorate (2019)
 2018 SPP (2019 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2019/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2019/html/E2407.jpg 24-7 Arrests and Prosecution Approved by People's Procuratorate (2018)
@@ -5875,8 +5875,14 @@ index page: <http://www.nm.jcy.gov.cn/ygjw/gzbg/> <https://archive.ph/wip/heZPX>
 2009 SPP (2010 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2010/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2010/html/W2218E.xls> Social Services and Others > Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2009)
 2008 SPP (2009 Yearbook): <https://www.stats.gov.cn/tjsj/ndsj/2009/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2009/html/W2218E.xls> Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2008)
 
-# xinjiang
-<http://tjj.xinjiang.gov.cn/tjj/zhhvgh/list_nj1.shtml>
+# fertility: all regions
+2020 (2021 Yearbook): [NOT AVAILABLE] <http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm> 
+2019 (2020 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2020/html/E0208.jpg
+
+# xinjiang yearbooks
+2021 Yearbook: <http://tjj.xinjiang.gov.cn/tjj/zhhvgh/list_nj1.shtml>
+
+# NOT the correct yearbook series
 2020 Yearbook: <http://tjj.xjbt.gov.cn/2020nj/mainindex.htm>
 2019 Yearbook: <http://tjj.xjbt.gov.cn/2019nj/mainindex.htm?
 2018 Yearbook: <http://tjj.xjbt.gov.cn/2018nj/mainindex.htm>
@@ -5895,6 +5901,20 @@ index page: <http://www.nm.jcy.gov.cn/ygjw/gzbg/> <https://archive.ph/wip/heZPX>
 2005 Yearbook: <http://tjj.xjbt.gov.cn/2005nj/2005mainindex.htm>
 2004 Yearbook: <http://tjj.xjbt.gov.cn/2004nj/2004maincatalog.htm>
 2003 Yearbook: <http://tjj.xjbt.gov.cn/2003nj/2003maincatalog.htm>
+2010 Xinjiang Production Group Yearbook: 3-1   年末人口数及构成 Population and its Composition at the Year-end: <https://tjj.xjbt.gov.cn/2010nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2010nj/table/03-01.xls>
+2010 Xinjiang Production Group Yearbook: 3-3  人口出生率、死亡率、自然增长率 Birth Rate，Death Rate and Natural Growth Rate of Population: <http://tjj.xjbt.gov.cn/2010nj/table/03-03.htm> <http://tjj.xjbt.gov.cn/2010nj/table/03-03.xls>
+2020 Xinjiang Production Group Yearbook: 3-1   年末人口数及构成 Population and Its Composition at Year-end: <http://tjj.xjbt.gov.cn/2020nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2020nj/table/03-01.xls>
+2020 Xinjiang Production Group Yearbook: 3-3  人口出生率、死亡率、自然增长率 Birth Rate，Death Rate and Natural Growth Rate of Population: <http://tjj.xjbt.gov.cn/2020nj/table/03-03.htm> <http://tjj.xjbt.gov.cn/2020nj/table/03-03.xls>
+2019 Xinjiang Production Group Yearbook: 3-1   年末人口数及构成 Population and its Composition at Year-end [1952-2018]: <http://tjj.xjbt.gov.cn/2019nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2019nj/table/03-01.xls>
+2019 Xinjiang Production Group Yearbook: 3-3  人口出生率、死亡率、自然增长率 Birth Rate，Death Rate and Natural Growth Rate of Population [1953-2019]: <http://tjj.xjbt.gov.cn/2020nj/table/03-03.htm> <http://tjj.xjbt.gov.cn/2020nj/table/03-03.xls>
+2003 Xinjiang Production Group Yearbook: 3-1   年末人口数及构成(1978—2002年) POPULATION AND ITS COMPOSITION AT THE YEAR-END(1978—2002): <http://tjj.xjbt.gov.cn/2003nj/table/03-01.htm> <http://tjj.xjbt.gov.cn/2003nj/table/03-01.xls>
+2003 Xinjiang Production Group Yearbook: 3-3  人口出生率、死亡率、自然增长率(1978—2002年) BIRTH RATE，DEATH RATE AND NATURAL GROWTH RATE OF POPULATION(1978—2002): <http://tjj.xjbt.gov.cn/2003nj/table/03-03.htm> <http://tjj.xjbt.gov.cn/2003nj/table/03-03.xls>
+
+# fertility 2010
+2010 China Yearbook: 3-4 Total Population by Urban and Rural Residence and Birth Rate, Death Rate,Natural Growth Rate by Region (2009): <http://www.stats.gov.cn/tjsj/ndsj/2010/html/D0304E.HTM> <https://www.stats.gov.cn/tjsj/ndsj/2010/html/D0304E.XLS>
+
+# fertility: xinjiang
+2021 Xinjiang Yearbook: 3-1 主要年份人口数及构成 [3-1 Population and Composition in Main Years] <http://tjj.xinjiang.gov.cn/tjj/rkjyug/202203/5cbdcb79b0924739981c6517f0ee0bb2.shtml>
 #####c
 #####c
 
