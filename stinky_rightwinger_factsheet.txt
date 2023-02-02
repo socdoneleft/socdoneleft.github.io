@@ -8599,7 +8599,7 @@ Graber 2011: credit and debt preceded money: <https://u1lib.org/book/5101441/346
 
 #####
 #
-# global warming & energy production
+# global warming & energy production & climate change
 #
 #####o
 
@@ -8630,6 +8630,14 @@ IPCC AR6 2021: remaining carbon budget and carbon emission evolutions of each pl
 IPCC AR6 2021: we are rapidly elevating CO2 to levels not seen since 3 million years ago, when the world was 2.5-4 degrees hotter than 1850-1900 (about 1-3 degrees hotter than now): <https://www.ipcc.ch/report/ar6/wg1/> <https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf> https://cdn.discordapp.com/attachments/742557921849901077/874777257753841704/unknown.png
 IPCC AR6 2021: : <https://www.ipcc.ch/report/ar6/wg1/> <https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf> https://cdn.discordapp.com/attachments/742557921849901077/874779986656108604/unknown.png
 ######c
+
+#####
+# persuasion and messaging on climate change
+#####o
+# doomer messaging does not work, solutions-oriented messaging does
+Markowitz and Guckian 2018: : <https://www.worldcat.org/title/1039718518> <https://www.google.com/books/edition/Psychology_and_Climate_Change/46RBDwAAQBAJ> <http://libgen.is/book/index.php?md5=CAD6117C6C3C01503E5A5E241CB4AF7E> <https://cdn.discordapp.com/attachments/742557921849901077/1070841838472278067/manning2018.pdf> <https://www.sciencedirect.com/science/article/pii/B9780128131305000035> <https://sci-hub.ru/10.1016/B978-0-12-813130-5.00003-5> <https://cdn.discordapp.com/attachments/742557921849901077/1070841499308261487/markowitz2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1070841986363437056/image.png """3.3.5 Insight 5: Highlight solutions Much of the existing work on framing, mental models, and risk communication more broadly (e.g., Witte & Allen, 2000) suggests that effective CCC requires a focus on solutions rather than solely highlighting impacts and causes (e.g., CRED & ecoAmerica, 2014). Although this makes intuitive sense, the vast majority of existing climate communication does just the opposite, highlighting the anthropogenic causes of the problem as well as the multitude of diverse and depressing anticipated impacts of unmitigated and continued climate change without a clear focus on what can be done to remedy the situation (see Hart & Feldman, 2014). The problem is that such negative, risk-oriented messaging, while likely aligning well with the motives and concerns of many climate communicators, tends to increase the salience of the issue at the cost of depressing individuals’ feelings of efficacy and motivation to take action (e.g., Chapman et al., 2016; O’Neill et al., 2013). Moreover, and more importantly, such impacts-focused messaging leads many individuals and audiences to simply turn off from the issue, if not spiral into unproductive denial or feelings of hopelessness (Feinberg & Willer, 2011; Hulme, 2009). Such problematic messaging is perpetuated by the popular press and media (Painter, 2013), which inconsistently convey threat and efficacy messages while framing climate change impacts and actions (Hart & Feldman, 2014)."""
+Markowitz and Guckian 2018: : <https://www.worldcat.org/title/1039718518> <https://www.google.com/books/edition/Psychology_and_Climate_Change/46RBDwAAQBAJ> <http://libgen.is/book/index.php?md5=CAD6117C6C3C01503E5A5E241CB4AF7E> <https://cdn.discordapp.com/attachments/742557921849901077/1070841838472278067/manning2018.pdf> <https://www.sciencedirect.com/science/article/pii/B9780128131305000035> <https://sci-hub.ru/10.1016/B978-0-12-813130-5.00003-5> <https://cdn.discordapp.com/attachments/742557921849901077/1070841499308261487/markowitz2018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1070853395289751552/image.png
+#####c
 
 #####
 # causes: consensus
