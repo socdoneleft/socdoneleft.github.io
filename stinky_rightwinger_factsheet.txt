@@ -5767,6 +5767,16 @@ CHRD 2018: interview with eight (!) Uyghur villagers: <https://www.nchrd.org/201
 #####c
 
 #####
+# sources of graphs to replicate
+#####o
+HRW: <https://www.hrw.org/news/2021/02/24/china-baseless-imprisonments-surge-xinjiang>
+NYT: <https://www.nytimes.com/2019/08/31/world/asia/xinjiang-china-uighurs-prisons.html>
+Vox: <https://www.vox.com/future-perfect/22311356/china-uyghur-birthrate-sterilization-genocide>
+Wikipedia: <https://commons.wikimedia.org/wiki/File:Geburtenraten_in_China_und_Xinjiang_2004_bis_2019_China_Statistical_Yearbooks_2005-2020.png>
+NPR: <https://www.npr.org/2019/10/08/764153179/china-has-begun-moving-xinjiang-muslim-detainees-to-formal-prisons-relatives-say>
+#####c
+
+#####
 # high rate of arrests: confirmed by chinese state data
 #####o
 # my graphs
@@ -5800,21 +5810,6 @@ index page: <https://www.spp.gov.cn/spp/gzbg/index.shtml> <https://archive.vn/OG
 2019: 935432 criminal arrests, 1413742 criminal indictments: <https://www.spp.gov.cn/spp/gzbg/202006/t20200601_463798.shtml> <https://archive.vn/yPFJt> """批准逮捕各类犯罪嫌疑人1088490人、提起公诉1818808人，同比分别上升3%和7.4%。[。]""""""Approved the arrest of 1,088,490 criminal suspects of various types, and the prosecution of 1,818,808 people, a year-on-year increase of 3% and 7.4% respectively."""
 2020: 770561 criminal arrests, 1572971 criminal indictments: <https://www.spp.gov.cn/spp/gzbg/202103/t20210315_512731.shtml> <https://archive.ph/kSqBt> """着力推进更高水平的平安中国、法治中国建设，自觉在提升国家治理效能中担当作为。批准逮捕各类犯罪嫌疑人770561人、提起公诉1572971人。""""""Efforts to advance more High-level construction of a safe China and rule of law China, and consciously play a role in improving the effectiveness of national governance. Approved the arrest of 770,561 criminal suspects of various types, and prosecuted 1,572,971 people."""
 2021: 868445 criminal arrests, 1748962 criminal indictments: <https://www.spp.gov.cn/spp/gzbg/202203/t20220315_549267.shtml> <https://archive.ph/ErPVO> """坚决维护国家安全和社会安定。全年批准逮捕各类犯罪嫌疑人868445人，提起公诉1748962人，同比分别上升12.7%和11.2%。""""""Resolutely safeguard national security and social stability. Throughout the year, approved the arrest of 868,445 criminal suspects of various types, and prosecuted 1,748,962 people, up 12.7% and 11.2% year-on-year respectively."""
-
-# state publications: people's procuratorate
-2020 SPP (2021 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2021/html/E24-07.jpg Table 24-7 Arrests and Prosecution Approved by People's Procuratorate (2020)
-2019 SPP (2020 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2020/html/E2407.jpg Table 24-7 Arrests and Prosecution Approved by People's Procuratorate (2019)
-2018 SPP (2019 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2019/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2019/html/E2407.jpg 24-7 Arrests and Prosecution Approved by People's Procuratorate (2018)
-2017 SPP (2018 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2018/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2018/html/EN2408.jpg Table 24-8 Arrests and Prosecution Approved by People's Procuratorate (2017)
-2016 SPP (2017 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2017/html/EN2408.jpg 24-8 Arrests and Prosecution Approved by People's Procuratorate (2016)
-2015 SPP (2016 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2016/html/2408EN.jpg Table 24-8 Arrests and Prosecution Approved by People's Procuratorate (2015)
-2014 SPP (2015 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2015/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2015/html/EN2408.jpg Table 24-8 Arrests and Prosecution Approved by People's Procuratorate (2014)
-2013 SPP (2014 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2014/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2014/zk/html/Z2408E.xls> http://www.stats.gov.cn/tjsj/ndsj/2014/zk/html/Z2408E.JPG Table 24-8 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2013)
-2012 SPP (2013 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2013/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2013/html/Z2310E.xls> http://www.stats.gov.cn/tjsj/ndsj/2013/html/Z2310E.JPG Table 23-10 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2012)
-2011 SPP (2012 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2012/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2012/html/W2318E.xls> Table 23-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2011)
-2010 SPP (2011 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2011/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2011/html/W2318E.xls> Table 23-18  Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2010)
-2009 SPP (2010 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2010/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2010/html/W2218E.xls> Social Services and Others > Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2009)
-2008 SPP (2009 Yearbook): <https://www.stats.gov.cn/tjsj/ndsj/2009/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2009/html/W2218E.xls> Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2008)
 
 # state publications: tibet
 index page: <http://www.xz.jcy.gov.cn/jwgk/gzbg/> <https://archive.ph/JuuHY>
@@ -5860,6 +5855,46 @@ index page: <http://www.nm.jcy.gov.cn/ygjw/gzbg/> <https://archive.ph/wip/heZPX>
 2009: 15963 criminal arrests, 20012 criminal prosecutions: <http://www.nm.jcy.gov.cn/ygjw/gzbg/201405/t20140526_1400438.shtml> <https://archive.ph/VD4gj> """全年批准逮捕刑事犯罪嫌疑人15963人，提起公诉20012人，同比上升3.8%和2.0%;""""""Approved the arrest of 15963 criminal suspects and prosecuted 20012, up 3.8% and 2.0% year-on-year;"""
 2008: 15382 criminal arrests, 19629 criminal prosecutions: <http://www.nm.jcy.gov.cn/ygjw/gzbg/201405/t20140526_1400423.shtml> <https://archive.ph/8sJsZ> """全年共批准逮捕各类刑事犯罪嫌疑人15382人，提起公诉19629人，同比分别上升13.2%和19.0%。""""""Throughout the year, a total of 15382 criminal suspects of various types were arrested, and 19629 were prosecuted, representing an increase of 13.2% and 19.0% respectively."""
 2003-2007: <http://www.nm.jcy.gov.cn/ygjw/gzbg/201405/t20140526_1400414.shtml> <https://archive.ph/9votG> """五年来，共批准逮捕各类刑事犯罪嫌疑人62794人，提起公诉74749人，比前五年分别上升12.6%和28.0%。""""""In the past five years, a total of 62794 criminal suspects were arrested and 74749 people were prosecuted, up 12.6% and 28.0% respectively over the previous five years."""
+#####c
+
+#####
+# yearbooks
+#####o
+# national yearbooks: arrest data
+2020 SPP (2021 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2021/html/E24-07.jpg Table 24-7 Arrests and Prosecution Approved by People's Procuratorate (2020)
+2019 SPP (2020 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2020/html/E2407.jpg Table 24-7 Arrests and Prosecution Approved by People's Procuratorate (2019)
+2018 SPP (2019 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2019/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2019/html/E2407.jpg 24-7 Arrests and Prosecution Approved by People's Procuratorate (2018)
+2017 SPP (2018 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2018/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2018/html/EN2408.jpg Table 24-8 Arrests and Prosecution Approved by People's Procuratorate (2017)
+2016 SPP (2017 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2017/html/EN2408.jpg 24-8 Arrests and Prosecution Approved by People's Procuratorate (2016)
+2015 SPP (2016 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2016/html/2408EN.jpg Table 24-8 Arrests and Prosecution Approved by People's Procuratorate (2015)
+2014 SPP (2015 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2015/indexeh.htm> http://www.stats.gov.cn/tjsj/ndsj/2015/html/EN2408.jpg Table 24-8 Arrests and Prosecution Approved by People's Procuratorate (2014)
+2013 SPP (2014 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2014/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2014/zk/html/Z2408E.xls> http://www.stats.gov.cn/tjsj/ndsj/2014/zk/html/Z2408E.JPG Table 24-8 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2013)
+2012 SPP (2013 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2013/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2013/html/Z2310E.xls> http://www.stats.gov.cn/tjsj/ndsj/2013/html/Z2310E.JPG Table 23-10 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2012)
+2011 SPP (2012 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2012/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2012/html/W2318E.xls> Table 23-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2011)
+2010 SPP (2011 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2011/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2011/html/W2318E.xls> Table 23-18  Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2010)
+2009 SPP (2010 Yearbook): <http://www.stats.gov.cn/tjsj/ndsj/2010/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2010/html/W2218E.xls> Social Services and Others > Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2009)
+2008 SPP (2009 Yearbook): <https://www.stats.gov.cn/tjsj/ndsj/2009/indexeh.htm> <http://www.stats.gov.cn/tjsj/ndsj/2009/html/W2218E.xls> Table 22-18 Arrests of Criminal Suspects and Defendants under Public Prosecution Approved by People's Procuratorate (2008)
+
+# xinjiang
+<http://tjj.xinjiang.gov.cn/tjj/zhhvgh/list_nj1.shtml>
+2020 Yearbook: <http://tjj.xjbt.gov.cn/2020nj/mainindex.htm>
+2019 Yearbook: <http://tjj.xjbt.gov.cn/2019nj/mainindex.htm?
+2018 Yearbook: <http://tjj.xjbt.gov.cn/2018nj/mainindex.htm>
+2017 Yearbook: <http://tjj.xjbt.gov.cn/2017nj/mainindex.htm>
+2016 Yearbook: <http://tjj.xjbt.gov.cn/2016nj/mainindex.htm>
+2015 Yearbook: <http://tjj.xjbt.gov.cn/2015nj/mainindex.htm>
+2014 Yearbook: <http://tjj.xjbt.gov.cn/2014nj/mainindex.htm>
+2013 Yearbook: <http://tjj.xjbt.gov.cn/2013nj/2013mainindex.htm>
+2012 Yearbook: <http://tjj.xjbt.gov.cn/2012nj/2012mainindex.htm>
+2011 Yearbook: <http://tjj.xjbt.gov.cn/2011nj/2011mainindex.htm>
+2010 Yearbook: <http://tjj.xjbt.gov.cn/2010nj/2010mainindex.htm>
+2009 Yearbook: <http://tjj.xjbt.gov.cn/2009nj/2009mainindex.htm>
+2008 Yearbook: <http://tjj.xjbt.gov.cn/2008nj/2008mainindex.htm>
+2007 Yearbook: <http://tjj.xjbt.gov.cn/2007nj/2007mainindex.htm>
+2006 Yearbook: <http://tjj.xjbt.gov.cn/2006nj/2006mainindex.htm>
+2005 Yearbook: <http://tjj.xjbt.gov.cn/2005nj/2005mainindex.htm>
+2004 Yearbook: <http://tjj.xjbt.gov.cn/2004nj/2004maincatalog.htm>
+2003 Yearbook: <http://tjj.xjbt.gov.cn/2003nj/2003maincatalog.htm>
 #####c
 #####c
 
@@ -6257,7 +6292,7 @@ Wheatcroft 2009: estimates of crude mortality rate by punishment from 1890 to 19
 Getty 1993: <https://academic.oup.com/ahr/article-abstract/98/4/1017/126966> <https://sci-hub.se/10.1086/ahr/98.4.1017> <https://cdn.discordapp.com/attachments/742557921849901077/855104448186548264/getty1993.pdf> https://cdn.discordapp.com/attachments/742557921849901077/855118182979993600/unknown.png The penal system administered by the NKVD (Peoples' Commissariat of Internal Affairs) in the 1930s had several components: prisons, labor camps, and labor colonies, as well as "special settlements" and various types of non-custodial supervision. Generally speaking, the first stop for an arrested person was a prison, where an investigation and interrogation led to conviction or, more rarely, release.7 After sentencing, most victims were sent to one of the labor camps or colonies to serve their terms.
 
 # on soviet legalism: why documentation is easily available for the soviet union's killings
-Wheatcroft 1996: Stalin demanded sham trials and documentation; Hitler demanded suppression of evidence: <https://www.tandfonline.com/doi/pdf/10.1080/09668139608412415> <https://sci-hub.se/10.1080/09668139608412415> <https://cdn.discordapp.com/attachments/742557921849901077/854781720234557441/wheatcroft1996.pdf> https://cdn.discordapp.com/attachments/742557921849901077/960069462885793832/unknown.png
+Wheatcroft 1996: legalism: Stalin demanded sham trials and documentation; Hitler demanded suppression of evidence: <https://www.tandfonline.com/doi/pdf/10.1080/09668139608412415> <https://sci-hub.se/10.1080/09668139608412415> <https://cdn.discordapp.com/attachments/742557921849901077/854781720234557441/wheatcroft1996.pdf> https://cdn.discordapp.com/attachments/742557921849901077/960069462885793832/unknown.png
 Wheatcroft 2009: legalism: with exception of the scarce true mass operations, most trials and executions were documented for each individual: <https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199655663.001.0001/acprof-9780199655663-chapter-16> <https://u1lib.org/book/5235697/f206ee> <https://cdn.discordapp.com/attachments/742557921849901077/854094075359526942/harris2013.pdf> https://cdn.discordapp.com/attachments/742557921849901077/960061474779328532/unknown.png
 
 # on distinguishing incarceration from manslaughter from purposive killings
