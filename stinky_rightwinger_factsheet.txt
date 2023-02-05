@@ -11998,6 +11998,32 @@ Aeschimann 2006 in Le Monde: in Iraq and Afghanistan, Courtois supported America
 #####c
 
 #####
+# north korean famine
+#####o
+# summary
+after the collapse of the Soviet Union (and several floods and droughts and collapse of heavy industry and the failure of the food distribution system), hundreds of thousands of North Korean residents died: <https://en.wikipedia.org/wiki/North_Korean_famine>
+
+# death toll estimates
+Spoorenberg Schwekendiek 2012:  <https://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2012.00475.x> <https://sci-hub.st/10.1111/j.1728-4457.2012.00475.x> <https://cdn.discordapp.com/attachments/742557921849901077/1071618046864658532/spoorenberg2012.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1071618623648571494/image.png """Only three studies have provided a conventional demographic perspective (Robinson et al. 1999; Goodkind and West 2001; Goodkind, West, and Johnson 2011).""""""Using counterfactual population projections, we reappraised the demographic impact of the famine. According to the first three counterfactual mortality scenarios, the total number of excess deaths caused by the famine in the 1990s came to between 240,000 and 420,000, a range well below the widely accepted previous estimates of 600,000 to one million total excess deaths or the recent revision that set the number between 500,000 and 600,000 (Goodkind, West, and Johnson 2011: 12). While the new estimates proposed here indicate a substantially lower number of deaths, they still point to a high number of deaths that could have been avoided."""
+
+#####c
+
+#####
+# great leap forward death toll estimates
+#####o
+# death toll estimates
+Peng 1987: demographic data suggests a death toll of 23 million: <https://www.jstor.org/stable/1973026> <https://sci-hub.st/10.2307/1973026> <https://cdn.discordapp.com/attachments/742557921849901077/1071607548177813545/peng1987.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1071607481773588520/image.png Demographic Consequences of the Great Leap Forward in China's Provinces """Therefore, assuming that the experience for the remaining provinces was on average similar to those we measured and that the underreporting of deaths was some 10 percent higher during the crisis than in the preceding period, the total number of excess deaths for China as a whole may have amounted to 23 million. This is a very rough estimate that should be interpreted with great caution. The reliability of some provincial data is open to question. In addition, estimation of national figures from provincial data may introduce distortion. More work is necessary to reconstruct China's population history for this period."""
+Yao 1999: <https://www.jstor.org/stable/10.1086/250100> <https://sci-hub.st/10.1086/250100> <https://cdn.discordapp.com/attachments/742557921849901077/1071610807483379762/yao1999.pdf> A Note on the Causal Factors of China’s Famine in 1959–1961
+Houser Sands Xiao 2007: combining demographic data with weather data suggests that about 69% of 15.4 million excess deaths resulted from national policy, or 10.6 million: <https://www.sciencedirect.com/science/article/abs/pii/S0167268108001777> <https://sci-hub.st/10.1016/j.jebo.2007.09.008> <https://cdn.discordapp.com/attachments/742557921849901077/1071608636922671254/houser2009.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1071608695588401183/image.png Three parts natural, seven parts man-made: Bayesian analysis of China’s Great Leap Forward demographic disaster // NOTE: text does not align with table: """Based on our definitions and population estimates we find that, in aggregate, from 1959 to 1961 China suffered about 14.8 million excess deaths. Of those, about 71% seem attributable to effects stemming from national policies. We find that only one region, Shaanxi, did not experience excess deaths during the period 1959–1961. Within the remaining regions, national policy often predicts all of their excess deaths over the famine period.""" 14,800,000*71%=10508000=10.5 million // table: 15,353,567 excess, 69% percent of excess deaths due to national effect, 15,353,567*69%=10593961.2=10.6 million
+^ the same errors occur in Houser Sands Xiao 2005 preprint: <https://kilthub.cmu.edu/articles/journal_contribution/Three_Parts_Natural_Seven_Parts_Man-Made_Bayesian_Analysis_of_China_s_Great_Leap_Forward_Demographic_Disaster/6571502> <https://cdn.discordapp.com/attachments/742557921849901077/1071612080148455464/houser2005.pdf>
+Meng Qian Yared 2015: <https://academic.oup.com/restud/article-abstract/82/4/1568/2607347> <https://sci-hub.st/10.1093/restud/rdv016> <https://cdn.discordapp.com/attachments/742557921849901077/1071614123093266495/meng2015.pdf>
+
+# causes of decline in grain output
+Li Yang 2005: <https://www.journals.uchicago.edu/doi/full/10.1086/430804> <https://sci-hub.st/10.1086/430804> <https://cdn.discordapp.com/attachments/742557921849901077/1071612992543801354/li2005.pdf> """Our findings suggest that the most important causal factor is the diversion of resources from agriculture, which was responsible for 33 percent of the collapse of output between 1958 and 1961. Excessive procurement of grain, which decimated the physical strength of the peasantry, is the next largest contributor, accounting for 28.3 percent of the decline in output. Bad weather did play a role, contributing to 12.9 percent of the collapse in production. The crisis thus had the marks of a perfect storm."""
+Clement 2012: supports above conclusions: <https://link.springer.com/article/10.1007/s11698-011-0065-4> <https://sci-hub.st/10.1007/s11698-011-0065-4> <https://cdn.discordapp.com/attachments/742557921849901077/1071613575463972966/clement2015.pdf>
+#####c
+
+#####
 # fake gulag death rate graph
 #####o
 # fake graph
