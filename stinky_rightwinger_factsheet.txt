@@ -8990,8 +8990,13 @@ ocean plastic pollution is estimated to cost $.5 to 2.5 trillion per year: <http
 #####
 # bees
 #####o
-world bee population has increased 65% since 1960: <https://www.farmmeetstable.com/en/protecting-our-environment/2018/are-honey-bees-really-dying-out> https://cdn.discordapp.com/attachments/418850379518705675/687772577703395361/unknown.png
+# academic sources on managed bee populations
+van Engelsdorp Meixner 2010: managed honey bee populations are increasing, per FAOSTAT: <https://www.sciencedirect.com/science/article/abs/pii/S0022201109001827> <https://sci-hub.ru/10.1016/j.jip.2009.06.011> https://cdn.discordapp.com/attachments/820860600800378881/1073307478927876287/image.png
+Halvorson et al 2021: reported honey bee populations are increasing in most regions while other pollinators are decreasing: <https://www.fao.org/documents/card/en/c/cb4802en> <https://www.fao.org/3/cb4802en/cb4802en.pdf> https://cdn.discordapp.com/attachments/820860600800378881/1073308463763038229/image.png
 pesticides and parasites have reduces bee population growth; however, the major causes of bee population decline in the West has been a shift of bee production to the east: <https://link.springer.com/article/10.1007/s10393-013-0870-2> <https://sci-hub.ru/10.1007/s10393-013-0870-2> """Long-term declines in honey bee colony numbers (i.e., the steady decrease in the overall number of colonies over time) in Europe and the U.S. appear to be associated with political and socioeconomic factors. They have involved more than a 25% decrease of European colonies since the mid-1980s and nearly a 60% decrease in the U.S. (Fig. 1) (Potts et al. 2010a). The collapse of the U.S.S.R. in the 1990s reduced governmental financing of beekeeping in former Soviet countries of eastern Europe, causing a 50% reduction in managed colony numbers there (Aizen and Harder 2009). In western Europe, higher production costs, competition from cheaper imported honey, and increased affordability of sugar-based products have led to a 30% decrease in beekeepers and a 25% decrease in colony numbers since 1985 (Aizen and Harder 2009; Potts et al. 2010a). Honey demand and prices had already fallen in the U.S. at the end of WWII, making beekeeping less profitable. Declines were compounded by rapid expansion of honey importation from China, Argentina, and Vietnam during the 1960s leading to reduced demand for domestic honey (Daberkow et al. 2009; vanEngelsdorp and Meixner 2010). [....] Additionally, long-term declines in the U.S. may be artificially heightened by the counting methods used by the USDA National Agricultural Statistics Service (NASS). A widely cited reduction by one million colonies during the 1980s (Fig. 1) coincides with NASS discontinuing the inclusion of colonies from operations with five or fewer hives (vanEngelsdorp and Meixner 2010)."""
+
+# pesticide industry source
+Bayer 2018: world managed honey bee population has increased 65% since 1960: <https://web.archive.org/web/20190517134708/https://www.farmmeetstable.com/en/protecting-our-environment/2018/are-honey-bees-really-dying-out> https://cdn.discordapp.com/attachments/418850379518705675/687772577703395361/unknown.png [note: source is pesticide industry]
 #####c
 
 #####
@@ -9409,8 +9414,7 @@ Kliman 2002 then adjusts the price and value of each sector by its aggregate lab
 Kliman 2002: after adjustment, no correlation between labor input and value occurs: <https://academic.oup.com/cje/article-abstract/26/3/299/1711462> <https://sci-hub.ru/10.1093/cje/26.3.299> <https://cdn.discordapp.com/attachments/418850379518705675/787155135120801852/kliman2002.pdf> https://cdn.discordapp.com/attachments/418850379518705675/787168573180739604/unknown.png """Once the effects of industry size are removed, it is not the case that prices are high in high-value sectors and low in low-value sectors. Rather, size-adjusted prices and values are close only in the sense that almost all sectors’ prices are close to almost all sectors’ values. I thus find that, on average, a sector’s value is no better a predictor of its price than is a random variable with the same probability distribution as the values."""
 Kliman also demonstrates that transforming the values in the way they propose (dividing by total cost) would still produce values in line with theory, if the theory were correct: <https://academic.oup.com/cje/article-abstract/26/3/299/1711462> <https://sci-hub.ru/10.1093/cje/26.3.299> <https://cdn.discordapp.com/attachments/418850379518705675/787155135120801852/kliman2002.pdf> https://cdn.discordapp.com/attachments/418850379518705675/787168870120423444/unknown.png """Table 2 also shows that the simulations closely mirror theoretical expectations. This is important to emphasise because it has been suggested (OPE-L Archives, Feb.–Mar., 1999; see esp. posts 439, 443, 457 and 476) that deflation of prices and values by costs destroys a valid relationship between them. The source of the problem is supposedly that costs and values are too highly correlated. Yet although the simulations assumed value– cost correlations almost identical to the actual ones, they yielded average values for the intercept and slope terms extremely close to those predicted by theory, as well as small standard deviations. This again demonstrates that, if the labour theory of relative prices were true, the price–value relationship would be preserved under transformation."""
 ^ Zachariah response suggests that industry size deflation is wrong -- but presents no argumentation as to why: <https://cdn.discordapp.com/attachments/418850379518705675/787159590440796170/zachariah2006.pdf> """Hence it would be inappropriate to deflate industry outputs by size, as suggested in Kliman [10, sec. 4], in order to address any spurious correlation arising from aggregation. This should rather be done by using less aggregated data or comparing results to alternative predictors as in section 4.3."""
-^ Cockshott response is similar: [1] Question how we should account for "size" of industries and [2] Demonstrate that nonlabor inputs (such as chemicals) don't correlate well with output (labor is near 1:1, chemicals are .5:1): <https://youtu.be/9-96kJSFFVI?t=671>
-<https://youtu.be/9-96kJSFFVI?t=909>
+^ Cockshott response is similar: [1] Question how we should account for "size" of industries and [2] Demonstrate that nonlabor inputs (such as chemicals) don't correlate well with output (labor is near 1:1, chemicals are .5:1): <https://youtu.be/9-96kJSFFVI?t=671> <https://youtu.be/9-96kJSFFVI?t=909>
 
 # unfavorable studies: kliman 2004
 Kliman 2004: presents an example of the type Nitzan presents more fully: <https://www.emerald.com/insight/content/doi/10.1016/S0161-7230(04)21009-4/full/html> <https://sci-hub.ru/10.1016/S0161-7230(04)21009-4> <https://cdn.discordapp.com/attachments/418850379518705675/787172951560683530/kliman2004.pdf>
@@ -9421,6 +9425,12 @@ Kliman 2005: responds to Cockshott and Cottrell's alternate simulation by pointi
 # unfavorable studies: nitzan and bichler
 Nitzan and Bichler 2009: presents an example demonstrating that, even when price and value are totally uncorrelated, aggregate price and value will be strongly correlated (demonstrating that this correlation is spurious): <http://bnarchives.yorku.ca/308/> <http://bnarchives.yorku.ca/308/2/20101200_cockshott_nitzan_bichler_testing_the_ltv_exchange_web.htm> <http://bnarchives.yorku.ca/308/04/20101200_cockshott_nitzan_bichler_testing_the_ltv_spurious_correlation.xls> https://cdn.discordapp.com/attachments/418850379518705675/787375824458350612/unknown.png
 ^ Google Sheets version of the above: <https://docs.google.com/spreadsheets/d/1q2g_z9G8g6brDVv005YFgotxYAIc2OtDJCKwRjq8Y44/edit>
+
+# cockshott's response to nitzan and bichler
+Baeza 2010: todo reread xxx: <https://www.researchgate.net/publication/262544029_Dimensional_analysis_of_price-value_correspondence_A_spurious_case_of_spurious_correlation> <https://www.revistas.unam.mx/index.php/rie/article/view/24260> <https://sci-hub.ru/10.22201/fe.01851667p.2010.274.24260> <https://cdn.discordapp.com/attachments/820860600800378881/1073311060645392405/baeza2010.pdf>
+
+# blair fix's response to cockshott
+<https://economicsfromthetopdown.com/2021/09/11/how-the-labor-theory-of-value-emerges-from-egalitarianism/>
 
 # favorable studies: cockshott, cottrell, zacharaiah
 Cockshott 2018: integrated labor inputs to a sector strongly predict the total value of that sector: <https://youtu.be/emnYMfjYh1Q?t=482> https://cdn.discordapp.com/attachments/418850379518705675/542389573125406720/unknown.png
@@ -9439,12 +9449,15 @@ Tsoulfidis and Paitaridis 2016: <https://www.tandfonline.com/doi/full/10.1080/09
 #####c
 
 #####
-# labor theory of value: evidence 2: prices vs supply (very weak evidence, can be explained with sticky prices, stocks of good, co-varying supply and demand, etc.)
+# labor theory of value: evidence 2: prices vs supply
 #####
-# empirics on sticky prices
+# summary
+The stickiness of prices is **very weak evidence** for the labor theory of value. It can easily be explained with sticky prices, existing stocks of goods, co-movement of supply and demand, etc. This leaves little need for the LTV (a more extraordinary claim).
+
+# how long do sticky prices last?
 Bils and Klenow 2004: between 1995 and 2002, the median good held its price for a median of 4.5 months: <https://www.journals.uchicago.edu/doi/full/10.1086/422559> <https://sci-hub.ru/10.1086/422559> <https://cdn.discordapp.com/attachments/418850379518705675/787187702407364668/bils2004.pdf> https://cdn.discordapp.com/attachments/418850379518705675/787188174027620372/unknown.png
 
-# favorable studies
+# business cycle supply and price variation
 Puty 2007: prices vary much less (about 3-4x) than supply over a business cycle: <https://scholar.google.com/scholar?q=%22Prices%2C+Distribution+and+the+Business+Cycle%22> <https://cdn.discordapp.com/attachments/418850379518705675/787181469977149460/puty2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/550853466059309078/unknown.png
 Shaikh 2016: prices vary much less (about 3-4x) than supply over a business cycle: <https://youtube.com/watch?v=DfmVWVYOOxs?list=PLB1uqxcCESK6B1juh_wnKoxftZCcqA1go&t=1607> <https://www.youtube.com/watch?v=1ji_3v5yWLg&feature=youtu.be&t=1241> <https://u1lib.org/book/2711659/fe127f> <https://cdn.discordapp.com/attachments/418850379518705675/787023579048312842/Shaikh2016.pdf> https://cdn.discordapp.com/attachments/418850379518705675/550852581551767562/unknown.png
 #####c
