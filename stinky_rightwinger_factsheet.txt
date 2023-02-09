@@ -1756,17 +1756,26 @@ california's housing crisis is almost entirely due to insufficient building of n
 #####o
 
 #####
-# private social spending vs public spending: scope (ancap talking point)
+# private social spending
 #####o
+# summary
+Private social spending is not the same as private charity. Private social spending includes any spending by individuals on "social" goods (education, healthcare, etc.), whether voluntary or compelled (as by Obamacare's insurance mandate).
+
 # scope: private social spending
 private social spending (including both mandatory spending, eg employer-sponsored healthcare, and voluntary spending) constitutes ~27.5% of total US consumption of goods and services: <https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/> https://cdn.discordapp.com/attachments/418850379518705675/720047240839954432/image3.png
-Inequality before and after taxes are tightly correlated: <https://wir2022.wid.world/www-site/uploads/2022/03/0098-21_WIL_RIM_RAPPORT_A4.pdf> https://cdn.discordapp.com/attachments/742557921849901077/993267210011283516/unknown.png
 
+# effects on inequality
+public social spending as a percent of total consumption correlates with decreased poverty; private social spending does not: <https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/> https://cdn.discordapp.com/attachments/418850379518705675/725505183609782293/image1.png
+#####c
+
+#####
+# private social spending vs public spending: scope (ancap talking point)
+#####o
 # scope: private charity
 in 2011, the top 1% by wealth of Americans gave only .5% of their wealth to charity, regardless of wealth: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098950186926080/unknown.png
 during the Great Depression, private charity rose from ~$10 million to $70 million at its peak (+$60 million increae, 696%); public spending increased from ~$33 million to $1035 million (+$1002 million, 3130%): <https://www.econlib.org/library/Enc/Charity.html#lfHendersonCEE2-022_table_008> https://cdn.discordapp.com/attachments/418850379518705675/636703555755180039/unknown.png
 
-# public spending in the gilded era [unformatted, reread xxx]
+# private charity in the gilded era [unformatted, reread xxx]
 there was never a time when the state was uninvolved in helping the needy: <https://democracyjournal.org/magazine/32/the-voluntarism-fantasy/> [A] significant amount of research has been done over the past several decades to overturn the myth of a stateless nineteenth century and to rediscover the lost role of the state in the pre-New Deal world. [....] As the political scientist Theda Skocpol has documented, there were also multiple examples of state-issued social insurance programs before the New Deal. In the wake of the Civil War, Congress established an elaborate system of pensions for veterans. At its height in 1910, this de facto disability and old-age pension system delivered benefits to more than 25 percent of all American men over 65, accounting for a quarter of the federal government’s expenditures. Between 1911 and 1920, 40 states passed laws establishing “mothers’ pensions” for single women with children. These programs provided payments for needy widowed mothers in order to allow them to provide for their children.
 #####c
 
@@ -1775,12 +1784,6 @@ there was never a time when the state was uninvolved in helping the needy: <http
 #####o
 # public spending reduces inequality
 higher social spending correlates with lower inequality: <https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/> https://cdn.discordapp.com/attachments/418850379518705675/720047251937951865/image5.png
-
-# private charity doesn't reduce inequality
-Exhaustive longitudinal research on the topic by Duquette (2018) strongly challenges this proposition. Using US federal and state income, inequality and charitable contribution data for the period 1917 to 2012, he finds (p. 38) ‘a robust negative association between the charitable giving of high-income households and income inequality... [rebutting] the argument that the philanthropy of the rich has reduced inequality over time’. When levels of income inequality have been high, as between the two world wars and since 1987, charitable giving as a share of the incomes of the top 0.1% of earners has been relatively low, whereas when inequality was relatively low, in the decades immediately following 1945, the rich donated far higher percentage shares of income to charitable causes. Duquette (2018, p. 25) concludes that ‘higher income inequality is associated with a reduced share of income given by the rich’.
-
-# [misleading, don't cite] public spending reduces poverty while private social spending doesn't reduce poverty
-public social spending as a percent of total consumption correlates with decreased poverty; private social spending does not: <https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/> https://cdn.discordapp.com/attachments/418850379518705675/725505183609782293/image1.png
 
 # scope: private charity by sector
 in 2011 in the USA, the top 1% by wealth of Americans gave 6.2% of their donations (.031% of their wealth) to political causes, 6.3% (.0315%) youth development, 7.3 (.0365%) private/community foundations, 7.9% (.0395%) anti-poverty causes, 9.7% (.0485%) arts and culture, 11.6% (.058%) health, 16.3% (.0825%) religious causes, and 22.2% (.111%) to education: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098474515103755/unknown.png
@@ -1848,6 +1851,9 @@ children of parents who received a $4,000/yr income boost from a Cherokee casino
 #####
 # welfare and social spending
 #####o
+# taxation vs predistribution
+Inequality before and after taxes are tightly correlated: <https://wir2022.wid.world/www-site/uploads/2022/03/0098-21_WIL_RIM_RAPPORT_A4.pdf> https://cdn.discordapp.com/attachments/742557921849901077/993267210011283516/unknown.png
+
 # scope
 amount and type of welfare received by a chicago parent with two children, by income, in Chicago: <https://files.illinoispolicy.org/wp-content/uploads/2015/06/Welfare_Report_finalfinal.pdf> https://cdn.discordapp.com/attachments/418850379518705675/631217671869956169/unknown.png
 
