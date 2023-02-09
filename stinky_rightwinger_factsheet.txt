@@ -1751,12 +1751,12 @@ california's housing crisis is almost entirely due to insufficient building of n
 
 #####
 #
-# redistribution: helping the poor is good
+# private charity and voluntarism
 #
 #####o
 
 #####
-# private social spending
+# private social spending: not the same as charity!
 #####o
 # summary
 Private social spending is not the same as private charity. Private social spending includes any spending by individuals on "social" goods (education, healthcare, etc.), whether voluntary or compelled (as by Obamacare's insurance mandate).
@@ -1769,45 +1769,66 @@ public social spending as a percent of total consumption correlates with decreas
 #####c
 
 #####
-# private social spending vs public spending: scope (ancap talking point)
+# scope of private charity
 #####o
-# scope: private charity
-in 2011, the top 1% by wealth of Americans gave only .5% of their wealth to charity, regardless of wealth: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098950186926080/unknown.png
-during the Great Depression, private charity rose from ~$10 million to $70 million at its peak (+$60 million increae, 696%); public spending increased from ~$33 million to $1035 million (+$1002 million, 3130%): <https://www.econlib.org/library/Enc/Charity.html#lfHendersonCEE2-022_table_008> https://cdn.discordapp.com/attachments/418850379518705675/636703555755180039/unknown.png
+# summaries of scope
+Duquette 2019: total giving slowly increased from around 1.2% of GDP in 1930 to around 2% of GDP in 2017 (or around 0.008pp per year): <https://www.cambridge.org/core/journals/business-history-review/article/abs/founders-fortunes-and-philanthropy-a-history-of-the-us-charitablecontribution-deduction/F6328324C2B48D598786CC66BDC5B0BF> <https://sci-hub.ru/10.1017/S0007680519000710> <https://cdn.discordapp.com/attachments/742557921849901077/1073381655680647229/duquette2019.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1073381609803362384/image.png
+Reich Wimer 2012: from 1969 to 2011, private charity decreased from 2.1% of GDP to 2.0% of GDP:: <https://www.russellsage.org/research/reports/charitable-giving-recession> <https://cdn.discordapp.com/attachments/742557921849901077/939388847509360730/reich2012.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1073072221934854174/reich2012.pdf> https://cdn.discordapp.com/attachments/418850379518705675/636700753716576296/unknown.png
 
-# private charity in the gilded era [unformatted, reread xxx]
-there was never a time when the state was uninvolved in helping the needy: <https://democracyjournal.org/magazine/32/the-voluntarism-fantasy/> [A] significant amount of research has been done over the past several decades to overturn the myth of a stateless nineteenth century and to rediscover the lost role of the state in the pre-New Deal world. [....] As the political scientist Theda Skocpol has documented, there were also multiple examples of state-issued social insurance programs before the New Deal. In the wake of the Civil War, Congress established an elaborate system of pensions for veterans. At its height in 1910, this de facto disability and old-age pension system delivered benefits to more than 25 percent of all American men over 65, accounting for a quarter of the federal government’s expenditures. Between 1911 and 1920, 40 states passed laws establishing “mothers’ pensions” for single women with children. These programs provided payments for needy widowed mothers in order to allow them to provide for their children.
+# data sources for scope over time: giving usa
+Giving USA 1956 (1952): <https://indianamemory.contentdm.oclc.org/digital/collection/PRO/id/33137/rec/47> https://cdn.discordapp.com/attachments/742557921849901077/931256490906513438/default.png
+Giving USA 1957 (1953): <https://indianamemory.contentdm.oclc.org/digital/collection/PRO/id/33174/rec/48> https://cdn.discordapp.com/attachments/742557921849901077/931256551925248050/default.png
+Giving USA 1958 Edition (1957): <https://indianamemory.contentdm.oclc.org/digital/collection/PRO/id/33085/rec/49> https://cdn.discordapp.com/attachments/742557921849901077/931257466908450816/default.png https://cdn.discordapp.com/attachments/742557921849901077/936816575707770921/default.png
+Giving USA Annual Report 1980 (1955-1979): <https://indianamemory.contentdm.oclc.org/digital/collection/PRO/id/36824/rec/71> https://cdn.discordapp.com/attachments/742557921849901077/931276081586131035/default.png https://cdn.discordapp.com/attachments/742557921849901077/931276093829292072/default.png
+Giving USA Data Tables 2012 (1971-2011): <https://givingusa.org/wp-content/uploads/woocommerce_uploads/2014/12/Giving-USA-2012-Data-Tables.pdf> <http://socdoneleft.org/wp-content/uploads/2022/02/GUDT2012.pdf>
+Giving USA Data Tables 2014 (1973-2013): <https://givingusa.org/wp-content/uploads/woocommerce_uploads/2014/12/Giving-USA-2014-Data-Tables.pdf> <http://socdoneleft.org/wp-content/uploads/2022/02/GUDT2014.pdf>
+Giving USA Annual Report 2019 (1978-2018): <https://lclsonline.org/wp-content/uploads/2019/09/GUSA-2019-AnnualReport.pdf> <http://socdoneleft.org/wp-content/uploads/2022/02/GUAR2019_tables.pdf>
+Giving USA 2020 Infographic (2019): <https://alford.com/wp-content/uploads/2020/06/GUSA2020_Infographic.pdf> <http://socdoneleft.org/wp-content/uploads/2022/02/GUInfo2020.pdf>
+Giving USA 2021 Infographic (2020): <https://givingusa.org/wp-content/uploads/2021/06/GUSA2021_Infographic_Digital.pdf> <http://socdoneleft.org/wp-content/uploads/2022/02/GUInfo2021.pdf>
+
+# data sources for scope over time: others
+Andrews 1950: <https://www.worldcat.org/title/263227> <https://www.google.com/books/edition/Philanthropic_Giving/zai2AAAAIAAJ> Philanthropic giving [not available on libgen or archive.org]
+Jones 1954: <https://www.worldcat.org/title/2934937> <https://archive.org/details/americangiverrev0000jone>
 #####c
 
 #####
-# public spending reduces poverty, private social spending does not (ancap talking point)
-#####o
-# public spending reduces inequality
-higher social spending correlates with lower inequality: <https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/> https://cdn.discordapp.com/attachments/418850379518705675/720047251937951865/image5.png
-
-# scope: private charity by sector
-in 2011 in the USA, the top 1% by wealth of Americans gave 6.2% of their donations (.031% of their wealth) to political causes, 6.3% (.0315%) youth development, 7.3 (.0365%) private/community foundations, 7.9% (.0395%) anti-poverty causes, 9.7% (.0485%) arts and culture, 11.6% (.058%) health, 16.3% (.0825%) religious causes, and 22.2% (.111%) to education: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098474515103755/unknown.png
-in 2005 in the USA, private charity towards religion and basic needs of the poor decreased with income, while charity towards the arts, education, and health increased with income: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661554062613020672/unknown.png
-
-# private charity is rarely given to anti-poverty sectors (including indirect anti-poverty)
-in 2005 in the USA, just 30.3% (upper estimate) of private charity could be focused on meeting basic needs of the poor: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661553547992760351/unknown.png
-in 2005 in the USA, private charity focused on meeting basic needs of the poor decreased with income from 35% at <$100k/yr to 22% at >$1,000k/yr: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661555261705814016/unknown.png
-
-# private charity is frequently given to religious sectors
-in 2005 in the USA, just 23.9% of religious spending ultimately went to meeting basic needs of the poor: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661556013694189610/unknown.png
-#####c
-
-#####
-# private charity vs public spending: economic cycles (ancap talking point)
+# private charity todo
 #####o
 # todo
-<https://slate.com/business/2014/03/private-charity-and-the-safety-net-why-philanthropy-cant-replace-government.html> <https://inequality.stanford.edu/sites/default/files/CharitableGiving_fact_sheet.pdf>
+in 2011, the top 1% by wealth of Americans gave only .5% of their wealth to charity, regardless of wealth: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098950186926080/unknown.png
+during the Great Depression, private charity rose from ~$10 million to $70 million at its peak (+$60 million increae, 696%); public spending increased from ~$33 million to $1035 million (+$1002 million, 3130%): <https://www.econlib.org/library/Enc/Charity.html#lfHendersonCEE2-022_table_008> https://cdn.discordapp.com/attachments/418850379518705675/636703555755180039/unknown.png
+there was never a time when the state was uninvolved in helping the needy: <https://democracyjournal.org/magazine/32/the-voluntarism-fantasy/> [A] significant amount of research has been done over the past several decades to overturn the myth of a stateless nineteenth century and to rediscover the lost role of the state in the pre-New Deal world. [....] As the political scientist Theda Skocpol has documented, there were also multiple examples of state-issued social insurance programs before the New Deal. In the wake of the Civil War, Congress established an elaborate system of pensions for veterans. At its height in 1910, this de facto disability and old-age pension system delivered benefits to more than 25 percent of all American men over 65, accounting for a quarter of the federal government’s expenditures. Between 1911 and 1920, 40 states passed laws establishing “mothers’ pensions” for single women with children. These programs provided payments for needy widowed mothers in order to allow them to provide for their children.
 
+# todo todo
+<https://slate.com/business/2014/03/private-charity-and-the-safety-net-why-philanthropy-cant-replace-government.html> <https://inequality.stanford.edu/sites/default/files/CharitableGiving_fact_sheet.pdf>
+#####c
+
+#####
+# private charity does not reduce poverty and inequality, public spending does
+#####o
+# public spending reduces inequality
+Bruenig 2018: higher social spending correlates with lower inequality: <https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/> https://cdn.discordapp.com/attachments/418850379518705675/720047251937951865/image5.png
+
+# private charity scope by sector
+Page Cook Moskowitz 2011: in 2011 in the USA, the top 1% by wealth of Americans gave 6.2% of their donations (.031% of their wealth) to political causes, 6.3% (.0315%) youth development, 7.3 (.0365%) private/community foundations, 7.9% (.0395%) anti-poverty causes, 9.7% (.0485%) arts and culture, 11.6% (.058%) health, 16.3% (.0825%) religious causes, and 22.2% (.111%) to education: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098474515103755/unknown.png
+Rooney et al 2007: in 2005 in the USA, private charity towards religion and basic needs of the poor decreased with income, while charity towards the arts, education, and health increased with income: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661554062613020672/unknown.png
+
+# private charity mostly goes toward anti-poverty sectors (including indirect anti-poverty measures)
+Rooney et al 2007: in 2005 in the USA, just 30.3% (upper estimate) of private charity could be focused on meeting basic needs of the poor: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661553547992760351/unknown.png
+Rooney et al 2007: in 2005 in the USA, private charity focused on meeting basic needs of the poor decreased with income from 35% at <$100k/yr to 22% at >$1,000k/yr: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661555261705814016/unknown.png
+
+# religious private charity mostly does not go to meeting basic needs of the poor
+Rooney et al 2007: in 2005 in the USA, just 23.9% of religious spending ultimately went to meeting basic needs of the poor: <https://scholarworks.iupui.edu/handle/1805/5838> <https://cdn.discordapp.com/attachments/418850379518705675/660113444959158292/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf> https://cdn.discordapp.com/attachments/418850379518705675/661556013694189610/unknown.png
+#####c
+
+#####
+# private charity is procyclical or noncyclical (bad), public spending is countercyclical (good)
+#####o
 # private charity is procyclical (reduces in recessions: bad)
 Reich Wimer 2012: private charity stays around 2% of GDP: private charity is procyclical -- it declines during recessions and increases during expansions -- meaning that private charity increases recession depth: <https://www.russellsage.org/research/reports/charitable-giving-recession> <https://cdn.discordapp.com/attachments/742557921849901077/939388847509360730/reich2012.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1073072221934854174/reich2012.pdf> https://cdn.discordapp.com/attachments/418850379518705675/636700753716576296/unknown.png """It is perhaps reassuring that there’s no evidence of increasing stinginess in times of need. Then again, neither is there evidence of increased largesse, which is problematic because need is countercyclical. Indeed, because needs increase dramatically as the economy contracts, our reliance on charity and the nonprofit sector contains some built-in structural challenges, at least relative to other countries that can more readily engage in direct governmental spending when additional needs must be met."""
 
 # public spending is countercyclical (increases in recessions: good)
-in 2008-09, public spending jumped from .1 to 2.2% of GDP: in contrast, automatic stabilizers are countercyclical -- they increase during recessions and decrease during expansions -- meaning that public spending decreases recession depth: <https://democracyjournal.org/magazine/32/the-voluntarism-fantasy/> During 2009, while private charity collapsed, automatic stabilizers expanded rapidly, from 0.1 percent of GDP to 2.2 percent of GDP—or a number roughly akin to all charitable giving in the United States. This was directly targeted at areas that suffered from the most unemployment, and helped those most in need—efforts that, as we’ve seen, private charity does only partially. As Goldman Sachs economists concluded, this shift made a crucial difference, and, alongside the government’s efforts to prevent the collapse of the banking sector and the Federal Reserve’s expansion of monetary policy, was a core reason the Great Recession didn’t become a second Great Depression.
+TODO: in 2008-09, public spending jumped from .1 to 2.2% of GDP: in contrast, automatic stabilizers are countercyclical -- they increase during recessions and decrease during expansions -- meaning that public spending decreases recession depth: <https://democracyjournal.org/magazine/32/the-voluntarism-fantasy/> During 2009, while private charity collapsed, automatic stabilizers expanded rapidly, from 0.1 percent of GDP to 2.2 percent of GDP—or a number roughly akin to all charitable giving in the United States. This was directly targeted at areas that suffered from the most unemployment, and helped those most in need—efforts that, as we’ve seen, private charity does only partially. As Goldman Sachs economists concluded, this shift made a crucial difference, and, alongside the government’s efforts to prevent the collapse of the banking sector and the Federal Reserve’s expansion of monetary policy, was a core reason the Great Recession didn’t become a second Great Depression.
 #####c
 
 #####
@@ -1824,6 +1845,13 @@ Maclean et al 2021: elites trade capital into other forms of capital through cha
 # super-rich are often geniuses at marketing
 Stiglitz 2012: inventors aren't rewarded with success; business and marketing geniuses are: <https://www.worldcat.org/title/783159519> <http://library.lol/main/2D96D047C1E86174B18419CA9E300DED> <https://cdn.discordapp.com/attachments/742557921849901077/1072770084084396062/stiglitz2012.pdf> """By looking at those at the top of the wealth distribution, we can get a feel for the nature of this aspect of America’s inequality. Few are inventors who have reshaped technology, or scientists who have reshaped our understandings of the laws of nature.Think of Alan Turing, whose genius provided the mathematics underlying the modern computer. Or of Einstein. Or of the discoverers of the laser (in which Charles Townes played a central role) 16 or John Bardeen, Walter Brattain, and William Shockley, the inventors of transistors. 17 Or of Watson and Crick, who unraveled the mysteries of DNA, upon which rests so much of modern medicine. None of them, who made such large contributions to our well-being, are among those most rewarded by our economic system. Instead, many of the individuals at the top of the wealth distribution are, in one way or another, geniuses at business. Some might claim, for instance, that Steve Jobs or the innovators of search engines or social media were, in their way, geniuses. Jobs was number 110 on the Forbes list of the world’s wealthiest billionaires before his death, and Mark Zuckerberg was 52. But many of these “geniuses” built their business empires on the shoulders of giants, such as Tim Berners-Lee, the inventor of the World Wide Web, who has never appeared on the Forbes list. Berners-Lee could have become a billionaire but chose not to—he made his idea available freely, which greatly speeded up the development of the Internet.18 A closer look at the successes of those at the top of the wealth distribution shows that more than a small part of their genius resides in devising better ways of exploiting market power and other market imperfections—and, in many cases, finding better ways of ensuring that politics works for them rather than for society more generally."""
 #####c
+#####c
+
+#####
+#
+# redistribution: helping the poor is good
+#
+#####o
 
 #####
 # basic income
