@@ -1788,14 +1788,13 @@ Giving USA 2021 Infographic (2020): <https://givingusa.org/wp-content/uploads/20
 
 # data sources for scope over time: others
 Andrews 1950: <https://www.worldcat.org/title/263227> <https://www.google.com/books/edition/Philanthropic_Giving/zai2AAAAIAAJ> Philanthropic giving [not available on libgen or archive.org]
-Jones 1954: <https://www.worldcat.org/title/2934937> <https://archive.org/details/americangiverrev0000jone>
+Jones 1954: <https://www.worldcat.org/title/2934937> <https://archive.org/details/americangiverrev0000jone/page/38/mode/2up> https://cdn.discordapp.com/attachments/742557921849901077/1073388865458536509/image.png https://cdn.discordapp.com/attachments/742557921849901077/1073388876061745152/image.png
 #####c
 
 #####
 # private charity todo
 #####o
 # todo
-in 2011, the top 1% by wealth of Americans gave only .5% of their wealth to charity, regardless of wealth: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098950186926080/unknown.png
 during the Great Depression, private charity rose from ~$10 million to $70 million at its peak (+$60 million increae, 696%); public spending increased from ~$33 million to $1035 million (+$1002 million, 3130%): <https://www.econlib.org/library/Enc/Charity.html#lfHendersonCEE2-022_table_008> https://cdn.discordapp.com/attachments/418850379518705675/636703555755180039/unknown.png
 there was never a time when the state was uninvolved in helping the needy: <https://democracyjournal.org/magazine/32/the-voluntarism-fantasy/> [A] significant amount of research has been done over the past several decades to overturn the myth of a stateless nineteenth century and to rediscover the lost role of the state in the pre-New Deal world. [....] As the political scientist Theda Skocpol has documented, there were also multiple examples of state-issued social insurance programs before the New Deal. In the wake of the Civil War, Congress established an elaborate system of pensions for veterans. At its height in 1910, this de facto disability and old-age pension system delivered benefits to more than 25 percent of all American men over 65, accounting for a quarter of the federal government’s expenditures. Between 1911 and 1920, 40 states passed laws establishing “mothers’ pensions” for single women with children. These programs provided payments for needy widowed mothers in order to allow them to provide for their children.
 
@@ -1804,7 +1803,14 @@ there was never a time when the state was uninvolved in helping the needy: <http
 #####c
 
 #####
-# private charity does not reduce poverty and inequality, public spending does
+# private charity progressivity: charity increases with income
+#####o
+# progressivity by wealth: none
+Page Cook Moskowitz 2011: in 2011, the top 1% by wealth of Americans gave only .5% of their wealth to charity, regardless of wealth: <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good> <https://cdn.discordapp.com/attachments/418850379518705675/660097602821423127/Wealthy_Americans_Philanthropy_and_the_Common_Good.pdf> https://cdn.discordapp.com/attachments/418850379518705675/660098950186926080/unknown.png
+#####c
+
+#####
+# private charity effects: charity does not reduce poverty and inequality, public spending does
 #####o
 # public spending reduces inequality
 Bruenig 2018: higher social spending correlates with lower inequality: <https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/> https://cdn.discordapp.com/attachments/418850379518705675/720047251937951865/image5.png
