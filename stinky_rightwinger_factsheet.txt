@@ -1789,6 +1789,10 @@ Giving USA 2021 Infographic (2020): <https://givingusa.org/wp-content/uploads/20
 # data sources for scope over time: others
 Andrews 1950: <https://www.worldcat.org/title/263227> <https://www.google.com/books/edition/Philanthropic_Giving/zai2AAAAIAAJ> Philanthropic giving [not available on libgen or archive.org]
 Jones 1954: <https://www.worldcat.org/title/2934937> <https://archive.org/details/americangiverrev0000jone/page/38/mode/2up> https://cdn.discordapp.com/attachments/742557921849901077/1073388865458536509/image.png https://cdn.discordapp.com/attachments/742557921849901077/1073388876061745152/image.png
+
+# data sources: international
+Charities Aid Foundation 2006 International Comparisons: <https://www.cafonline.org/about-us/publications/archive/international-comparisons-of-charitable-giving> <https://www.cafonline.org/docs/default-source/about-us-publications/international-comparisons-of-charitable-giving.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1073403533354868746/caf2006.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1073402536687566909/image.png https://cdn.discordapp.com/attachments/742557921849901077/1073402905031356416/image.png International comparisons of charitable giving November 2006
+Charities Aid Foundation 2016 International Analysis: <https://www.cafonline.org/about-us/publications/2016-publications/gross-domestic-philanthropy> <https://www.cafonline.org/docs/default-source/about-us-publications/international-comparisons-of-charitable-giving.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1073403540422279308/caf2016.pdf> Griss Domestic Philanthropy: An international analysis of GDP, tax and giving
 #####c
 
 #####
