@@ -1790,7 +1790,7 @@ Giving USA 2020 Infographic (2019): <https://alford.com/wp-content/uploads/2020/
 Giving USA 2021 Infographic (2020): <https://givingusa.org/wp-content/uploads/2021/06/GUSA2021_Infographic_Digital.pdf> <http://socdoneleft.org/wp-content/uploads/2022/02/GUInfo2021.pdf>
 
 # data sources for scope over time: others
-Andrews 1950: <https://www.worldcat.org/title/263227> <https://www.google.com/books/edition/Philanthropic_Giving/zai2AAAAIAAJ> Philanthropic giving [not available on libgen or archive.org]
+Andrews 1950: <https://www.worldcat.org/title/263227> <https://www.russellsage.org/publications/philanthropic-giving> <https://www.russellsage.org/sites/default/files/296955txtonline.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1074088850957275146/andrews1950.pdf> Philanthropic giving [not available on libgen or archive.org]
 Jones 1954: <https://www.worldcat.org/title/2934937> <https://archive.org/details/americangiverrev0000jone/page/38/mode/2up> https://cdn.discordapp.com/attachments/742557921849901077/1073388865458536509/image.png https://cdn.discordapp.com/attachments/742557921849901077/1073388876061745152/image.png
 
 # data sources: international
