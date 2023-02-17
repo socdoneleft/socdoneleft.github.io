@@ -3808,9 +3808,9 @@ overall segregation is in decline: <https://s4.ad.brown.edu/Projects/Diversity/D
 #####
 # misc
 #####o
-# polls: n word
-most black people say that nobody should be able to say the N word: <http://www.ijscl.net/article_32639.html> <http://www.ijscl.net/article_32639_64197ad6345fc25734a5b671730939fa.pdf> """A majority (76%) of respondents agreed that it is never acceptable for nonBlacks to use the N-word with anyone in any situation. Fifty-six percent of respondents agreed that it is never acceptable for anyone to use N-word derivatives with anyone in any situation."""
-Dems as a whole are more likely than black people as a whole to think the N word is offensive: <https://today.yougov.com/topics/politics/articles-reports/2018/08/23/when-it-comes-n-word-most-see-it-offensive-whoever> https://cdn.discordapp.com/attachments/742557921849901077/808381694968725545/Racism202.png
+# polls against n word usage
+King et al 2018: most black people say that nobody should be able to say the N word: <http://www.ijscl.net/article_32639.html> <http://www.ijscl.net/article_32639_64197ad6345fc25734a5b671730939fa.pdf> """A majority (76%) of respondents agreed that it is never acceptable for nonBlacks to use the N-word with anyone in any situation. Fifty-six percent of respondents agreed that it is never acceptable for anyone to use N-word derivatives with anyone in any situation."""
+Frankovic 2018: Democrats as a whole are more likely than black people as a whole to think the N word is offensive: <https://today.yougov.com/topics/politics/articles-reports/2018/08/23/when-it-comes-n-word-most-see-it-offensive-whoever> https://cdn.discordapp.com/attachments/742557921849901077/808381694968725545/Racism202.png
 #####c
 #####c
 
@@ -12633,6 +12633,12 @@ Richard Mitchell: *The Underground Grammarian*, Volume Three, Number Eight (Nove
 # bariatric surgery
 #####o
 Adams et al 2023: bariatric patients have substantially lower (0.84x) all-cause mortality than non-bariatric matched patients, but substantially higher suicide mortality (2.4x): <https://onlinelibrary.wiley.com/doi/10.1002/oby.23646> <https://sci-hub.ru/10.1002/oby.23646>
+#####c
+
+#####
+# how leaders reacted to nuclear apocalypse
+#####o
+Hines 1995: Brezhnev's nuclear exercise: <https://www.worldcat.org/title/489725057> <https://russianforces.org/files/Soviet%20Intentions%201965-1985%20Vol.%201.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1076012819562106900/hines1995.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1076010536279478322/image.png """Danilevich witnessed a military exercise in 1972 at which Soviet General Secretary Brezhnev, Prime Minister Kosygin, and Defense Minister Grechko were presented with the results of a simulated U:S. first strike that killed 80 million Soviet citizens, destroyed 85 percent of the USSR’s industrial capacity,8° and decimated Soviet ground forces and non-strategic aviation.87 Brezhnev was given an actual button and asked to push it to authorize a retaliatory strike. Gen. Danilevich reported that the General Secretary was pale and perspiring and that his hand trembled visibly. He asked Grechko several times for assurances that the button would not set off real missile launches. “Andrei Antonovich,” he repeatedly asked Grechko, “this is definitely an exercise?’®8 After 1972, the political leadership did not participate in even a single military exercise involving nuclear weapons. The General Staff was left entirely on its own to develop scenarios for nuclear war.89 Another example, described by Danilevich, of Soviet aversion to nuclear war occurred in the early 1980s. Cuban leader Fidel Castro pressed the USSR to take a tougher line against the United States, including possible nuclear strikes. The Soviet Union, in response, sent experts to spell out for Castro the ecological consequences for Cuba of nuclear strikes on the United States. Castro, according to the General, recovered from his nuclear fever rather quickly.90"""
 #####c
 
 #####
