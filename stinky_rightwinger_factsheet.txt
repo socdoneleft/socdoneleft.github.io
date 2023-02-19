@@ -1815,6 +1815,7 @@ Beito 2000: payouts and proportion of workers: among a sample of working class N
 Consolidated Chart 1904: <https://www.google.com/books/edition/The_Consolidated_Chart_of_Insurance_Orga/YFkuAQAAIAAJ?hl=en>
 Consolidated Chart 1912: <https://www.google.com/books/edition/The_Consolidated_Chart_of_Insurance_Orga/c6tGAQAAMAAJ>
 Consolidated Chart 1913: <https://www.google.com/books/edition/_/E6pGAQAAMAAJ>
+TODO mutual aid societies in France: <http://library.lol/main/CDE5F1CF2954EE1C18276C5FB58AE956>
 
 # data sources: international
 Charities Aid Foundation 2006 International Comparisons: <https://www.cafonline.org/about-us/publications/archive/international-comparisons-of-charitable-giving> <https://www.cafonline.org/docs/default-source/about-us-publications/international-comparisons-of-charitable-giving.pdf> <https://cdn.discordapp.com/attachments/742557921849901077/1073403533354868746/caf2006.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1073402536687566909/image.png https://cdn.discordapp.com/attachments/742557921849901077/1073402905031356416/image.png International comparisons of charitable giving November 2006
@@ -12630,6 +12631,18 @@ Congressional Record 1985; Oxley 1985: <https://www.govinfo.gov/app/details/GPO-
 
 # richard mitchell: originator
 Richard Mitchell: *The Underground Grammarian*, Volume Three, Number Eight (November 1979): "The Answering of Kautski": <https://www.worldcat.org/title/10725539> <https://archive.org/details/undergroundgrammaian/GB+2+Why+Good+Grammar.mp4> <https://archive.org/stream/undergroundgrammaian/The%20Underground%20Grammarian%2C%20R%20Mitchell_djvu.txt> <https://cdn.discordapp.com/attachments/742557921849901077/1069035726374703184/UndergroundGrammarianRichardMitchell.pdf> """Why should we bother to reply to Kautski? He would reply to us, and we would have to reply to his reply. There’s no end to that. It will be quite enough for us to announce that Kautski is a traitor to the working class, and everyone will understand everything. - Nikolai Lenin""""""“Most of the people,” Lenin wrote, not in public, of course, but in a letter, “just aren’t capable of thinking. The best they can do is learn the words.” If that reminds you of those bleating sheep in Animal Farm, try to forget them, and think instead of the lowing herds of pitiable teacher-trainees, many of whom began with good intentions and even with brains, singing for their certificates dull dirges of interpersonal interaction outcomes enhancement and of change-agent skills developed in time-action line. Lenin’s contempt was reserved for the masses. These educationists, pretenders to egalitarianism, hold even their own students in contempt, offering them nothing but words."""
+#####c
+
+#####
+# fake quotes: gramsci capturing the culture
+#####o
+# fake quote
+Tudehope 2017: fake Gramsci quote: <https://www.spectator.com.au/2017/10/whats-left-of-western-culture-just-about-everything/> """Any country grounded in Judaeo-Christian values can’t be overthrown until those roots are cut … Socialism is precisely the religion that must overwhelm Christianity … in the new order, Socialism will triumph by first capturing the culture via infiltration of schools, universities, churches and the media by transforming the consciousness of society."""
+
+# source texts
+Gramsci 1971 [translated by Hoare Smith 1971]: does not contain the fake quote: <https://www.worldcat.org/title/1247118813> <http://library.lol/main/4AAE75497F1B2F67314893DC8D9ED863> <https://cdn.discordapp.com/attachments/742557921849901077/1076683774928097430/gramsci1971.pdf>
+Gramsci 1996 [translated by Buttigied 1996]: does not contain the fake quote: <http://libgen.is/book/index.php?md5=4E84790CB2CB7D6274CCA65C5FB854C6> <http://libgen.is/book/index.php?md5=48738020A04A14F8CC56C72A456F828C>
+Gramsci 1916-1920, "Sotto La Mole" column in Avanti! edition in Turin: does not contain the fake quote (Italian), but does contain the subquote "Socialism is precisely the religion that must kill Christianity": <https://www.liberliber.it/online/autori/autori-g/antonio-gramsci/sotto-la-mole/> <https://openlibrary.org/search?q=Sotto+La+Mole&mode=everything> <https://cdn.discordapp.com/attachments/742557921849901077/1076686571568377928/gramsci1916.pdf> 
 #####c
 
 #####
