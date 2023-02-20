@@ -2410,21 +2410,25 @@ breakdown of where the money goes: <https://www.usccr.gov/pubs/2018/2018-01-10-E
 # ideology effects on education
 people open to ideas perform better academically: <https://www.sciencedirect.com/science/article/pii/S0361476X05000664> <https://sci-hub.ru/10.1016/j.cedpsych.2005.11.003> https://cdn.discordapp.com/attachments/418850379518705675/636534797363314718/unknown.png
 
-# education effects on ideology
+# education effects on epistemology
 people in all degrees except engineering were, after a few years of college, more likely to believe that epistemology is uncertain: <https://www.sciencedirect.com/science/article/pii/S0361476X05000664> <https://sci-hub.ru/10.1016/j.cedpsych.2005.11.003> https://cdn.discordapp.com/attachments/418850379518705675/636535228914991114/unknown.png
 #####c
 
 #####
 # academia bias political bias in academia
 #####o
+# literature review
+Burmila 2021: there is very weak evidence to support the claim that conservatives are victims of anti-conservative bias in colleges: <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/liberal-bias-in-the-college-classroom-a-review-of-the-evidence-or-lack-thereof/4015A571030269CF4D8F4031CE697CE3> <https://sci-hub.ru/10.1017/S1049096521000354> <https://cdn.discordapp.com/attachments/742557921849901077/1077195067892179044/burmila2021.pdf>
+
 # education moves students left, not teachers
 Mariani Hewitt 2008: among 6807 students in 47 four-year colleges, 27% moved to the left and 16% moved to the right between freshmen and senior year; however, faculty political orientation was insignificantly associated with this change; students at nonreligious schools moved more left than religious, women moved more left than men, and higher-income students moved slightly less left: <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/indoctrination-u-faculty-ideology-and-changes-in-student-political-orientation/25ABD9B1A3577F27B5659941CD52D6C9> <https://sci-hub.ru/10.1017/S1049096508081031> <https://cdn.discordapp.com/attachments/418850379518705675/753305694194892930/mariani2008.pdf> https://cdn.discordapp.com/attachments/418850379518705675/753305372252438578/unknown.png
 
 # political orientation by field
-among 1643 faculty in 183 four-year colleges in 1999, 72% identified as left or liberal; faculty who were conservative, Christian, or women, were more likely to teach at lower-selectivity colleges: <https://www.degruyter.com/view/journals/for/3/1/article-for.2005.3.1.1067.xml.xml> <https://sci-hub.ru/10.2202/1540-8884.1067> <https://cdn.discordapp.com/attachments/418850379518705675/753307126667018370/rothman2005.pdf> https://cdn.discordapp.com/attachments/418850379518705675/753308317937565826/unknown.png
+Rothman Lichter Nevitte 2005: among 1643 faculty in 183 four-year colleges in 1999, 72% identified as left or liberal; faculty who were conservative, Christian, or women, were more likely to teach at lower-selectivity colleges: <https://www.degruyter.com/view/journals/for/3/1/article-for.2005.3.1.1067.xml.xml> <https://sci-hub.ru/10.2202/1540-8884.1067> <https://cdn.discordapp.com/attachments/418850379518705675/753307126667018370/rothman2005.pdf> https://cdn.discordapp.com/attachments/418850379518705675/753308317937565826/unknown.png
 
 # lack of bias in grading
-Musgrave Rom 2014: among a sample of 30 freshmen undergraduate essays and 39 TA's recruited from various colleges, there was no evidence that Democratic TA's gave lower grades to Republican students (or Republican TA's to Democratic students): <https://journals.sagepub.com/doi/full/10.1177/1532673X14561655> <https://sci-hub.ru/10.1177/1532673X14561655> <https://cdn.discordapp.com/attachments/418850379518705675/778113053261561896/musgrave2014.pdf> https://cdn.discordapp.com/attachments/418850379518705675/778114584036638771/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1077185022135636109/image.png
+Musgrave Rom 2015: among a sample of 30 freshmen undergraduate essays and 39 TA's recruited from various colleges, there was no evidence that Democratic TA's gave lower grades to Republican students (or Republican TA's to Democratic students): <https://journals.sagepub.com/doi/full/10.1177/1532673X14561655> <https://sci-hub.ru/10.1177/1532673X14561655> <https://cdn.discordapp.com/attachments/418850379518705675/778113053261561896/musgrave2014.pdf> https://cdn.discordapp.com/attachments/418850379518705675/778114584036638771/unknown.png https://cdn.discordapp.com/attachments/742557921849901077/1077185022135636109/image.png Fair and Balanced? Experimental Evidence on Partisan Bias in Grading
+Rom Musgrave 2014: [basically just a case study of whether Rom is biased; he was not] <https://www.tandfonline.com/doi/abs/10.1080/15512169.2014.894352> <https://sci-hub.ru/10.1080/15512169.2014.894352> <https://cdn.discordapp.com/attachments/742557921849901077/1077193977876447312/rom2014.pdf>
 #####c
 #####c
 
