@@ -12233,6 +12233,14 @@ Herron et al 2019: observed evolution of multicellular life: in response to pred
 #####o
 
 #####
+# political prisoners in the united states
+#####o
+NYTimes 1978:  <https://www.nytimes.com/1978/02/22/archives/north-carolinas-leaders-worried-by-blemishes-on-the-states-image.html> """The Governor, elected as a New South liberal, was speaking specifically about notoriety surrounding the case of the so-called Wilmington 10, nine black activists (the 10th has been paroled) who have fired an international furor with their contention that they are political prisoners railroaded into jail for their civil rights activities. Amnesty International, the London-based human rights organization that was awarded the 1977 Nobel Peace Prize has lent its name to their cause, listing them among 18 so-called “prisoners of conscience” incarcerated in the United States. Two other black activists, convicted of burning a horse stable in 1972, are also on the list, meaning that North Carolina alone accounts for 11 of the 18 prisoners on Amnesty International's American list."""
+NYTimes 1978: criticizing Amnesty International for having a communits as a director of research: <https://www.nytimes.com/1978/12/14/archives/amnestys-odd-man-in.html>
+Amnesty International in NYTimes 1978: criticizing NYTimes for thinking that communists can't identify political repression, noting that the Soviets too accuse Amnesty International of bias: <https://www.nytimes.com/1978/12/21/archives/letter-on-amnesty-international-a-record-of-impartiality.html>
+#####c
+
+#####
 # useful soviet original documents [and compilations/tabulations thereof]
 #####o
 # sources
