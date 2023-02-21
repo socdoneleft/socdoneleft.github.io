@@ -12233,8 +12233,14 @@ Herron et al 2019: observed evolution of multicellular life: in response to pred
 #####o
 
 #####
-# political prisoners in the united states
+# political prisoners / prisoners of conscience in the united states
 #####o
+# terminology
+A political prisoner is anyone convicted for political beliefs or behavior that would not otherwise be illegal. A prisoner of conscience is a nonviolent political prisoner.
+
+# notes
+Steinert 2009: <https://academic.oup.com/jogss/article-abstract/6/3/ogaa052/6047347> <https://sci-hub.st/10.1093/jogss/ogaa052> 
+Newsweek 1978: <http://web.mit.edu/esg-conscience/www/resr/mmr-young.shtml> <https://archive.ph/Mj8R> """Are there political prisoners in the US? During the trial of Soviet dissident Anatoly Shcharansky, United Nations Ambassador Andrew Young whipped up a controversy when he told a French newspaper that there are "hundreds, maybe thousands, of people I would categorize as political prisoners" in the US Young later said he did not mean to equate political freedom in the US and the Soviet Union. But he did not retract his statement about the number of U. S. political prisoners - even though he never said exactly what he meant.""""""THE WILMINGTON TEN""""""THE CHARLOTTE THREE"""
 NYTimes 1978:  <https://www.nytimes.com/1978/02/22/archives/north-carolinas-leaders-worried-by-blemishes-on-the-states-image.html> """The Governor, elected as a New South liberal, was speaking specifically about notoriety surrounding the case of the so-called Wilmington 10, nine black activists (the 10th has been paroled) who have fired an international furor with their contention that they are political prisoners railroaded into jail for their civil rights activities. Amnesty International, the London-based human rights organization that was awarded the 1977 Nobel Peace Prize has lent its name to their cause, listing them among 18 so-called “prisoners of conscience” incarcerated in the United States. Two other black activists, convicted of burning a horse stable in 1972, are also on the list, meaning that North Carolina alone accounts for 11 of the 18 prisoners on Amnesty International's American list."""
 NYTimes 1978: criticizing Amnesty International for having a communits as a director of research: <https://www.nytimes.com/1978/12/14/archives/amnestys-odd-man-in.html>
 Amnesty International in NYTimes 1978: criticizing NYTimes for thinking that communists can't identify political repression, noting that the Soviets too accuse Amnesty International of bias: <https://www.nytimes.com/1978/12/21/archives/letter-on-amnesty-international-a-record-of-impartiality.html>
