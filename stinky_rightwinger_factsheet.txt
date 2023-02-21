@@ -12243,6 +12243,7 @@ Amnesty International: <https://en.wikipedia.org/wiki/List_of_Amnesty_Internatio
 draft: <https://en.wikipedia.org/wiki/User:SocDoneLeft/Political_prisoners_in_the_United_States>
 
 # notes
+Gay 2012: <https://www.worldcat.org/title/729344406> <https://archive.org/details/americandissiden0000unse><https://www.google.com/books/edition/American_Dissidents/ZzQVpPvlVMcC?hl=en&gbpv=0> American dissidents: an encyclopedia of activists, subversives, and prisoners of conscience [only volume 2 K-Z available]
 Amnesty International Annual Report 1974/75: <https://www.amnesty.org/en/documents/pol10/001/1975/en/> <https://www.amnesty.org/en/wp-content/uploads/2021/09/POL100011975ENGLISH.pdf> <http://web.archive.org/web/20230111181850/https://www.amnesty.org/en/wp-content/uploads/2021/09/POL100011975ENGLISH.pdf>
 Amnesty International Annual Report 1972/73: <https://www.amnesty.org/en/documents/pol10/001/1973/en/> <https://www.amnesty.org/en/wp-content/uploads/2021/09/POL100011973ENGLISH.pdf>
 Steinert 2009: <https://academic.oup.com/jogss/article-abstract/6/3/ogaa052/6047347> <https://sci-hub.st/10.1093/jogss/ogaa052> 
