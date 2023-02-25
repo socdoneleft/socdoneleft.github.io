@@ -1807,6 +1807,7 @@ Andrews 1950: private charity increased substantially between 1929 and 1949; pro
 Jones 1954: private charity increased substantially between 1922 and 1950; provides data by source, does not provide data by recipient: <https://www.worldcat.org/title/2934937> <https://archive.org/details/americangiverrev0000jone/page/38/mode/2up> https://cdn.discordapp.com/attachments/742557921849901077/1073388865458536509/image.png https://cdn.discordapp.com/attachments/742557921849901077/1073388876061745152/image.png
 
 # relief only
+Ziliak 2004: data on two organizations outdoor relief back to 1877: <https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/selfreliance-before-the-welfare-state-evidence-from-the-charity-organization-movement-in-the-united-states/58F60AB864EC329AE89D737DB6E29681> <https://sci-hub.st/10.1017/S002205070400275X> 
 Huntley 1935: <https://www.worldcat.org/title/1037100721> <https://openlibrary.org/search?q=Financial+Trends+in+Organized+Social+Work+in+New+York+City&mode=everything> <https://www.google.com/books/edition/Research_Monograph_United_States_Work_Pr/fr8OAQAAMAAJ?hl=en&gbpv=0> <https://hsus.cambridge.org/HSUSWeb/toc/showDownloadableTable.do?id=Bg320-589> Financial Trends in Organized Social Work in New York City; Cambridge HSUS Series Bg567–570
 Geddes 1937: <https://www.worldcat.org/title/491810> <https://www.google.com/books/edition/Research_Monograph_United_States_Work_Pr/fr8OAQAAMAAJ?hl=en&gbpv=1> Trends in Relief Expenditures, 1910–1935. Research Monograph 10, Works Progress Administration
 
@@ -12243,6 +12244,7 @@ Amnesty International: <https://en.wikipedia.org/wiki/List_of_Amnesty_Internatio
 draft: <https://en.wikipedia.org/wiki/User:SocDoneLeft/Political_prisoners_in_the_United_States>
 
 # notes
+Halsey 1988: <https://archive.org/details/pub_christianity-and-crisis?&sort=-date> <https://archive.org/details/sim_christianity-and-crisis_1988-03-21_48_4/page/n7/mode/2up> Undue Process in Christianity in Crisis
 Taubner 1992: <https://heinonline.org/HOL/Page?handle=hein.journals/nejccc18&div=7&g_sent=1&casa_token=zyREGHyMGJYAAAAA:kf0V9Io_ocY9-idlFF6urKu3D_ohWnsvr2D5PdgwyALVhusWklBfANT5pEA00Jqj52zTmumq&collection=journals> <https://cdn.discordapp.com/attachments/742557921849901077/1077812523845300265/taubner1992.pdf> 
 Gay 2012: <https://www.worldcat.org/title/729344406> <https://archive.org/details/americandissiden0000unse> <https://www.google.com/books/edition/American_Dissidents/ZzQVpPvlVMcC?hl=en&gbpv=0> American dissidents: an encyclopedia of activists, subversives, and prisoners of conscience [only volume 2 K-Z available]
 Meyer 2008: <https://www.worldcat.org/title/244068139> <http://library.lol/main/EEF78539D408C0ED7450548C2D6A3651> <https://cdn.discordapp.com/attachments/742557921849901077/1077797635131441152/meyer2008.pdf>
