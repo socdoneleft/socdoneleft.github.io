@@ -1778,13 +1778,6 @@ Caulk report 1983: 78% of Portland homeless reported wanting to leave the street
 #####c
 
 #####
-# california: undersupply
-#####
-# causes of undersupply
-california's housing crisis is almost entirely due to insufficient building of new houses by the coastal cities: <https://lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.aspx> https://cdn.discordapp.com/attachments/418850379518705675/571385989097062400/unknown.png
-#####c
-
-#####
 # suburbs bad
 #####o
 # increased obesity
