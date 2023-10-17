@@ -9861,8 +9861,17 @@ riot severity from 1960-70 significantly reduced black property values from 1960
 #####c
 
 #####
+# demobilization: how social movements die
+#####
+Davenport 2015: defines a "Social Movement Organization" (SMO) and explains how they die (are "demobilized); offers three external methods ("killing from the outside": "resource depletion", "problem depletion", "state repression") and five internal methods ("killing from the inside": "burnout", "factionalization / polarization", "lost commitment", "membership loss", "rigidity"): <https://worldcat.org/title/900011702> <https://library.lol/main/20F325D19877655DC68BE896EAC53C9A> <https://cdn.discordapp.com/attachments/742557921849901077/1163810537365319741/Davenport2015.pdf> How Social Movements Die: Repression and Demobilization of the Republic of New Africa
+Scott 2016: summarizes Davenport's model: <https://via.library.depaul.edu/etd/220/> <https://via.library.depaul.edu/cgi/viewcontent.cgi?article=1211&context=etd> <https://cdn.discordapp.com/attachments/742557921849901077/1163811665582772255/Scott2016.pdf?ex=6540ef13&is=652e7a13&hm=1c9440c1e9ae121ac564dec6b79d1b8ef339227ce99b50c742cf5114d0e53fae&> """Davenport identifies five internal challenges that movements might face: burnout, factionalization, lost commitment, membership loss, and rigidity. Burnout refers to dissidents becoming tired of the stresses of being involved in a movement causing disengagement. Factionalization occurs when differences in opinion arise either ideologically or tactically causing a schism in the group. If suffering from lost commitment a social movement organization (SMO) participant loses their emotional attachment to the movement in question. Membership loss refers to the mechanical functioning of an SMO and the amount of people it will take to accomplish the goals of the organization. Finally, if a movement places too much power into the hands of only a few inflexible leaders the organization may not be able to react to change. This is referred to as rigidity.26 Davenport also identifies three ways that SMOs are challenged from the outside: resource deprivation, problem depletion, and state repression. SMOs need resources to thrive (or survive), but these resources often come from external sources. If these sources are cut off or become suddenly unsympathetic to the cause, resource deprivation is likely to occur. Problem depletion occurs when constituents perceive an improvement in the situation that the SMO is challenging. In this situation a government (or other institution) may make reforms (whether real or perceived) that are perceived to be a positive change. Finally, state"""
+
+#####
 # on socialism and fun
 #####o
+# summary
+SocDoneLeft 2023: it has never been possible to get workers to read theory en masse: <https://socdoneleft.substack.com/p/nobody-wants-to-read-theory-why-socialism> Nobody Wants To Read Theory: Why Socialism Must Be Fun
+
 # various lefties in support of the utility/importance of fun
 Goldman 1931: often wrongly quoted as "If I can't dance, it's not my revolution!" or "A revolution without dancing is not a revolution worth having": <https://en.wikiquote.org/wiki/Emma_Goldman> """At the dances I was one of the most untiring and gayest. One evening a cousin of Sasha, a young boy, took me aside. With a grave face, as if he were about to announce the death of a dear comrade, he whispered to me that it did not behoove an agitator to dance. Certainly not with such reckless abandon, anyway. It was undignified for one who was on the way to become a force in the anarchist movement. My frivolity would only hurt the Cause. I grew furious at the impudent interference of the boy. I told him to mind his own business. I was tired of having the Cause constantly thrown into my face. I did not believe that a Cause which stood for a beautiful ideal, for anarchism, for release and freedom from convention and prejudice, should demand the denial of life and joy. I insisted that our Cause could not expect me to become a nun and that the movement would not be turned into a cloister. If it meant that, I did not want it. "I want freedom, the right to self-expression, everybody's right to beautiful, radiant things." Anarchism meant that to me, and I would live it in spite of the whole world — prisons, persecution, everything. Yes, even in spite of the condemnation of my own closest comrades I would live my beautiful ideal."""
 Michael Moore in 2007: <http://www.pnhp.org/news/2007/may/moore_in_the_er.php> <https://www.worldcat.org/title/729344406> <https://archive.org/details/americandissiden0000unse> <https://www.google.com/books/edition/American_Dissidents/ZzQVpPvlVMcC?hl=en&gbpv=0> https://cdn.discordapp.com/attachments/742557921849901077/1078191446722613298/FpoEn2FWIAE4i1W.png """In a Time magazine interview, Moore was asked: "How do you entertain people at the same time you're trying to get them to think about hard things?" Moore responded: "When I'm shooting a movie, I'm always in an invisible theater seat. I respect the fact that people have worked hard all week and want to go to the movies on the weekend and be entertained. But the struggle for me does not come between politics and enter- tainment, because I know that if I succeed in making an entertaining and funny or sad film, that the things I want to say politically will come through very strong. If there ever is a struggle, making a good movie will always supersede the need to be noble" (Kluger 2007)."""
@@ -11113,24 +11122,12 @@ Marx 1850: meme quote: <https://www.marxists.org/archive/marx/works/1847/communi
 
 #####
 #
-# dsa: 2023 convention
-#
-#####o
-Gregory Flores 2015: Socialist Party membership over time: <https://depts.washington.edu/moves/SP_map-members.shtml>
-Gregory 2015: Communtist Party membership over time: <https://depts.washington.edu/moves/CP_map-members.shtml>
-Estrada Gregory 2015: NAACP membership over time: <https://depts.washington.edu/moves/NAACP_map-basic.shtml>
-Estrada 2015: LULAC membership over time: <https://depts.washington.edu/moves/LULAC_map.shtml>
-Sale 1973: membership over time: <https://www.sds-1960s.org/books/sds.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1082878296640978954/image.png title: "SDS"
-#####c
-
-#####
-#
 # jews: the international jewish conspiracy
 #
 #####o
 
 #####
-# slave ownership
+# slave ownership was not dominated by Jewish people
 #####o
 # memes
 original meme: https://cdn.discordapp.com/attachments/418850379518705675/640989157384126465/739dfcb78fbf47efbd5ea605890e2b781b4a4e16.png
@@ -11142,7 +11139,7 @@ about 1 in 4 Southerner households owned slaves: <https://www.politifact.com/pun
 #####c
 
 #####
-# slave ship ownership
+# slave ship ownership was not dominated by Jewish people
 #####o
 # memes
 original meme: https://cdn.discordapp.com/attachments/418850379518705675/643816612297965568/images.png
@@ -11157,7 +11154,7 @@ Faber 2000: 0 of the primary owners of Liverpool's slave-trading firms in 1752, 
 #####c
 
 #####
-# judeo-bolshevism: general
+# judeo-bolshevism: the Soviet Union was not dominated by Jewish people
 #####o
 # summary
 Jewish people were very overrepresented in some institutions of Soviet power, but only slightly overrepresented in all institutions of Soviet power, especially when Jewish urbanicity and Soviet preference for urban residents is taken into account. Regardless, Jewish people made up a small minority of powerholders, and could not have controlled the Soviet Union. Beyond that, Communist Jews saw themselves as committed Marxists, firmly opposed to Judaism, who did not prioritize their Jewish ethnicity: any claims of a Jewish plots to control the Soviet Union must contend that a small minority of committed communist atheists were actually mere puppets of their spooky scary evil Jewish genetics.
@@ -11384,11 +11381,11 @@ atheists in college: https://blogs.scientificamerican.com/observations/college-f
 ^ https://ideasanddata.wordpress.com/2018/04/24/the-jewish-question-an-empirical-examiniation/ [UNFORMATTED]
 
 # todo unformatted unread
-Foxman 2007: <https://www.google.com/books/edition/The_Deadliest_Lies/E2vgCgAAQBAJ>
-Foxman 2010: <https://www.google.com/books/edition/Jews_and_Money/Py1Luv2U8ecC>
+Foxman 2007: <https://www.google.com/books/edition/The_Deadliest_Lies/E2vgCgAAQBAJ> The Deadliest Lies
+Foxman 2010: <https://www.google.com/books/edition/Jews_and_Money/Py1Luv2U8ecC> Jews and Money
 Feingold 2008: <https://www.taylorfrancis.com/books/mono/10.4324/9780203787984/jewish-power-america-henry-feingold>
-Doherty 2013: <https://www.google.com/books/edition/Hollywood_and_Hitler_1933_1939/maYe2lApDMgC> "The disproportionately Jewish backgrounds of the executives of the studios and the workers"
-Enikolopov and Petrova 2015: <https://www.sciencedirect.com/science/article/abs/pii/B9780444636850000176>
+Doherty 2013: <https://www.google.com/books/edition/Hollywood_and_Hitler_1933_1939/maYe2lApDMgC> The disproportionately Jewish backgrounds of the executives of the studios and the workers
+Enikolopov and Petrova 2015: <https://www.sciencedirect.com/science/article/abs/pii/B9780444636850000176> Chapter 17 - Media Capture: Empirical Evidence
 #####c
 #####c
 
