@@ -5717,17 +5717,20 @@ anxiety disorder rates, university degree rates, welfare dependence, income, arr
 #
 #
 #####o
+
 #####
 #
 # United Nations
 #
 #####o
+
 ######
 # effectiveness of peacekeeping
 #####o
 Fortna 2004: peacekeeping is correlated with a 70% lower (0.3x) risk of civil war continuing; UN peacekeeping is correlated with a 50% lower (0.5x) risk of civil war continuing: <https://www.jstor.org/stable/3693574> <https://academic.oup.com/isq/article/48/2/269/1888752> <https://sci-hub.ru/10.2307/3693574> <https://sci-hub.ru/10.1111/j.0020-8833.2004.00301.x> <https://cdn.discordapp.com/attachments/742557921849901077/1144576897343307797/fortna2004.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1144577997450526820/image.png https://cdn.discordapp.com/attachments/742557921849901077/1144578392130343002/image.png """As expected, things change with the end of the Cold War. After 1989, the positive effect of peacekeeping on peace is much stronger (Table 7). Ceteris paribus, when the international community deploys peacekeepers the risk of another round of fighting drops by almost 70% (from 1.00 to 0.32). It is statistically unlikely (less than 5% chance) that we would see such a large effect if no true relationship between peacekeeping and peace existed. The size of the effect is a bit smaller for UN peacekeeping, which reduces the hazard of war by about half. Non-UN missions appear to have a larger effect (smaller hazard ratio) than UN missions, but because of the smaller number of such missions, our estimates are less precise."""
 ^ graphical representation of study results: <https://youtu.be/bIAF7kBbGKk?t=570>
 #####c
+
 ######
 # democratizing the United Nations
 #####c
