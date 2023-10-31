@@ -2308,6 +2308,16 @@ establish regulatory bodies with the purpose of creating high-quality evidence a
 #####o
 
 #####
+# school vouchers
+#####o
+# effectiveness on performance
+Shakeel Anderson Wolf 2021: meta-study of randomized controlled trials of school vouchers: effects on performance: close to null effect, on average, with possible publication bias (though the Eggerton bias statistic was not significant): <https://www.tandfonline.com/doi/abs/10.1080/09243453.2021.1906283> <https://sci-hub.ru/10.1080/09243453.2021.1906283> <https://cdn.discordapp.com/attachments/742557921849901077/1168707456776536094/shakeel2021.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1168709984553541732/image.png https://cdn.discordapp.com/attachments/742557921849901077/1168709916039594055/image.png
+
+# effectiveness on cost
+Shakeel Anderson Wolf 2021: compares the cost of vouchers against public schools -- but note that the comparison here is between tuition and total student costs (and that poor students are several times less common in private schools, and that poor students are 1-3x more expensive per person): <https://www.tandfonline.com/doi/abs/10.1080/09243453.2021.1906283> <https://sci-hub.ru/10.1080/09243453.2021.1906283> <https://cdn.discordapp.com/attachments/742557921849901077/1168707456776536094/shakeel2021.pdf> """Studies find that vouchers are cost effective, since they tend to generate achievement outcomes as good as or better than traditional public schools at a lower cost (Muralidharan & Sundararaman, 2015; Wolf & McShane, 2013). Null voucher impacts obtained at a lower cost than public schooling may benefit society. The average per-pupil spending in the public school systems in our meta-analysis was higher than the voucher amounts.13 Where the voucher covered the full cost of private school tuition, average school funding in the private versus the public sectors in the same geographic location where the voucher program was implemented was $255 versus $636 for Andhra Pradesh, India; $483 versus $1,963 for Delhi, India; $4,817 versus $11,846 for Milwaukee, WI; $5,456 versus $10,853 for Louisiana; $7,761 versus $21,081 for Washington, DC OSP I; and $12,306 versus $20,577 for Washington, DC OSP II.14 The partial programs in Charlotte, NC; Dayton and Toledo, OH; NYC; Washington, DC; and Bogota, Colombia cost less than half of the per-pupil expenditures in the neighborhood public schools; however, private funds supplemented them. Across the US, in constant 2018–2019 dollars, the per-pupil spending in public schools averaged $14,241 in 2011–2012 while average private school tuition rates were $7,670 in Catholic schools and $9,670 in non-Catholic religious schools (National Center for Education Statistics, 2019a, 2019b).15"""
+#####c
+
+#####
 # public schools outperform private schools
 #####o
 # scope
