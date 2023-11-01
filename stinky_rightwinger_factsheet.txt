@@ -8217,6 +8217,41 @@ HRW 2021: <https://www.hrw.org/report/2021/04/27/threshold-crossed/israeli-autho
 B'Tselem: between 1 January 2000 and 30 September 2021, Israeli defense forces killed 10,287 Palestinians -- about ~460 per year or ~1.3 per day: <https://statistics.btselem.org/en/intro/fatalities> <https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?section=overall&tab=charts> https://cdn.discordapp.com/attachments/742557921849901077/1043010143702499428/image.png
 United Nations (UN) Office for the Coordination of Humanitarian Affairs (OCHA): between 2000 and 2022, COULD NOT LOAD Palestinians died from conflict-related casualties: <https://www.ochaopt.org/data/casualties>
 #####c
+
+#####
+# october 7 and the israeli ethnic cleansing of palestine
+#####o
+# deaths in detail
+<https://web.archive.org/web/20231027142503/https://www.moh.gov.ps/portal/wp-content/uploads/2023/10/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-1.pdf>
+
+# bigoted statements from leading israeli politicians
+Netanyahu: <https://twitter.com/MhmtSlmz/status/1718363357265183101> """Netanyahu: "You must remember what Amalek has done to you, says our Holy Bible" 1 Samuel 15:3 "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass"."""
+
+# bigoted statements from leading israeli pundits
+
+# genocidal statements from israeli think tanks: misgav
+Misgav Institute 2023: [posted publicly] A plan for resettlement and final rehabilitation in Egypt of the entire population of Gaza: economic aspects: <http://web.archive.org/web/20231021010155/https://twitter.com/MisgavINS/status/1714183691574948036> <http://web.archive.org/web/20231022202326/https://drive.google.com/file/d/1e8ytZWVQyt1XncFPeDT9n1RoD_mZJRUk/view?usp=sharing> <https://mondoweiss.net/wp-content/uploads/2023/10/misgav-institute-ethnic-cleansing-report.pdf>
+^ context on Misgav: <https://mondoweiss.net/2023/10/israeli-think-tank-lays-out-a-blueprint-for-the-complete-ethnic-cleansing-of-gaza/> """The Misgav Institute is headed by former Netanyahu National Security Advisor Meir Ben Shabbat, who remains influential in Israeli security circles. The Institute’s former chairpersons and founding associates include Yoaz Hendel (chair 2012-19), a right-centrist who was Minister of Communications intermittently in the years 2020-22; Moshe Yaalon, former Defense Minister (note that both Hendel and Yaalon have become opposed to Netanyahu in the recent years); Moshe Arens, also former Defense Minister — and other top political personas."""
+^ English translation: <https://docs.google.com/document/d/1a-u12bAAv9i8Ipk1hTln-t0L13_v-eVAURmxVxYS8C8/edit>
+^ alternate English translation: <https://www.italynews.it/notizie-estero/2023/10/31/the-israeli-plan-for-the-resettlement-and-definitive-rehabilitation-in-egypt-of-the-entire-population-of-gaza-110555-110555.html>
+
+# genocidal statements from israeli think tanks: 
+Israeli Ministry of Intelligence, which is a quasi-non-governmental organization, had documents leaked by Mekomit [Local Call]: <https://www.mekomit.co.il/%d7%94%d7%9e%d7%a1%d7%9e%d7%9a-%d7%94%d7%9e%d7%9c%d7%90-%d7%a9%d7%9c-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%9e%d7%95%d7%93%d7%99%d7%a2%d7%99%d7%9f-%d7%9b%d7%99%d7%91%d7%95%d7%a9-%d7%a2%d7%96%d7%94-%d7%95/> 
+^ +972 Magazine Abraham 2023: document confirmed as authentic: <https://www.972mag.com/intelligence-ministry-gaza-population-transfer/> """The 10-page document, dated Oct. 13, 2023, bears the logo of the Intelligence Ministry — a small governmental body that produces policy research and shares its proposals with intelligence agencies, the army, and other ministries. It assesses three options regarding the future of the Palestinians in the Gaza Strip in the framework of the current war, and recommends a full population transfer as its preferred course of action. It also calls on Israel to enlist the international community in support of this endeavor. The document, whose authenticity was confirmed by the ministry, has been translated into English in full here on +972."""
+
+# foreign evaluations of genocide
+New Republic Houghtaling 2023: Director of the UN Office of the United Nations High Commissioner for Human Rights resigns, citing a "text book case of genocide": <https://newrepublic.com/post/176538/top-un-official-resigns-citing-genocide-gaza> <http://web.archive.org/web/20231031215457/https://newrepublic.com/post/176538/top-un-official-resigns-citing-genocide-gaza> """[T]he current wholesale slaughter of the Palestinian people, rooted in an ethno-nationalist colonial settler ideology, in continuation of decades of their systematic persecution and purging, based entirely upon their status as Arabs … leaves no room for doubt."""
+
+# war crimes
+Reporters Without Borders concludes that Reuters photographer Issam Abdallah and other journalists were deliberately targeted by the Israeli military while reporting in southern Lebanon: <https://rsf.org/en/rsf-video-investigation-death-reuters-reporter-issam-abdallah-lebanon-journalists-vehicle-was> <https://www.youtube.com/watch?v=hmcPUzR9KE8>
+CNN 2023: refugee camp strike Jabalya refugee camp: <https://www.cnn.com/2023/10/31/middleeast/jabalya-blast-gaza-intl/index.html>
+
+# prior examples of US achieving restraint or condemning violence
+New York Times Stout 2002: <https://www.nytimes.com/2002/07/23/international/white-house-rebukes-israel-for-attack-calls-it-heavyhanded.html> White House Rebukes Israel for Attack, Calls It 'Heavy-Handed' """WASHINGTON, July 23 &#0151; President Bush issued one of his sharpest rebukes against Israel today, denouncing as "heavy-handed" the attack that killed a Hamas leader and expressing regret over "the loss of innocent life." "This heavy-handed action does not contribute to peace," said the president's chief spokesman, Ari Fleischer. "This message will be conveyed to Israeli authorities, and the United States regrets the loss of life." At least 14 other people, including several children, were killed in the missile attack that killed Salah Shehadeh, a founder and the top commander of Hamas's military wing. Scores of others were wounded."""
+Reuters 2022: Secretary Blinken: <https://news.yahoo.com/putins-brutalization-ukraines-people-barbaric-154644360.html> Putin's 'brutalization of Ukraine's people is barbaric' -Blinken """Heat, water, electricity -- these are President Putin's new targets. He's hitting them hard. This brutalization of Ukraine's people is barbaric"""
+^ speech: Secretary Blinken: <https://twitter.com/StateDept/status/1598021544378306581> 
+Cannon 2014: on Reagan : <https://www.google.com/books/edition/The_Reagan_Paradox/vOLqBQAAQBAJ?hl=en&gbpv=1&dq=%22saying+he+had+ordered+sharon+to+halt%22&pg=PT33&printsec=frontcover> https://cdn.discordapp.com/attachments/742557921849901077/1169135429396725851/F9nwmFuWcAA3bei.png The Reagan Paradox The Conservative Icon and Today's GOP
+#####c
 #####c
 
 #####
