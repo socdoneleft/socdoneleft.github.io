@@ -52,8 +52,8 @@
 # random crap I need
 #####
 # discord pdf argument remover
-<([^>]*)discord([^>]*)\.pdf\?[^>]*>
-<$1discord$2.pdf>
+([^ ]*)discord([^ ]*)\.((?:pdf)|(?:png))\?[^ ]
+$1discord$2.$3
 #####
 
 #####
