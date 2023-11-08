@@ -52,7 +52,7 @@
 # random crap I need
 #####
 # discord pdf argument remover
-([^ ]*)discord([^ ]*)\.((?:pdf)|(?:png))\?[^ ]
+([^ \n]*)discord([^ \n]*)\.((?:pdf)|(?:png))\?[^ \n]+
 $1discord$2.$3
 #####
 
@@ -10677,7 +10677,7 @@ fifteen percent of Ghanian immigrants come from Europe: <https://africasacountry
 a consensus study by the National Academies finds that immigration to the US increases economic growth and doesn't reduce wages: <https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration>
 
 # employment and wages: meta-analysis
-Longhi 2010: a meta-analysis of seven immigration studies finds almost no effect on native wages or native employment: <https://link.springer.com/article/10.1007/s10109-010-0111-y> <http://sci-hub.ru/10.1007/s10109-010-0111-y> https://cdn.discordapp.com/attachments/418850379518705675/495039000365760525/unknown.png We find small wage and employment impacts, even smaller than have been detected in previous metaanalytic research. A 1% point increase in the share of immigrants in a local labour market of the typical host country decreases wages of the native born by 0.029% (using a weighted average with weights determined by the precision of the estimates) and decreases employment of the native born by 0.011%.
+Longhi Nijkamp Poot 2010: a meta-analysis of seven immigration studies finds that almost no effect on native wages or native employment; a 10pp increase of the immigrant share of a labor market yields a decrease of wages by 0.2%: <https://link.springer.com/article/10.1007/s10109-010-0111-y> <http://sci-hub.ru/10.1007/s10109-010-0111-y> https://cdn.discordapp.com/attachments/418850379518705675/495039000365760525/unknown.png We find small wage and employment impacts, even smaller than have been detected in previous metaanalytic research. A 1% point increase in the share of immigrants in a local labour market of the typical host country decreases wages of the native born by 0.029% (using a weighted average with weights determined by the precision of the estimates) and decreases employment of the native born by 0.011%.
 three other meta-studies in here: "Survey papers" <https://noahpinion.substack.com/p/why-immigration-doesnt-reduce-wages> xxx todo
 
 # employment and wages: single studies
