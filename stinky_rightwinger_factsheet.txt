@@ -8267,6 +8267,12 @@ PIS supported thousands of far-right marchers with racist slogans under falangis
 #####o
 
 #####
+# polling on solutions
+#####o
+PCPSR 2018: among Palestinians in the West Bank and Gaza, 43% supported a 2-state solution, 9% a 1-state binational solution, 9% a 1-state apartheid (of Jews) solution, 17% the expulsion of Jews; among Israelis (both Jewish and Arab), 43% supported a 2-state solution, 19% a 1-state binational solution, 15% a 1-state apartheid (of Arabs) solution, 8% an expulsion (of Palestinians) solution: <https://www.pcpsr.org/en/node/731> <https://www.pcpsr.org/sites/default/files/Table%20of%20Findings_English%20Joint%20Poll%205%20June%202018.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1172299424395956264/image.png
+#####c
+
+#####
 # israel polling: common reactionary beliefs
 #####o
 # preferential treatment for Jewish people: overwhelming support
