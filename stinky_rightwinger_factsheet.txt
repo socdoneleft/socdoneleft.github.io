@@ -6874,9 +6874,20 @@ Wheatcroft 2021: TODO XXX: <https://www.tandfonline.com/doi/abs/10.1080/14623528
 #####
 # negative outcomes: molotov-ribbentrop pact
 #####o
-# historical context: mutual defense treaty
-the USSR had signed a mutual defense treaty with France; instead, in 1938, France supported the Munich agreement: <https://en.wikipedia.org/wiki/Franco-Soviet_Treaty_of_Mutual_Assistance> <https://en.wikipedia.org/wiki/Czechoslovakia%E2%80%93Soviet_Union_relations> <http://www.forost.ungarisches-institut.de/pdf/19350516-1.pdf> <https://en.wikipedia.org/wiki/Munich_Agreement>
+# historical context: mutual defense treaty attempts with France
+May 1935: the Soviet Union signed a mutual defense treaty with France; this treaty was overcomplicated and hollow, and would be effectively dead by 1936: <https://en.wikipedia.org/wiki/Franco-Soviet_Treaty_of_Mutual_Assistance>
+October 1935: Italy invaded Ethiopia without any effective League of Nations response: <https://en.wikipedia.org/wiki/Abyssinia_Crisis> <https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War>
+September 1938: France and Britain supported the Munich agreement, which dismembered Czechoslovakia: <https://en.wikipedia.org/wiki/Munich_Agreement>
+
+# treaty text
+Czechoslovak-Soviet mutual assistance treaty: <http://www.forost.ungarisches-institut.de/pdf/19350516-1.pdf> TREATY OF MUTUAL ASSISTANCE BETWEEN THE CZECHOSLOVAK REPUBLIC AND THE UNION OF SOVIET SOCIALIST REPUBLICS. SIGNED AT PRAGUE, MAY 16TH, 1935
+^ context: <https://en.wikipedia.org/wiki/Czechoslovakia%E2%80%93Soviet_Union_relations>
+
+# historical context: mutual defense treaty attempts with France & Britain
 between April and August 1939, the USSR attempted to establish tripartite mutual defense treaty with Britain and France. Suspicion of socialism and belief that war could be avoided prevented the West from taking the talks seriously; in addition, Poland refused to allow Soviet troops through its territory. After a long failure of the talks, the USSR pursued a non-aggresion treaty with Germany: <https://en.wikipedia.org/wiki/Anglo-Polish_military_alliance#Franco-British_failed_alliance_with_Moscow> <https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact> <https://www.tandfonline.com/doi/abs/10.1080/09668139308412091> <https://www.tandfonline.com/doi/abs/10.1080/713663077>
+
+# effects on socialist organizing in the United States
+
 #####c
 
 #####
