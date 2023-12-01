@@ -7755,6 +7755,61 @@ article discussing weaknesses of lgbt rights in Rojava: <https://rojavareport.wo
 
 #####
 #
+# afghanistan war of 2001-2023
+#
+#####o
+
+#####
+# human rights under taliban
+#####o
+UNAMA 2022: summary executions of ethnic and religious minorities continued under the Taliban, alongside the massive and total reduction of human rights of women: <https://reliefweb.int/report/afghanistan/human-rights-afghanistan-15-august-2021-15-june-2022-endarips>
+#####c
+
+#####
+# civilian death
+#####o
+# Brown University Cost of War
+Crawford 2016: graph of civilians killed, by perpetrator, from 2001 to 2015; of known deaths, 17120 (77.8%) killed by anti-government forces (mostly Taliban), 4887 (22.2%) killed by pro-government forces (mostly US): <https://watson.brown.edu/costsofwar/files/cow/imce/papers/2016/War%20in%20Afghanistan%20and%20Pakistan%20UPDATE_FINAL_corrected%20date.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1179928428342947910/image.png Update on the Human Costs of War for Afghanistan and Pakistan, 2001 to mid-2016
+
+# un reports
+UNAMA 2021: graph of civilian injuries and fatalities (casualties) from 2009 to 2021; graph indicating perpetrator of killings in 2021; 25% of killings were by pro-government forces, 39% by Taliban, 9% by ISIS, and 16% by unidentified anti-government forces: <https://reliefweb.int/report/afghanistan/afghanistan-protection-civilians-armed-conflict-midyear-update-1-january-30-june>  https://cdn.discordapp.com/attachments/742557921849901077/1179930250046623814/image.png https://cdn.discordapp.com/attachments/742557921849901077/1179930938709397535/image.png Afghanistan Protection of Civilians in Armed Conflict Midyear Update: 1 January to 30 June 2021
+UN index: <https://reliefweb.int/updates?advanced-search=%28S1442%29&search=Afghanistan+Protection+of+Civilians+in+Armed+Conflict>
+#####c
+
+#####
+# surveys of afghans
+#####o
+# list of surveys from the asia foundation
+The Asia Foundation 2015: <https://reliefweb.int/report/afghanistan/afghanistan-2015-survey-afghan-people> Afghanistan in 2015: A Survey of the Afghan People
+The Asia Foundation 2016: <https://reliefweb.int/report/afghanistan/afghanistan-2016-survey-afghan-people> Afghanistan in 2016: A Survey of the Afghan People
+The Asia Foundation 2017: <https://reliefweb.int/report/afghanistan/afghanistan-2017-survey-afghan-people> Afghanistan in 2017: A Survey of the Afghan People
+The Asia Foundation 2018: <https://reliefweb.int/report/afghanistan/survey-afghan-people-afghanistan-2018> Afghanistan in 2018: A Survey of the Afghan People
+The Asia Foundation 2019: <https://reliefweb.int/report/afghanistan/survey-afghan-people-afghanistan-2019> <https://cdn.discordapp.com/attachments/742557921849901077/1179913903266877480/2019_Afghan_Survey_Full-Report.pdf> Afghanistan in 2019: A Survey of the Afghan People
+The Asia Foundation 2020: <https://web.archive.org/web/20201130050320/https://asiafoundation.org/publication/afghanistan-flash-surveys-on-perceptions-of-peace-covid-19-and-the-economy-wave-1-findings/> <https://web.archive.org/web/20210413230932/https://asiafoundation.org/wp-content/uploads/2020/11/Afghanistan-Flash-Survey-Wave-1_fullreport.pdf> AFGHANISTAN FLASH SURVEYS ON PERCEPTIONS OF PEACE, COVID–19, AND THE ECONOMY: WAVE 1 FINDINGS
+^ no details on withdrawal or sympathies
+2020 and 2021 survey not public yet: <https://asiafoundation.org/where-we-work/afghanistan/survey/>
+2004-2014 compiled here: <https://dataverse.ada.edu.au/dataset.xhtml?persistentId=doi:10.26193/VDDO0X>
+^ note: The Asia Foundation was funded by the CIA from at least 1951 to 1966 and remains overtly funded by the United States government: <https://en.wikipedia.org/wiki/The_Asia_Foundation#History>
+
+# surveys from iwps
+IWPS 2020: among Afghans, 46% say the US and NATO should withdraw after a peace deal, 21% say it should partially withdraw, and 33% say it should not withdraw: <https://web.archive.org/web/20201211174045/https://iwps.org.af//wp-content/uploads/2020/07/Afghan-People-Peace-Perception-Survey.pdf> <https://web.archive.org/web/20210703080049/https://iwps.org.af/wp-content/uploads/2021/04/Afghan-People-Peace-Perception-Survey.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1179916596559499394/image.png The Afghan People's Peace Perception Survey 2020
+
+# surveys from acsor
+note: ACSOR conducted 
+ACSOR 2015: most Afghans blame the Taliban for violence, not the United States: <https://acsor-surveys.com/wp-content/uploads/2015/01/Afghan-Futures-Wave-6-Analysis_FINAL-v2.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1179917744523714620/image.png """Despite the country’s travails, eight in 10 say it was a good thing for the United States to oust the Taliban in 2001. And many more blame either the Taliban or al Qaeda for the country’s violence, 53 percent, than blame the United States, 12 percent. The latter is about half what it was in 2012, coinciding with a sharp reduction in the U.S. deployment. [....] The Taliban are vastly unpopular; just 4 percent prefer the group to the current government. Yet tolerance, while still comparatively slight, has risen; 21 percent now say they support the presence of Taliban fighters in Afghanistan, double the number who said so in 2010. And still more, 31 percent, say they support the presence of foreign jihadi fighters, up by 14 points in the same time period. [....] Also comparing to 2010, perceived security from the Taliban and other armed groups is up by 15 points; while the reasons aren’t entirely clear, this may reflect a changed dynamic as ISAF forces have withdrawn and the Taliban have consolidated their hold on some areas. Indeed, reported security from the Taliban has increased especially sharply in some of the areas where they’ve gained greater control, the East and South Central regions. Those results compare with a much broader 77 percent support for the presence of U.S. forces in Afghanistan, also up from 2010, by 15 points. Taken together, the trend lines indicate that, perhaps understandably, some Afghans’ priority may not be whose flag flies over their village, but the extent of security they feel."""
+^ ACSOR has received funding from USAID, The Asia Foundation [CIA ties], and the AAPOR <https://en.wikipedia.org/wiki/Afghan_Center_for_Socio-economic_and_Opinion_Research>
+
+# surveys from gallup
+On wellbeing: <https://news.gallup.com/opinion/gallup/406121/afghans-sink-deeper-despair-taliban-control.aspx>
+On war: <https://news.gallup.com/opinion/gallup/353888/taliban-takeover-likely-no-surprise-afghans.aspx>
+
+# support for US involvement: middling
+The Asia Foundation 2019: 77-86% of Afghans think the ANA (Afghan National Army) needs foreign support; 73-84% think the ANP (Afghan National Police) needs foreign support: <https://reliefweb.int/report/afghanistan/survey-afghan-people-afghanistan-2019> <https://cdn.discordapp.com/attachments/742557921849901077/1179913903266877480/2019_Afghan_Survey_Full-Report.pdf> https://cdn.discordapp.com/attachments/742557921849901077/1179913837697323008/image.png Afghanistan in 2019: A Survey of the Afghan People """PERCEPTION THAT THE ANA AND ANP NEED FOREIGN SUPPORT 77 78 83 86 86 85 83 75 73 80 82 84 82 81 65% 70% 75% 80% 85% 90% 2013 2014 2015 2016 2017 2018 2019 ANA ANP FIG. 2.7: Q-23. Now, please tell me if you think that the following need foreign support to do their job properly at the moment. Do you strongly agree, somewhat agree, somewhat disagree, or strongly disagree? (a) ANA. (b) ANP. (Percent who somewhat or strongly agree.)"""
+#####c
+#####c
+
+#####
+#
 # iraq wars
 #
 #####o
