@@ -4750,7 +4750,7 @@ lower bound sum: 1/2000+1/2000+1/2000+1/80000+1/100000+1/200000 = 0.15275% = 1 i
 * <https://en.wikipedia.org/wiki/Precocious_puberty>
 * <https://en.wikipedia.org/wiki/Delayed_puberty>
 * <https://en.wikipedia.org/wiki/Fertile_eunuch_syndrome>
-
+ 
 # genetics: non-normal congenital setups
 * <https://en.wikipedia.org/wiki/M%C3%BCllerian_agenesis>
 * <https://en.wikipedia.org/wiki/Cervical_agenesis>
