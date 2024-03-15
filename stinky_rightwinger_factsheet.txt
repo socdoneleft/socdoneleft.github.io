@@ -993,20 +993,6 @@ Victims of Communism 2016: very favorable, somewhat favorable, somewhat unfavora
 #####c
 
 #####
-# political view change over time
-#####o
-# cohort effects
-different generations have different voting patterns (ie, they didn't change very much as they aged): <http://www.people-press.org/2011/11/03/section-1-how-generations-have-changed/> https://cdn.discordapp.com/attachments/418850379518705675/640926774758342667/11-3-11-17.png
-
-# political views don't change over time
-your political views are three times more malleable in your teens than in your midlife: <https://www.nytimes.com/interactive/2014/07/08/upshot/how-the-year-you-were-born-influences-your-politics.html> <http://archive.is/0S3vo> <http://www.stat.columbia.edu/~gelman/research/unpublished/cohort_voting_20140605.pdf> https://cdn.discordapp.com/attachments/418850379518705675/473938047046778880/unknown.png
-political views solidify in your teens: <http://www.pewresearch.org/fact-tank/2014/07/09/the-politics-of-american-generations-how-age-affects-attitudes-and-voting-behavior/> <https://books.google.com/books?id=3a927Jder6IC#v=onepage> On an individual level, of course, many people’s political views evolve over the course of their lives. But academic research indicates not only that generations have distinct political identities, but that most people’s basic outlooks and orientations are set fairly early on in life. As one famous longitudinal study of Bennington College women put it, “through late childhood and early adolescence, attitudes are relatively malleable…with the potential for dramatic change possible in late adolescence or early adulthood. [B]ut greater stability sets in at some early point, and attitudes tend to be increasingly persistent as people age.” [unformatted redo]
-
-# political views change over time
-brits become more conservative as they age, but it's not associated with most significant life events: <https://www.theguardian.com/commentisfree/2015/nov/03/do-we-become-more-conservative-with-age-young-old-politics> <https://www.sciencedirect.com/science/article/pii/S0261379413000875> <https://sci-hub.ru/10.1016/j.electstud.2013.06.007> Ageing makes people more likely to vote Conservative. The question of whether future Conservative support is threatened by generational replacement can therefore be answered with some confidence in the negative. Newer generations are not less Conservative than older generations once ageing effects are controlled for using side information taken from the panel studies. There are nonetheless identifiable political generations. Individuals born in certain years appear more or less Conservative, ignoring trend effects, depending on the prevailing political conditions at the time that they entered the electorate. [....] Given the increasing longevity of the electorate and the increased proportion who are elderly, our findings indicate that over time we should expect to see an increasingly Conservative electorate. [....] The elderly are not Conservative because they are rich, but because they are elderly. [....] While we can rule out some social ageing effects (due to marriage, income changes and so forth), we do not know exactly why people become more supportive of the right as they age. [unformatted redo]
-#####c
-
-#####
 # perceptions of crime
 #####o
 # perceptions
